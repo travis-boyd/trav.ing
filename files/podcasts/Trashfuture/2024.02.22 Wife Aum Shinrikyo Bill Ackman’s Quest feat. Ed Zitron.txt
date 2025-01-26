@@ -1,0 +1,1373 @@
+0.00 16.44 SPEAKER_11  Hello everybody and welcome to this week's bonus TF.
+17.16 19.92 SPEAKER_11  Yes, Milo remembered to do the thing this time.
+20.10 20.46 SPEAKER_11  That's right.
+20.60 22.46 SPEAKER_11  That is my favorite thing that he does.
+22.48 23.98 SPEAKER_11  It's one of the sexy episodes.
+24.24 25.94 SPEAKER_11  I hate it.
+26.66 27.56 SPEAKER_11  I hate it.
+27.56 44.58 SPEAKER_11  But, joining us today for this bonus episode is returning champion Ed Zitron of the Where's Your Ed At sub-stack, which I heartily recommend, which I've looked at from time to time to inspire me on topics for this show, as well as the host of the podcast Better Offline.
+44.70 45.38 SPEAKER_11  Ed, how's it going?
+45.82 47.00 SPEAKER_11  Going well, thank you for having me.
+47.46 48.32 SPEAKER_10  It's our pleasure.
+48.48 53.36 SPEAKER_10  Only we could introduce you as our sometime plagiarism victim, Ed Zitron.
+53.36 60.20 SPEAKER_11  Well, look, no, I ran all of our episodes through a plagiarism detector.
+60.40 62.56 SPEAKER_11  And let me tell you, I was pretty worried.
+63.84 72.68 SPEAKER_11  We have a fun-filled episode for you today where we are revisiting one very old friend whose company has surprisingly gone bust.
+73.00 74.88 SPEAKER_11  A company we talk about in this show going bust.
+74.96 76.02 SPEAKER_11  You could never imagine it.
+76.08 76.80 SPEAKER_11  And yet it's happened.
+76.80 84.18 SPEAKER_03  Yeah, so if you've been following along to the investment advice sections of the podcast, I'm sorry about your portfolio.
+84.46 91.70 SPEAKER_10  The ones which we start with, legally, this is investment advice that we're qualified to give, and investments are a sure thing, and you'll never lose money.
+91.94 94.34 SPEAKER_07  And your backdrop is Harry Enfield's loads of money.
+95.14 98.18 SPEAKER_09  We checked with our accountant before we did it, and he said it was completely fine.
+98.48 99.14 SPEAKER_09  Yeah, that's right.
+99.14 108.34 SPEAKER_11  And then, with a little AI chat, before, I found probably one of the most fun Hindenburg short reports that we're going to go through.
+108.76 109.92 SPEAKER_11  Oh, it's a banger.
+110.36 111.66 SPEAKER_11  I can't stress this enough.
+111.84 112.86 SPEAKER_07  It has everything.
+113.10 114.02 SPEAKER_07  It really is.
+114.18 117.84 SPEAKER_07  When you sent me the episode notes, I was like, did you lie?
+118.32 119.16 SPEAKER_07  Is this a bit?
+119.34 126.96 SPEAKER_07  And I thought what it was was that you were doing bits interspersed into the story, but this is all real.
+127.44 127.68 SPEAKER_11  Yes.
+127.68 128.14 SPEAKER_07  Oh, boy.
+128.14 138.26 SPEAKER_11  This is all a thing that a high finance company did, and it involves digging through a Turkish bazaar, but we're going to get to that later.
+138.64 139.82 SPEAKER_11  High finance.
+139.92 145.46 SPEAKER_11  We're going to end on a reading, an article we've been saving.
+146.08 147.98 SPEAKER_11  A four-hour reading series.
+148.08 148.46 SPEAKER_11  Yes.
+148.82 151.70 SPEAKER_11  With Bill Ackman, friend of the show.
+152.14 155.28 SPEAKER_11  It is going to be great fun.
+155.28 163.46 SPEAKER_11  I mean, revisiting Bill Ackman after he was the SPAC king, and now that he's like the based king of finance, it's so fun.
+163.46 166.46 SPEAKER_11  Anyway, I wanted to start by revisiting an old friend.
+166.86 183.92 SPEAKER_11  Arrival, a company that had tried to create distributed electric bus microfactories throughout the UK to solve issues of social exclusion and inequality via many small bus factories privately owned by a Russian billionaire named Denis Sverdlov, has gone out of business.
+184.14 184.44 SPEAKER_10  What?
+184.70 188.38 SPEAKER_10  I'm going to have to go into my back garden and shut down my bus factory.
+188.64 189.00 SPEAKER_10  Yeah.
+189.00 191.68 SPEAKER_11  You already shut down that pig iron furnace.
+191.88 192.86 SPEAKER_10  Now the bus factory.
+192.86 193.26 SPEAKER_10  Yeah, they're going to be so mad at me.
+193.52 196.34 SPEAKER_10  Denis Sverdlov, though, that name rings a bell.
+196.68 198.72 SPEAKER_10  And because it rang a bell, I looked him up.
+199.06 208.14 SPEAKER_10  And he is the single largest loser of wealth of anyone outside China in recent history.
+208.46 209.22 SPEAKER_10  He's so cool.
+209.22 212.26 SPEAKER_10  He was worth $11.7 billion in 2021.
+212.84 225.28 SPEAKER_10  As of 2022, he was no longer a billionaire, which, man, that's got to feel not good to have to content yourself with only more money than all of us put together will ever see in our entire lives.
+225.68 226.52 SPEAKER_10  I hope he's okay.
+227.16 227.60 SPEAKER_10  Yeah.
+227.82 230.76 SPEAKER_10  You got to check in on your blokes, especially when they stop being billionaires.
+230.90 236.02 SPEAKER_10  He had another dumber thing, too, which was he was going to do the Formula One of self-driving cars.
+236.20 241.90 SPEAKER_10  And that lasted two seasons because it turned out that no one wanted to watch self-driving cars race.
+242.12 246.54 SPEAKER_11  What if Formula One was just the Constructors' championship?
+246.94 247.60 SPEAKER_11  No drivers.
+248.02 248.34 SPEAKER_11  Nothing.
+248.62 254.32 SPEAKER_11  You look at Daniel Ricciardo, that big, funny Australian goofball, and you're like, I hate you, Ricciardo.
+254.48 255.16 SPEAKER_11  Get out of here.
+255.28 256.10 SPEAKER_10  Car only.
+256.30 261.50 SPEAKER_10  I'm doing a kind of like Trump VHS thing where I'm fast forwarding through the bits of Drive to Survive where the drivers are on.
+261.50 269.48 SPEAKER_07  Yeah, I just want a game of football with no players, just the balls playing around.
+269.84 273.76 SPEAKER_10  The little VW cars they use to drive out the balls in the World Cup.
+273.84 276.58 SPEAKER_10  They could just have a couple of those drive at each other.
+276.58 278.80 SPEAKER_07  But I want to focus on the real heroes, the referees.
+279.44 279.84 SPEAKER_03  Yeah.
+280.06 280.54 SPEAKER_03  And VAR.
+281.44 283.32 SPEAKER_03  I mean, now you're just describing Rugby Union.
+284.08 286.60 SPEAKER_03  I was just trying to confirm this.
+286.60 294.44 SPEAKER_03  I feel like Sverdlov the surname, his name is like Dennis Ironall, which I just think is very funny.
+296.28 296.98 SPEAKER_11  Iron Dennis.
+298.96 303.12 SPEAKER_11  So I'm afraid Iron Dennis is a strange company.
+303.60 307.18 SPEAKER_10  The bus, you know, the distributed bus has failed, right?
+307.26 307.46 SPEAKER_10  Yes.
+307.94 314.44 SPEAKER_10  Like they tried to find a new way of building the bus and it turns out that the only way of building a bus is a command economy.
+314.72 314.90 SPEAKER_10  Yeah.
+314.90 315.40 SPEAKER_10  I guess.
+315.80 317.48 SPEAKER_11  Capitalism could never produce a bus.
+318.08 318.84 SPEAKER_11  We found out.
+318.86 320.36 SPEAKER_07  This thing lost $300 million.
+321.32 322.88 SPEAKER_07  How the fuck did it do?
+323.04 326.80 SPEAKER_07  They apparently had half a billion dollars at the end of Q2 2022.
+327.32 328.00 SPEAKER_07  How is this?
+328.64 333.72 SPEAKER_10  You don't become the world's biggest, like, loser of wealth by making good investments.
+334.18 335.68 SPEAKER_07  It takes money to lose money.
+336.66 337.28 SPEAKER_07  That's right.
+337.32 337.86 SPEAKER_03  It does.
+338.04 338.58 SPEAKER_11  It does.
+338.64 339.40 SPEAKER_11  It was very funny.
+339.40 341.24 SPEAKER_11  It went public via a SPAC.
+341.66 342.44 SPEAKER_10  Yeah, of course.
+342.88 344.12 SPEAKER_11  Well, that's always a good sign.
+344.26 344.38 SPEAKER_11  Yeah.
+344.38 351.94 SPEAKER_10  And the pitch for this thing was, like, I'm going to have a little factory at the end of my garden that builds bus wheels, right?
+351.94 352.06 SPEAKER_10  Right.
+352.06 362.12 SPEAKER_10  And I'm going to, like, freely contract on an ANCAP basis with the, like, guy down the street who has a factory in his back garden making, like, bus tires.
+362.44 362.70 SPEAKER_10  Yeah.
+362.76 363.02 SPEAKER_07  Together.
+363.38 364.08 SPEAKER_07  Steve was ill.
+364.16 365.74 SPEAKER_07  He couldn't make the tires this week.
+366.70 369.58 SPEAKER_10  The bus just grinding horribly down the road.
+369.58 370.58 SPEAKER_10  Yeah.
+370.58 377.00 SPEAKER_10  I mean, we're basically, we're getting to a point that this is the kind of capitalist version of the joke about anarchists and insulin.
+377.42 379.46 SPEAKER_10  Of being like, hey, me and my friends need a bus.
+379.54 381.80 SPEAKER_10  Well, me and my friends like to produce buses for fun.
+382.80 383.16 SPEAKER_01  Yeah.
+383.36 389.96 SPEAKER_03  Well, look, it's going to be like a guy now mournfully converting his bus gearbox factory in his shed back into a model railway.
+389.96 390.96 SPEAKER_03  Yeah.
+390.96 391.08 SPEAKER_03  Yeah.
+392.08 393.52 SPEAKER_03  So, anyways, any case.
+393.86 403.82 SPEAKER_11  This was Arrival, the distributed small bus factory that was going to finally turn buses green through the power of competition.
+404.06 406.44 SPEAKER_11  Yeah, very nice font on their logo.
+406.86 408.28 SPEAKER_11  From Arrival to Departure.
+408.42 409.72 SPEAKER_11  Friends we lost this year.
+410.22 415.52 SPEAKER_11  I want to talk next, though, about the newest innovations in artificial intelligence.
+416.40 416.74 SPEAKER_03  That's right.
+416.92 417.56 SPEAKER_11  Is it doing it?
+418.00 419.10 SPEAKER_11  Well, almost.
+419.30 419.56 SPEAKER_11  Okay.
+419.56 419.92 SPEAKER_11  Okay.
+420.30 430.54 SPEAKER_11  Artificial intelligence is now able to, and again, like, as a sort of technical achievement in terms of being able to recall and sort of recall stuff from a database, pretty impressive.
+430.54 442.10 SPEAKER_11  But in terms of, let's say, the promises that are made on the basis of Sora AI, the new text-to-video OpenAI module.
+442.56 446.04 SPEAKER_11  Well, Ed, you've sort of written about this in your most recent newsletter.
+446.68 447.06 SPEAKER_07  Yes.
+447.06 454.34 SPEAKER_07  So, Sora is really interesting because, much like the rest of AI, when you get something get something out of it, you're like, oh, that's really good.
+454.58 456.28 SPEAKER_07  As long as you don't look at it too hard.
+456.60 464.64 SPEAKER_07  As long as you don't look at, say, there's one they post, and OpenAI posted a few, and then a bunch of AI fantasists post.
+464.64 469.92 SPEAKER_07  They gave access to the biggest idiots ever, which is actually a challenge in this industry.
+470.88 470.96 SPEAKER_07  Yeah.
+470.96 475.42 SPEAKER_07  And the outputs look good, but then you'd look in the background and something weird would happen.
+475.52 481.12 SPEAKER_07  Like, there was one with a couple walking down the street, and then you just saw a blob of people meld into something at the end.
+481.22 482.36 SPEAKER_07  There was one where a woman-
+482.36 484.02 SPEAKER_04  But you've never seen that before? Yeah.
+484.02 495.60 SPEAKER_07  I've never seen people walk in places before, but there was one where a woman was walking around a futuristic landscape, and you watched her legs, and they started just shuffling back and forth, and then became one leg, and then split apart again.
+495.84 500.46 SPEAKER_07  There was one with a cat waking up a human, and the human's arm became part of the cover.
+501.06 508.16 SPEAKER_07  And what's great about this is everyone's response on the AI fan side was, well, yeah, yeah, it's got its problems right now, but it'll be perfectly good.
+508.16 516.68 SPEAKER_07  It'll be really good, and it won't have any of these problems, you know, just like ChatGPT doesn't hallucinate anymore, and just like the image generator doesn't.
+516.74 518.66 SPEAKER_07  Oh, shit, none of these things are fixable.
+519.02 520.40 SPEAKER_07  That is the thing I put in my newsletter.
+521.52 522.46 SPEAKER_10  Conceptual problems.
+522.92 528.42 SPEAKER_07  Well, the problems are very much what happens when you create creativity with maths.
+529.00 535.00 SPEAKER_07  When you try and probabilistically say a monkey will now do something, guess what?
+535.00 539.74 SPEAKER_07  The monkey might end up with three arms, because the model's like, oh, fuck, what's a monkey?
+539.96 540.88 SPEAKER_07  It doesn't know any.
+541.02 543.50 SPEAKER_07  That's actually a very important conceptual thing here.
+543.88 544.94 SPEAKER_07  AI knows nothing.
+545.08 547.86 SPEAKER_07  There is no intellect in artificial intelligence.
+548.38 553.44 SPEAKER_07  And as a result, AI doesn't actually know that a monkey has two legs, two arms.
+553.76 560.96 SPEAKER_07  That's why in one of the videos, someone posted it, called Bling Zoo, which also should tell you where they're thinking and how their creativity works.
+560.96 569.10 SPEAKER_07  Because the tiger had four legs, and it had four legs, and the monkey had three arms, and there was weird glitches all around it.
+569.12 570.72 SPEAKER_07  But they're like, well, don't worry, we'll fix this.
+570.84 571.70 SPEAKER_07  Except they can't.
+571.74 573.84 SPEAKER_07  They can't fix it, and it's driving me insane.
+574.46 592.08 SPEAKER_10  Yeah, I mean, like, the thing is, when I covered for you most recently, Ronnie, we talked about how the state of the AI industry, if you want to call it an industry, is waiting for the big step change thing that was going to make it so that we weren't just stuck with chat GPT doing the same bullshit forever.
+592.30 594.18 SPEAKER_10  Well, they're waiting for someone to tell them what a monkey is.
+594.48 596.26 SPEAKER_10  But it can never learn what a monkey is.
+596.74 602.66 SPEAKER_10  The thing that does not know what a monkey is, now in video form, is, I guess, supposed to be that.
+602.74 604.56 SPEAKER_10  That's supposed to be the new big selling point.
+604.64 607.80 SPEAKER_10  This is supposed to be the new, like, generational step change in AI.
+607.80 609.62 SPEAKER_10  And it looks like shit. It's terrible.
+609.76 612.40 SPEAKER_10  It's, like, uncomfortable to watch, even.
+613.06 618.88 SPEAKER_11  What I find sort of so striking about a lot of the videos that it has generated thus far is a few things.
+619.26 631.16 SPEAKER_11  Number one, you're all sleeping on my favorite one, which is a couple are sitting at a beach, a shark emerges from the shallow water to look at them, and then the woman's head spins around like the fucking exorcist and winks at the camera.
+632.10 634.10 SPEAKER_10  It's genuinely, it's so alienating.
+634.26 640.24 SPEAKER_10  Like, we did this interview with The Guardian a few weeks back, mostly on background, where we talked about the term, like, neo-luddite, right?
+640.64 644.20 SPEAKER_10  And we kind of, like, said, well, we don't really identify with that.
+644.40 645.66 SPEAKER_10  That was before this came out.
+645.74 651.52 SPEAKER_10  I now think that you should be doing, like, chemical weapon strikes on server farms.
+651.64 653.56 SPEAKER_10  I think you should find Sam Altman.
+653.94 658.28 SPEAKER_10  You should, like, get in close for a bear hug and then call in, like, an airstrike on your own position.
+658.74 665.30 SPEAKER_07  Like, I think if you're worried about a large amount of heat being near Sam Altman, you just need to give them a minute near a data center.
+665.96 668.24 SPEAKER_07  Like, these things are going to melt down.
+668.70 670.68 SPEAKER_07  This whole thing is unsustainable.
+670.84 673.42 SPEAKER_07  None of these companies, that's what's also crazy about this.
+673.68 676.54 SPEAKER_07  The output is shit in a way that cannot be fixed.
+676.96 682.16 SPEAKER_07  But on top of that, it's also insanely unprofitable and only getting more unprofitable.
+682.46 690.44 SPEAKER_07  Sam Altman's trying to raise five to seven trillion dollars to fix the energy problem of a thing that he created that doesn't do anything.
+690.54 691.26 SPEAKER_07  Ah, Jesus.
+691.52 699.44 SPEAKER_11  Oh, have you seen that Masayoshi-san is also trying to raise $100 billion to also get in the AI game at the level of OpenAI?
+699.74 700.34 SPEAKER_11  That guy rocks.
+700.34 700.62 SPEAKER_11  Awesome.
+700.74 701.16 SPEAKER_11  I love him.
+701.30 702.14 SPEAKER_07  I love him.
+702.24 708.54 SPEAKER_07  He's just, he's like, you need, someone the other day said to me, they were like, yeah, well, I think it's Edward Nguese who said this to me.
+708.54 714.56 SPEAKER_07  He was like, yeah, you know, Masayoshi, he speaks to people, and they're like, I need $3 billion.
+714.82 716.50 SPEAKER_07  And he goes, no, no, no, you need $6 billion.
+716.92 717.80 SPEAKER_07  You need $6 billion.
+718.20 719.30 SPEAKER_07  You don't need $3 billion.
+719.38 720.88 SPEAKER_07  You need a little walking around money.
+721.20 722.30 SPEAKER_07  It's like Ray Smuckles.
+723.06 724.70 SPEAKER_09  Yeah, $3 billion isn't cool.
+724.78 725.96 SPEAKER_09  You know what's, we know what's cool.
+726.32 727.70 SPEAKER_09  I really messed up that line.
+727.86 728.50 SPEAKER_09  No, probably more than $6 billion.
+728.50 730.10 SPEAKER_07  You know what's cool money, billion.
+731.42 733.28 SPEAKER_03  What do you want $3 billion for?
+733.42 735.42 SPEAKER_03  Buying sweets for kids, you fucking nonce.
+735.42 738.72 SPEAKER_03  Get $6 billion and invest it in AI like a real bloke.
+740.12 742.20 SPEAKER_10  Giza Masayoshi-san was very good.
+742.20 745.32 SPEAKER_10  Yeah, I mean, I guess the thing is- Masayoshi, my son.
+745.64 747.54 SPEAKER_03  Yeah, that's good.
+747.74 748.20 SPEAKER_03  That's good.
+748.38 750.36 SPEAKER_10  If you've ever, I refer to this fairly often.
+750.46 754.42 SPEAKER_10  If you've ever seen the video, Can I Beat Halo Before the Rubber Bands Crush My TV?
+755.24 755.64 None  What?
+756.40 756.96 SPEAKER_10  It's genuine.
+757.10 763.94 SPEAKER_10  It's a bunch of strong industrial rubber bands wrapped around a TV, slowly crushing it while a guy plays Halo, trying to see which one dies first, right?
+763.94 774.02 SPEAKER_10  The point of this was, is there enough stupid money left in the world to continue sucking it up to the point where it invents something plausible?
+774.56 774.84 SPEAKER_10  You know?
+775.26 776.34 SPEAKER_11  So that's one thing.
+776.76 797.48 SPEAKER_11  The second one was that most of the output of Sora that was being, let's say, showcased by OpenAI, you put the same prompts into MidJourney, you get basically the same images, which means really there's an argument to be made that mostly what has happened is a bunch of images, a bunch of things have been put into a database, and now just those are the things.
+797.92 810.06 SPEAKER_10  Yeah, they stole everything, but the computers are too good at sorting stuff and not good enough at recognizing stuff, and so it's just sort of averaged it all out perfectly, flatly, so this is now the style that exists.
+810.20 822.10 SPEAKER_10  Also, it can't do anything other than weird, long, like, panning shots in video, and it's just, it's really uncomfortable and generic and self-referential.
+822.10 827.56 SPEAKER_11  I would argue that the mouths are the most normal-looking anyone's mouths have ever been.
+827.58 828.36 SPEAKER_11  That's how mine moves.
+828.84 837.26 SPEAKER_11  When I'm waking up in the morning and flipping over in my bed and my arm turns into a part piece of the duvet, I always bare my teeth like a terrified chimpanzee.
+838.28 840.62 SPEAKER_11  Yeah, well, because you know what a monkey looks like.
+840.62 851.50 SPEAKER_10  But, like, people have been getting very excited about this because they've been saying, like, okay, yeah, it's very referential, and yeah, it sort of, like, only recombines things in predictable ways, but that's cool, though, because...
+851.50 852.96 SPEAKER_10  Enough about the Trash Future podcast.
+853.60 859.26 SPEAKER_10  Exactly, because you can make it write more episodes of your favourite TV show or your favourite podcast.
+859.90 865.04 SPEAKER_10  You can apply it to, like, an NBA game and have them all be dressed as, like, Spartans or something.
+865.24 866.98 SPEAKER_07  That literally is a product being offered...
+866.98 869.66 SPEAKER_07  You can have SpongeBob and Travis Kelsey in knockos.
+869.78 869.96 SPEAKER_07  Yeah.
+870.88 871.98 SPEAKER_00  What you working on there, Brian?
+872.42 874.52 SPEAKER_00  Trying to, um, trying to draw a monkey again?
+875.02 875.20 SPEAKER_11  Yeah.
+875.64 877.02 SPEAKER_00  Don't know what a monkey looks like, Brian?
+877.52 879.90 SPEAKER_11  Don't use AI to create...
+879.90 882.00 SPEAKER_11  to make the stewie that Milo is doing.
+882.46 883.52 SPEAKER_11  I know, this is because...
+883.52 885.32 SPEAKER_11  A venture capitalist, of course.
+885.34 887.14 SPEAKER_07  Trying to draw a chimpanzee, and I tried to do a duvet.
+887.54 891.98 SPEAKER_07  I do want to say something about that whole, like, oh, we're going to type a prompt in...
+891.98 897.52 SPEAKER_07  We're going to type a prompt in and get a new season of Narcos with Mr. Beast, Brad Pitt, and Travis Kelsey, which is a real...
+897.52 901.28 SPEAKER_07  Actually, a real thing posted by a VC from Fastmark Capital.
+901.28 905.76 SPEAKER_07  I just want to say, what rocks about this is just how much of a lie it is.
+906.18 908.56 SPEAKER_07  Just how impossibly not possible.
+908.86 909.68 SPEAKER_07  Like, how just...
+909.68 914.24 SPEAKER_07  It's like saying, yeah, my computer, I'm going to hit a button, and it's going to fuck me in the arse in two minutes.
+914.38 917.32 SPEAKER_07  Like, it's just going to do, like, my MacBook will suck me off tomorrow.
+917.32 919.82 SPEAKER_07  Depends what USB accessories you have, to be honest.
+919.82 920.26 SPEAKER_07  But that's the thing.
+920.36 923.54 SPEAKER_07  Actually, the MacBook sucking you off is more likely than anything they're saying.
+923.82 925.90 SPEAKER_07  Because for them to...
+925.90 929.70 SPEAKER_07  And they said, like, by, like, 2025, it's just outright lies.
+929.70 931.38 SPEAKER_07  Because right now, you can't...
+931.38 940.06 SPEAKER_07  If one of the prompts that someone put in was, like, someone walking up to a cat king, cat king, and then bowing before him, the room is full of cats.
+940.44 946.76 SPEAKER_07  First of all, he randomly had a bowl, because the prompt was, like, bow, bowl, same fucking thing, whatever.
+947.34 951.96 SPEAKER_07  But also, like, the cat just kind of, like, mutated and surged towards him.
+952.12 958.84 SPEAKER_07  This thing can't even understand the things being put into it, let alone producing something that doesn't involve something that makes your brain hurt.
+958.84 961.04 SPEAKER_07  It really is uncomfortable to look at.
+961.52 962.56 SPEAKER_07  And I don't think...
+962.56 969.80 SPEAKER_07  I don't think the tech industry realizes that every time they try and shove this shit down people's throats, people get a bit more jaded.
+969.92 971.22 SPEAKER_07  People get a bit more upset.
+971.58 973.46 SPEAKER_07  People are still angry about crypto.
+973.80 976.52 SPEAKER_07  They're still angry about the metaverse,
+976.58 981.06 SPEAKER_03  which didn't exist. I'm not going to be angry about crypto once I cash in all my Dogecoin.
+981.32 984.18 SPEAKER_03  Time to log into my trading account for the first time in two years.
+984.18 986.12 SPEAKER_03  No, the...
+986.12 989.10 SPEAKER_11  Weirdly, you might actually be pleasantly surprised if you did that.
+989.30 992.98 SPEAKER_11  I have been following Dogecoin specifically, but there's sort of a...
+992.98 995.48 SPEAKER_11  On the rumors of rate cuts, crypto surges again.
+996.02 996.56 SPEAKER_11  But...
+996.56 999.24 SPEAKER_11  Yeah, two years is sort of a local optimum for you.
+999.58 1002.30 SPEAKER_11  It won't crash this time, I say.
+1002.74 1012.06 SPEAKER_11  No, but the argument, right, of you can put on your Apple Vision Pro and customize entertainment to your preferences, it goes back to, again...
+1012.06 1014.42 SPEAKER_11  You two can have a sort of nightmare
+1014.42 1019.46 SPEAKER_10  shifting cat blob visor. That makes, like, references
+1019.46 1024.30 SPEAKER_03  to all of what's in the news right now. Well, they've managed to create an AI that can make dreams.
+1025.02 1027.32 SPEAKER_03  This would make me want to fucking kill myself.
+1027.88 1028.96 SPEAKER_03  Yeah, pretty much.
+1028.96 1034.72 SPEAKER_03  Yeah, like, my teeth turned into a duvet, nothing knows what a monkey looks like, I'm at school for some reason.
+1034.88 1036.64 SPEAKER_11  What is being offered here, right?
+1036.66 1041.80 SPEAKER_11  When I think of completely personalized entertainment that's based on sort of...
+1041.80 1052.28 SPEAKER_11  Rather than based on, like, again, like, the idea of art or what's left of art in most mass media, there is some corner of it somewhere, sometimes, is communication with another person.
+1052.40 1060.24 SPEAKER_11  It is mutual understanding through someone making something, you seeing it, then other people seeing it and having that shared view of what that thing is.
+1060.24 1061.44 SPEAKER_11  Even if it's a fucking...
+1061.44 1068.00 SPEAKER_11  The weird Game of Thrones ending, everyone saw it and everyone can talk about it and you can know that someone was out there.
+1068.00 1070.62 SPEAKER_11  Yeah, it's all parasociality.
+1070.86 1082.02 SPEAKER_11  Now, what they're suggesting, right, what they're suggesting is what if all sort of, all forms of, like, filmed art you could consume, or even all forms of art you could consume, right?
+1082.02 1086.10 SPEAKER_11  You could customize the Mona Lisa to make it more, like, give her a cool hat or whatever.
+1086.28 1086.44 SPEAKER_11  Yeah.
+1086.64 1087.46 SPEAKER_11  You could...
+1087.46 1105.66 SPEAKER_11  It's not relatable to anybody else at all and it is only things that are just half remembered from things you've seen and nobody else has ever seen it, but if you're streaming it on your Apple Vision Pro, so you're sort of experiencing a world that is totally unrelatable to anybody else.
+1105.92 1107.30 SPEAKER_11  This is a delusional episode.
+1107.62 1113.84 SPEAKER_11  They're saying, what if their dream is perfectly customized, unique experiences that are immersive and unshareable?
+1114.06 1114.98 SPEAKER_11  It's delusional.
+1115.72 1117.14 SPEAKER_07  Yeah, and it's also...
+1117.14 1120.14 SPEAKER_07  It's also a very kind of paper-thin version of...
+1120.14 1126.98 SPEAKER_07  It's like the ultimate point of fandom, where it's things are not made anymore for me to consume an artist's craft.
+1127.32 1132.10 SPEAKER_07  No, they are made so that I can see Luke Skywalker with a lightsaber go, woo-woo.
+1132.66 1135.58 SPEAKER_07  I see the character I recognize and that is what entertainment is.
+1135.94 1137.34 SPEAKER_07  We are going to put
+1137.34 1139.46 SPEAKER_11  Tony Soprano in The Last Jedi.
+1140.10 1141.56 SPEAKER_11  What if we did that?
+1141.90 1142.44 SPEAKER_11  That's right.
+1142.80 1143.06 SPEAKER_11  Anyway.
+1143.56 1144.78 SPEAKER_07  But I think that that's the...
+1144.78 1151.76 SPEAKER_07  It goes back to the George Carlin AI thing where they were like, well, we could really use George Carlin in the year 2024.
+1151.76 1153.60 SPEAKER_07  George Carlin's fucking dead, motherfucker.
+1154.30 1159.16 SPEAKER_07  Art is made possible by its fallibility and it's kind of...
+1159.16 1159.90 SPEAKER_07  The fact it's finite.
+1160.48 1163.06 SPEAKER_07  You can't get more George Carlin because he got old and died.
+1163.30 1164.98 SPEAKER_07  His humour changed because he died.
+1165.46 1167.42 SPEAKER_07  Well, I mean, it changed because he got old and...
+1167.42 1167.98 SPEAKER_07  Yeah, it changed
+1167.98 1169.68 SPEAKER_10  to a permanent end when he died.
+1169.90 1173.64 SPEAKER_07  But also, he didn't comment on things that happened after he died because he's dead.
+1173.84 1175.20 SPEAKER_07  We don't get more George Carlin.
+1175.28 1177.72 SPEAKER_07  He was made magical because he aged and then died.
+1178.20 1180.08 SPEAKER_07  That was pretty derivative of him not to comment on.
+1180.08 1184.12 SPEAKER_09  I would actually
+1184.12 1186.42 SPEAKER_07  never like to hear anything like this.
+1188.62 1195.42 SPEAKER_03  What if we could make a video of George Carlin and Travis Kelsey flying the first plane into the towers on 9-11?
+1195.66 1198.66 SPEAKER_07  You do realise that that's inevitable, right?
+1198.74 1200.82 SPEAKER_07  That's going to be the first thing that causes problems.
+1200.82 1201.16 SPEAKER_07  Oh, sure.
+1201.58 1201.76 SPEAKER_07  Yeah.
+1202.12 1207.04 SPEAKER_07  Someone's going to do like a 9-11 parody with a celebrity and someone is going to sue someone else.
+1207.06 1216.04 SPEAKER_10  Yeah, I mean, the two things you can do with AI basically are the unethical or like stuff that's just like offensively funny.
+1216.18 1225.00 SPEAKER_10  I did my first show of the second one, you know, and that was a good time, I guess, and I kind of regret it now because I've kind of poisoned the internet a little bit.
+1225.34 1233.42 SPEAKER_10  But yeah, most of it is just like people going, holy shit, I can make pornography of Taylor Swift in a way that she's going to really hate, which is horrible.
+1233.42 1240.08 SPEAKER_09  This is also like another interesting thing because when, because there are limits that are sort of being presented when the Taylor Swift porn thing happened.
+1240.76 1245.88 SPEAKER_09  At least like on Twitter, I'm not sure about the other social platforms, they kind of just like blocked that from happening.
+1246.24 1246.50 SPEAKER_04  Yeah.
+1246.78 1254.42 SPEAKER_09  Which is to sort of say that like I was sort of thinking about the limits of kind of full personalization and like where those are kind of set.
+1254.78 1267.16 SPEAKER_09  Only because like the sort of, as you mentioned, like the inevitable thing with all these technologies is that you end up just kind of sharing like the worst stuff and that can be kind of fun perhaps because like, you know, we like sharing stuff.
+1267.28 1267.36 SPEAKER_09  Yeah.
+1267.66 1271.86 SPEAKER_10  The bully XL wearing a Kefeea with a trans flag with a no to you loads process.
+1271.86 1283.26 SPEAKER_09  It does feel sort of counterintuitive in the sense of like you want to build these like the sort of new, whatever like the new sort of phase of the internet is, you sort of know that all these phases kind of require some form of sharing and interaction.
+1283.78 1296.08 SPEAKER_09  And so what you are trying to do is build like a completely insular digital environment that people are just going to sort of be fine with an opt for that instead of like the material worlds that they exist in that it kind of feels like this.
+1296.18 1305.14 SPEAKER_09  They don't sort of understand even the dumbest shit that is like is still designed to sort of be shared with people that you know in your actual life.
+1305.74 1306.18 SPEAKER_11  Yeah.
+1306.26 1319.48 SPEAKER_11  It's the, I think it goes back to wanting to mediate more and more and more understanding means wanting to separate more and more people from one another so that you can put more and more of your pink slime into it.
+1319.78 1320.04 SPEAKER_11  Essentially.
+1320.04 1337.40 SPEAKER_07  I think it's a lot of the excitement about this completely made up thing where you'll be able to create Narcos with Travis Kelsey and SpongeBob is based on just a complete lack of respect for creativity but also just an echoing hole in their soul I think.
+1337.88 1339.90 SPEAKER_07  These people, they don't have creativity.
+1340.16 1343.80 SPEAKER_07  They don't, they hear a song and they're like, that's just a guitar, right?
+1344.12 1350.88 SPEAKER_07  They just hit a guitar and he yells his, and they're very much the prototypical rap is just talking, guys.
+1351.44 1351.58 SPEAKER_04  Yeah.
+1351.94 1356.16 SPEAKER_07  But I think they see creativity as something where it's just a skill issue.
+1356.58 1364.58 SPEAKER_07  It's just, oh, if I could just play guitar, which is easy and I can do it tomorrow but I'm too busy coding, I would be able to do rock and roll.
+1364.70 1365.78 SPEAKER_07  It's just that simple.
+1366.06 1372.90 SPEAKER_07  It's not about the fact that people learn to play guitar or play piano or sing or what have you or write and then they write the words in the way that people like.
+1373.34 1373.70 SPEAKER_07  Great.
+1374.12 1374.86 SPEAKER_07  That's not it.
+1375.20 1380.56 SPEAKER_07  It's that plus whatever life experiences they've had that in turn give them the ability to put together a story.
+1380.64 1381.72 SPEAKER_07  A podcast like this.
+1382.18 1386.62 SPEAKER_07  I like putting aside the irony jokes about things people not, like people clearly like this.
+1386.86 1395.42 SPEAKER_07  People like Trash Future and they like it because of the people involved and your stories and the way you interpret the things that you ingest through reading, through listening, through whatever.
+1395.84 1398.20 SPEAKER_07  And the net result of that is what comes out.
+1398.32 1401.78 SPEAKER_07  You're an interesting personality, it's your chemistry with each other, both virtual and in person.
+1402.18 1405.54 SPEAKER_07  These are the things that make creativity possible and make creative arts possible.
+1405.82 1407.16 SPEAKER_07  And it's very sincere for this podcast.
+1407.30 1407.66 SPEAKER_07  I apologize.
+1408.10 1411.04 SPEAKER_07  Yeah, can we just get you back on every week to praise us?
+1411.36 1413.82 SPEAKER_10  We're kind of opening up positions for a hype man.
+1414.18 1415.14 SPEAKER_11  Yeah, I can do that.
+1415.16 1426.62 SPEAKER_11  I would like to award the best guest to Ed Award who praises us on the recording as opposed to some others, some historians I won't name, who only praise us after the recording.
+1428.22 1428.74 SPEAKER_11  Yeah, that's right.
+1428.82 1430.18 SPEAKER_10  Simon Sharma, weirdly.
+1430.54 1440.72 SPEAKER_10  Yeah, you might think ending the recording and then being like, thanks for having me on, I love the podcast, was an ordinary form of politeness, but we're actually going to roast you about it months later.
+1440.90 1441.44 SPEAKER_10  Well, look, I'm,
+1441.80 1445.02 SPEAKER_07  well, but my overall point was that I was not done finishing.
+1446.24 1447.20 SPEAKER_07  Jesus Christ.
+1447.46 1449.08 SPEAKER_07  Do you want to rescind any, thank you.
+1449.44 1450.28 SPEAKER_07  Please, Ed, continue.
+1450.38 1457.68 SPEAKER_07  But in all seriousness, all of this mess was created, the mess of creativity is what makes creativity possible.
+1457.84 1460.68 SPEAKER_07  These people are trying to generate creativity based on mathematics.
+1460.68 1463.68 SPEAKER_07  What's managerial, right?
+1464.10 1468.10 SPEAKER_07  And it's, it's just like, it is management philosophically applied to creativity.
+1468.38 1472.72 SPEAKER_07  One of the funniest comedians of like the, was it 56?
+1472.96 1473.76 SPEAKER_07  He was Tom Lehrer.
+1473.86 1474.54 SPEAKER_07  He was a mathematician.
+1475.54 1476.92 SPEAKER_07  J.R.R. Tolkien, linguist.
+1477.02 1478.38 SPEAKER_07  He went to World War I.
+1478.46 1482.38 SPEAKER_07  He went to World War I describing it like a theme park, but I had a go at the sum.
+1482.38 1488.94 SPEAKER_07  Um, but a lot of what creativity is, is created by a mess and a completely non-generative mess.
+1489.12 1491.88 SPEAKER_07  It is accidents upon accidents upon accidents.
+1492.08 1492.50 SPEAKER_07  Yeah.
+1492.52 1495.02 SPEAKER_07  For instance, someone showed Milo Family Guy
+1495.02 1497.16 SPEAKER_03  at an impressionable age. That's right.
+1497.96 1501.24 SPEAKER_03  God, imagine being in a trench with J.R.R. Tolkien.
+1501.58 1503.30 SPEAKER_03  Like you're like, you're eating rotten beef.
+1503.30 1504.60 SPEAKER_03  You joke about that, but that is what created it though.
+1504.88 1505.48 SPEAKER_07  And that's the thing.
+1505.56 1515.94 SPEAKER_07  They are desperate to be like, if I just had enough skill, which I refuse to learn, even though learning the skill is what makes you creative, the process of failing and succeeding is what does that.
+1516.34 1518.10 SPEAKER_07  These people are like, no, no, it's just a skill.
+1518.20 1522.30 SPEAKER_07  And once the computer can do the guitar for me, I will be Metallica.
+1522.92 1525.14 SPEAKER_07  And it's just so fucking sad.
+1525.48 1526.38 SPEAKER_07  It's so sad.
+1526.68 1526.88 SPEAKER_07  Nothing.
+1527.06 1529.98 SPEAKER_07  They have all the money in the world and they have nothing.
+1529.98 1532.38 SPEAKER_07  It just shows this utter soullessness.
+1532.98 1542.10 SPEAKER_11  Well, if I may actually suggest we move on to a story that, as you've mentioned earlier, Ed, AI could never write.
+1542.12 1542.44 SPEAKER_11  No.
+1542.98 1543.62 SPEAKER_05  No way.
+1545.88 1550.56 SPEAKER_03  I can tell Riley's got something fun for us when he starts doing what I describe as sort of like Dracula voice.
+1551.82 1553.30 SPEAKER_03  Let's just say.
+1554.68 1556.50 SPEAKER_11  I've got another section.
+1556.50 1558.42 SPEAKER_11  I don't cure cancer.
+1559.30 1570.14 SPEAKER_11  Now, so this is about a company called Renovaro Biosciences that is the target of, I would say, probably some of the most tea-spilling short sellers in the business.
+1570.82 1574.54 SPEAKER_11  And they don't know about us, but we are great friends of, they're great friends of the show.
+1575.28 1577.14 SPEAKER_11  We're sort of admirers of that.
+1577.14 1577.38 SPEAKER_11  Yes.
+1577.62 1578.46 SPEAKER_11  We are their simps.
+1578.72 1582.22 SPEAKER_11  We are in a parasocial relationship with a short-focused hedge fund.
+1582.70 1583.10 SPEAKER_11  That's right.
+1583.10 1586.04 SPEAKER_11  Who writes in this delightful Kurt style?
+1586.48 1586.70 SPEAKER_04  Yeah.
+1587.12 1590.84 SPEAKER_11  So, Renovaro Incorporated, this is a press release from Renovaro, today.
+1591.34 1595.20 SPEAKER_11  Announced today that it has completed its acquisition of GettyCube International Limited.
+1595.72 1606.74 SPEAKER_11  Renovaro, which means renew, combines the power of the AI health tech platform of GettyCube with the advanced cell and gene therapy biotech platform of Renovaro Biosciences to accelerate precision...
+1606.74 1609.24 SPEAKER_03  Don't fucking AI my CRISPR, you cunt.
+1609.52 1609.60 SPEAKER_03  What?
+1610.24 1613.28 SPEAKER_03  This press release, or as we're calling it, the GettyCube address.
+1613.72 1614.88 SPEAKER_11  Thank you very much, Milo.
+1614.88 1619.10 SPEAKER_11  To accelerate precision, personalized medicine, and a new era of healthcare innovation.
+1619.80 1628.48 SPEAKER_11  Renovaro's unique method of fighting tumors using the body's own defenses, combined with GettyCube's knowledge of AI-powered healthcare, can make cancer diagnosis and treatment better.
+1628.48 1635.16 SPEAKER_11  AI can analyze lots of information quickly and help Renovaro by finding patterns and data and making treatment plans tailored to each patient.
+1635.26 1638.88 SPEAKER_03  We got rid of your cancer, but we also accidentally turned your right arm into the duvet.
+1639.52 1640.28 SPEAKER_03  We're sorry.
+1640.80 1642.90 SPEAKER_03  Oh, no, they don't have that level of capability.
+1642.90 1644.66 SPEAKER_11  They don't really create things.
+1645.32 1646.10 SPEAKER_11  No, no, no.
+1646.58 1658.18 SPEAKER_11  So, basically, Renovaro has a biotech company that's been around for a while, and it has several drug candidates, and it says, is committed to curing people with cancers and infectious diseases.
+1658.48 1666.16 SPEAKER_11  This vote to merge with GettyCube, basically, is to say, we're no longer just a biotech company.
+1666.54 1668.04 SPEAKER_11  We're an AI company.
+1668.50 1677.98 SPEAKER_11  Now, before we go into this, Ed, do you want to, having, we've both read this and our jaws went to the floor, why do you think they might want to say, no, no, no, we're not a biotech company.
+1678.04 1679.80 SPEAKER_11  We're mostly an AI company now.
+1680.16 1686.98 SPEAKER_07  Well, this is going to sound sarcastic, but it might be because their co-founder is a multiple felony magician.
+1687.48 1688.28 SPEAKER_07  From Turkey.
+1688.52 1689.20 SPEAKER_07  From Turkey?
+1689.50 1690.48 SPEAKER_07  Oh, he's an ice cream man.
+1691.36 1691.80 SPEAKER_07  Yeah.
+1692.78 1696.82 SPEAKER_03  The fucking chemotherapy you reach for, he, like, pulls the vial back.
+1697.80 1700.46 SPEAKER_03  A guy in a fez with, like, a little monkey on his shoulder.
+1700.92 1703.72 SPEAKER_07  This was actually the thing that made me think you were fucking with me.
+1704.20 1704.40 SPEAKER_07  Yes.
+1704.40 1706.60 SPEAKER_07  Was his name, his stage name.
+1707.04 1710.06 SPEAKER_07  Do you want to, do you want to jump to that, or do you want to save that bad boy?
+1710.18 1711.68 SPEAKER_11  Well, we'll save it, we'll save it.
+1711.68 1717.72 SPEAKER_11  So, the current CEO is a guy called Dr. Mark DeBull, who has a very prestigious background.
+1717.92 1720.20 SPEAKER_11  He was, like, an advisor to Bush Jr.
+1720.72 1722.82 SPEAKER_11  Okay, but why is he wearing that fez?
+1723.08 1726.82 SPEAKER_11  Yeah, he's, like, several professorships, like, he's a quite legitimate guy.
+1727.16 1727.48 SPEAKER_04  Mm-hmm.
+1727.74 1735.88 SPEAKER_11  The company goes public in 2018 under the name Enochian Biosciences, nothing to do with Powell, and then DeBull became CEO in 2021.
+1736.36 1747.56 SPEAKER_11  The company's co-founder, also called it Scientific Founder, Inventor, and Largest Shareholder, was a man named Dr. Serhat Gumruku, or, previously known in Turkey by the stage name Dr. No.
+1747.86 1750.12 SPEAKER_11  And that was why I thought you were fucking with me.
+1750.48 1750.88 SPEAKER_07  Yes.
+1751.72 1752.88 SPEAKER_07  Because of Kill James Bond.
+1753.20 1753.38 SPEAKER_07  Yeah,
+1753.52 1755.66 SPEAKER_10  the Kill James Bond tie-in.
+1756.66 1758.92 SPEAKER_03  Is it illegal to live inside a volcano?
+1759.86 1760.98 SPEAKER_03  Just a stupid
+1760.98 1762.28 SPEAKER_10  health regulator.
+1762.76 1771.56 SPEAKER_11  So, DeBull frequently praises Gumruku as a, quote, rare genius, saying he could be the most impactful scientist in generations.
+1771.56 1772.82 SPEAKER_11  A rare genius, you say?
+1772.98 1775.36 SPEAKER_08  A successful criminal brain is always superior.
+1775.90 1776.60 SPEAKER_11  It has to be.
+1777.70 1779.84 SPEAKER_10  You think I didn't still have those saved, didn't you?
+1780.16 1782.96 SPEAKER_11  I actually did not think you still had those saved.
+1783.96 1794.36 SPEAKER_11  So, he was considered to be this, this genius who is a combination of, like, Einstein and every other, hang on, I'm gonna actually get the quote here.
+1794.76 1794.96 SPEAKER_11  Ahem.
+1794.96 1797.24 SPEAKER_11  He said, the previous chairman,
+1797.58 1800.28 SPEAKER_10  Renee Sindelow, two points for the compass, you know?
+1800.34 1803.32 SPEAKER_11  Was Leonardo da Vinci and Albert Einstein all in one.
+1803.74 1804.24 SPEAKER_11  Amazing.
+1804.50 1804.66 SPEAKER_10  Wow.
+1804.66 1807.56 SPEAKER_10  I mean, if we're working off of the document, Is that the problem?
+1807.56 1820.62 SPEAKER_10  that is, Dr. No, we are going to need a very drunk Scottish man to exploit a physical disability that this man has in such a way that dooms him, you know?
+1820.62 1827.32 SPEAKER_11  So, he created some of the most innovative approaches to HIV and oncology that the founder had ever seen.
+1827.84 1828.22 SPEAKER_11  Uh-huh.
+1828.38 1838.60 SPEAKER_11  In May 2022, Gomoruku was charged by the Department of Justice in the States over allegations that he conspired to hire a hitman to murder the victims of one of his many other scams.
+1840.64 1841.12 SPEAKER_11  Sorry,
+1841.98 1845.14 SPEAKER_10  that's a perfect ending to the scam, right?
+1845.24 1858.70 SPEAKER_10  You know, the snake oil wagon leaves town and then a few towns later you see some of your old scam victims and your answer to that is not like repaint the wagon, not change your name, it's hire a guy to shoot them.
+1859.22 1860.08 SPEAKER_10  Correct, yes.
+1860.20 1860.94 SPEAKER_10  Deals to the problem.
+1861.40 1871.86 SPEAKER_10  A thing which has never been real, there has never been a hitman, it's always an undercover cop, this is like a fact of life, any hitman you talk to is an undercover fed, it just is.
+1872.24 1873.66 SPEAKER_10  If you need someone killed by a cop,
+1873.76 1878.02 SPEAKER_03  they'll do it for you. That's why so many hitmen are always wearing jeans and shoe.
+1878.50 1883.32 SPEAKER_11  That's the thing, Gregory Davis, was found murdered in a snowbank in Barnett, Vermont.
+1883.62 1886.66 SPEAKER_11  No shit, he found, he got the real hitman?
+1887.06 1891.34 SPEAKER_11  And the killer, disguised as a US marshal, had like gone to his home and arrested him.
+1891.64 1892.64 SPEAKER_11  Wait, instead of a cop
+1892.64 1895.64 SPEAKER_03  pretending to be a hitman, it was a hitman pretending to be a cop?
+1895.88 1899.06 SPEAKER_03  It's like the perfect, it's like the exception that proves the rule?
+1899.46 1907.04 SPEAKER_11  Yeah, so his alleged co-conspirator, Berk Erate, worked at his clinic, Seraph Medical, who also was a Turkish magician.
+1910.10 1912.06 SPEAKER_10  I mean, this is, fine,
+1912.24 1915.64 SPEAKER_03  this is the magic trick that works, is hire a hitman who isn't a fed.
+1916.54 1919.68 SPEAKER_03  This man was killed by messes no and irate.
+1919.80 1921.54 SPEAKER_03  I'll make my victims disappear.
+1921.54 1925.84 SPEAKER_03  He was sword in half.
+1926.34 1927.60 SPEAKER_03  Yeah, couldn't make the fucking evidence
+1927.60 1928.68 SPEAKER_11  disappear though, could he?
+1929.60 1937.48 SPEAKER_11  We revealed that Gumruku had faked his entire academic history, including forging his Russian medical degrees, and that he was actually a career
+1937.48 1938.08 SPEAKER_10  magician. Why do you need to
+1938.08 1939.42 SPEAKER_11  forge one of those?
+1940.00 1941.96 SPEAKER_10  Like, I'm sorry, but...
+1941.96 1942.60 SPEAKER_01  You need access
+1942.60 1949.90 SPEAKER_10  to a stamp. Yeah, if you went to like, Ural Upstairs Medical College, like, no one's checking that, come on.
+1950.00 1952.34 SPEAKER_10  Faking my degree from the University of Phoenix.
+1952.90 1953.78 SPEAKER_08  The Oakland University.
+1954.68 1958.26 SPEAKER_11  So, he faked his, forged all his Russian medical degrees.
+1958.70 1967.32 SPEAKER_11  He was a career magician who fled authorities in Turkey after being charged over allegations that he faked being a doctor there to steal money from a terminally ill cancer patient.
+1967.48 1969.66 SPEAKER_11  I thought it was going to be like that he faked being a magician.
+1971.28 1974.74 SPEAKER_03  This rabbit was in the bottom of the hat the whole time!
+1976.32 1977.06 SPEAKER_03  Absurdly literal
+1977.06 1978.12 SPEAKER_10  Turkish cop.
+1978.62 1980.80 SPEAKER_11  Yeah. These handkerchiefs were just up your sleeve!
+1981.16 1984.08 SPEAKER_11  According to local magicians in Turkey, we interviewed.
+1984.68 1985.38 SPEAKER_11  Wow, okay.
+1986.20 1988.62 SPEAKER_10  Journalism takes you to some fantastic places.
+1988.92 1995.88 SPEAKER_07  But this is why I love Hindenburg because they write in this very aloof, blunt style and they really go to the mat.
+1996.06 1998.94 SPEAKER_07  They went and found the magic circle in Turkey.
+2001.16 2008.22 SPEAKER_07  But also, the way they write it though is at one point they were saying, well, the data is perfect and then the next comment they say is something that proves it wrong.
+2008.34 2012.26 SPEAKER_07  It goes, we guess the data was not perfect or the data was not the data.
+2012.78 2015.00 SPEAKER_11  It's just very abrupt.
+2015.46 2022.44 SPEAKER_11  They hired the cop from CSI Miami to put all the little buttons on each of their sections.
+2022.98 2023.42 SPEAKER_11  Yeah!
+2024.34 2047.42 SPEAKER_11  So, he progressed over the years to claims of faith healing, spoon bending, fire walking, and unraveling the secrets of wellness through his mastery of quote, quantum and information philosophy.
+2048.12 2048.82 SPEAKER_11  Uh-huh.
+2048.82 2058.26 SPEAKER_11  A former long-standing executive at Enochian Biosciences, now Renovaro, told us that the company had, quote, spent a lot of money to erase that evidence.
+2058.52 2059.40 SPEAKER_11  A lot of money.
+2059.74 2061.36 SPEAKER_11  Therefore, scant evidence...
+2061.36 2063.24 SPEAKER_10  They hushed up a lot of
+2063.24 2064.96 SPEAKER_11  Turkish scam victims.
+2065.94 2079.68 SPEAKER_11  Scant evidence, therefore, exists of Gumrakoo's magic tricks online, but our investigators were able to reconstruct a detailed picture after trawling backstreet magic shops in second-hand bookstores in Istanbul and Izmir.
+2079.90 2080.66 SPEAKER_11  What an
+2080.66 2082.94 SPEAKER_10  incredible job that is.
+2083.52 2085.06 SPEAKER_11  It's just, it's amazing.
+2085.24 2093.58 SPEAKER_11  It's like, Hindenburg, the way you have to understand them is, they make millions of dollars by being the best haters in the entire world.
+2094.38 2094.54 SPEAKER_11  Yeah.
+2094.84 2096.50 SPEAKER_11  Buck Nasty Incorporated.
+2097.18 2098.06 SPEAKER_01  Yeah, essentially.
+2098.74 2112.74 SPEAKER_10  I just, I'm obsessed with the, like, what is the career path that leads you to, I am a private corporate investigator figuring out the trail of a magician turned scam artist in Izmir.
+2112.84 2113.64 SPEAKER_10  But they invest,
+2113.86 2114.50 SPEAKER_11  don't they? Yeah.
+2114.78 2126.76 SPEAKER_11  So, the way that just, for listeners, right, the reason that they write these short reports is because they take a short position in the company, then just publish all their research about it, so other investors will sell the shares, basically.
+2127.66 2128.94 SPEAKER_10  Yeah, being a hater.
+2129.28 2135.50 SPEAKER_03  If you're investing along with the podcast, you might want to sell you, um, you essentially
+2135.50 2143.60 SPEAKER_10  go, I bet that guy's gonna lose money, and then you do a post about how he's gonna lose money, and you hope people like that post enough that they make him lose money.
+2144.34 2144.96 SPEAKER_10  Yeah, they're basically
+2144.96 2147.42 SPEAKER_11  cancelling, you know, publicly traded companies.
+2147.92 2152.78 SPEAKER_11  We turned up CDs and DVDs, even in obsolete formats that needed to be digitally unlocked.
+2153.08 2157.44 SPEAKER_11  It transpired that Kumruku split from his mentor, Oslan Tuncer, in 2002.
+2157.78 2164.78 SPEAKER_11  We interviewed Tuncer, who said, the FBI is not this thorough.
+2166.20 2176.06 SPEAKER_11  Who said that he taught him about manipulation plus how to use the brain to console the reception of people, but Kumruku wanted to move too fast and learn faith healing tricks.
+2176.40 2178.54 SPEAKER_11  He talked to his fucking Jedi master.
+2178.76 2179.34 SPEAKER_05  He wanted
+2179.34 2182.24 SPEAKER_11  to move too fast, his lust for power was too great.
+2182.30 2188.22 SPEAKER_11  He did not use these for good goals, and instead he just spent long periods of time in the Gulf cheating Arabs.
+2190.12 2193.18 SPEAKER_03  I mean, isn't that the Turkish dream, really?
+2194.68 2196.16 SPEAKER_03  The real Turkish delight.
+2198.24 2204.00 SPEAKER_03  Other than like really annoying the Greeks on green lanes, you know, with your Ferrari with the Turkish flag on the front.
+2204.26 2206.08 SPEAKER_11  I did not teach him about cures and healing.
+2206.50 2208.46 SPEAKER_11  I did not know that he knew about these things.
+2208.56 2209.70 SPEAKER_11  I never told him about it.
+2209.90 2212.38 SPEAKER_11  He did not pretend to be a miracle maker with me.
+2212.92 2213.36 SPEAKER_11  Incredible.
+2214.06 2214.42 SPEAKER_03  Great.
+2215.12 2215.96 SPEAKER_03  So cool.
+2216.42 2216.58 SPEAKER_03  Okay.
+2217.32 2218.12 SPEAKER_03  So fun.
+2218.26 2221.58 SPEAKER_03  I mean, well, I would like to offer that guy a position on the podcast.
+2221.76 2224.72 SPEAKER_03  So we revealed this is back to the original report.
+2224.72 2224.84 SPEAKER_03  I would then like
+2224.84 2226.10 SPEAKER_10  to snatch it back from him
+2226.10 2227.12 SPEAKER_11  when he reaches for it.
+2227.58 2227.86 SPEAKER_11  Yeah.
+2228.70 2244.12 SPEAKER_11  We revealed that as a fugitive of the United States, Gumruka continued his crime spree culminating in 14 felony charges in 2017 related to the fraudulent sale of a home he did not own, writing bad checks, and defrauding a businessman through a fake energy trading deal.
+2244.38 2247.80 SPEAKER_11  Now, remember, if you defraud a businessman through a fake energy trading deal in the UK,
+2248.74 2251.50 SPEAKER_10  this is incredible.
+2252.36 2254.02 SPEAKER_10  Where's this guy's movie?
+2254.14 2255.02 SPEAKER_11  Where's his biopic?
+2255.84 2256.10 SPEAKER_11  Yeah.
+2256.44 2257.18 SPEAKER_11  That's the thing.
+2257.56 2259.88 SPEAKER_11  I don't care about the AI generation.
+2260.30 2261.88 SPEAKER_11  I want...
+2261.88 2267.22 SPEAKER_11  I think the Coen brothers could do a really good movie adaptation of this short report.
+2267.54 2269.86 SPEAKER_11  Snatch me if you can, the Turkish ice cream man.
+2270.52 2279.60 SPEAKER_11  The day after we published our report, Mark Dibble called it misleading propaganda, claiming that even though Gumruku was a magician, his study results were still valid.
+2280.64 2281.08 SPEAKER_10  Yeah.
+2281.36 2284.60 SPEAKER_10  This magician just independently invented a cure for cancer.
+2284.72 2286.48 SPEAKER_10  Were you not going to use it like an
+2286.48 2287.78 SPEAKER_03  asshole? He's magic.
+2289.12 2290.94 SPEAKER_03  Like, that's how he did it.
+2291.02 2291.96 SPEAKER_03  Next question.
+2292.76 2295.76 SPEAKER_07  But this guy claims to have cured, like, cancer and COVID.
+2296.38 2301.58 SPEAKER_07  But one thing I never seem to be able to find is any point where they proved this at all.
+2301.92 2302.82 SPEAKER_07  Like, not once.
+2303.28 2306.54 SPEAKER_11  Well, Ed, the science is the science, and the data are the data.
+2306.54 2309.64 SPEAKER_09  Some people like magic to be a mystery, still.
+2309.90 2312.02 SPEAKER_09  You know, we're not all fact checkers and
+2312.02 2315.88 SPEAKER_03  bean counters. Is this your tumor?
+2316.10 2317.68 SPEAKER_03  Just pulling it out from behind your ear.
+2319.56 2330.32 SPEAKER_11  So, one month after, Dibble said, it doesn't matter that he was a magician, the science is the science, and the data are the data, Enochian admitted that Gumruku had forged all of his clinical data.
+2330.32 2333.06 SPEAKER_03  Oh no, that's crazy.
+2333.30 2333.68 SPEAKER_11  What?
+2334.38 2336.52 SPEAKER_10  And it turned around and sued Gumruku.
+2337.46 2341.44 SPEAKER_10  It'd be hard to catch him, because if you try and, like, chain him up or something, he's just going to escape over
+2341.44 2341.86 SPEAKER_09  a big thing
+2341.86 2342.22 SPEAKER_10  of water.
+2342.38 2343.76 SPEAKER_09  He's just hiding in an ice cream cone.
+2343.78 2346.48 SPEAKER_10  Yeah, you find you're chained up when you chain him up.
+2346.74 2347.98 SPEAKER_09  Ah, shit.
+2348.64 2351.88 SPEAKER_10  We put him in this box, he's going to be absolutely fine.
+2352.34 2353.94 SPEAKER_03  Now to open this box and fuck.
+2354.32 2358.96 SPEAKER_03  Trying to serve him with court papers, but he's just like effortlessly stepping back and docking them.
+2359.10 2361.44 SPEAKER_03  Yeah, check-ups.
+2361.44 2362.32 SPEAKER_03  Hand to him.
+2362.66 2363.36 SPEAKER_03  You've still got them in your hand.
+2363.36 2364.64 SPEAKER_03  Is this your subpoena?
+2364.86 2366.50 SPEAKER_03  The papers are just in your pocket.
+2367.56 2375.10 SPEAKER_11  Daibull later admitted that he and the company knew Gumruku had been arrested on 14 felony counts related to fraud at the time they began working with him,
+2375.32 2375.88 SPEAKER_03  but can't
+2375.88 2376.72 SPEAKER_11  working them anyway.
+2377.26 2378.44 SPEAKER_11  It's nice to trust you.
+2378.46 2379.26 SPEAKER_11  It happens to us.
+2379.30 2380.80 SPEAKER_03  They believe in a second chance.
+2381.04 2381.62 SPEAKER_03  You know what?
+2382.44 2383.24 SPEAKER_11  Cancel culture.
+2383.78 2386.74 SPEAKER_11  And you might wonder, how on earth did this happen?
+2387.06 2388.28 SPEAKER_11  I'm not wondering that, actually.
+2388.46 2389.96 SPEAKER_10  It seems pretty straightforward.
+2389.96 2391.78 SPEAKER_10  But when they
+2391.78 2393.70 SPEAKER_03  knew, right, when they knew.
+2394.42 2397.98 SPEAKER_03  Masahashi said, what are you investing three billion in curing cancer for?
+2398.38 2398.60 SPEAKER_03  What?
+2398.84 2399.72 SPEAKER_03  What, like a nonce?
+2399.78 2400.00 SPEAKER_03  No.
+2400.24 2402.74 SPEAKER_03  You should invest six billion in a Turkish magician.
+2403.74 2404.68 SPEAKER_03  It's magic.
+2405.22 2406.50 SPEAKER_03  That's how you make money.
+2406.88 2407.06 SPEAKER_03  What?
+2407.36 2412.48 SPEAKER_03  If you spend three billion on rabbit, you'll have three billion worth of rabbit.
+2412.58 2418.08 SPEAKER_03  If you spend six billion on a guy who can create rabbit out of a hat, that's profit.
+2418.08 2419.40 SPEAKER_03  It's simple.
+2419.60 2422.68 SPEAKER_03  This man has access to infinite handkerchiefs.
+2422.90 2428.74 None  You could put every handkerchief manufacturer on the face of the planet out of business.
+2429.28 2429.70 SPEAKER_03  Right.
+2429.80 2431.82 SPEAKER_03  He can saw people in half.
+2433.26 2433.88 SPEAKER_03  Imagine that.
+2433.96 2434.72 SPEAKER_03  You could just double.
+2435.26 2437.30 SPEAKER_03  You could take Stephen Hawking, double him.
+2437.98 2439.00 SPEAKER_03  There's two of him now.
+2439.66 2440.44 SPEAKER_03  Yeah, that's right.
+2440.52 2441.78 SPEAKER_03  We're doing double the work.
+2441.78 2446.22 SPEAKER_03  Why would you want to double Stephen Hawking?
+2448.86 2449.66 SPEAKER_11  More physics.
+2450.60 2462.64 SPEAKER_11  So how Gomorruku came to have such power over these people, right, was one acquaintance of the original CEO, René Sindlev, said, I think René was a victim of Serhat Gomorruku.
+2462.88 2464.42 SPEAKER_11  He transferred a lot of money to him.
+2464.70 2468.52 SPEAKER_11  He was his personal doctor, and it's a strange relationship, a bit like Rasputin.
+2469.14 2469.52 SPEAKER_10  Sindlev's wife.
+2469.52 2472.94 SPEAKER_10  You're telling me that a stage magician is good at building rapport with people.
+2473.90 2475.80 SPEAKER_03  And the weirdest thing is he kept saying to me,
+2475.88 2477.04 SPEAKER_11  you and I have never met before.
+2477.72 2482.46 SPEAKER_11  Sindlev's wife was treated first by the guy, and they believe in the alternative medicine now.
+2482.56 2485.22 SPEAKER_11  They didn't want a doctor, but they wanted a guru who fixes everything.
+2485.66 2486.36 SPEAKER_11  He's thriving on
+2486.36 2487.16 SPEAKER_10  these people who are desperate.
+2487.16 2489.02 SPEAKER_10  What does a doctor do?
+2490.24 2494.22 SPEAKER_10  Just the guy goes to work every day, and it's like, I don't know fucking shit.
+2494.48 2496.32 SPEAKER_10  I better get the magic guy, you know?
+2496.42 2498.06 SPEAKER_10  We've tried all the
+2498.06 2502.98 SPEAKER_03  conventional doctors, but the problem is, my wife's hat, it has no rabbits in it.
+2503.68 2505.20 SPEAKER_01  Her sleeve is
+2505.20 2506.64 SPEAKER_03  devoid of handkerchiefs.
+2506.68 2508.46 SPEAKER_11  It's the evil hypnotist from Big Train.
+2509.06 2509.50 SPEAKER_11  Essentially.
+2510.58 2515.64 SPEAKER_11  So, by 2023, Enochian was almost out of cash and near all-time lows.
+2516.56 2525.44 SPEAKER_11  Sindlev, now the chairman, conducted multiple calls and in-person meetings with representative of GettyCube, an entity which didn't exist at the time company disclosures later revealed.
+2525.60 2526.72 SPEAKER_03  Wait, representatives
+2526.72 2528.58 SPEAKER_11  of an entity that didn't exist?
+2528.58 2529.22 SPEAKER_11  Yes.
+2529.78 2531.92 SPEAKER_10  Very troubling philosophically.
+2531.96 2546.70 SPEAKER_11  It was a company that was incorporated in the Netherlands and had one, I think, former employee in Estonia that somehow had created an AI health platform that was going to combine with this clinical data that turns out to have been faked.
+2547.08 2547.58 SPEAKER_11  Right.
+2548.38 2565.02 SPEAKER_11  Because after they've admitted that all the clinical data was faked, the former Garuku, the Turkish magician, doctor knows, cancer therapy, is still the company's lead therapeutic candidate and was called the holy grail of cancer research as recently as January 2024.
+2565.78 2566.14 SPEAKER_11  Awesome.
+2566.28 2566.56 SPEAKER_11  Incredible.
+2566.84 2567.12 SPEAKER_11  Great.
+2567.22 2567.34 SPEAKER_11  Yeah.
+2567.84 2568.10 SPEAKER_11  Yeah.
+2568.44 2569.10 SPEAKER_11  So now.
+2569.38 2571.66 SPEAKER_11  So where, yeah, where is this guy now?
+2572.10 2572.78 SPEAKER_11  Oh, Gumruku?
+2573.20 2573.64 SPEAKER_11  Yeah.
+2574.16 2575.18 SPEAKER_03  Isn't he in prison?
+2575.74 2576.00 SPEAKER_03  Yeah.
+2576.26 2577.40 SPEAKER_03  He's in jail.
+2578.04 2579.58 SPEAKER_03  Well, that's where you think he is.
+2579.86 2580.14 None  Yeah.
+2581.00 2582.04 SPEAKER_04  His cell's empty.
+2582.04 2582.16 SPEAKER_04  Right.
+2582.62 2582.90 SPEAKER_11  Yeah.
+2583.72 2587.62 SPEAKER_11  But basically, like this is now basically, right?
+2588.00 2595.62 SPEAKER_11  Gumruku is in jail, but Gumruku and his husband still own a lot of shares of Renovaro.
+2596.10 2596.60 SPEAKER_11  Right.
+2597.22 2597.56 SPEAKER_11  Okay.
+2597.92 2598.30 SPEAKER_11  Yeah.
+2598.62 2609.64 SPEAKER_11  And basically, the whole point now, everyone with shares of Renovaro, the Hindenburg report is saying they're now all trying to sell their shares as quickly as possible.
+2610.30 2613.76 SPEAKER_11  The complaint sites and Hussain, I would like to draw your attention to this part.
+2614.40 2622.10 SPEAKER_11  Damning internal emails that allege Mark Dibble was engaged in a wink and nod scheme with Renovaro's chief financer, Lincoln Park Capital.
+2622.52 2622.90 SPEAKER_09  Great.
+2623.70 2624.10 SPEAKER_11  Awesome.
+2624.10 2626.56 SPEAKER_09  They met a DJ in a rock
+2626.56 2631.60 SPEAKER_03  band. Well, he claimed that he could bring Chester Bennington back to life.
+2632.90 2638.38 SPEAKER_09  Whereby, Well, convincing that they'd pull off the greatest magic trick of all, which is to bring back new metal.
+2639.04 2639.96 SPEAKER_11  Yeah, that's right.
+2640.14 2643.62 SPEAKER_11  But you have to, if you bring back new metal, you have to make it disappear again.
+2645.40 2649.74 SPEAKER_11  Whereby, Renovaro provides them with non-public information to help trade against their own shareholders.
+2649.86 2656.34 SPEAKER_11  Basically, like, everyone now is sort of has lots of shares in this thing that is rapidly falling apart.
+2656.78 2665.36 SPEAKER_11  So the short report is saying they're trying to make it look like an AI company because everyone's excited about AI so that they can more or less get out under cover of Darknet.
+2665.36 2667.72 SPEAKER_11  Wait a second, they're pretending to have a computer in there.
+2668.10 2668.38 SPEAKER_11  Yeah.
+2669.10 2672.86 SPEAKER_11  So, they have Gomoroku and his husband have 28% of the company.
+2673.18 2680.54 SPEAKER_11  The family of Gomoroku's alleged murder victim sued him for wrongful death and they have frozen 12.8 million to cover potential damages.
+2680.92 2682.60 SPEAKER_11  You murder one person.
+2682.70 2682.96 SPEAKER_11  But they've
+2682.96 2685.28 SPEAKER_03  frozen 12.8 million of worthless stock.
+2685.46 2689.34 SPEAKER_06  Yeah, and Hindenburg will be taking care of that, don't you worry, you will get nothing.
+2691.22 2694.46 SPEAKER_10  Again, ruthless commitment to being haters.
+2695.02 2695.28 SPEAKER_10  Yeah.
+2696.06 2696.86 SPEAKER_10  It's awesome.
+2697.20 2702.38 SPEAKER_10  To the point that it spills over to like the families of like this guy's murder victim.
+2702.56 2704.02 SPEAKER_10  They should have done the research too.
+2704.50 2706.02 SPEAKER_10  Yeah, shouldn't have gotten
+2706.02 2707.12 SPEAKER_03  murdered by this guy.
+2707.74 2710.80 SPEAKER_10  Yeah, did you guys pay for investigators?
+2711.24 2713.16 SPEAKER_10  Nothing stopping them from getting a short position?
+2713.42 2715.68 SPEAKER_10  Yeah, to go to fucking Izmir?
+2715.82 2717.16 SPEAKER_10  No, you didn't.
+2717.18 2719.42 SPEAKER_03  Talk to some Turkish magicians, you fucking idiots.
+2719.86 2723.58 SPEAKER_03  Pretty embarrassed to then get murdered by the same guy who scammed you.
+2723.58 2726.10 SPEAKER_03  Yeah, this is not a great guy.
+2726.26 2737.50 SPEAKER_03  Like imagine your uncle's like Ukrainian wife who he sent 60,000 pounds to turns out to be real and she comes to the UK but only to murder him and take the rest of his money before leaving again.
+2737.70 2739.04 SPEAKER_10  And for my final trick.
+2739.80 2740.00 SPEAKER_11  Yeah.
+2740.36 2745.30 SPEAKER_11  Note that Dibble and the company hope to begin human trials for the cancer treatment this year.
+2746.64 2747.12 SPEAKER_11  Okay.
+2747.24 2747.42 SPEAKER_11  Cool.
+2747.52 2748.10 SPEAKER_11  All right, all right.
+2748.60 2749.74 SPEAKER_11  That's Renovaro.
+2749.74 2757.62 SPEAKER_11  There are so many details we couldn't cover because we didn't have time but we have to talk about Bill Ackman, the man of action.
+2758.22 2759.60 SPEAKER_11  There, here we go.
+2760.04 2761.28 SPEAKER_11  The pimp of all
+2761.28 2763.16 SPEAKER_03  pimps, the hero to wives everywhere.
+2763.38 2764.28 SPEAKER_03  All time poster.
+2764.72 2766.06 SPEAKER_03  That is a quote by the way.
+2766.20 2768.36 SPEAKER_03  Our returning segment, Backsack and Ackman.
+2768.54 2769.60 SPEAKER_03  What's he up to this week?
+2770.26 2773.66 SPEAKER_11  So this is a paragraph from near this article's end.
+2773.76 2790.56 SPEAKER_11  It was a, there's a profile that has been written on Bill Ackman that you could call sort of from the New York Times intelligence or magazine filed under what's going on with this incredibly weird guy who continues to incriminate himself as being weird throughout the article while believing he's looking amazing.
+2790.68 2793.78 SPEAKER_10  From the intelligence's fucking problem segment.
+2794.30 2796.40 SPEAKER_11  This is from near the article's end but I'm going to start with it.
+2796.68 2807.72 SPEAKER_11  While we talked in his office, Ackman told me a story apropos of nothing about a week long trip he took to Japan in the early 1990s during which he stayed with a family whose patriarch worked in the video game industry.
+2808.20 2812.30 SPEAKER_11  Years later, Ackman found out about a Japanese video game called Go Go Ackman.
+2812.90 2819.34 SPEAKER_11  The game, to quote Wikipedia, follows a demon child named Ackman who harvests souls for the great demon king.
+2819.76 2823.60 SPEAKER_11  The real Ackman spokesperson held up an iPad with an image from the game for me to see.
+2824.04 2827.64 SPEAKER_11  The demon child, like Ackman himself as a child, had prematurely grey hair.
+2828.00 2830.60 SPEAKER_11  Ackman said, I think that's me and I never got royalty.
+2831.14 2831.42 SPEAKER_11  Cool.
+2832.00 2832.68 SPEAKER_11  Thanks, Bill.
+2832.74 2833.98 SPEAKER_11  Also, by the way, this is New York
+2833.98 2835.22 SPEAKER_06  Magazine, not New York Times.
+2835.24 2835.76 SPEAKER_06  Excuse me, yes.
+2835.76 2837.32 SPEAKER_06  New York Magazine.
+2837.64 2841.78 SPEAKER_06  Because the Times has already done enough stuff on why Harvard is woke.
+2841.88 2842.06 SPEAKER_06  Yeah.
+2842.70 2843.98 SPEAKER_06  And they don't need to
+2843.98 2845.48 SPEAKER_07  do any more work on that.
+2845.52 2847.64 SPEAKER_07  Jeez, this profile was insane, though.
+2848.14 2850.04 SPEAKER_07  This is completely fucking bonkers.
+2850.38 2860.46 SPEAKER_07  And when I say he's a hero to wives everywhere, I am quoting a bit where he describes a meme where someone allegedly emails their wife that they have done the dishes.
+2860.68 2861.08 SPEAKER_07  Oh, we'll get that.
+2861.08 2863.10 SPEAKER_07  And then the wife says, oh, that's nothing.
+2863.52 2866.94 SPEAKER_07  Look what Bill Ackman is doing for academia.
+2867.18 2873.06 SPEAKER_07  And then it turns out that that was a meme of a text that was so clearly faked that, like, the fonts are the different sizes.
+2873.60 2873.96 SPEAKER_07  It's just...
+2873.96 2877.10 SPEAKER_09  No, but my wife actually just said that to me today.
+2877.96 2878.64 SPEAKER_09  I showed her like a...
+2878.64 2879.34 SPEAKER_09  Did you email her?
+2879.34 2887.14 SPEAKER_09  I emailed her and texted her and she was just like, yes, she made a lovely dinner for this evening, but you didn't do what Bill Ackman did.
+2887.46 2889.02 SPEAKER_11  You didn't write 10,000
+2889.02 2890.76 SPEAKER_09  posts while I was waving
+2890.76 2893.52 SPEAKER_11  at you frantically the cut it out gesture.
+2894.54 2897.08 SPEAKER_03  Can't believe my wife is leaving me for a Turkish magician.
+2899.24 2901.34 SPEAKER_11  Basically, basically, this is...
+2902.60 2904.18 SPEAKER_11  By the way, this...
+2904.18 2905.04 SPEAKER_11  Takes your wife away,
+2905.16 2906.92 SPEAKER_03  you lean forward and try and grab her back.
+2907.26 2907.62 SPEAKER_03  That's right.
+2907.62 2911.38 SPEAKER_03  You saw your wife in off, play them off against each other.
+2911.66 2913.42 SPEAKER_11  The meme you mentioned...
+2913.42 2913.94 SPEAKER_03  Two wives.
+2914.18 2920.56 SPEAKER_11  The meme you mentioned, Ed, that Ackman quotes to this journalist is one of the two things in his assistant's hands.
+2921.10 2934.32 SPEAKER_11  The assistant holds in one hand an iPad to make a point about how a video game designer was rude to him in the 1990s, and in the other hand, a physical folder of printed off emails of people being nice to him.
+2934.76 2937.30 SPEAKER_11  The world's most regular guy.
+2937.62 2939.06 SPEAKER_11  Who prints off emails?
+2939.14 2939.64 SPEAKER_10  Bill Ackman!
+2939.94 2940.22 SPEAKER_11  Yeah.
+2940.44 2940.86 SPEAKER_11  Apparently.
+2941.18 2941.90 SPEAKER_10  That's crazy.
+2941.90 2942.60 SPEAKER_11  His assistant.
+2942.84 2943.76 SPEAKER_11  As self-care.
+2944.16 2945.28 SPEAKER_11  So, let's go.
+2945.68 2947.30 SPEAKER_11  It all starts...
+2947.30 2960.84 SPEAKER_11  The whole episode really is about some things we've talked about at great length before, such as the actual proceedings of the blow-by-blow of his campaign against Harvard and DEI in general.
+2960.84 2967.02 SPEAKER_10  Yeah, he unseated President Gay, which sounds a lot funnier than it actually is.
+2967.26 2967.76 SPEAKER_10  Yeah, yeah, yeah.
+2967.76 2969.90 SPEAKER_10  Well, he's part of Jabat al-Wife.
+2970.20 2970.34 SPEAKER_03  Yeah.
+2971.24 2972.82 SPEAKER_11  Provisional wife ring.
+2973.28 2973.50 SPEAKER_03  Yeah.
+2973.60 2975.52 SPEAKER_11  So, he...
+2975.52 2981.42 SPEAKER_11  But this goes into, I think, some of the more personal sides of that crusade and its impact on him and others.
+2981.76 2986.16 SPEAKER_11  So, his whole discomfort with Harvard and academia, after being...
+2986.16 2990.04 SPEAKER_11  And again, we've sort of talked about him a few times in the past as being...
+2990.04 2998.74 SPEAKER_11  Seeing himself as a kind of pretty bog standard Democrat, it'd be nice if people had nice things type of billionaire, right?
+2999.04 3003.10 SPEAKER_10  The guy who gets scratched in order to find a fascist, that guy.
+3003.42 3003.50 SPEAKER_10  Yes.
+3003.68 3003.94 SPEAKER_11  Yes.
+3004.28 3010.74 SPEAKER_11  So, it starts with his daughter becoming sort of left-wing after attending college after 1990,
+3010.96 3011.72 SPEAKER_10  which is pretty usual.
+3011.80 3015.44 SPEAKER_10  Yeah, he says that she becomes a Marxist, and I just...
+3015.44 3016.02 SPEAKER_10  I hope...
+3016.16 3022.52 SPEAKER_10  in my heart of hearts that she was the most annoying kind of Marxist you can possibly become in college.
+3022.62 3023.88 SPEAKER_10  I hope she was a Maoist.
+3023.96 3026.72 SPEAKER_10  I hope she was, like, telling him to read Settlers.
+3027.78 3031.00 SPEAKER_10  I want his daughter to have called Bill Ackman a cracker.
+3031.32 3031.82 SPEAKER_11  Like...
+3031.82 3033.00 SPEAKER_11  Bill Crackman?
+3033.18 3040.32 SPEAKER_11  No, I think the funniest version is if she only writes his name, like, America-ca-ca, like, Bill Ackman-
+3040.32 3040.78 SPEAKER_01  Oh, Maoist
+3040.78 3044.44 SPEAKER_11  Standard English. Yeah, Bill Ackman- My...
+3044.44 3047.74 SPEAKER_11  My cracker father, Bill Ackman...
+3047.74 3050.52 SPEAKER_01  Yeah, so...
+3050.52 3059.94 SPEAKER_10  So, his daughter joined the fucking Black Hammer Reparations Corps, and because of that, he embarked on a crusade against all things woke.
+3060.12 3060.34 SPEAKER_10  Gotcha.
+3060.40 3061.44 SPEAKER_10  Yeah, so...
+3061.44 3062.26 SPEAKER_10  She called him a honky.
+3064.34 3066.90 SPEAKER_11  My father, Bill Ackman, is a honky.
+3067.62 3083.18 SPEAKER_11  We know the story, also, about how these sort of all got kicked off with a student letter that was sent after October 7th, basically expressing solidarity with Palestinians, and how he became sort of increasingly radical and prone to stakes raising as he tried to get people fired, started a plagiarism argument, and so on
+3083.18 3088.12 SPEAKER_10  and so on. He got radicalized on Twitter, which is one of the most pathetic ways to do it.
+3088.12 3088.40 SPEAKER_10  Yeah.
+3088.40 3091.32 SPEAKER_10  It's like him, Donald Trump, Elon Musk...
+3091.32 3091.80 SPEAKER_10  Graham Linehan.
+3092.06 3092.96 SPEAKER_03  Yeah, Graham Linehan.
+3093.16 3093.44 SPEAKER_03  Genuinely.
+3093.44 3095.14 SPEAKER_03  One too many pussy in bio.
+3096.88 3098.64 SPEAKER_03  And he was like, I've got to do something about this.
+3098.64 3099.64 SPEAKER_03  Sometimes you screw...
+3099.64 3100.60 SPEAKER_03  Before it's my wife in bio.
+3101.36 3103.00 SPEAKER_08  The ass was not even in the bio.
+3103.90 3104.90 SPEAKER_03  This is D-E-I...
+3104.90 3107.60 SPEAKER_03  There was only a link to the illusion of an ass.
+3108.74 3110.02 SPEAKER_08  These weren't even her pictures.
+3110.22 3110.70 SPEAKER_08  Plagiarism.
+3111.38 3118.60 SPEAKER_11  So by January, Ackman's second wife, the glamorous scientist architect Neri Oxman, was being accused of plagiarism too.
+3118.84 3128.78 SPEAKER_11  And Ackman was then promising not only to sue Business Insider, which published the allegations, but to use AI to audit the work of other college professors as an act of spousal vengeance.
+3129.48 3130.28 SPEAKER_04  He's so cool.
+3130.44 3131.08 SPEAKER_11  Yeah, he's awesome.
+3131.18 3132.42 SPEAKER_03  He's like John Wife.
+3132.70 3132.90 SPEAKER_03  Yeah.
+3133.42 3134.04 SPEAKER_03  That's awesome.
+3134.12 3135.44 SPEAKER_03  Oh, fuck, I was just about to say that.
+3135.50 3136.22 SPEAKER_03  Oh, wow, really?
+3136.34 3139.00 SPEAKER_03  The drama of John Wife was also kind of John Wife.
+3139.00 3141.96 SPEAKER_03  It wasn't good enough for two people to be thinking about saying it.
+3141.96 3142.44 SPEAKER_03  I'm not saying it was good, I'm just saying
+3142.44 3155.36 SPEAKER_11  I was going that direction. Ackman has been posting daily to his 1.2 million followers, sometimes going on for thousands of words with such a manic persistence, saying things like, I'm posting while on the elliptical for better time management.
+3155.52 3156.36 SPEAKER_11  Yeah, if you've ever said,
+3156.48 3161.62 SPEAKER_10  the best thing that Elon Musk ever did was remove this guy's word limit.
+3161.98 3171.56 SPEAKER_10  Because he just kind of, the thing is that the Twitter extra long, you paid for Twitter bullshit posts cut off after, you know, however many characters.
+3171.94 3186.80 SPEAKER_10  And so what you get is, Bill Ackman has said some bullshit, there's a paragraph and a half of bullshit, and then there's a, like a show some more jump and if you click that, what appears is like a 14 page essay about every way in which his wife has been wronged.
+3186.82 3187.88 SPEAKER_03  I'm loving this guy.
+3187.88 3188.60 SPEAKER_03  Totally unreadable.
+3188.66 3189.04 SPEAKER_03  Oh, of course.
+3189.14 3190.46 SPEAKER_03  Just completely unreadable.
+3190.70 3192.82 SPEAKER_03  Posting from the elliptical is awesome.
+3192.98 3197.64 SPEAKER_03  I'm training for a scenario in which someone on cross-country skis has kidnapped my wife.
+3198.08 3199.58 SPEAKER_03  I'm forced to hunt him down.
+3199.58 3210.66 SPEAKER_11  He's training for a scenario where someone on cross-country skis has suggested that his wife is a plagiarist and he also on cross-country skis must reply.
+3211.16 3212.90 SPEAKER_11  But like, she is though.
+3213.58 3214.92 SPEAKER_11  Yeah, she actually did that.
+3215.08 3215.96 SPEAKER_11  She did the plagiarist.
+3216.14 3217.12 SPEAKER_11  It's very obvious.
+3217.24 3222.74 SPEAKER_10  Yeah, I understand being a wife guy, but like, you know, she's hot, fine, but like, she did the plagiarism.
+3222.80 3228.20 SPEAKER_10  She plagiarized from one of her own students, which is like, catastrophically bad.
+3228.30 3230.06 SPEAKER_10  Like, you're really not supposed to do that.
+3230.12 3231.52 SPEAKER_10  It's generally frowned upon.
+3231.78 3233.56 SPEAKER_10  You're meant to, they're meant to plagiarize you.
+3233.82 3238.68 SPEAKER_03  I tell you what though, she could probably make some inroads in the Istanbul magic community.
+3239.10 3240.76 SPEAKER_03  I reckon she's got the source.
+3241.22 3243.18 SPEAKER_11  This, I'm going to jump around in the article a little bit.
+3243.24 3246.44 SPEAKER_11  If we want to talk about the impact on Oxman, which I think we do.
+3247.78 3261.52 SPEAKER_11  Ackman estimated that he had spent 110 hours or so battling the case on his wife's behalf and called one of his several long posts he wrote in an attempt to exonerate her, quote, the best and most important thing I have ever written.
+3261.86 3265.48 SPEAKER_11  I am an extremely fast writer and I am powered by a profound love that is infinite.
+3266.24 3266.92 SPEAKER_11  Jesus Christ.
+3267.10 3270.54 SPEAKER_10  Is that such a sober and unchemically altered sentence?
+3270.90 3271.02 SPEAKER_07  Yeah,
+3271.04 3271.40 SPEAKER_03  I was going to say,
+3271.46 3274.76 SPEAKER_07  is he like on Ayahuasca? Also, has this guy never had edibles?
+3275.28 3277.06 SPEAKER_07  Has he never played like Madden?
+3277.46 3278.34 SPEAKER_07  Or Hades?
+3278.92 3281.82 SPEAKER_07  Like, there are so many things you could do to waste your time.
+3282.22 3283.78 SPEAKER_07  Well, like, and he's a billionaire too.
+3283.88 3284.40 SPEAKER_07  He's a billionaire.
+3284.40 3285.04 SPEAKER_07  Yeah, he could do,
+3285.20 3299.06 SPEAKER_10  he could make real life Farmville. Yeah, he could do functionally whatever he wanted and instead he's just grimly posting because social media is kind of like a bear trap for, like, idle billionaire minds.
+3299.24 3301.40 SPEAKER_10  Isn't real life Farmville just a farm?
+3301.88 3304.04 SPEAKER_10  Yeah, he could, he could, he could open a farm.
+3304.44 3306.08 SPEAKER_07  He could just buy a farm?
+3306.20 3312.26 SPEAKER_07  Well, yeah, but I mean, no, the suggestion there would be that he'd have little, he'd have little things in their ears to tell them where to go.
+3312.26 3313.78 SPEAKER_07  He fucked up the farm terribly.
+3314.02 3315.02 SPEAKER_10  It's quite profound, actually.
+3315.20 3320.30 SPEAKER_10  I am an extremely fast writer and I am powered by a profound love that is infinite, you know?
+3320.54 3331.30 SPEAKER_07  And that's why everything I write has a kind of soullessness to it that doesn't feel like it really implies meaning so much as a grievance between me and people I've never met who have done nothing to me.
+3331.36 3333.92 SPEAKER_07  Yeah, but have done much to his wife by identifying her plagiarism.
+3333.92 3335.52 SPEAKER_07  But they haven't even done anything to her, she's fine.
+3335.54 3336.34 SPEAKER_07  He did both of them.
+3336.36 3336.86 SPEAKER_10  Nothing's happened.
+3337.62 3344.34 SPEAKER_10  By, by, by identifying her plagiarism, you have deployed verbal sarin gas against my wife.
+3345.58 3349.56 SPEAKER_11  I shall, I shall now respond to you, wife-alm Shinrico.
+3351.24 3351.76 SPEAKER_11  Oxman.
+3351.78 3353.58 SPEAKER_11  Okay, Mr. Piss, let's go.
+3353.80 3361.82 SPEAKER_11  Oxman, for her part, wasn't sure what to make of her husband's chivalrous tweeting, tweeting, which has drawn only more attention to the allegations of plagiarism.
+3362.86 3370.94 SPEAKER_11  Ackman wrote on X that the pressure from the business insider stories, quote, could literally have killed her and that he had seen others commit suicide in similar circumstances.
+3371.38 3373.44 SPEAKER_10  Don't chemically attack my wife.
+3373.76 3373.86 SPEAKER_11  Yeah.
+3374.04 3375.92 SPEAKER_11  Well, like being married to Bill Ackman, for example.
+3376.10 3382.80 SPEAKER_11  But then, again, he goes on being like, basically being like, yeah, my wife is mentally delicate and was going to commit suicide.
+3383.02 3385.62 SPEAKER_11  You almost drove her to suicide and you're laughing.
+3386.48 3391.02 SPEAKER_11  She was in a pretty dark place, Ackman told me, adding that he tried to nudge her towards finding a silver lining.
+3391.32 3393.44 SPEAKER_11  I thought you were going to say nudge her towards suicide.
+3393.44 3394.54 SPEAKER_03  She was in a dark place.
+3394.54 3395.70 SPEAKER_03  It's the honourable way out.
+3395.70 3402.70 SPEAKER_03  Handing her the short katana and being like, look, they've got you on the plagiarism thing, but we can make them feel pretty bad about it.
+3402.72 3403.98 SPEAKER_03  Come on, you like Elliot Smith.
+3404.54 3404.72 SPEAKER_03  Yeah.
+3404.82 3406.24 SPEAKER_03  Also, do it for the emperor.
+3406.34 3406.84 SPEAKER_03  Come on.
+3406.96 3412.84 SPEAKER_11  She was in a pretty dark place because her husband had gone mad and was posting
+3412.84 3418.96 SPEAKER_10  like 8,000 word screeds every hour about like how much of a plagiarist she wasn't.
+3419.00 3420.46 SPEAKER_11  Yes, he says, and I said,
+3420.56 3421.66 SPEAKER_07  true posters madness.
+3422.00 3425.30 SPEAKER_11  Yeah. And he then went on to say, I'm like, look, you didn't do anything wrong.
+3425.30 3426.40 SPEAKER_11  We're going to get this fixed.
+3426.70 3430.40 SPEAKER_11  The more negative press, the better, because once we turn this around, it'll be good for your company.
+3431.58 3434.20 SPEAKER_10  It's like they say, no news is bad news, right?
+3434.30 3438.06 SPEAKER_10  And a lot of news about how you're a plagiarist is good news on a long enough time.
+3438.10 3439.62 SPEAKER_07  Lots of bad news is good news.
+3439.70 3441.08 SPEAKER_07  No news is bad news.
+3441.74 3443.26 SPEAKER_07  There were times when she said,
+3443.56 3451.66 SPEAKER_03  they're telling, you know, the Turkish magician about the Hindenburg research article and they're like, well, the good news is all publicity is good publicity.
+3451.82 3454.18 SPEAKER_03  The bad news is you're going to prison.
+3455.30 3457.50 SPEAKER_11  Not for long.
+3457.62 3461.86 SPEAKER_11  There were times where Oxman said, please don't tweet anymore.
+3462.86 3466.60 SPEAKER_10  International wife coalition formed around those words.
+3466.60 3471.52 SPEAKER_03  I would do anything for a wife, but I won't do that.
+3471.52 3473.92 SPEAKER_10  alarmingly connected to Jeffrey Epstein,
+3474.14 3474.54 SPEAKER_09  girlfriend,
+3475.18 3477.22 SPEAKER_10  husband, perhaps you could stop posting.
+3477.22 3477.86 SPEAKER_07  Who took a donation from Epstein?
+3477.98 3486.42 SPEAKER_09  This is another relatable moment of like, you know, the strength of a marriage is one part posts too much and the other begs them to stop doing it.
+3486.72 3494.68 SPEAKER_09  The other one, the other partner is like, I know who you are like behind the screen and you're so much better and just let go and be you.
+3495.06 3501.02 SPEAKER_09  Everyone, like there are people here who love and care about you and you're like, not now, honey, I'm posting about how much I love you.
+3501.10 3502.60 SPEAKER_10  Meanwhile, the doors are wanders through
+3502.60 3512.32 SPEAKER_11  and cause them both crack. But he defended himself by pointing to memes online that we alluded to earlier, suggesting he had become a- This has always worked
+3512.32 3513.68 SPEAKER_10  in every relationship. This is the best part.
+3513.86 3514.02 SPEAKER_11  Yeah.
+3514.64 3517.10 SPEAKER_11  Suggesting he'd become a hero to wives everywhere.
+3517.72 3521.38 SPEAKER_11  Quote, there's a meme going around- Bill Eggman respects the wife.
+3521.62 3525.58 SPEAKER_11  There's a meme going around that apparently I'm causing a lot of marriages to have trouble.
+3525.92 3529.22 SPEAKER_11  Like this one where a husband emails the wife, honey, I did the dishes.
+3529.38 3530.60 SPEAKER_11  And she's like, big deal.
+3530.70 3533.16 SPEAKER_11  Did you see what Ackman is doing for his wife?
+3534.16 3534.92 SPEAKER_11  Now there's a guy
+3534.92 3536.86 SPEAKER_07  who's done a dish sometime.
+3537.46 3537.62 SPEAKER_07  Yeah.
+3537.82 3541.58 SPEAKER_07  He's definitely done the dishes any time in the last 40 years.
+3541.82 3544.28 SPEAKER_10  Emailing my wife to say, honey, I did the dishes.
+3545.60 3547.60 SPEAKER_03  I'm sending my- Email, no text.
+3547.74 3548.74 SPEAKER_03  You communicate formally.
+3548.96 3550.56 SPEAKER_03  Dear, dear wife.
+3551.04 3553.54 SPEAKER_03  Forward, forward, re-re, I did the dishes.
+3554.36 3555.16 SPEAKER_11  Subject, dishes.
+3555.64 3557.08 SPEAKER_11  I hope this finds you well.
+3557.08 3558.44 SPEAKER_11  Per my previous dishes.
+3558.76 3561.44 SPEAKER_11  When President Gay finally resigned on January 2nd,
+3561.58 3562.28 SPEAKER_10  Ackman was in- Sorry,
+3562.38 3566.14 SPEAKER_11  it's still not going to be being funny to me that it's President Gay.
+3566.30 3572.46 SPEAKER_11  Okay, when Claudine Gay finally resigned on January 2nd, Ackman was in the Dominican Republic with Oxman and their daughter.
+3572.82 3582.18 SPEAKER_11  And even though it was the penultimate night of their vacation, Ackman couldn't resist taking a victory lap and spent nine hours writing a 4,000 word reaction in Microsoft Word before then tweeting it.
+3582.18 3583.56 SPEAKER_11  Nine hours.
+3583.56 3585.28 SPEAKER_07  Jesus fucking Christ, dude.
+3585.80 3588.98 SPEAKER_07  Wait, it took him 10,000, it took him nine hours to write 10,000 words.
+3588.98 3589.32 SPEAKER_07  4,000.
+3589.68 3590.26 SPEAKER_07  4,000?
+3590.26 3593.64 SPEAKER_07  I can put out 4,000 words in about three hours, fucking imbecile.
+3593.70 3595.52 SPEAKER_07  I thought cocaine made you write fast.
+3595.88 3599.00 SPEAKER_11  I thought you wrote very fast and you were powered by a love that was infinite.
+3599.48 3600.30 SPEAKER_07  Yeah, how come?
+3600.44 3602.78 SPEAKER_07  I thought the love that was infinite made you write fast.
+3603.24 3605.24 SPEAKER_07  Yeah, Jesus, that's nine hours.
+3605.42 3607.10 SPEAKER_07  That's- Just like hunt and peck.
+3607.10 3608.34 SPEAKER_07  More than he's ever worked in a day.
+3608.34 3612.52 SPEAKER_10  Like hunting and pecking for the fucking, like, wife post out.
+3613.60 3615.22 SPEAKER_10  And probably mumbling like, this is good.
+3615.46 3615.98 SPEAKER_07  He's got the,
+3615.98 3616.16 SPEAKER_10  like,
+3616.22 3618.40 SPEAKER_11  Homer Simpson reading glasses on, you know.
+3618.74 3625.64 SPEAKER_11  Ackman believes that he does have an army behind him and that everything he's been talking about is sort of what everyone has been wanting to talk about but has been afraid to, he said.
+3626.02 3636.24 SPEAKER_11  While we spoke, an assistant carried a pink file folder into the conference room that was stuffed with letters from supporters, one of which was a certificate of commemoration made out to Bill Ackman for cleaning out the swamp.
+3636.44 3637.74 SPEAKER_11  He finally cleaned the swamp.
+3637.74 3638.42 SPEAKER_11  It was him.
+3638.94 3639.34 SPEAKER_11  Amazing.
+3640.12 3640.38 SPEAKER_01  Mm-hmm.
+3640.54 3643.36 SPEAKER_11  You bet he also showed those to his wife.
+3643.46 3644.74 SPEAKER_11  Like, I'm doing important posting.
+3644.74 3646.90 SPEAKER_10  I hope this guy's daughter joins the fucking
+3646.90 3652.68 SPEAKER_11  shining path. Ackman spent a few days in January posting quotes from Gladiator.
+3653.24 3657.00 SPEAKER_11  And, welcome to the posse, Ackman wrote to one of his followers.
+3657.00 3661.26 SPEAKER_03  Bill, will you stop tweeting, please, and turning to his wife, I will see you again.
+3661.36 3662.12 SPEAKER_03  But not yet.
+3662.72 3665.78 SPEAKER_11  Well, welcome to the posse, Ackman wrote to one of his new followers.
+3666.18 3667.00 SPEAKER_11  Let's roll.
+3667.00 3671.70 SPEAKER_11  Which is like, is he gonna rescue the Flight 93 of Harvard from DEI Al-Qaeda?
+3672.00 3673.92 SPEAKER_11  If fucking Maximus Decimus Meridius
+3673.92 3677.38 SPEAKER_10  had been on Flight 95, it wouldn't have gone down like that.
+3677.46 3678.18 SPEAKER_10  That's right.
+3678.46 3680.04 SPEAKER_07  Husband to an offended wife.
+3681.32 3682.88 SPEAKER_07  Father to a woke daughter.
+3682.88 3688.56 SPEAKER_02  There once was a dream
+3688.56 3690.14 SPEAKER_03  that was my wife.
+3690.76 3692.46 SPEAKER_00  You could only whisper it.
+3693.62 3697.28 SPEAKER_11  This is, this is basically like, it's like in Gladiator, right?
+3697.34 3705.88 SPEAKER_11  Except instead of Maximus' family being killed, Maximus attacks his own family entirely by the medium of supportive graffiti in Rome, basically.
+3706.42 3709.34 SPEAKER_11  He spent like nine hours on this wall mural.
+3709.34 3710.96 SPEAKER_11  And nothing happens
+3710.96 3711.64 SPEAKER_08  as well.
+3713.02 3715.30 SPEAKER_11  Are you not entertained? No.
+3715.94 3721.10 SPEAKER_11  You have the barbarians on the other side and they chop someone's head off and the Romans go and kill the barbarians.
+3721.36 3723.08 SPEAKER_11  Business Insider are the barbarians.
+3723.72 3725.74 SPEAKER_10  What a beautiful movie summary
+3725.74 3727.52 SPEAKER_07  Bill Ackman has just offered us there.
+3728.02 3728.18 SPEAKER_07  Yeah.
+3728.18 3731.48 SPEAKER_07  I like this because it's very clear he's never watched Gladiator.
+3731.58 3738.28 SPEAKER_07  In the same way that these guys all claim they read like 400 books a year, they skim read 400 books a year while looking at their phones somehow.
+3738.50 3743.84 SPEAKER_07  Like, they get some app that costs $50 a month to summarize books for them.
+3744.30 3755.34 SPEAKER_07  They don't consume any culture or they don't have actual opinions other than the fact that they should be a bit richer and that they should be allowed to do the things that they don't like other people doing because of wokeness.
+3755.34 3758.78 SPEAKER_07  Yeah, and their daughter should stop calling them anti-white racial slurs.
+3759.46 3763.06 SPEAKER_07  Their daughter should stop referring to them as a busted honky.
+3763.38 3763.92 SPEAKER_07  That's right.
+3764.16 3769.06 SPEAKER_03  I've never cared for Business Insider ever since they ambushed Varus' legions in the Tudorburg Forest.
+3769.18 3772.36 SPEAKER_03  I didn't think that was uncalled for from Business Insider.
+3772.60 3772.76 SPEAKER_11  Yeah.
+3772.98 3780.90 SPEAKER_11  So on November 1st, Ackman gave a lecture at Harvard offering advice to students saying, I would stay off social media even though I'm not a good example and encourage them to remain optimistic.
+3781.42 3789.24 SPEAKER_11  He said that he was in quote, a WhatsApp group with 50 other billionaires very focused on Israel and that Jared Kushner is another Harvard graduate
+3789.24 3789.96 SPEAKER_03  looking for ways
+3789.96 3790.68 SPEAKER_11  to rebuild Gaza.
+3790.90 3797.26 SPEAKER_03  How is that man just like saying things that are anti-Semitic conspiracy theories but not intending them as such?
+3797.70 3797.86 SPEAKER_03  Yeah.
+3797.86 3802.08 SPEAKER_03  I'm in a WhatsApp group with 50 billionaires where we talk about Israel.
+3802.64 3803.30 SPEAKER_03  Like what?
+3803.74 3807.68 SPEAKER_10  It was a rough day when Dennis Ferdlov got kicked from that group chat, you know?
+3807.72 3808.46 SPEAKER_10  Yeah, brutal.
+3808.78 3813.70 SPEAKER_10  The wealth ticks down to like 99999999999 and you're out, you know?
+3813.70 3816.06 SPEAKER_10  Although, thumbs down emojis
+3816.06 3819.70 SPEAKER_03  all around. And he's like, but I still believe passionately in our conspiracy.
+3819.88 3820.74 SPEAKER_03  They're like, no, no, no.
+3820.86 3821.06 SPEAKER_03  Yeah.
+3821.16 3823.00 SPEAKER_03  You can be in the multi-millionaire chat.
+3823.28 3836.28 SPEAKER_10  Well, actually, this does, the existence of pro-Israel billionaire group chat does imply that Carl Icahn is the center of another billionaire group chat that's the anti-Semitic ones.
+3836.58 3841.62 SPEAKER_11  We're just living in, we're just living in a billionaire WhatsApp group chat world.
+3841.62 3842.72 SPEAKER_11  You have been kicked
+3842.72 3847.86 SPEAKER_10  from billionaire group chat. You have been added to billionaire group chat brackets anti-Semitic.
+3848.58 3853.08 SPEAKER_07  Well, I just, I want to be in one of these just so that I can like drop the smiling man in there.
+3853.22 3853.62 SPEAKER_07  Yeah.
+3853.62 3855.66 SPEAKER_07  I love this thing about, yeah, we need to buy more land.
+3856.20 3857.84 SPEAKER_07  Once the Palestinians
+3857.84 3860.28 SPEAKER_08  have got, we buy more land and it's just the smiling man.
+3860.40 3860.66 SPEAKER_08  Yeah.
+3860.80 3862.18 SPEAKER_03  I love the group chat.
+3862.18 3863.34 SPEAKER_08  Go see someone in there.
+3863.44 3864.04 SPEAKER_08  You've got Gibbo,
+3864.20 3865.24 SPEAKER_10  Ricey, Cheeks,
+3865.40 3865.92 SPEAKER_03  Morty,
+3866.16 3867.58 SPEAKER_10  Bill Gates, Bill Ackman.
+3868.20 3873.10 SPEAKER_10  You're in kind of a sort of like Daryl who's not part of the experience role in the billionaire's group chat.
+3873.20 3879.80 SPEAKER_10  You know, you're just, you're too much of a fun hang for them to kick you out even though you have like a normal person amount of money.
+3879.92 3882.98 SPEAKER_10  So you're just there giving like little like thumbs up reacts to this.
+3883.40 3883.68 SPEAKER_11  Yeah.
+3883.92 3895.20 SPEAKER_11  So that night, Ackman and Ackman hosted a dinner in their Upper West Side apartment, a gathering of a collective called World Minds, an invitation only community funded by Axel Springer that so focused,
+3895.52 3896.14 SPEAKER_10  it was a brain mind.
+3896.16 3898.24 SPEAKER_11  We're back in conspiracy territory again.
+3898.24 3900.00 SPEAKER_10  Like what? The featured guests were-
+3900.00 3901.64 SPEAKER_11  This sounds like Red String connections.
+3901.90 3902.14 SPEAKER_11  Yeah.
+3902.48 3906.32 SPEAKER_11  The featured guests were two members of the World Minds Network, David Petraeus.
+3906.52 3907.84 None  Fucking- No!
+3908.74 3909.94 SPEAKER_01  The Red String!
+3910.32 3910.86 SPEAKER_10  The Red String!
+3910.88 3912.52 SPEAKER_10  This is the actual conspiracy.
+3912.72 3912.88 SPEAKER_10  Yeah.
+3913.02 3919.66 SPEAKER_10  Yeah, which is like in the fucking New York Magazine because one of them is complaining about them being rude to his wife.
+3920.28 3923.94 SPEAKER_11  David Petraeus and Avi Loeb, an Israeli astrophysicist at Harvard.
+3924.30 3927.46 SPEAKER_11  David Petraeus, the like general, the former CIA director.
+3927.46 3933.62 SPEAKER_11  Who now works at the private equity firm that owns Axel Springer which owns Business Insider.
+3934.14 3934.62 SPEAKER_11  Right.
+3934.90 3935.02 SPEAKER_11  Wow.
+3937.76 3938.70 SPEAKER_11  Nothing weird here.
+3938.98 3939.32 SPEAKER_11  Okay.
+3939.96 3944.04 SPEAKER_11  The war in Gaza had been raging for a month and Petraeus gave a talk about the geopolitical fallout.
+3944.40 3950.90 SPEAKER_11  In the evening, in the call for dialogue, a curator at MoMA called Paola Antonelli said, Love the alien.
+3951.42 3954.64 SPEAKER_11  Loeb took that idea to heart and suggested looking for hope from above.
+3954.94 3961.54 SPEAKER_11  My personal belief is that the Messiah will arrive, not necessarily from Brooklyn as some Orthodox Jews believe, but rather from outer space.
+3961.80 3967.86 SPEAKER_11  The extraterrestrial Messiah's message would be to stop fighting over territory here because there's much more real estate available throughout the universe.
+3968.00 3969.66 SPEAKER_11  I want to be in billionaire group chat.
+3970.20 3970.76 SPEAKER_07  Excuse me,
+3970.82 3972.78 SPEAKER_10  what was that about the Messiah coming from Brooklyn?
+3972.96 3975.84 SPEAKER_10  Have they invented capitalist Pasadism?
+3976.84 3978.36 SPEAKER_10  In a penthouse.
+3978.90 3985.80 SPEAKER_03  We approached David Petraeus for comment on Bill Ackman's wife and his Business Insider and he was quoted as saying, I hardly know her.
+3986.48 3987.50 SPEAKER_01  Thank you very much,
+3987.58 3987.72 SPEAKER_11  Lola.
+3988.92 3990.08 SPEAKER_09  Very good. Well done.
+3990.22 3990.54 SPEAKER_09  Thank you.
+3992.38 3993.46 SPEAKER_09  I'm glad it could land.
+3993.46 3998.22 SPEAKER_11  Ackman believes our lives are often faded from birth, saying, I have a view that people become their names.
+3998.52 4001.38 SPEAKER_11  Like, I've met people named Hamburger that own McDonald's franchises.
+4001.72 4004.00 SPEAKER_03  Which is why I love the Kathy cartoons.
+4004.00 4008.86 SPEAKER_10  Yeah, this is my McDonald's franchisee John Hamburger.
+4009.02 4011.00 SPEAKER_10  I like his Hamburger first name.
+4011.28 4011.86 SPEAKER_03  Oh, so like,
+4012.10 4016.52 SPEAKER_10  to an American, imagine a Bond girl Hamburger type pussy.
+4016.94 4019.50 SPEAKER_03  Yeah, no, the guy's name is Hamburger Chicken Select.
+4019.98 4024.04 SPEAKER_07  And he opened a branch of Burger King weirdly, but...
+4024.04 4027.40 SPEAKER_07  Well, I just, the moment I read that I thought of the speech from the end of Blade Runner.
+4027.72 4028.02 SPEAKER_04  Hmm.
+4028.26 4030.88 SPEAKER_07  I've met men who were, men who own
+4030.88 4033.10 SPEAKER_08  Hamburger joints. I've seen wives,
+4033.10 4034.74 SPEAKER_04  you people couldn't imagine.
+4035.82 4039.30 SPEAKER_08  Yeah, I've complimented wives in ways you couldn't imagine.
+4039.50 4040.46 SPEAKER_08  Dishes washed
+4040.46 4043.40 SPEAKER_11  by the townhousing gate. Man, Ackman.
+4043.90 4046.02 SPEAKER_11  Here's my favourite line from the entire thing.
+4046.46 4051.68 SPEAKER_11  We've been talking for nearly an hour and a half when Ackman asked me what my name was hoping to offer a diagnosis.
+4051.92 4053.36 SPEAKER_10  Wait, wait, wait, wait, hold on, hold on, back up.
+4054.22 4058.80 SPEAKER_10  We've been talking for an hour and a half and he asks what my name is.
+4058.84 4062.34 SPEAKER_10  It's such a perfect little vignette of interacting with this guy.
+4062.34 4066.92 SPEAKER_10  Because I normally, right, I normally get that out of the way sort of first thing.
+4067.32 4067.98 SPEAKER_10  When I book it?
+4068.04 4069.06 SPEAKER_10  When I'm talking with a person.
+4069.14 4069.40 SPEAKER_10  Yeah.
+4069.80 4072.30 SPEAKER_10  Like, I ask, hey, what's your name?
+4072.34 4072.94 SPEAKER_10  I guess.
+4073.38 4080.14 SPEAKER_10  He waits for, he does an hour and a half monologue of showing him printed out posts and then he goes, yeah, what's your name?
+4080.26 4081.44 SPEAKER_10  By the way, who are you?
+4082.40 4085.80 SPEAKER_03  He's like, look, I've been married to my wife for years and I don't even know her name.
+4086.00 4087.00 SPEAKER_03  I just call her wife.
+4087.44 4089.70 SPEAKER_03  The most respectful title a woman can have.
+4089.98 4093.52 SPEAKER_03  So, wait, wait, Neri Oxman, though, what the fuck does that mean?
+4093.86 4095.20 SPEAKER_03  She's strong.
+4095.36 4096.36 SPEAKER_03  Like an ox, yeah.
+4096.36 4097.04 SPEAKER_03  Yeah, like a bloke.
+4097.20 4097.32 SPEAKER_03  Yeah.
+4098.58 4099.42 SPEAKER_10  Neri Oxman
+4099.42 4107.22 SPEAKER_03  is bricked up. She looks like a man and she tastes of gravy.
+4108.84 4112.48 SPEAKER_11  So, Reeves Weidman was the author
+4112.48 4113.82 SPEAKER_03  of this piece. No.
+4114.04 4114.62 SPEAKER_08  Or Weidman.
+4114.92 4115.12 SPEAKER_08  No.
+4115.12 4115.32 SPEAKER_08  No.
+4115.66 4115.84 SPEAKER_08  No.
+4116.84 4119.14 SPEAKER_05  It's a Kojima house name.
+4120.58 4120.90 SPEAKER_05  Sam,
+4121.02 4122.22 SPEAKER_11  this is Reeves Weidman.
+4122.78 4125.92 SPEAKER_05  It's the Weidman tweet. It's the Weidman tweet.
+4126.04 4127.86 SPEAKER_05  Oh, no, this is Reed Weidman.
+4129.36 4134.04 SPEAKER_11  Yeah, so, after he's seemingly stumped by my surname, I offered him my first name, which he misheard as Reed.
+4134.52 4137.40 SPEAKER_11  Reed, right, he said before turning the focus back on himself.
+4137.62 4138.72 SPEAKER_11  My name is Ackman.
+4138.84 4140.34 SPEAKER_11  It's like activist, man.
+4141.38 4141.78 SPEAKER_05  What?
+4142.32 4142.84 SPEAKER_05  No, it isn't.
+4142.84 4144.20 SPEAKER_07  Hello, activist man.
+4144.42 4145.84 SPEAKER_07  Reed Weidman.
+4146.04 4147.14 SPEAKER_07  It's like fantasy man
+4147.14 4149.60 SPEAKER_10  out of the, of the, no, Fielding show.
+4149.62 4154.08 SPEAKER_10  I'm embarrassed that I had the same sort of nominative determinism instinct as Bill Ackman.
+4154.54 4155.80 SPEAKER_10  What's this dude's name again?
+4156.74 4157.74 SPEAKER_07  Reeves Weidman.
+4159.08 4162.12 SPEAKER_07  I would have just made up my, I would have been like Ack murderer.
+4162.40 4163.10 SPEAKER_07  Sorry, I suppose.
+4163.44 4167.26 SPEAKER_07  Like just something that just like, and just stared at him very intently.
+4167.56 4171.98 SPEAKER_03  Well, when you confront him in Reeves Weidman, how do you not just go, and look at the size of you.
+4171.98 4172.54 SPEAKER_03  So,
+4172.76 4174.18 SPEAKER_11  whoa, how do you get through doors?
+4174.44 4195.00 SPEAKER_11  So, Ackmans is still trying to get, basically dismantle Business Insider, calling the lead editor of Business Insider, then calling the CEO of Axel Springer, and then calling KKR, the same from Petraeus Worksat, which owns Axel Springer, saying basically, rectifying the situation will require only seven simple steps.
+4195.34 4195.52 SPEAKER_11  Okay.
+4195.52 4199.08 SPEAKER_11  Number one, Axel Springer's de-publishes the stories about Ackman.
+4199.48 4217.46 SPEAKER_11  Number two, has its CEO, Matthias Dupfner, fly from Germany to New York to sit down with Henry Kravis of KKR to adopt a settlement fund to compensate all of those who've been victimized by the publication and the proceeds for any settlement go to Ackman so her company can accelerate the incredible work that she does making marbles for Billionaire.
+4217.52 4220.48 SPEAKER_11  Yeah, what does she do aside from plagiarism?
+4220.86 4221.94 SPEAKER_11  Like, marble.
+4222.34 4222.62 SPEAKER_11  Okay.
+4222.76 4223.04 SPEAKER_11  Marbles?
+4223.26 4223.90 SPEAKER_11  She makes marbles?
+4224.26 4224.58 SPEAKER_10  Ox?
+4224.90 4226.04 SPEAKER_03  She makes oxes?
+4226.20 4227.88 SPEAKER_03  And she's still got
+4227.88 4243.50 SPEAKER_10  all her marbles. It's crazy how much of this is like downstream of Peter Thiel killing Gorka, by the way, of being like, okay, this sort of like outlet has published something that I find personally embarrassing, therefore it's on the table for me to take all of their money and give it to, I guess,
+4243.62 4245.22 SPEAKER_03  my wife. Yeah, is Gorka dead?
+4245.36 4246.20 SPEAKER_03  And these people
+4246.20 4247.24 SPEAKER_10  always have... Oh,
+4247.42 4247.58 SPEAKER_02  oh,
+4247.58 4248.34 SPEAKER_11  not Gorka.
+4248.58 4250.16 SPEAKER_02  Oh, I feel like...
+4250.16 4251.72 SPEAKER_02  No one could kill me.
+4251.86 4254.14 SPEAKER_02  Did you pop on down to the cemetery?
+4254.50 4256.42 SPEAKER_08  I do not know, Neri Oxman.
+4256.90 4258.70 SPEAKER_02  Don't be so foolish,
+4259.00 4262.40 SPEAKER_08  Mr. Thiel. Neri Oxman, she does not look like an ox.
+4262.46 4264.18 SPEAKER_08  Take a zip line on down
+4264.18 4265.94 SPEAKER_10  to the open grave.
+4266.16 4269.88 SPEAKER_02  I have surrounded myself with gigantic ornamental marbles.
+4270.66 4275.44 SPEAKER_02  The refracted light will make it most difficult for your snipers to get a bead on me, Mr. Thiel.
+4276.10 4279.32 SPEAKER_08  I think you'll find I'm a hero to wives everywhere.
+4279.32 4281.22 SPEAKER_02  I'm quite well protected.
+4281.64 4283.76 SPEAKER_02  Why don't you ask your wife where I am?
+4285.64 4288.76 SPEAKER_11  He told me he remains undeterred in his quest.
+4289.08 4295.94 SPEAKER_11  He's close to signing a contract with an AI company to conduct a plagiarism review and still plans to file a lawsuit with Business Insider.
+4296.42 4300.92 SPEAKER_11  Most recently has invited a new ally in the form of Dave Portnoy from Barstool Sports.
+4300.94 4301.16 SPEAKER_11  No!
+4301.96 4302.34 SPEAKER_10  What?
+4302.34 4302.84 SPEAKER_10  What?
+4303.80 4305.70 SPEAKER_07  Famous beater of Business Insider.
+4306.02 4312.96 SPEAKER_10  Two dumbass motherfuckers telling each other exactly for like four hours.
+4313.72 4318.28 SPEAKER_03  Bill Ackman's going to go on the Call Her Daddy podcast to talk about how he loves his wife.
+4318.94 4320.80 SPEAKER_03  And she's going to be going like exactly.
+4321.48 4322.98 SPEAKER_03  They need to get him on the Adam Friedland
+4322.98 4323.38 SPEAKER_07  show.
+4323.88 4324.24 SPEAKER_03  Yeah.
+4325.04 4328.40 SPEAKER_11  I have Adam Friedland dapping up Bill Ackman.
+4328.72 4328.88 SPEAKER_11  Yeah.
+4330.00 4334.64 SPEAKER_11  He plans to pursue his various campaigns to the end of the earth.
+4335.18 4338.24 SPEAKER_11  Well, because he's powered by a profound love that's infinite.
+4338.70 4339.66 SPEAKER_11  Yeah, he is Christ-like.
+4339.72 4343.46 SPEAKER_11  That is the love that Jesus Christ brought down from the man
+4343.46 4344.86 SPEAKER_07  all those many years ago. I'm pretty certain.
+4345.42 4356.14 SPEAKER_07  Here's the other thing that I like about this where he's like, yeah, well, the problem is that there's a big cabal working against us all to do stuff and that's very bad which is why the resolution of this is a slush fund for me and my wife.
+4356.68 4357.04 SPEAKER_07  Yeah,
+4357.14 4357.64 SPEAKER_01  the wife fund.
+4357.64 4359.50 SPEAKER_07  And an AI company that I just came up with.
+4359.52 4361.10 SPEAKER_07  A sovereign wife fund.
+4361.26 4361.52 SPEAKER_07  Yeah.
+4362.24 4363.40 None  Oh, yeah.
+4363.78 4364.62 SPEAKER_05  Now we're cooking.
+4364.62 4368.38 SPEAKER_03  Well, the solution of this is the cabal of billionaires that I'm actually in.
+4369.00 4369.30 SPEAKER_07  Yeah.
+4369.54 4369.86 SPEAKER_07  Yeah,
+4369.86 4371.64 SPEAKER_03  the group jet of 50 billionaires, you know?
+4371.88 4372.06 SPEAKER_03  Yeah.
+4372.66 4374.50 SPEAKER_07  I just find it amazing.
+4374.66 4375.86 SPEAKER_07  I think this is so cool.
+4376.22 4382.56 SPEAKER_07  I would rather shoot myself than have this much stuff about me online, let alone in the least readable form, tweets.
+4383.06 4386.10 SPEAKER_11  I think this is not the last we've heard of activist man,
+4386.56 4391.68 SPEAKER_10  personally. I think we can say that pretty definitively, given that he is currently posting.
+4391.68 4393.06 SPEAKER_10  Because he never shuts the fuck up.
+4393.06 4393.30 SPEAKER_10  Yeah.
+4393.60 4393.92 SPEAKER_10  Anyway.
+4394.04 4395.42 SPEAKER_11  We'll hear more from Bill Ackman.
+4395.44 4395.68 SPEAKER_11  Anyway.
+4396.74 4397.86 SPEAKER_11  Too much more, someone said.
+4397.94 4400.32 SPEAKER_11  Bill Ackman, the posters salute to you.
+4400.86 4401.68 SPEAKER_11  Yeah, that's all right.
+4401.80 4403.16 SPEAKER_11  I think that's about all we have time for today.
+4403.16 4404.10 SPEAKER_11  We've run a little long.
+4404.30 4406.72 SPEAKER_11  So I want to say, Ed, thank you very much.
+4406.82 4408.40 SPEAKER_11  And where can people find a little more Ed?
+4408.78 4413.84 SPEAKER_07  So you can find my newsletter at wheresyoured.at and you can also go to betteroffline.com.
+4413.90 4418.46 SPEAKER_07  The show comes out the 21st of February, so probably after this runs.
+4418.64 4420.24 SPEAKER_07  But there's two episodes coming out.
+4420.28 4431.90 SPEAKER_07  It's going to be The Rot Economy, My Economic Theory, and then there's going to be my review of the Vision Pro, which should be, which made some people upset because I neither hated it nor liked it, which means nobody was really happy, which is really the experience I sell.
+4432.64 4434.08 SPEAKER_07  And yeah, thanks for having me.
+4434.14 4434.56 SPEAKER_07  Yeah, of course.
+4434.70 4439.08 SPEAKER_10  I mean, it's our pleasure to do it, given that we are powered by a profound love that is infinite.
+4439.68 4440.48 SPEAKER_10  That is right.
+4440.60 4441.56 SPEAKER_10  That is the official
+4441.56 4443.28 SPEAKER_03  power source of Trash Future.
+4443.72 4448.88 SPEAKER_11  Also, March 13th, we are doing a live show in London.
+4449.24 4449.58 SPEAKER_11  Fucking right.
+4449.58 4450.70 SPEAKER_11  Guess who's getting the train
+4450.70 4452.36 SPEAKER_10  down to London again? It's me.
+4452.70 4453.70 SPEAKER_10  That is right.
+4454.02 4455.06 SPEAKER_10  Guess who's our guest?
+4455.20 4456.14 SPEAKER_10  Bill Ackman's wife.
+4456.28 4456.94 SPEAKER_11  That's right.
+4457.12 4458.74 SPEAKER_10  No, Bill Ackman's daughter is our guest.
+4458.74 4459.06 SPEAKER_10  Bill Ackman's wife.
+4459.22 4459.50 SPEAKER_10  Hello.
+4460.50 4463.50 SPEAKER_11  Bill Ackman's daughter is going to come on and call her dad a cracker.
+4463.50 4468.20 SPEAKER_11  We are very excited about that.
+4468.50 4470.68 SPEAKER_11  I still have to come up with what we are talking about.
+4470.72 4472.12 SPEAKER_11  Just any old shit.
+4472.12 4474.38 SPEAKER_03  Whatever Bill Ackman's daughter wants to talk about.
+4474.40 4478.94 SPEAKER_11  Also, November and I are going to be doing two books for Left on Red this month.
+4479.28 4479.52 SPEAKER_11  Yeah.
+4479.72 4486.22 SPEAKER_11  They're both yet to come out, but the first one is going to be the Palestine Laboratory about how Israel exports the technology of surveillance around the world.
+4486.34 4491.22 SPEAKER_11  And the second one is going to be Master and Commander, the first of the Jack Aubrey-Steven-Matcher and novel.
+4491.22 4492.64 SPEAKER_11  Wow, never heard of that.
+4492.94 4495.20 SPEAKER_10  Get neurodivergent about it.
+4495.40 4506.22 SPEAKER_10  If you are on the spectrum and you're not on the £10 Patreon tier, $10 Patreon tier, get on that now because we will be talking about boats for a long time.
+4506.22 4506.92 SPEAKER_10  November and I
+4506.92 4509.94 SPEAKER_11  will be listing different kinds of sales you can have.
+4510.20 4510.84 SPEAKER_11  Yeah, that's right.
+4511.06 4511.42 SPEAKER_11  Royals,
+4511.90 4512.68 SPEAKER_03  Topgalots,
+4512.88 4513.62 SPEAKER_11  there are others.
+4513.94 4533.66 SPEAKER_03  Yeah, that's right. Also, I'm on tour March the 3rd in Brighton, March 23rd, Brisbane, Australia, early April, Melbourne, Australia for ages, then Sydney, 12th of April, Newcastle, 14th of April, Canberra and Adelaide and Perth shortly after that.
+4533.84 4534.54 SPEAKER_03  Milo will be
+4534.54 4539.84 SPEAKER_11  bringing me a bottle of Penfold's Grange Hermitage back from Australia as a nice present.
+4541.20 4542.24 SPEAKER_11  Have you learned
+4542.24 4543.84 SPEAKER_03  hypnotism off of that Turkish man?
+4545.12 4547.24 SPEAKER_03  I think he may have left out some steps.
+4547.24 4549.88 SPEAKER_11  All right, all right.
+4549.96 4551.02 SPEAKER_11  Thanks a lot for listening, everybody.
+4551.28 4555.16 SPEAKER_11  Don't, oh yeah, you're already subscribed on, I don't have to, we don't have to give, this is a bonus episode.
+4555.50 4556.70 SPEAKER_11  Yeah, you're already giving us your money.
+4557.16 4560.50 SPEAKER_11  No, we don't have to give you the warning about Apple charging more.
+4560.96 4561.22 SPEAKER_11  Yeah.
+4561.76 4562.40 SPEAKER_11  All right, all right.
+4562.50 4562.94 SPEAKER_11  Bye, everybody.
+4563.14 4563.34 SPEAKER_11  Bye.
+4563.34 4563.44 SPEAKER_11  Bye.
+4563.44 4563.54 SPEAKER_11  Bye.
+4563.54 4563.64 SPEAKER_11  Bye.
+4563.64 4564.04 SPEAKER_01  Bye.
+4564.04 4564.14 SPEAKER_01  Bye.
+4564.14 4564.22 SPEAKER_01  Bye.
+4564.22 4564.30 SPEAKER_01  Bye.
+4564.30 4565.54 None  Bye.
+4565.54 4565.56 None  Bye.
+4565.56 4566.14 None  Bye.
+4566.14 4566.18 None  Bye.
+4566.18 4566.30 None  Bye.
+4566.30 4567.24 None  Bye.
+4567.24 4567.30 None  Bye.
+4567.30 4567.36 None  Bye.
+4567.36 4568.30 None  Bye.
+4568.30 4568.36 None  Bye.
+4568.36 4569.36 None  Bye.
+4569.36 4570.30 None  Bye.
+4570.30 4570.36 None  Bye.
+4570.36 4571.30 None  Bye.
+4571.30 4571.36 None  Bye.
+4571.36 4572.30 None  Bye.
+4572.30 4573.30 None  Bye.
+4573.30 4573.36 None  Bye.
+4573.36 4574.36 None  Bye.
+4574.36 4575.36 None  Bye.
+4575.36 4576.36 None  Bye.
+4576.36 4577.36 None  Bye.
