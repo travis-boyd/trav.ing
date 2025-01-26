@@ -1,0 +1,830 @@
+0.00 20.00 None  B8-2-res No, B8-2-res.
+20.00 23.00 SPEAKER_03  The Atto-res batteries.
+23.00 27.00 SPEAKER_03  To-g-for? To-ge-for? Together?
+27.00 31.00 SPEAKER_03  Me was trying to save time.
+31.00 32.00 SPEAKER_03  Bamba clap.
+32.00 37.00 SPEAKER_09  Hello and welcome to Britainology, the show about Britain and why it's like that.
+37.00 40.00 SPEAKER_09  And may I add on this occasion, booyakasha.
+40.00 44.00 SPEAKER_09  I'm Milo Edwards and I'm joined as ever by my co-host Nate Bethea.
+44.00 53.00 SPEAKER_06  Hi, it's me. Yeah, we're going to talk about a figure that is well known to Brits and perhaps, well, less well known to Americans.
+53.00 64.00 SPEAKER_06  And I have to admit that I'm not confused by Oli G's popularity and or Sasha Baron Cohen's character's popularity.
+64.00 77.00 SPEAKER_06  But because of the period in which this was at its apex of popularity, I can recall encountering it as a teenager in America and being so incredibly confused.
+77.00 78.00 SPEAKER_06  Yeah.
+78.00 87.00 SPEAKER_06  And now as an adult who's lived in Britain for over five years now going and encountering it again, I think I understand it about 5% more.
+87.00 90.00 SPEAKER_06  Not that I can't understand the slang or the fucking way he talks.
+90.00 91.00 SPEAKER_06  Yeah, yeah, yeah.
+91.00 112.00 SPEAKER_06  But the whole thing, the whole thing, I just, the one thing I will say about, about Sasha Baron Cohen is that because of the popularity of the Borat films in America, particularly the first Borat film, he's much more of a known quantity to the point where like he couldn't really do the Borat approach in America anymore because too many people recognized him.
+112.00 119.00 SPEAKER_06  So in that regard, because of that popularity, his earlier stuff was then more people learned about it.
+119.00 120.00 SPEAKER_06  Yeah, yeah.
+120.00 134.00 SPEAKER_06  But all I can say is that my first encounter with Ali G was back because Madonna put out an album in like 98, the album Ray of Light that was like a big, big, big comeback for her and had tons of huge hits on it.
+134.00 141.00 SPEAKER_06  And so for a while, her subsequent stuff was also being very prominently featured back when MTV VH1 played music videos more.
+141.00 142.00 SPEAKER_06  Yeah.
+142.00 149.00 SPEAKER_06  And she put out the song music in 2000 and in the music video for the song music, Ali G is the limo driver.
+149.00 151.00 SPEAKER_06  And it's Sasha Baron Cohen playing Ali G.
+151.00 158.00 SPEAKER_06  And like, it's just, I remember watching this as like a 15 or 16 year old American be like, what, who the fuck is that?
+158.00 159.00 SPEAKER_06  What's going on here?
+159.00 162.00 SPEAKER_09  It's the fucking dialogue at the start in the, in the limo.
+162.00 163.00 SPEAKER_09  Yeah.
+163.00 164.00 SPEAKER_09  Yeah.
+164.00 165.00 SPEAKER_09  It's great.
+165.00 169.00 SPEAKER_09  I can just imagine how confusing that would be to an American teenager.
+169.00 182.00 SPEAKER_06  It's just a short burst of Ali G and just no context because remember at the time Madonna was married to Guy Ritchie and was living in the UK and was in like full cool Britannia tiaboo mode.
+182.00 186.00 SPEAKER_06  And so she, she, she spoke with a bit of an affected English accent at the time.
+186.00 187.00 SPEAKER_06  Yeah.
+187.00 192.00 SPEAKER_09  This was, this was the era when, you know, they were seen leaving a hotel with a, with a strap on in a clear plastic bag.
+192.00 193.00 SPEAKER_06  Yes.
+193.00 204.00 SPEAKER_06  And, and, and so, yeah, that, that immediate exposure, it was just sort of like, is this guy part of the, the story of this music video for some reason?
+204.00 206.00 SPEAKER_06  Is he supposed to be Middle Eastern?
+206.00 208.00 SPEAKER_06  Who is this guy?
+208.00 210.00 SPEAKER_06  Why does he talk like that?
+210.00 211.00 SPEAKER_06  And it wasn't really explained.
+211.00 221.00 SPEAKER_06  I mean, it wasn't, it was, wasn't necessarily meant to be explained, but I feel as though taken out of the context of Sacha Baron Cohen's subsequent fame.
+221.00 222.00 SPEAKER_06  Yeah.
+222.00 231.00 SPEAKER_06  If you show what the clips you've shown me to an American who wasn't necessarily like exposed to it before, they would probably say, why does he talk like that?
+231.00 233.00 SPEAKER_06  What the fuck is going on?
+233.00 234.00 SPEAKER_09  What the fuck is going on?
+234.00 235.00 SPEAKER_09  Yeah.
+235.00 241.00 SPEAKER_09  I mean, also, I think we'll get into this, but like some of the clips we watched, you're like, you're like, Oh, this is of its time.
+241.00 242.00 SPEAKER_09  Yes, it is.
+242.00 243.00 SPEAKER_08  Woo.
+243.00 244.00 SPEAKER_09  But it's sort of, I don't know.
+244.00 251.00 SPEAKER_09  I always have such in, in the, in the, in the broader, in the broader sense, always have like such kind of like mixed feelings about Sacha Baron Cohen.
+251.00 260.00 SPEAKER_09  Um, you know, uh, uh, another, another one of Cambridge's proud sons, but, um, he's like, he's done so much stuff.
+260.00 272.00 SPEAKER_09  That's like, so like great, like bordering on genius, but then also Bruno, like, you know, where you're just like watching, you know, like the first Borat movie.
+272.00 277.00 SPEAKER_09  There's so many moments in it that are like, like him talking to like us senators and stuff.
+277.00 278.00 SPEAKER_09  And it's like, this is amazing.
+278.00 279.00 SPEAKER_09  This is like groundbreaking.
+279.00 284.00 SPEAKER_09  But then like, yeah, then it's like, Bruno, what if a man was gay and also Austrian?
+284.00 285.00 SPEAKER_06  Yeah.
+285.00 287.00 SPEAKER_06  What if a gay guy was, was hugely flaming?
+287.00 288.00 SPEAKER_06  Yeah.
+288.00 290.00 SPEAKER_06  We've never had that as a comedy trope in America ever.
+290.00 291.00 SPEAKER_06  Yeah.
+291.00 294.00 SPEAKER_06  Well, the entire joke is he's gay.
+294.00 296.00 SPEAKER_09  Imagine, imagine that.
+296.00 301.00 SPEAKER_09  And I remember even when I watched Bruno, which was probably like around the time when it came out, you know, I'm like 16, 17.
+301.00 302.00 SPEAKER_09  I don't know what I mean.
+302.00 304.00 SPEAKER_09  And even at the time I was like, oh man, this sucks.
+304.00 305.00 SPEAKER_09  Yeah.
+305.00 306.00 SPEAKER_06  It sucks really bad.
+306.00 329.00 SPEAKER_06  I mean, I would say for me of all the clips that we watched, the one that I think really nailed it down for me that he's very, very sharp and talented as, as both a comedian and kind of like not improv explicitly, but in the, the, the sense of being able to like follow the contours of a thing to find a joke was the interview he did with the Beckhams.
+329.00 330.00 SPEAKER_06  Yeah.
+330.00 336.00 SPEAKER_06  That was like, specifically the riff about if the fittest, the best footballer gets the fittest girl.
+336.00 340.00 SPEAKER_09  Does that mean that, uh, baby spices going out with someone from Scunthorpe United?
+340.00 346.00 SPEAKER_06  Baby spices going out with someone from Scunthorpe and, and, uh, Victoria Beckham is like that.
+346.00 349.00 SPEAKER_06  Like that, like, like basically like that's, that's my friend and that's rude.
+349.00 350.00 SPEAKER_06  Like that's offensive.
+350.00 351.00 SPEAKER_06  And he's like, yeah, I know.
+351.00 353.00 SPEAKER_06  So you're saying like, she's cause baby spices fit.
+353.00 355.00 SPEAKER_06  So what you're saying is this, you're saying Scunthorpe's a bad team.
+355.00 356.00 SPEAKER_06  That's fucked up.
+356.00 359.00 SPEAKER_06  And like, that's, it was such a good turnaround moment.
+359.00 362.00 SPEAKER_06  I was just like, damn, this guy is actually really, really, really good.
+362.00 363.00 SPEAKER_06  Hmm.
+363.00 370.00 SPEAKER_06  Borat to me, I saw it in theaters and it was really funny at the time, but I also think like you said, it's very of its time.
+370.00 371.00 SPEAKER_06  Yeah.
+371.00 374.00 SPEAKER_06  And I don't know if I would find that as funny if I went back and watched it now.
+374.00 375.00 SPEAKER_06  Yeah.
+375.00 389.00 SPEAKER_09  There's definitely things where the, the, the most like insane, like, I think the stuff in it now that reads the craziest is like the really like anti-Semitic stuff in there, but like he is Jewish, so he can kind of, he can carry that.
+389.00 401.00 SPEAKER_09  Um, but, uh, yeah, it's, it definitely like, yeah, I mean like stylistically it's very dated, but yeah, there's some moments just like the guy's face when he says my mom, my wife make this cheese with milk from her.
+401.00 405.00 SPEAKER_09  I'm just like, yeah, there's a certain, you know, there's some jokes you'll grow out
+405.00 420.00 SPEAKER_06  of. I think the, the, the naked wrestling scene where he's yelling at the guy in Hebrew and the guy's yelling back at him in Armenian and it's, they've just, they just added in subtitles, but it's, it's completely improv of them just speaking in mutually unintelligible languages.
+420.00 421.00 SPEAKER_06  Yeah.
+421.00 423.00 SPEAKER_06  I, I fucking wept the first time I watched that.
+423.00 424.00 SPEAKER_06  Yeah.
+424.00 426.00 SPEAKER_06  So, I mean, we're, we're, we're going to talk about Ali Jean.
+426.00 429.00 SPEAKER_06  I think the thing that, okay, here's the thing that really too, as an American.
+429.00 442.00 SPEAKER_06  And also when you think about the distance between when this was like being made versus now is that the idea of a white dude trying to sound like a British Jamaican guy.
+442.00 443.00 SPEAKER_06  Yeah.
+443.00 448.00 SPEAKER_06  Is so just not a thing that exists in the United States and not in the same way.
+448.00 465.00 SPEAKER_06  Like if you want to envision a white guy who basically exists as a kind of like, I'm, I'm basing my identity around appropriating what I perceive to be like cool rap black culture.
+465.00 466.00 SPEAKER_06  Yeah.
+466.00 473.00 SPEAKER_06  Like all you had to do is go to an Eminem concert and you would see both Eminem perform doing that.
+473.00 474.00 SPEAKER_06  Yeah.
+474.00 476.00 SPEAKER_06  And also all of the guys who look like him in the audience also doing that.
+476.00 477.00 SPEAKER_06  Yeah.
+477.00 486.00 SPEAKER_06  Which is not to say that like, there aren't people who just are fans of, I mean like I, it's not by default that every white person who likes rap music is, is vanilla ice.
+486.00 487.00 SPEAKER_06  You know what I mean?
+487.00 505.00 SPEAKER_06  There's more that like, we have a kind of way that that's coded when you think about the sort of a, I don't know if you remember this cause you would have been probably in grade school and it's a long time ago, but the offspring song pretty fly for a white guy or whatever, that kind of con like that, that concept exists, but the way it manifests here is different.
+505.00 507.00 SPEAKER_06  And the way that he's kind of created this character is different.
+507.00 508.00 SPEAKER_06  Yeah.
+508.00 511.00 SPEAKER_06  So to me, it just, I'm going to be honest with you.
+511.00 512.00 SPEAKER_06  It's funny.
+512.00 513.00 SPEAKER_06  The interviews are funny.
+513.00 516.00 SPEAKER_06  The encounters with people who don't realize he's fake are funny.
+516.00 519.00 SPEAKER_06  A lot of it kind of just seems like minstrelry.
+519.00 520.00 SPEAKER_06  I'm being real with you.
+520.00 523.00 SPEAKER_06  It just kind of seems like that to me now.
+523.00 538.00 SPEAKER_06  And like, I'm more than happy for you to disagree with me, but some of the stuff where it's like the movie clips and some of the things from him, like sort of the asides of him, just like, you know, the way he, he, uh, he, he deals with his hangers on and whatnot with the stains gang or whatever.
+538.00 542.00 SPEAKER_06  Like it's kind of, it's just, it doesn't because there's not that immediate identification.
+542.00 547.00 SPEAKER_06  I've never met a white guy from like middle-class suburbs in Britain who talks like that.
+547.00 548.00 SPEAKER_06  That's not a stereotype.
+548.00 550.00 SPEAKER_06  That's not an archetype I've encountered.
+550.00 558.00 SPEAKER_09  I think it's less common now because it would be considered like weird more like it would be, it would have a bit of a like, not sure if that's all right.
+558.00 559.00 SPEAKER_09  Kind of.
+559.00 566.00 SPEAKER_09  Um, but, uh, I think, I think there are a few and I'm not necessarily saying that it's not, I don't know.
+566.00 577.00 SPEAKER_09  It's, it's of its time that we can certainly say, I think that if you look into the sort of, um, I guess like the stated markers of allergy, like what is allergy supposed to be?
+577.00 581.00 SPEAKER_09  And I say this as kind of like, uh, I'm, I'm pretty neutral on allergy on the whole.
+581.00 588.00 SPEAKER_09  It wasn't really saying that I was particularly into, I did see the allergy film when it came out, but I wasn't like a massive allergy head.
+588.00 591.00 SPEAKER_09  Um, in a way where I thought Borat was much funnier.
+591.00 598.00 SPEAKER_09  But, um, I think the fact that he, cause I think, hang on, I can tell you what allergy's actual name is.
+598.00 600.00 SPEAKER_09  This was like Alistair Graham or something.
+600.00 601.00 SPEAKER_09  Alistair Leslie Graham.
+601.00 602.00 SPEAKER_09  Yeah.
+602.00 605.00 SPEAKER_09  Um, and he's from stains, which is like, you know, it's like slown.
+605.00 607.00 SPEAKER_09  It's, it's like a very, it's very funny.
+607.00 621.00 SPEAKER_09  It's a very particular cause like, there's also by, by contrast, there's like a kind of like white guy who grew up in Peckham and all of his friends are black who talks like that, but in like a more authentic way because like he went to that, that school and like he kind of, he grew up with that vernacular.
+621.00 635.00 SPEAKER_09  And so Ali G is kind of, it's supposed to be a parody of a kind of like suburban middle-class white guy who's like aping that kind of aesthetic, which I think was more of a thing in the two thousands in that like, I definitely knew.
+635.00 636.00 SPEAKER_09  In the nineties for sure.
+636.00 637.00 SPEAKER_09  Yeah.
+637.00 644.00 SPEAKER_06  I mean, I can remember this stuff from growing up in a, basically a white flight suburb of Indianapolis where like kids whose parents bought them BMWs.
+644.00 645.00 SPEAKER_06  Yeah.
+645.00 646.00 SPEAKER_06  Yeah.
+646.00 650.00 SPEAKER_06  Talked, acted like this, you know, formed gangs, things along those lines.
+650.00 651.00 SPEAKER_06  Yeah.
+651.00 652.00 SPEAKER_09  Yeah.
+652.00 656.00 SPEAKER_09  And so it's definitely like, it is, um, it is sort of a aping that kind of thing.
+656.00 669.00 SPEAKER_09  And I, there were definitely like people like that when I was at school, but I sort of feel as though also, you know, who, who am I to, to say whether it strays into the, whether it strays over the line of just kind of like mocking black culture.
+669.00 670.00 SPEAKER_09  I don't know.
+670.00 671.00 SPEAKER_09  Not really, not really for me to say.
+671.00 681.00 SPEAKER_09  Um, but I think that if we, if we're taking it as like sort of stated, stated goals, it's mocking that type of guy, but whether or not it kind of does that appropriately, you can.
+681.00 693.00 SPEAKER_06  And also I'm looking at it from the perspective of someone who's, I'm not familiar with that culture, at all in terms of the sort of Britain and suburban white suburban Britain versus like black Britain culture.
+693.00 694.00 SPEAKER_06  Hmm.
+694.00 695.00 SPEAKER_06  I live in Peckham.
+695.00 710.00 SPEAKER_06  So I, I live in one of like demographically the blackest parts of the UK, but like this guy is, it's not about, it's, it's, it's about a, a, a, a goofy white guy kind of faking, pretending to be a, what you'd call like a road man.
+710.00 713.00 SPEAKER_06  Like, like basically like a guy who's yeah.
+713.00 720.00 SPEAKER_09  You know, cause yeah, I think, um, so God, just seen a picture, Ali G giving a commencement speech at Harvard in 2004.
+720.00 724.00 SPEAKER_09  Not even Sacha Baron going for Ali G amazing.
+724.00 730.00 SPEAKER_09  Um, so supposedly, at least according to the internet, uh, he's based on Tim Westwood.
+730.00 742.00 SPEAKER_09  Um, fair enough late, late of this parish, a man we have discussed at length because, um, if you haven't heard the episodes where we've discussed Tim Westwood, um, how did Tim Westwood come up?
+742.00 743.00 SPEAKER_09  We've talked about him on a number of UK.
+743.00 744.00 SPEAKER_09  We've talked about my ride UK.
+744.00 745.00 SPEAKER_09  Oh yeah.
+745.00 746.00 SPEAKER_09  Yeah.
+746.00 747.00 SPEAKER_09  Yeah.
+747.00 748.00 SPEAKER_09  Yeah.
+748.00 749.00 SPEAKER_09  Yeah.
+749.00 750.00 SPEAKER_09  We did.
+750.00 751.00 SPEAKER_09  And I think he's come up since then.
+751.00 755.00 SPEAKER_00  Uh, Tim Westwood, bad guy, but, um, if you've never seen Tim Westwood, it's the big dog.
+755.00 759.00 SPEAKER_00  Yo dog, your, your car is fucked up.
+759.00 761.00 SPEAKER_00  We've got to change out your bitch.
+761.00 762.00 SPEAKER_09  Yeah.
+762.00 764.00 SPEAKER_09  It's sort of like that.
+764.00 771.00 SPEAKER_09  And that kind of thing, like how like Ali G always calls women bitches, but regards it as like non derogatory is like, that's definitely, yeah.
+771.00 774.00 SPEAKER_09  It's aimed, aimed squarely at Tim Westwood.
+774.00 779.00 SPEAKER_06  I'm thinking about the, uh, the, have you ever seen the movie hustle and flow?
+779.00 780.00 SPEAKER_09  I've seen.
+780.00 781.00 SPEAKER_09  Yeah.
+781.00 787.00 SPEAKER_09  Once like, but it was one of those ones, you know, when you're like, uh, 11 and it's on TV and you catch half of it late at night.
+787.00 788.00 SPEAKER_09  It was one of those situations.
+788.00 789.00 SPEAKER_06  Yeah.
+789.00 794.00 SPEAKER_06  I, side note, my, uh, my wife said that when years ago she dated a Swiss German guy that they watched it together.
+794.00 800.00 SPEAKER_06  And even with the English language subtitles on, like on an English language film, he just had no idea what the fuck they were saying.
+800.00 801.00 SPEAKER_06  And he was a fluid English speaker.
+801.00 808.00 SPEAKER_06  But like, if you're not used to someone doing Memphis vernacular, like you're just not going to get, you're not going to understand it.
+808.00 809.00 SPEAKER_06  Yeah.
+809.00 813.00 SPEAKER_06  Tim Westwood to me is interesting when you think about like Tim Westwood is just like, well, in America they had exhibit.
+813.00 815.00 SPEAKER_06  So who are they going to use this guy?
+815.00 821.00 SPEAKER_06  This guy who's already probably, probably about my age when the show started, you know, who's just like, yo dog.
+821.00 822.00 SPEAKER_06  Yeah.
+822.00 829.00 SPEAKER_09  I saw such an amazing post where it was like the, the list of all of the evidence in the Epstein case that had been released.
+829.00 832.00 SPEAKER_09  And obviously it was like exhibit one, two, three, four, five, whatever.
+832.00 836.00 SPEAKER_09  And then someone just posted it and went, no, not the Pimp My Ride guy.
+836.00 837.00 SPEAKER_06  So, okay.
+837.00 843.00 SPEAKER_06  So, Oli G is based on, is supposed to be making fun of Tim Westwood.
+843.00 844.00 SPEAKER_06  Yeah.
+844.00 846.00 SPEAKER_06  And if you want to feel old, I had to explain that to my girlfriend.
+846.00 847.00 SPEAKER_06  Yeah.
+847.00 851.00 SPEAKER_09  I mean, she's only, she's only a year and a half younger than me, but you know what?
+851.00 852.00 SPEAKER_09  It makes a difference.
+852.00 853.00 SPEAKER_06  Generational difference.
+853.00 854.00 SPEAKER_06  You know what I mean?
+854.00 855.00 SPEAKER_06  Yeah.
+855.00 861.00 SPEAKER_06  I appreciate you clarifying that there's not a problematic age gap happening there, but apparently there's a problematic Tim Westwood exposure.
+861.00 862.00 SPEAKER_04  Yeah.
+862.00 863.00 SPEAKER_09  Yeah.
+863.00 869.00 SPEAKER_09  There's a, there's a difference in Tim Westwood exposure, but crucially there is some problematic age gaps when it comes to Tim Westwood.
+869.00 876.00 SPEAKER_06  I mean, Tim Westwood, like, I don't want to make a joke that trivializes the fucked up shit that he did, but like, it is interesting to me.
+876.00 882.00 SPEAKER_09  Like, allegedly did, but there, there have been, there have been some pretty nasty allegations about Tim Westwood as regards sexual misconduct.
+882.00 887.00 SPEAKER_06  And I'm not, I just, I'm not aware of a comparable phenomenon.
+887.00 901.00 SPEAKER_06  Maybe it's just because it was never reported, but like the degree to which it feels like you're constantly hearing these sort of like posthumous sex abuse scandal revelations about radio DJs in this country.
+901.00 902.00 SPEAKER_06  Like that is a thing.
+902.00 913.00 SPEAKER_06  I mean, or, or, or, I mean, television personalities make sense, but like specifically, like, Tim Westwood, John Peel, you could kind of, I mean, like Savile's a bigger character than that, but like that.
+913.00 914.00 SPEAKER_06  Yeah.
+914.00 915.00 SPEAKER_06  Entertainers who are not like.
+915.00 920.00 SPEAKER_09  Savile was the kind of guy who even other guys in the seventies were like, whoa, you're fucking a lot of kids, Jim.
+920.00 921.00 SPEAKER_09  Yeah.
+921.00 926.00 SPEAKER_06  I mean, I said before, I know I referenced it in a previous episode, but I'll say it again.
+926.00 930.00 SPEAKER_06  The, the, the whole thing about like, you do anything to pretend you're young to keep your like youth rail card.
+930.00 933.00 SPEAKER_06  And it's got Gary glitter in the ad from like the early eighties.
+933.00 941.00 SPEAKER_04  And it's just like, I mean, it is, it is funny.
+941.00 948.00 SPEAKER_09  The difference with someone like glitter is I don't think it was as much of a, like everyone in the business knew Gary glitter was up to that.
+948.00 953.00 SPEAKER_09  I don't think that he, yeah, I don't think that it was, he wasn't up to it to the extent that someone like Savile was.
+953.00 965.00 SPEAKER_06  And I think he did it later in life, much more to a greater degree later in life when it was far more criminalized and crucially apparently fucked around so much that he got imprisoned and then deported from Vietnam for doing it.
+965.00 971.00 SPEAKER_06  And at that point it's like, okay, there's no denying this guy is a, he's, he's a child abuser.
+971.00 982.00 SPEAKER_06  But as far as I'm aware, like the Tim Westwood connection, I don't know if I ever really clocked that.
+982.00 984.00 SPEAKER_06  Like it was never really made that clear.
+984.00 990.00 SPEAKER_06  I guess looking at Ali G as a foreigner, I just assumed that this was a type of guy that people could identify.
+990.00 993.00 SPEAKER_06  He's a send up of a type of guy that people had encountered.
+993.00 1026.00 SPEAKER_06  And that as such, there were like white dudes in Britain who, who, uh, between sunglasses and, and hat and, you know, facial hair came across as like, well, maybe halfway middle Eastern dressing in like, I guess like echo and stuff like that, you know, like Mark echo and fucking, um, like Tommy Hilfiger and a lot of the like American, uh, like FUBU, the kind of like American, like, like brands that were identified as like clothing that rappers were endorsed and stuff like that.
+1026.00 1034.00 SPEAKER_06  And then just apparently talked in a, but you have to understand to the uninitiated person, what he says, the way he talks is almost unintelligible.
+1034.00 1035.00 SPEAKER_06  Yeah.
+1035.00 1040.00 SPEAKER_09  It's challenging because he's using like loads of like specifically Jamaican slang as well.
+1040.00 1051.00 SPEAKER_09  Um, like airing on the, it's like, it's so, it's so Jamaican to the point of like, it kind of diverging from a, like what, what you would call like multicultural London English or whatever.
+1051.00 1052.00 SPEAKER_06  Yeah.
+1052.00 1056.00 SPEAKER_06  My wife's best friend is like Jamaican born and raised in Jamaica, lives in Jamaica now.
+1056.00 1065.00 SPEAKER_06  And like, this sounds more like if you put her in a room with another Jamaican person, that it sounds like anything I hear on the street where I live.
+1065.00 1066.00 SPEAKER_09  Yeah.
+1066.00 1067.00 SPEAKER_09  Yeah.
+1067.00 1068.00 SPEAKER_09  Yeah.
+1068.00 1069.00 SPEAKER_09  Yeah.
+1069.00 1080.00 SPEAKER_09  It's like, like, I think certain, like there's like an extent to which, because there are, uh, so many Jamaicans who've been like quite prominent in black culture in the UK that, that like certain amounts of Jamaican slang have like permeated that kind of like multicultural English, if you want to call it that.
+1080.00 1086.00 SPEAKER_09  Um, but then there's also, there's like Jamaican stuff that like only really Jamaicans say that yeah.
+1086.00 1087.00 SPEAKER_09  Yeah.
+1087.00 1088.00 SPEAKER_09  Yeah.
+1088.00 1103.00 SPEAKER_09  But I think again, casting my mind back into the annals of, uh, you know, Britain in the, in the early two thousands or late nineties, there was, I think there was like more of a, like, sort of like Jamaican, Jamaica filia.
+1103.00 1104.00 SPEAKER_09  I don't know.
+1104.00 1115.00 SPEAKER_09  In terms of like, you had people like, uh, like, you know, uh, I don't know, like, like Sean Paul and Shaggy and stuff who are very popular and like that kind of, whereas now that's kind of faded quite a lot.
+1115.00 1116.00 SPEAKER_09  Yeah.
+1116.00 1120.00 SPEAKER_09  At the time that was like a more prominent thing that people associated with sort of black culture and music, I guess.
+1120.00 1122.00 SPEAKER_06  I'm trying to think in the United States.
+1122.00 1131.00 SPEAKER_06  I mean, obviously you have Jamaican artists, uh, the most famous Jamaican artists in America, you know, in the old days would have been people like Bob Marley.
+1131.00 1136.00 SPEAKER_06  Um, but then later on, like, um, I mean, Shaggy is Jamaican American.
+1136.00 1138.00 SPEAKER_06  Sean Paul is Jamaican.
+1138.00 1148.00 SPEAKER_06  Uh, Shaggy actually like weird trivia that some people, people who remember his sort of like because he had a pretty big hit in the nineties, but then he had an obviously with a, it wasn't me.
+1148.00 1151.00 SPEAKER_06  He had even bigger hit in the early two thousands, but Shaggy, Shaggy.
+1151.00 1154.00 SPEAKER_09  I'm constantly having to explain to people online that Shaggy didn't do anything.
+1154.00 1155.00 SPEAKER_09  It was all Ricardo.
+1155.00 1156.00 SPEAKER_06  Do you listen to the song?
+1156.00 1158.00 SPEAKER_06  Yeah, yeah, yeah, yeah, exactly.
+1158.00 1164.00 SPEAKER_06  Rick Rock was the guy who was telling him the story of Shaggy was just saying, telling like, just pretend it was a different person.
+1164.00 1165.00 SPEAKER_06  Yeah.
+1165.00 1166.00 SPEAKER_06  Shaggy was his lawyer.
+1166.00 1167.00 SPEAKER_09  Yeah.
+1167.00 1168.00 SPEAKER_06  He was like, you don't say shit to the cops.
+1168.00 1169.00 SPEAKER_06  Yeah.
+1169.00 1174.00 SPEAKER_06  The hidden verse from, from that song is, is Rick Rock just being like, this is my lawyer dog.
+1174.00 1175.00 SPEAKER_06  You know, I'm going to jail.
+1175.00 1176.00 SPEAKER_06  Yeah.
+1176.00 1177.00 SPEAKER_06  Yeah.
+1177.00 1185.00 SPEAKER_06  Uh, Shaggy had a hit with, was it, uh, boom Bastic in the early nineties, but then obviously he had the, the, the, a bigger hit later down the road, but he, um, he was, he was in the Marine Corps.
+1185.00 1189.00 SPEAKER_06  A lot of people, I don't realize it, but Shaggy, like famously, like recruiters try to be like, Oh, well Shaggy was a Marine.
+1189.00 1192.00 SPEAKER_06  Like you can be a success in music if you join the Marine.
+1192.00 1195.00 SPEAKER_06  But Shaggy, Shaggy's like, if you ask him about it, he's like, man, I fucking hated that shit.
+1195.00 1196.00 SPEAKER_06  It sucks so bad.
+1196.00 1197.00 SPEAKER_06  Yeah.
+1197.00 1199.00 SPEAKER_06  He's a, he's a golf war veteran.
+1199.00 1200.00 SPEAKER_06  Wow.
+1200.00 1212.00 SPEAKER_06  He, yeah, he, um, they did a, a MTV cribs with Shaggy and he actually had his like shitty old fucked up, like, you know, cathode ray tube TV that he kept because he's like, this was new, the TV from like right after I got the Marine Corps.
+1212.00 1218.00 SPEAKER_06  I got my first apartment when I first, and he's like, I just want to keep it as like kind of a reminder of like, you know, where I got, where I came from in a way.
+1218.00 1222.00 SPEAKER_06  Imagine you're like the Iraqi soldier who got slotted by fucking Shaggy.
+1222.00 1223.00 SPEAKER_09  That's incredible.
+1223.00 1230.00 SPEAKER_06  Hilariously Shaggy was like, yeah, but it, I don't think he was a, he was a, like in a combat job and he was just like, it was literally over in three days.
+1230.00 1232.00 SPEAKER_06  We just spent like months doing nothing in Saudi Arabia.
+1232.00 1233.00 SPEAKER_06  Then all of a sudden we're like, oh, we're at war.
+1233.00 1235.00 SPEAKER_06  And then it's like, all right, four days later it's over.
+1235.00 1239.00 SPEAKER_06  Um, but yeah, like bringing it back, talking about Jamaican music in America.
+1239.00 1255.00 SPEAKER_06  Um, there has been, but I think maybe not as much because there is, there's a significant amount of Jamaican like, uh, migration to the U S but it's just not as, as like kind of ubiquitous in, uh, America, like put it this way.
+1255.00 1267.00 SPEAKER_06  There are places in America where there are a lot of people, either immigrants from Jamaica or people whose, you know, parents, grandparents immigrated from, from America or from Jamaica, but it's not as a, as a percentage.
+1267.00 1270.00 SPEAKER_06  It's relatively small amongst black Americans.
+1270.00 1271.00 SPEAKER_06  Yeah.
+1271.00 1281.00 SPEAKER_09  Whereas huge numbers of Jamaicans and other West Indian people came over to the UK because you could, I mean, and, and we all know what happened later on as regards to the British government and it's very normal policies.
+1281.00 1294.00 SPEAKER_06  As a quick explainer for Americans who may not know this story, Brits know this because it's been in the news, but basically, um, there was a time not that long ago where if you were up until like the mid seventies, you could travel on your parents passport.
+1294.00 1308.00 SPEAKER_06  If you're, um, specifically British, British, uh, Commonwealth citizens of countries that were sort of in this grouping, uh, had British subject or British citizen passports and your children could travel, your minor children could travel on your passport.
+1308.00 1310.00 SPEAKER_06  They would just be like a stapled in addendum.
+1310.00 1314.00 SPEAKER_06  I've seen my, my grandmother's old British passport when she and my mom immigrated to America.
+1314.00 1316.00 SPEAKER_06  I used to travel on my mom's passport when I was a kid.
+1316.00 1317.00 SPEAKER_06  Yeah.
+1317.00 1322.00 SPEAKER_06  I don't know how, how recently they got, cause when I was a little kid, uh, I had to get my first passport to move over to Germany when I was five.
+1322.00 1325.00 SPEAKER_09  But yeah, I think, um, America's not allowed.
+1325.00 1330.00 SPEAKER_09  Probably on a British passport, you could travel on your parents passport, like into the 2000s.
+1330.00 1332.00 SPEAKER_09  I got my first passport when I was about 11.
+1332.00 1333.00 SPEAKER_09  Wow.
+1333.00 1334.00 SPEAKER_06  Yeah.
+1334.00 1338.00 SPEAKER_06  And so the, the situation was a lot of people came over, their parents had documents.
+1338.00 1342.00 SPEAKER_06  They, they emigrated with, with their small children to the UK.
+1342.00 1345.00 SPEAKER_06  These people grew up or spent their entire lives in the UK.
+1345.00 1348.00 SPEAKER_06  They had never gotten, uh, British passports.
+1348.00 1351.00 SPEAKER_06  They, or they'd never gotten, cause they'd never left the UK.
+1351.00 1355.00 SPEAKER_06  They'd lived their entire lives here, uh, basically since they were small children.
+1355.00 1370.00 SPEAKER_06  And the British government coincidentally destroyed an archive of historical landing cards from all the ships that had ferried people over when they were recruiting throughout the present or former colonies to bring people to, to, to work in jobs, repairing Britain post war.
+1370.00 1375.00 SPEAKER_06  And after that landing card archive was destroyed, destroyed, then they were like, hmm, all these people are in this country.
+1375.00 1376.00 SPEAKER_06  They don't have documentation.
+1376.00 1380.00 SPEAKER_06  We should start deporting them or denying them healthcare because they're, we, they can't prove their citizenship.
+1380.00 1393.00 SPEAKER_09  And, uh, because the, a more sane country might've taken the approach that, you know, people who've lived in a country for like 50, 60 years, maybe regardless of what documentation they do or don't have, you can probably grandfather that in.
+1393.00 1395.00 SPEAKER_06  The Brits love nothing more than like, Oh, it's terrible.
+1395.00 1396.00 SPEAKER_06  I'm terribly sorry.
+1396.00 1398.00 SPEAKER_06  I wish there was something that we could do.
+1398.00 1400.00 SPEAKER_06  Sadly, uh, the computer says we have to kill you.
+1400.00 1401.00 SPEAKER_06  So you're going to die.
+1401.00 1405.00 SPEAKER_06  Like they, they just, it was creating this plausible deniability, like, Oh, sorry.
+1405.00 1406.00 SPEAKER_06  We just simply don't have it.
+1406.00 1419.00 SPEAKER_09  And then of course it turned out that every single one of these people came here legally and, and in, in a lot of cases, people were eventually given their right to stay in the UK, but via a long and traumatic purpose of many people did get deported temporarily.
+1419.00 1421.00 SPEAKER_09  Many people had their passports canceled while they were abroad.
+1421.00 1426.00 SPEAKER_09  A lot of people died because they were denied access to medical treatment because they were no longer a British citizen.
+1426.00 1429.00 SPEAKER_09  So they could no longer have access to the NHS and all this kind of stuff.
+1429.00 1437.00 SPEAKER_06  And so basically the one of the, one of the ships that was famous in this era as like a passenger ship, bringing people over from the West Indies was a ship called the Empire Windrush.
+1437.00 1447.00 SPEAKER_06  And so people refer to this grouping as like the, the, the Windrush generation, people who were small children during that, like post 1945 immigration wave that happened here, but that were caught up in this.
+1447.00 1460.00 SPEAKER_06  And so the whole Windrush scandal, when people talk about it is, is that, uh, these people were often, many of them were deported to like to their deaths in the sense that like they, they were returned to countries they hadn't been to since they were basically toddlers and they couldn't get healthcare.
+1460.00 1461.00 SPEAKER_06  They couldn't get housing.
+1461.00 1464.00 SPEAKER_06  Some of them were like murdered because they were like robbed all sorts of horrible things.
+1464.00 1466.00 SPEAKER_06  And it was all just very, very arbitrary.
+1466.00 1470.00 SPEAKER_06  Um, and the government slow rolled doing anything and is also slow rolled compensating them.
+1470.00 1471.00 SPEAKER_06  It's, it's really, really bad.
+1471.00 1481.00 SPEAKER_06  And it's, it's part of a sort of like, um, I don't know, a general, a kind of anti anti immigrant thing where they, they use a little procedural stuff like this to, to just be as cruel as possible.
+1481.00 1483.00 SPEAKER_06  So that's the shortened version of it.
+1483.00 1486.00 SPEAKER_06  But, uh, that, that, that's, that's, that's the thing of being referred to.
+1486.00 1509.00 SPEAKER_06  And so, yeah, bring it back that like, ah, that to me, I think maybe the, the weird disconnect is that like, I don't know a ton of Jamaicans, but I know enough Jamaicans in real life that seeing this as someone who isn't exposed to what like, you know, the sort of like British equivalent of guy who thinks he's Eminem or Eminem himself in 2001 would be, it just seems a little weird.
+1509.00 1512.00 SPEAKER_06  But like, I'm not even, I'm not trying to say that's the universal value judgment.
+1512.00 1513.00 SPEAKER_06  Yeah.
+1513.00 1515.00 SPEAKER_09  To me, it's a little, but it's, it's very over the top.
+1515.00 1517.00 SPEAKER_09  And even at the time it was very over the top.
+1517.00 1522.00 SPEAKER_09  And I think, so obviously now I think, you know, when things have moved on, cause also like the type of guy has changed.
+1522.00 1539.00 SPEAKER_09  I mean, like you look at like Ali G in the show and he's like, he's really into like jungle music, which at like at the time, it was kind of like, um, and sort of stuff like, uh, like jungle and garage was one of those really interesting things where like it, it was sort of, it, it certainly had an element of it that was like black.
+1539.00 1543.00 SPEAKER_09  But it was also like, there were like a lot of like famous, like white producers of it as well.
+1543.00 1550.00 SPEAKER_09  And it was sort of more so than, whereas I guess in something like American hip hop at the time, Eminem was much more of an obvious outlier and novelty.
+1550.00 1551.00 SPEAKER_09  Yeah, absolutely.
+1551.00 1555.00 SPEAKER_09  As like a white guy doing black music, like stuff like garage and jungle and so on was like very mixed.
+1555.00 1556.00 SPEAKER_09  Yeah.
+1556.00 1564.00 SPEAKER_06  And I think in the UK in general, my impression was that there was more of a kind of like, it's weird.
+1564.00 1569.00 SPEAKER_06  I, I know a bit about British music, like popular music from, from let's say the seventies through the two thousands.
+1569.00 1591.00 SPEAKER_06  And you, I am taken aback by how much more kind of like, if you look at a band like massive attack, if you look at a band like fucking you be 40, if you look at a band like, um, haircut 100 or Christ level 42, like there just were more, there was black music, white music, people working in bands together.
+1591.00 1592.00 SPEAKER_06  It's not that it's better.
+1592.00 1597.00 SPEAKER_06  It's just the more like, there's like, like a value judgment saying that like, oh, Britain is emphatically therefore less racist than America or whatever.
+1597.00 1599.00 SPEAKER_06  It's just that like, there was more of that.
+1599.00 1604.00 SPEAKER_06  Like people forget that MTV basically didn't play black artists until like 1983.
+1604.00 1614.00 SPEAKER_06  Like color line stuff was really hard, hard drawn in America, in music, in popular music, in how stuff was marketed in general.
+1614.00 1626.00 SPEAKER_06  And so, yeah, it's a, it's a, I guess you can't look at it and say, okay, well, this is, this is trying to be one thing, you know, that we recognize because yeah, it's just, it's representing a thing that's real in Britain.
+1626.00 1628.00 SPEAKER_06  But for us, it played out.
+1628.00 1630.00 SPEAKER_06  I mean, you guys didn't have disco demolition night.
+1630.00 1631.00 SPEAKER_06  You know what I mean?
+1631.00 1634.00 SPEAKER_06  You didn't have, uh, what's it called?
+1634.00 1647.00 SPEAKER_06  You didn't have, yeah, it was, it was literally, um, I mean, David Bowie like humiliated the, like, not really, but he just, he kind of embarrassed one of the guys from MTV, like in an interview on TV about this, basically the guy being like, well, what's the, you know, teenager in, in, in Minneapolis going to think about these artists.
+1647.00 1656.00 SPEAKER_06  And David Bowie's like, well, I imagine that they might be of interest to a black teenager, you know, it's sort of like imply in that guy's kind of like sleight of hand, basically saying like, well, the only, the only, the teenager to me means white kid kind of thing.
+1656.00 1659.00 SPEAKER_06  Like that, that was the default in a lot of ways still is in America.
+1659.00 1660.00 SPEAKER_06  Hmm.
+1660.00 1661.00 SPEAKER_06  Yeah.
+1661.00 1663.00 SPEAKER_06  Heaven forbid there's a black teenager in Minneapolis, you know?
+1663.00 1664.00 SPEAKER_06  Yeah.
+1664.00 1672.00 SPEAKER_06  I was going to say, yeah, maybe his name might be like, I don't know, uh, like some kind of royalty, Rogers Nelson, maybe Prince, you know?
+1672.00 1674.00 SPEAKER_06  Do you, do you have like the history of Ali G?
+1674.00 1682.00 SPEAKER_06  Cause like, I guess in a way, if I'm not wrong here, like this, it's kind of the thing Sasha Baron Cohen became famous for, like became known for.
+1682.00 1683.00 SPEAKER_06  Yeah.
+1683.00 1684.00 SPEAKER_09  I would say so.
+1684.00 1685.00 SPEAKER_09  Yeah.
+1685.00 1688.00 SPEAKER_09  He first appeared as voice of the youth on channel fours, the 11 o'clock show in 1998.
+1688.00 1697.00 SPEAKER_09  And then subsequently he had the Ali G show in the early two thousands, which is where you get the, uh, the posh and becks interview from that was actually done for red nose day.
+1697.00 1700.00 SPEAKER_09  I believe it was like a comic relief special, but like that was like a common thing.
+1700.00 1705.00 SPEAKER_09  We watched another entry where she's Jacob Rees-Mogg, a very like alarmingly young Jacob Rees-Mogg.
+1705.00 1707.00 SPEAKER_09  Who just seems very like.
+1707.00 1709.00 SPEAKER_09  Alarmingly young and alarmingly old at the same time.
+1709.00 1710.00 SPEAKER_06  Yeah.
+1710.00 1712.00 SPEAKER_06  Awkward in a way that like, whereas the Tony Ben one.
+1712.00 1713.00 SPEAKER_06  Probably younger than I am now.
+1713.00 1714.00 SPEAKER_06  Yeah.
+1714.00 1715.00 SPEAKER_06  Yeah.
+1715.00 1721.00 SPEAKER_06  The Tony Ben one by comparison is very funny because Tony Ben just like kind of challenges him on the dumb shit and like, isn't, he's like not rude at all.
+1721.00 1722.00 SPEAKER_06  Yeah.
+1722.00 1723.00 SPEAKER_06  But he's not, he's not like just pretending he didn't hear it.
+1723.00 1730.00 SPEAKER_09  Well, what's amazing with the Tony Ben one is about halfway through, he realizes that it's a joke and then he starts laughing at first.
+1730.00 1732.00 SPEAKER_09  He's like, well, you can't possibly say that.
+1732.00 1734.00 SPEAKER_09  It's very, you can't refer to women as bitches.
+1734.00 1735.00 SPEAKER_03  It's, it's, it's appropriate.
+1735.00 1737.00 SPEAKER_09  What sort of person are you?
+1737.00 1740.00 SPEAKER_09  And then like, it suddenly just dawns on him when he like keeps starting up.
+1740.00 1743.00 SPEAKER_09  He's like, oh, oh, I see.
+1743.00 1746.00 SPEAKER_09  And then like Tony Ben just starts like, I'm like laughing along with it.
+1746.00 1751.00 SPEAKER_09  Smoking a pipe the entire time speaking in this accent that just feels like it should
+1751.00 1753.00 SPEAKER_06  be preserved under museum. Oh yeah.
+1753.00 1754.00 SPEAKER_09  Powerful vibe.
+1754.00 1755.00 SPEAKER_09  Powerful vibe.
+1755.00 1756.00 SPEAKER_09  Yeah.
+1756.00 1757.00 SPEAKER_09  Yeah.
+1757.00 1761.00 SPEAKER_09  There's a lot of elements of this, which are just like truly, um, you know, uh, time capsules.
+1761.00 1771.00 SPEAKER_06  So if you're not familiar with Tony Ben, British listeners will be, if they listen to our podcast, but Tony Ben was one of the most prominent socialist politicians in Britain.
+1771.00 1778.00 SPEAKER_06  Uh, and in many instances, Jeremy Corbyn has reviewed, referred to him as kind of like his political mentor.
+1778.00 1781.00 SPEAKER_06  Um, Ben was kind of the bet noir of a lot of like labor, right.
+1781.00 1786.00 SPEAKER_06  And the sort of, I don't know, like Tories in general that just see him as this sort of like bumbling idealist.
+1786.00 1788.00 SPEAKER_06  But I don't know.
+1788.00 1791.00 SPEAKER_06  He, he had pretty, pretty solid principles about stuff.
+1791.00 1801.00 SPEAKER_06  And in general, I've, I've never read anything that wasn't by a hack that, uh, made him out to see on seem on balance, like worse, you know, like more bad than good.
+1801.00 1805.00 SPEAKER_06  Like, but it's just very interesting to put those two together in the room.
+1805.00 1808.00 SPEAKER_06  And like, the fact that he was able to is very funny to me.
+1808.00 1809.00 SPEAKER_09  Yeah.
+1809.00 1823.00 SPEAKER_09  Well, this is kind of, there was a lot of like really crazy shit on TV in Britain in this period where I think that, um, you know, people would like, if you were a politician, you would get asked on like kind of stupid TV shows, but which were fundamentally not a joke.
+1823.00 1824.00 SPEAKER_09  Yeah.
+1824.00 1833.00 SPEAKER_09  And so like in a way where I think now it just wouldn't happen or like it wouldn't happen to a politician who wasn't like completely irrelevant, like a real, like, like a lember O pick, you know, type situation.
+1833.00 1836.00 SPEAKER_06  But then you think about the, the pedo get an episode that we watched.
+1836.00 1840.00 SPEAKER_06  Uh, and it's like that also those people didn't realize they were being pranked.
+1840.00 1841.00 SPEAKER_06  Like, yeah, that was wild.
+1841.00 1846.00 SPEAKER_09  But I mean that, that also was a much more self-seriously presented show than how you do.
+1846.00 1853.00 SPEAKER_09  Like the actual content of it was insane, but it was presented in the tone of like a news night or a, so you can see people falling for it more.
+1853.00 1855.00 SPEAKER_09  Whereas I falling for Ali G is like, yeah, come on.
+1855.00 1856.00 SPEAKER_09  Like this guy's not real.
+1856.00 1857.00 SPEAKER_09  Yeah.
+1857.00 1858.00 SPEAKER_09  This, this can't be, this can't be real.
+1858.00 1861.00 SPEAKER_09  Um, I've got a list here of people who've been guests on the Ali G show.
+1861.00 1862.00 SPEAKER_09  All right.
+1862.00 1863.00 SPEAKER_09  Buzz Aldrin.
+1863.00 1864.00 SPEAKER_09  Right.
+1864.00 1870.00 SPEAKER_09  Um, whom Ali G addresses as Buzz Lightyear and asked him if he was ever jealous of Louis Armstrong.
+1870.00 1874.00 SPEAKER_09  Some of this is good.
+1874.00 1875.00 SPEAKER_09  Yeah.
+1875.00 1876.00 SPEAKER_09  Tony Ben, David Beckham.
+1876.00 1879.00 SPEAKER_09  Have we got anyone else in here worth having?
+1879.00 1880.00 SPEAKER_09  Noam Chomsky.
+1880.00 1886.00 SPEAKER_09  I, during this interview, Ali G is perplexed about the difference between the terms bilingual and bisexual.
+1886.00 1893.00 SPEAKER_09  After asking if his four year old part Bangladeshi and part English cousin will grow up to speak both languages.
+1893.00 1900.00 SPEAKER_09  Um, Jarvis Cocker, Paul Daniels, the magician, Muhammad El Fire, Jesus.
+1900.00 1904.00 SPEAKER_09  Um, Daryl, uh, Newt Gingrich.
+1904.00 1914.00 SPEAKER_06  I mean, Sasha Baron Cohen has this knack for getting very politically connected people on camera.
+1914.00 1935.00 SPEAKER_06  His thing with, uh, where he managed to get the footage of Rudy Giuliani thinking that he was gonna, uh, sleep with, I believe if I remember correctly, a, basically it was implied that, that he was going to have a chance to sleep with an underage sex worker and, you know, but exploited child.
+1935.00 1938.00 SPEAKER_06  And he started like unzipping his fly, not realizing it was fake.
+1938.00 1940.00 SPEAKER_06  And they like burst into sort of stop it in the filming.
+1940.00 1942.00 SPEAKER_06  But like, it's pretty, pretty damning.
+1942.00 1951.00 SPEAKER_06  Like Rudy Giuliani, famously, not a very smart guy, but he, after all those years in the public eye managed to be fooled by Sasha Baron Cohen.
+1951.00 1956.00 SPEAKER_06  So like the man's just, just, he's just, he's wily back to back in the list.
+1956.00 1960.00 SPEAKER_09  Donald Trump and Gore Vidal author and essayist who Mally G.
+1960.00 1962.00 SPEAKER_09  Mistook for Vidal Sassoon.
+1962.00 1963.00 SPEAKER_06  Um, no Gore Vidal.
+1963.00 1964.00 SPEAKER_06  Yeah.
+1964.00 1970.00 SPEAKER_06  He's like really famous, uh, American author of 20th century author, but like, he's also sort of like a talk show circuit guy.
+1970.00 1971.00 SPEAKER_06  Famously.
+1971.00 1975.00 SPEAKER_06  He, he called, uh, um, William F Buckley, a crypto Nazi.
+1975.00 1978.00 SPEAKER_06  And, uh, and Buckley said, stop calling me a Nazi.
+1978.00 1979.00 SPEAKER_06  You queer.
+1979.00 1981.00 SPEAKER_06  It's a, it's a, yeah.
+1981.00 1990.00 SPEAKER_09  The, the Trump one in the interview lasting under two minutes, Ali G proposes a business idea to Trump consisting of creating ice cream gloves to which Trump replies, well, it sounds like a good idea.
+1990.00 1992.00 SPEAKER_09  And I hope you make a lot of money before walking off the set.
+1992.00 1994.00 SPEAKER_09  They should get Trump and Ali G together.
+1994.00 1996.00 SPEAKER_09  Now that's something that I want to see.
+1996.00 1997.00 SPEAKER_06  Yeah.
+1997.00 1999.00 SPEAKER_06  Degree of incoherence, but I don't know.
+1999.00 2007.00 SPEAKER_06  I feel like, um, when you look back on this stuff, like, do you feel as though this is when you talk, you talk about being like of its time.
+2007.00 2012.00 SPEAKER_06  I'm interested in like what specific things to you jump out.
+2012.00 2016.00 SPEAKER_06  I mean, I certainly think that like the calling women bitches thing is kind of a gag.
+2016.00 2022.00 SPEAKER_06  It's just one of those things where like, even if you're trying to emulate, you're trying to like mimic a kind of behavior that is real.
+2022.00 2032.00 SPEAKER_06  It's kind of like juice isn't worth the squeeze at this point because if you tried that like more people, like just generally if people are going to rightfully respond in a negative way to it.
+2032.00 2033.00 SPEAKER_06  Yeah.
+2033.00 2035.00 SPEAKER_06  Because you're, you are British, you grew up here.
+2035.00 2036.00 SPEAKER_06  Like, I don't know.
+2036.00 2037.00 SPEAKER_06  What do you, what do you think?
+2037.00 2049.00 SPEAKER_09  I think it's, well, I guess, I guess the charitable reads of Ali G is kind of that it is like, it is sort of like universal comic trope of like, it's very funny when someone's like trying to be something that they're not.
+2049.00 2050.00 SPEAKER_09  Um, sure.
+2050.00 2059.00 SPEAKER_09  And the, yeah, the, the bitches thing is like this kind of, I mean, when you see these things, they've not, they've not aged that well, but on the other hand, it is supposed to be satire.
+2059.00 2065.00 SPEAKER_09  So you kind of like, I mean, like there's a bit where he uses like a racial slur, like very much to get a rise out of people.
+2065.00 2069.00 SPEAKER_09  And as a, but I still think where you're like, well, they wouldn't do that on television now.
+2069.00 2070.00 SPEAKER_09  Like you wouldn't like, it's kind of, or you'd hope at least.
+2070.00 2071.00 SPEAKER_09  Yeah.
+2071.00 2073.00 SPEAKER_09  That would very much be considered a juice, not worth the squeeze.
+2073.00 2078.00 SPEAKER_09  Even if it is like, I'm, I am mocking this character for using a racial slur.
+2078.00 2080.00 SPEAKER_09  It would still be like, you know, you wouldn't do it.
+2080.00 2093.00 SPEAKER_09  Um, and, uh, I mean like this, but then there's other things in it where it's just like, it's very funny to just, and I think this was also what was great about Borat is just like getting people to react to this character.
+2093.00 2100.00 SPEAKER_09  Like the bit in the Jacob Reese mog one where he's like, so if you, if you fuck my sister, like what class would the kid be?
+2100.00 2102.00 SPEAKER_09  And he's like, well, I don't know anything about this young lady.
+2102.00 2106.00 SPEAKER_09  And he's like, and he's like, yeah, you're, you're, you're too good for her.
+2106.00 2107.00 SPEAKER_09  And he's like, no, I don't know.
+2107.00 2108.00 SPEAKER_09  He's like, nah, nah, it's true, man.
+2108.00 2110.00 SPEAKER_09  Like even my mom says she is rank.
+2110.00 2111.00 SPEAKER_09  Like this.
+2111.00 2116.00 SPEAKER_02  So what if I knocked the door of a Lord?
+2116.00 2118.00 SPEAKER_02  Um, yes.
+2118.00 2119.00 SPEAKER_02  What if you did?
+2119.00 2124.00 SPEAKER_02  If she got a bun in the oven, what class would the little nipper be?
+2124.00 2131.00 SPEAKER_01  Um, it's so much to pat on the circumstances depend on the garden question and so on and so forth.
+2131.00 2134.00 SPEAKER_02  So what if you got busy with my sister?
+2134.00 2137.00 SPEAKER_02  I would advise you because she ain't the cleanest girl out there.
+2137.00 2139.00 SPEAKER_02  I haven't had the person arranged myself.
+2139.00 2141.00 SPEAKER_02  Well, it can't be arranged.
+2141.00 2142.00 SPEAKER_02  She'll be keen.
+2142.00 2147.00 SPEAKER_01  I, I, I, I, I, I, I, I, I'm speculating on, on, on my, having a relationship with somebody I've never met.
+2147.00 2156.00 SPEAKER_01  And that leading for child being born and then as to what class it might be is so, uh, far fetched, um, as, as to be ridiculous.
+2156.00 2157.00 SPEAKER_01  I have no idea.
+2157.00 2159.00 SPEAKER_01  What you think is too good for my sister?
+2159.00 2160.00 SPEAKER_01  I certainly know.
+2160.00 2162.00 SPEAKER_02  I was like, you is.
+2162.00 2163.00 SPEAKER_01  No, no, no.
+2163.00 2164.00 SPEAKER_01  No, it is though.
+2164.00 2165.00 SPEAKER_01  She's rank.
+2165.00 2166.00 SPEAKER_02  She's nothing.
+2166.00 2167.00 SPEAKER_02  No, no, no.
+2167.00 2168.00 SPEAKER_02  Believe me.
+2168.00 2169.00 SPEAKER_02  Um, even my mom cussed her.
+2169.00 2170.00 SPEAKER_02  Tell her she's a sister.
+2170.00 2176.00 SPEAKER_06  Or the thing where he's talking about like, would you be, would you be upper class if you were like rich and owned a huge pool or something like that?
+2176.00 2183.00 SPEAKER_06  And you can see Jacob Rees-Mogg is just very like dis discomfort is the overriding sensation that I see throughout it.
+2183.00 2184.00 SPEAKER_06  Yeah.
+2184.00 2186.00 SPEAKER_06  More so than his normal level of ambient discomfort.
+2186.00 2187.00 SPEAKER_06  Yeah.
+2187.00 2201.00 SPEAKER_09  And then, and that kind of, I, yeah, I think like, yeah, there's a being, being from Essex, there's definitely like an allergy type that still exists because I mean, Essex is a bit less white than it used to be, but I mean, it's still, it's still pretty white.
+2201.00 2211.00 SPEAKER_09  And you do, I sometimes like, you know, I'm, when I'm in Harlow, you just see like the fucking, you know, the 20, 20 year old white guys walking around in 30 degree heat in the full track suit with the hood up.
+2211.00 2212.00 SPEAKER_09  And it's like, who are you kidding brother?
+2212.00 2215.00 SPEAKER_09  Like, come on, like you're from here.
+2215.00 2218.00 SPEAKER_09  Um, in a sort of, uh, yeah, I don't know.
+2218.00 2225.00 SPEAKER_09  So there's, it is sort of satirizing something in, in British culture, but like, yeah, I don't know.
+2225.00 2226.00 SPEAKER_09  It definitely like it's aged.
+2226.00 2227.00 SPEAKER_09  It's really aged.
+2227.00 2228.00 SPEAKER_06  Yeah.
+2228.00 2243.00 SPEAKER_06  I, I, I think one thing that I find interesting about looking at it now is that maybe on the aging topic, I don't want to acknowledge how long ago it was because I'm like, ah, I don't feel like, you know, that old, but then you realize like, no, this is more than 20 years ago.
+2243.00 2247.00 SPEAKER_06  And like the footage kind of reveals that when you see how young David Beckham looks.
+2247.00 2248.00 SPEAKER_06  Yes.
+2248.00 2249.00 SPEAKER_06  Yes.
+2249.00 2250.00 SPEAKER_06  Yes.
+2250.00 2251.00 SPEAKER_06  And that's later on allergy too.
+2251.00 2252.00 SPEAKER_06  Yeah.
+2252.00 2254.00 SPEAKER_06  And certainly Jacob Rees-Mogg is a good example of it.
+2254.00 2256.00 SPEAKER_06  Like the settings and such, you just, you can tell.
+2256.00 2267.00 SPEAKER_06  But I mean, I guess looking at this stuff, I'm trying to think if we have an equivalent and I bet you, I'm just going to miss a very obvious one because like, I haven't been America brained in so long that I can't remember.
+2267.00 2271.00 SPEAKER_06  Like I do think that, yeah, the person pretending to be someone they're not.
+2271.00 2286.00 SPEAKER_06  Um, the only thing that comes immediately to mind is like American Ali G is like the, the annoying white, white kid who's pretending to be really hood when, uh, in the movie can't hardly wait, which is like a graduating from high school teen coming of age movie.
+2286.00 2290.00 SPEAKER_06  It's actually a pretty good movie, but, uh, from like 98, I think.
+2290.00 2291.00 SPEAKER_06  Okay.
+2291.00 2292.00 SPEAKER_06  Uh, yeah.
+2292.00 2301.00 SPEAKER_06  But like that guy exists, but the idea that that annoying guy gets his own TV to go interview famous people, like different vibe entirely.
+2301.00 2302.00 SPEAKER_06  But you know what I mean?
+2302.00 2306.00 SPEAKER_09  Like, yeah, it's almost allergy in reverse, but the wines brothers movie white chicks.
+2306.00 2307.00 SPEAKER_09  Yeah.
+2307.00 2308.00 SPEAKER_09  Yeah.
+2308.00 2309.00 SPEAKER_09  Reminiscent of, of allergy in a way.
+2309.00 2310.00 SPEAKER_06  Yeah.
+2310.00 2314.00 SPEAKER_09  I mean, it's also funny when you think about completely the opposite bit, but yeah.
+2314.00 2315.00 SPEAKER_06  Yeah.
+2315.00 2323.00 SPEAKER_06  Like, man, I, I, it's not a Wayne's brothers movie, but there was a, um, it's weird because like you talk about Bruno and just sort of like the whole, the whole thing.
+2323.00 2324.00 SPEAKER_06  Like what if a guy was gay?
+2324.00 2325.00 SPEAKER_06  Where is that?
+2325.00 2333.00 SPEAKER_06  Like there was a, there was a, there were movies, most, most stuff that made jokes about gay, queer, trans people in America.
+2333.00 2335.00 SPEAKER_06  I mean, they're still bad, but they were really bad back then.
+2335.00 2337.00 SPEAKER_06  But then every now and then over here too.
+2337.00 2338.00 SPEAKER_06  Oh yeah.
+2338.00 2339.00 SPEAKER_06  Yeah.
+2339.00 2340.00 SPEAKER_06  Yeah.
+2340.00 2341.00 SPEAKER_06  Yeah.
+2341.00 2342.00 SPEAKER_06  Yeah.
+2342.00 2346.00 SPEAKER_06  I mean, I think it's a good highlight in a negative sense reels of some of the shit Jon Stewart said on the daily show.
+2346.00 2347.00 SPEAKER_06  Like it's just, it's bad.
+2347.00 2353.00 SPEAKER_06  It's not that long ago, but I was thinking about this recently because of the, um, we,
+2353.00 2366.00 SPEAKER_09  we were reminded of the little Britain only gay in the village sketch. Um, because someone described an outfit someone was wearing as a bit, a bit little Britain and clearly referenced that sketch.
+2366.00 2367.00 SPEAKER_09  And I was like, fuck.
+2367.00 2368.00 SPEAKER_09  Yeah.
+2368.00 2377.00 SPEAKER_09  That was a, that was a, you know, when someone really like nails, what something looks like in a kind of, but in a, with a, with a take that takes you so far into your life, wow, how did you even think of that?
+2377.00 2388.00 SPEAKER_06  But yes, it was interesting to me because I was thinking about like racking my brain, having grown up in mostly in Carmel, Indiana, um, for what would be like an American equivalent.
+2388.00 2400.00 SPEAKER_06  And I definitely knew guys who were sort of cosplaying as being, I guess like gangster is the right way to describe it, but sort of emulating what you would describe as like kind of rapper aesthetics.
+2400.00 2410.00 SPEAKER_06  I mean like for better or worse, you know, kids I knew at school who were, you know, would, would drive, uh, cars with like huge rims, you know, and this is all really expensive.
+2410.00 2412.00 SPEAKER_06  And these kids came from families with money.
+2412.00 2413.00 SPEAKER_06  Like they weren't, they weren't family.
+2413.00 2415.00 SPEAKER_06  They weren't like highly functional families.
+2415.00 2420.00 SPEAKER_06  It's like, like oftentimes like shit was fucking bad at home, but their parents, you know, had money and stuff.
+2420.00 2422.00 SPEAKER_06  And like, I don't know, I don't want to like pathologize all of it.
+2422.00 2424.00 SPEAKER_06  This is quite an Essex vibe actually.
+2424.00 2425.00 SPEAKER_06  Yeah.
+2425.00 2435.00 SPEAKER_06  Like I remember kids with like the, the stupid, the stupid chains and you know, rims on their cars and huge, the huge sound system is a really big thing for like in America in general.
+2435.00 2460.00 SPEAKER_06  Cause obviously having a car is so important, but like, you know, the, the, the massive subwoofers in the back of the car that like rattled the speakers and stuff like that's, that's very much like, not just considered like a, like a, like a, like let's be honest, like a black thing or like a rap hip hop and, and like black culture thing, but also like a Southern thing specifically, like, like when I think about music references to like, you know, knocking pictures off the wall and shit like that, like the subs being this loud in your car, it's very much like a Southern thing.
+2460.00 2464.00 SPEAKER_06  So here we are emphatically not the South in an incredibly white area.
+2464.00 2477.00 SPEAKER_06  And we're having pictures knocked off the wall by these kids because the fucking, the sound systems are so loud playing like, you know, masterpiece ghetto D or like, you know, the second Wu-Tang album or, you know, biggies, what is it?
+2477.00 2479.00 SPEAKER_06  Life after death, stuff like that.
+2479.00 2481.00 SPEAKER_06  Extremely like late nineties vibes.
+2481.00 2482.00 SPEAKER_06  And it was funny.
+2482.00 2485.00 SPEAKER_06  I was thinking about it like, and then I realized I did have a funny example.
+2485.00 2504.00 SPEAKER_06  Now it's very, it's high school, but it's funny, which is that we had a kind of program in my high school that was like a, like a business, like teaching business development stuff at a very like basic level, but it was part of some kind of state convention thing where like you would do a business development thing, come up with an idea and like present your idea and stuff.
+2504.00 2509.00 SPEAKER_06  And some kids who my best guess is that like they took that course.
+2509.00 2514.00 SPEAKER_06  It's just like, cause it was, it sounded easy, decided they were going to create a rap label called tight.
+2514.00 2515.00 SPEAKER_06  Yo records.
+2515.00 2519.00 SPEAKER_06  Um, and they, I know records.
+2519.00 2520.00 SPEAKER_06  It's very good.
+2520.00 2524.00 SPEAKER_06  And now to my knowledge, they didn't sign any artists or produce any music.
+2524.00 2527.00 SPEAKER_06  They did make some merch that they sold as part of their business thing.
+2527.00 2530.00 SPEAKER_06  And you could buy a tight, you know, records, uh, sweatshirt.
+2530.00 2532.00 SPEAKER_09  I imagine if you still had one of those.
+2532.00 2540.00 SPEAKER_06  I know it would be amazing, but this is the thing that's really funny was they did some, because we used to do announcements at over like the school PA system every morning.
+2540.00 2542.00 SPEAKER_06  And, uh, you could like that.
+2542.00 2546.00 SPEAKER_06  You could make announcements and they would, they would like, you know, if they approved them, you could put them on.
+2546.00 2550.00 SPEAKER_00  And these, these, these kids, Hey, it's me, the big dog.
+2550.00 2551.00 SPEAKER_00  Dog.
+2551.00 2553.00 SPEAKER_00  That road looks like shit.
+2553.00 2554.00 SPEAKER_00  Dog.
+2554.00 2557.00 SPEAKER_00  We got to sort out your ride, bro.
+2557.00 2558.00 SPEAKER_06  Yeah.
+2558.00 2564.00 SPEAKER_06  So, um, they did one where they were doing like a, like a holiday store and they were selling tight.
+2564.00 2565.00 SPEAKER_06  Yo records merchant.
+2565.00 2566.00 SPEAKER_06  They made an announcement.
+2566.00 2568.00 SPEAKER_06  And I remember cause I would've been a freshman cause these kids were all my brother's age.
+2568.00 2570.00 SPEAKER_06  They were all like graduating in the class of 2000.
+2570.00 2571.00 SPEAKER_06  Okay.
+2571.00 2572.00 SPEAKER_06  Yeah.
+2572.00 2576.00 SPEAKER_06  Like I said, extremely like all the time they were in high school until the very end was the nineties.
+2576.00 2586.00 SPEAKER_06  Um, and they were like, they basically did like a parody version of, uh, of a skit from a master P record, which I don't, you, this probably is not in your wheelhouse.
+2586.00 2587.00 SPEAKER_06  Yeah.
+2587.00 2589.00 SPEAKER_06  I'm not very familiar with the over of master P.
+2589.00 2597.00 SPEAKER_06  Master P was a, like a kind of like the, the, the, the, the sort of impresario and he was rapper, successful rapper, but he also ran a label called no limit records.
+2597.00 2599.00 SPEAKER_06  And there's a skit on one of his albums.
+2599.00 2607.00 SPEAKER_06  It might've been a ghetto D, but basically where someone calls the ideas that someone from the label is answering the phone and the guy's like, you know, no limit studios.
+2607.00 2611.00 SPEAKER_06  And so the guy on the phone was like, who dis is like, what's his rapper's forte?
+2611.00 2612.00 SPEAKER_06  Who's this?
+2612.00 2613.00 SPEAKER_06  And he's like, Oh, that's P.
+2613.00 2615.00 SPEAKER_06  He's like, like it's masterpiece.
+2615.00 2617.00 SPEAKER_06  Like P he's like, yeah, it is P.
+2617.00 2624.00 SPEAKER_06  P let me hear you say, uh, and the guy goes, this ain't no motherfucking P hangs up the phone.
+2624.00 2626.00 SPEAKER_06  It's from the song, uh, make him say, uh, the beginning of it.
+2626.00 2630.00 SPEAKER_06  And, um, these guys did a version of that, of like, yo, this is height.
+2630.00 2631.00 SPEAKER_06  Yo records.
+2631.00 2633.00 SPEAKER_06  Like Santa Claus, like Santa Claus, like Santa Claus.
+2633.00 2636.00 SPEAKER_06  Let me see you say, ho, ho, ho, ho, ho, ho, ho, ho.
+2636.00 2637.00 SPEAKER_06  This ain't no Santa Claus.
+2637.00 2640.00 SPEAKER_06  It's just like y'all haven't signed anyone.
+2640.00 2641.00 SPEAKER_06  You're not a record label.
+2641.00 2643.00 SPEAKER_06  You're just a bunch of white kids in Carmel, Indiana.
+2643.00 2644.00 SPEAKER_06  What the fuck?
+2644.00 2648.00 SPEAKER_09  And it's like, so to me, now, you know, you should have bought so much.
+2648.00 2649.00 SPEAKER_09  I would've sold all of it.
+2649.00 2651.00 SPEAKER_06  Sell it through the trash food store.
+2651.00 2652.00 SPEAKER_06  Fucking resurrect tight.
+2652.00 2653.00 SPEAKER_06  Yo records.
+2653.00 2665.00 SPEAKER_06  Those guys all work at like fucking, I don't know, like McKenzie now or something, or like, I don't know, like they, they, they, they, they, they, they're part of the real estate place that fucking, we've been thinking about doing Brinology merch.
+2665.00 2667.00 SPEAKER_08  And I think this is the Brinology merch.
+2667.00 2669.00 SPEAKER_04  Oh God.
+2669.00 2672.00 SPEAKER_08  The tight yo records hoodie.
+2672.00 2674.00 SPEAKER_08  Oh man.
+2674.00 2676.00 SPEAKER_08  Boy mate, you master P.
+2676.00 2679.00 SPEAKER_08  Boy mate, can you say ah.
+2679.00 2680.00 SPEAKER_06  Yeah.
+2680.00 2682.00 SPEAKER_06  It's just a whole, it's a whole different.
+2682.00 2686.00 SPEAKER_06  I mean, like no limit in general is such a, such a nineties vibe for so many people.
+2686.00 2688.00 SPEAKER_06  I can say, ugh.
+2688.00 2689.00 SPEAKER_06  David Padilla.
+2689.00 2690.00 SPEAKER_06  Mm-hmm.
+2690.00 2691.00 SPEAKER_06  I'm signed to tight row records.
+2691.00 2693.00 SPEAKER_06  Yeah, man.
+2693.00 2712.00 SPEAKER_06  I mean, so bringing this up, I guess I, what I'm saying is that like, we have this character, this stock character, but because it manifests so differently, like I think that Ali G, especially at the time when there was less, there was no social media, there was less exchange and stuff like this on the internet.
+2712.00 2713.00 SPEAKER_06  It would have been unscannable.
+2713.00 2723.00 SPEAKER_06  But like the fact that to us, but the fact that like Prince Harry was teaching the Queen Mother to say booyakasha, like that tells me the degree of like ubiquity.
+2723.00 2724.00 SPEAKER_06  Oh yeah.
+2724.00 2725.00 SPEAKER_06  Of this show.
+2725.00 2731.00 SPEAKER_06  And so I guess to me, the thing that I'm wondering is like looking back on it, do you think he- I never fucking forgot.
+2731.00 2732.00 SPEAKER_06  I never fucking forgot.
+2732.00 2734.00 SPEAKER_06  At fucking Balmoral as well.
+2734.00 2735.00 SPEAKER_06  Yeah.
+2735.00 2736.00 SPEAKER_06  Incredible.
+2736.00 2738.00 SPEAKER_06  Do you think, do you think looking back on it that like it goes too far?
+2738.00 2741.00 SPEAKER_06  Or do you think like it's, or like, it's not really like, it doesn't hold up?
+2741.00 2743.00 SPEAKER_06  Or do you think it- It's hard to say.
+2743.00 2749.00 SPEAKER_09  I mean, it like, I don't think it's one of those things where you look back on it and you're like, oh fuck, this is bad.
+2749.00 2753.00 SPEAKER_09  It's more one of those things where you look back on it and you're like, this would be done differently now.
+2753.00 2757.00 SPEAKER_09  Like it's sort of like, there's enough in it I think that's like pretty funny.
+2757.00 2764.00 SPEAKER_09  And there's something to be, I think there's, you know, like getting one over on someone like Jacob Rees-Mogg is always pretty funny.
+2764.00 2765.00 SPEAKER_09  Sure, yeah.
+2765.00 2775.00 SPEAKER_09  That and that kind of thing of like, there's enough good in it that it holds up in the sense of like, you know, there's something you can take from it as a cultural product of its time.
+2775.00 2781.00 SPEAKER_09  But it's not, yeah, it's not something where like, yeah, you could do this, you could do this shot for shot today and it would be great.
+2781.00 2797.00 SPEAKER_09  Like in the way that I do think that almost about Brass Eye or the day to day, like they're so close to being like, timeless in terms of like, the kind of shit that they're satirizing is exactly the same today or almost exactly the same, if not worse.
+2797.00 2801.00 SPEAKER_09  And like, the jokes are actually very carefully thought through.
+2801.00 2806.00 SPEAKER_09  Like when we talked about the Peter Geddon episode, it's like, it's running stuff close to the line.
+2806.00 2811.00 SPEAKER_09  But also it's, it's really directed satire at stuff that is bad.
+2811.00 2812.00 SPEAKER_09  Yeah.
+2812.00 2814.00 SPEAKER_09  And you can have a taste debate about it.
+2814.00 2818.00 SPEAKER_09  But actually the, the, in terms of the target of the satire, it's pretty bang on.
+2818.00 2822.00 SPEAKER_09  It's not like looking at stuff from the two thousands where it's like, what if a man was gay?
+2822.00 2823.00 SPEAKER_09  Yeah, exactly.
+2823.00 2826.00 SPEAKER_06  I do think that it's interesting.
+2826.00 2836.00 SPEAKER_06  I, I, I feel as though the concept of all of it is kind of getting over on the participant that they don't, they don't realize that it's fake.
+2836.00 2837.00 SPEAKER_06  Yeah.
+2837.00 2838.00 SPEAKER_06  Obviously that's still a thing.
+2838.00 2841.00 SPEAKER_06  I mean, you see TikToks about it, you see things like this all the time.
+2841.00 2842.00 SPEAKER_06  Yeah.
+2842.00 2850.00 SPEAKER_06  If someone to achieve that level of popularity, it would be very difficult for them to maintain the joke now.
+2850.00 2851.00 SPEAKER_06  Yeah.
+2851.00 2856.00 SPEAKER_09  And so in that regard, if you see the difference where like, we'd like the Posh and Becks interview, like they're obviously in on it.
+2856.00 2868.00 SPEAKER_09  Um, and what, what's so funny about that interview is the way that like, it just really exposes how Victoria Beckham is very much the brains in that relationship because like, she is kind of like roasting Ali G back and there's like a bit back and forth.
+2868.00 2873.00 SPEAKER_09  And then whenever he asked David Beckham question, he's like, yeah, I guess so.
+2873.00 2874.00 SPEAKER_09  Yeah.
+2874.00 2879.00 SPEAKER_03  Now Beckham, do you reckon the better the footballer you is, the fitter the girl you go out with?
+2881.00 2882.00 SPEAKER_08  Obviously.
+2882.00 2887.00 SPEAKER_03  So you is the best at foot, you know, so you get posh.
+2887.00 2891.00 SPEAKER_03  So does Sporty Spice go out with someone from Scum Football United?
+2893.00 2894.00 SPEAKER_00  That's horrible.
+2894.00 2895.00 SPEAKER_00  What do you mean?
+2895.00 2897.00 SPEAKER_00  That's my friend and she's lovely.
+2897.00 2898.00 SPEAKER_00  Exactly.
+2898.00 2900.00 SPEAKER_03  Why is he trying to say Scum Football is not a good thing?
+2900.00 2901.00 SPEAKER_03  Yes.
+2901.00 2904.00 SPEAKER_03  That is an horrible thing to say about it.
+2906.00 2914.00 SPEAKER_06  I do think though that in a way, taking, that's my favorite thing of all the ones that I watch, maybe because like, I just don't like intense, awkward stuff.
+2914.00 2918.00 SPEAKER_06  So that's why I never really made it through more than one episode of Curb Your Enthusiasm.
+2918.00 2921.00 SPEAKER_06  Like, it's just not a thing I enjoy.
+2921.00 2923.00 SPEAKER_06  And, you know, but...
+2923.00 2926.00 SPEAKER_09  Well, because it's like, you can tell that like, they like each other.
+2926.00 2927.00 SPEAKER_09  Yeah.
+2927.00 2930.00 SPEAKER_09  Like the off camera, they were having a laugh and like, it's not like, you know.
+2930.00 2951.00 SPEAKER_06  But I think that to me, it also kind of reveals Sacha Baron Cohen's ability as a comedian, specifically because like, it's not just the person kind of like the interview subject moderating their internal discomfort or confusion with sort of like, you know, you think about a politician, an actor, whomever.
+2951.00 2956.00 SPEAKER_06  Like, they've probably had lots of interviews with people who seemed fucking insane or just completely stupid.
+2956.00 2957.00 SPEAKER_06  Yeah, yeah.
+2957.00 2958.00 SPEAKER_06  And that's just part of your day.
+2958.00 2961.00 SPEAKER_06  But there's going to be alarm bells going off when it's this ridiculous.
+2961.00 2973.00 SPEAKER_06  I think when you take that away and it's just like, you know, them reacting and pushing back and then him having to come up with jokes that sort of like maintain the character, like faking out as though he's being, you know what I mean?
+2973.00 2976.00 SPEAKER_06  Like, you can see that he's just good at it.
+2976.00 2979.00 SPEAKER_06  And there's also some built in jokes that were kind of funny like him.
+2979.00 2981.00 SPEAKER_06  I can't remember what it was exactly.
+2981.00 2984.00 SPEAKER_06  The back of his coat just says Africa and it has Italy on it.
+2984.00 2988.00 SPEAKER_09  Like, I'm sorry, those kinds of jokes always make me laugh.
+2988.00 2989.00 SPEAKER_09  Yeah, where to cop?
+2989.00 2992.00 SPEAKER_09  That's going to be that's going to be the back of the fucking tight.
+2992.00 2993.00 SPEAKER_06  You know, record sweater.
+2993.00 2994.00 SPEAKER_06  I'll be honest with you.
+2994.00 2996.00 SPEAKER_06  One of the funniest examples of this.
+2996.00 3002.00 SPEAKER_06  I've and it's it's it's impossible to find online because SEO will just defeat you.
+3002.00 3007.00 SPEAKER_06  There's just no way you can get a search engine to understand what it is you're looking for.
+3007.00 3009.00 SPEAKER_06  You'd have to design it yourself.
+3009.00 3011.00 SPEAKER_06  And maybe this guy did that.
+3011.00 3012.00 SPEAKER_06  I don't know.
+3012.00 3018.00 SPEAKER_06  Or maybe it was like the best, you know, AliExpress dot com find in human history.
+3018.00 3019.00 SPEAKER_06  Yeah.
+3019.00 3022.00 SPEAKER_06  But I saw a guy walking down the street.
+3022.00 3028.00 SPEAKER_06  I want to say here in Hackney, but it might have been an Aldgate when we were in our old place.
+3028.00 3032.00 SPEAKER_06  And he had a jacket that had a kind of like black puffy coat.
+3032.00 3050.00 SPEAKER_06  And on the back had almost like airbrushed magical style artwork of like the Arc de Triomphe and Baselique Sacre Kerr and Eiffel Tower and like the, you know, like the River Seine and all of these famous Parisian landmarks drawn.
+3050.00 3059.00 SPEAKER_06  Like I said, in kind of like a like a airbrushed art shirt that you buy on holiday, you know, we'd buy in Florida style and in big letters on the bottom said London.
+3059.00 3064.00 SPEAKER_06  I was like, that's fucking badass.
+3064.00 3067.00 SPEAKER_06  That's so God, I wear it a cop.
+3067.00 3068.00 SPEAKER_09  Yeah, yeah, yeah.
+3068.00 3069.00 SPEAKER_06  That is it.
+3069.00 3072.00 SPEAKER_06  Try to find a jacket that says London with tons of Parisian shit on it online.
+3072.00 3075.00 SPEAKER_06  Like, I'm sorry, but the Google can't handle it.
+3075.00 3078.00 SPEAKER_09  I see the Britainology merch should be like that.
+3078.00 3080.00 SPEAKER_09  But it's like actual stuff from London.
+3080.00 3085.00 SPEAKER_09  But it's like an Excel bully, you know, like some vomit outside a chip shop.
+3085.00 3088.00 SPEAKER_06  Yeah, I was going to say luxury flats.
+3088.00 3089.00 SPEAKER_06  Yeah.
+3089.00 3098.00 SPEAKER_06  A sky pool over luxury flats, like a huge punch up between like, you know, a huge punch up in a kebab shop at two in the morning.
+3098.00 3100.00 SPEAKER_06  And underneath it, it says Paris.
+3100.00 3103.00 SPEAKER_09  Yeah, yeah, yeah.
+3103.00 3107.00 SPEAKER_09  I'm really, I'm going to be thinking about the tight Yo Records merch.
+3107.00 3108.00 SPEAKER_09  What did it look like?
+3108.00 3119.00 SPEAKER_06  I mean, if I remember correctly, it was just like kind of drawn in a, in a not, not like illegible graffiti style, but in that kind of like, like, like graffiti print style.
+3119.00 3121.00 SPEAKER_06  Like, you know, the brand Stussy.
+3121.00 3122.00 SPEAKER_06  Yeah, yeah, yeah.
+3122.00 3124.00 SPEAKER_06  Like that, like, it looked kind of like.
+3124.00 3126.00 SPEAKER_06  I was going to get the German way Stussy.
+3126.00 3127.00 SPEAKER_06  Stussy.
+3127.00 3128.00 SPEAKER_06  Stussy.
+3128.00 3130.00 SPEAKER_06  Like, like, like, like, it was like Stussy or Stussy.
+3130.00 3131.00 SPEAKER_06  I don't know.
+3131.00 3132.00 SPEAKER_06  I never remember.
+3132.00 3133.00 SPEAKER_06  Stussy.
+3133.00 3134.00 SPEAKER_05  You have my Stussy.
+3134.00 3135.00 SPEAKER_05  Yeah, yeah, yeah.
+3135.00 3136.00 SPEAKER_05  You have my Stussy.
+3136.00 3137.00 SPEAKER_05  Yeah, yeah, yeah.
+3137.00 3138.00 SPEAKER_05  Wer will sein Stussy poppen?
+3138.00 3140.00 SPEAKER_05  I have the Stussy poppen.
+3140.00 3141.00 SPEAKER_05  Yeah.
+3141.00 3142.00 SPEAKER_05  This is a real Stussy poppen.
+3142.00 3150.08 SPEAKER_05  yeah this is a real Stussy Poperei you have my Stussy on the floor anyway
+3150.08 3176.06 SPEAKER_06  like Stussy that style of handwriting I just said tight yo it was like tight yo with an exclamation point and then records underneath it but I mean I'm drawing on seeing it walking in the hallway like during what we call a passing period like when you walk between classes in like 2000 like this is a long time ago but in my mind's eye that's basically what it looked like but like I said like they weren't a record label in anything but name
+3176.06 3191.40 SPEAKER_09  this is fucking tears in rain shit right like it's like you know the only record of the tight yo records merch that we have is your like fallible memory from like 23 years ago that's all we can go you know this is how like society is lost
+3191.40 3228.56 SPEAKER_06  I mean similarly the kids who were probably only 15 or 16 but just seemed older because we were you know me and my friend were both 14 and our voices hadn't changed yet complaining about not having been allowed to get into getting into uh into the the South Park movie in like August 1999 the story I've told you of course numerous times and I've always wondered if people take it the wrong way when they hear it because without the context of it someone asked me once to be like what's anti-Semitism in the Midwest like and I'm like the best way to describe it is that it's ambient in a way but with people who don't necessarily know any Jewish people
+3228.56 3232.94 SPEAKER_09  yeah there's not enough Jewish people around for it to take on a directed there are places
+3232.94 3263.80 SPEAKER_06  that are famously like they're like bigger concentrations of Jewish people in bigger cities but Indianapolis is not really one of them and there was two kids who had been refused entry because they were checking IDs to see the South Park movie and you had to be 17 who couldn't get in one was wearing like a bandana and a shirt that said got weed in the got milk style and all I heard was him he's like man that's fucking Jewish and every time I tell him Milo's eyes light up when he hears this like Midwest ephemera it's so funny
+3263.80 3270.54 SPEAKER_09  because it's that kind of thing where it's like it's so it's so disconnected from any kind of actual racial animus
+3270.54 3307.94 SPEAKER_06  I remember a kid in class one time because we had my first French teacher my French one teacher was a Jewish American woman and in a very kind of like late middle age kind of like you could tell that if the class got too rowdy she would probably like not be able to get control of the class again but she's just been doing it so long she kind of knew how to shape it and there was a kid who was maybe two years older he was like a junior when we were freshmen who was like big time just stoner and she was having some conversation he's like does anybody know what language they speak in Israel and he's like Jewish and she like got mad at him and like was gonna write him up because she thought he was like making a joke and he just was like fucking stupid and didn't know
+3307.94 3313.02 SPEAKER_08  like I'm telling you man yeah that's what it was like
+3313.02 3327.72 SPEAKER_09  it's a good question yeah I mean I guess Indianapolis is what the Sopranos would call Elvis country yeah maybe that's one of my favorite bits in the whole show where he's like yeah take it down to fucking Elvis country and then he's like what's Elvis country he's like place where there are no Jews blacks or Italians
+3327.72 3389.36 SPEAKER_06  yeah sounds about well I mean I guess looking back to bring it back into the into the the the sort of thematic point here it's funny that Sacha Baron Cohen gave a commencement speech at Harvard as Ali G that's not really out of character for Harvard I remember that one time they had Kermit the Frog do it yeah and I remember a quote in some coverage of this where someone's like I kind of I kind of feel like you bust your ass for four years at the school you deserve more than getting talked to by a fucking sock I don't necessarily think it went over well I imagine a lot of people in the audience and their parents were very confused like why does this guy talk this way but that to me is pretty is pretty standard stuff looking back I gotta be real with you it's more annoying than funny to me but I also know that I'm not the target audience for it in the sense that like this is a specifically British thing well you're also 20 years too late to be the target audience for that's true but I would have been target audience in Britain in 1999 or 2001 or 100% 100%
+3389.36 3395.24 SPEAKER_09  yeah you'd have had to have gotten your you know your uncle Dave to smuggle you into the cinema to see Allergy in the
+3395.24 3418.80 SPEAKER_06  house yeah I probably British me would be a really I don't know what that mean I would like have discovered I could get an American passport and emigrate to America and do it oh I fucking love guns and roses doing a podcast called like America ology where yeah yeah the exact thing where American Milo is explaining America to me have you ever heard of Twinkies
+3418.80 3424.48 SPEAKER_09  okay listen up buddy I'm American Andrew Tate
+3424.48 3429.02 SPEAKER_08  or just Andrew Tate yeah he's like
+3429.02 3437.14 SPEAKER_09  Andrew Tate is still like British Andrew Tate is like it's like you you know like American Andrew Tate is like what if what if Andrew Tate was raised in America you know
+3437.14 3440.86 SPEAKER_06  I had a I had a I think I've told the story on the show before that my in middle school
+3440.86 3442.90 SPEAKER_09  like you've never seen the fucking Brady Bunch that
+3442.90 3465.48 SPEAKER_06  there was a kid in my middle school who his family moved over I know I've told the story before that I had a British classmate his dad was the fucking Taibo instructor like Billy Blake's Taibo like the video not fight not actual martial arts but rather just like it's like it's like it's like Kung Fu jazzercise but his dad I realized now because they were from Coventry and his dad like taught the
+3465.48 3472.42 SPEAKER_09  class because Taibo is so American like why is a British guy a Taibo like that kind of that's that's the kind of thing where it's like it's too nice but his dad
+3472.42 3486.78 SPEAKER_06  had like gelled hair and an earring and had like like like tracksuit joggers when he was teaching the class to like my eighth grade gym class and I realized now like we encountered like Coventry guy but I just wasn't prepared for it and that to me is kind of like encountering Ali G as an American with no context all right
+3486.78 3488.76 SPEAKER_07  listen up kids you can learn about Taibo
+3488.76 3491.88 SPEAKER_06  I didn't realize
+3491.88 3494.90 SPEAKER_07  I moved to Carville Indiana to teach Taibo
+3494.90 3498.10 SPEAKER_06  is Coventry accent that that close to the Birmingham general
+3498.10 3508.40 SPEAKER_09  I mean people are going to yell at me but it's it's it's Coventry is near Birmingham it's got a I guess it's like it's Coventry in the black country don't write it
+3508.40 3510.18 SPEAKER_06  don't fucking ask me no I'm not I'm
+3510.18 3521.14 SPEAKER_09  asking I'm asking the ether but yeah Coventry is yeah it's the West Midlands yeah it's going to be the accent's going to be somewhere in that neck of the woods all right all right well I was going a bit Ringo Starr there but yeah I feel like
+3521.14 3529.36 SPEAKER_06  I just was asking you because I figured that you've probably been like defrauded by a shitty comedy promoter in Coventry at some point in your career you know weirdly I've never done a gig in
+3529.36 3555.10 SPEAKER_09  Coventry really and I've been to a lot of shit towns in this country what I love sometimes is you meet someone from a shit town who doesn't work in the comedy industry but it's like a small enough shit town that you know some cunt comedy promoter in that town and you bring it up and they're like that fucking cunt like yes he transcends the business and it's always a man and like you know that guy and you hate him too but just from like down the pub which is so much better
+3555.10 3595.80 SPEAKER_06  yeah yeah man well you know what it's it's it I don't know how to round this out other than saying that it's a fragment of a different time I don't know if it was better I mean there's a lot of things culturally socially that seemed like it was worse back then but it is it is weird to me that I'm trying to think of like breakthrough crossover stuff like characters films etc that are British that have that kind of purchase in America or even like any warrant any kind of mention and I don't know like it's it's prestige TV it's some music stuff it's certain actors you know things along those lines but yeah yeah I guess I
+3595.80 3597.98 SPEAKER_09  guess the office kind of but it was translated
+3597.98 3608.38 SPEAKER_06  yeah we had to make our own version of it you know it's like it's like a soy version only fools and horses you know the Serbians couldn't just dub it they needed to invent Serbian man and van yeah yeah yeah I mean which is awesome
+3608.38 3621.40 SPEAKER_09  it's it's so funny that they like in in retrospect the American office that they managed to make a more annoying version of a product that was made by Ricky Gervais yeah it goes to show how far Ricky Gervais I think the
+3621.40 3669.30 SPEAKER_06  thing at the end of the day it's just that some of the humor doesn't translate and I guess I'll leave it on once again because I'm really playing the hits today and referencing some of these stories I'll end it on the thing about British humor and American humor is the best summation of this that I've ever seen was the episode of King of the Hill where Peggy tells Bobby that he's gonna they're gonna watch this show and it's it's it's British humor and he might not find the jokes funny because British humor is more sophisticated than ours and Bobby just goes why is that man wearing a dress yeah I mean could anything be a more obvious rip on Monty Python look I'm just saying that some things I think when you look at the office like the show might have been popular in like a cult way but if you remade it for an American audience it would be like I'll be
+3669.30 3676.62 SPEAKER_09  saying the same thing that an Ottoman soldier once said in about 1943 yeah yeah the
+3676.62 3702.04 SPEAKER_06  weirdly the I can only imagine you know what yeah good of a place as any to leave it thank you for being a premium subscriber premium hogs we love you let me hear you say that ain't no motherfucking hog look forward to us whatever permutation of tight yo records merchandise we come up with because I just yeah sometimes I just mind the mind mind my memories for some strange stuff that I encountered as a yeah the
+3702.04 3707.54 SPEAKER_09  British version of tight yo records is such a powerful thought yeah all I can say is I
+3707.54 3724.40 SPEAKER_06  remember there was a community paper thing where they had done a story about like a teen couple that like had gotten the girl had gotten pregnant they'd gotten married and there were some comments about it and like someone wrote a letter to the editor that was like his boys in their gang called the Swayze crew and they said they were going to basically retaliate implied beat up the people who had said mean things in this story about them and like
+3724.40 3728.82 SPEAKER_08  the Swayze crew and so I'm just saying like what Ali G
+3728.82 3734.94 SPEAKER_06  was making fun of in Britain we have a version it just looks different that's all
+3734.94 3737.10 SPEAKER_05  the Swayze crew listen as a
+3737.10 3751.56 SPEAKER_06  Swayze crew we were retaliate and you know what that's where we can leave it so we run this roadhouse exactly it's just yeah we hang out we hang out and fucking Bob Evans and make a lot of noise and don't leave a good tip that's that's how you be a bad boy yeah anyway please come to my tour dates
+3751.56 3796.74 SPEAKER_09  fucking end of this month in Rotterdam Amsterdam is sold out February 11th special taping in London please come to that there's a there's a rehearsal for the special taping also on February the 7th if you can't make that which would be very helpful I do need people to come to that so I can make sure that I know all of the words that is cheaper if that appeals to you March the 3rd in Brighton we need to sell some tickets to that because I forgot to promote it early enough Australia I'm doing Brisbane Melbourne Sydney Newcastle Canberra Adelaide and Perth please come in the relevant city that would be great it's my tour show sentimental it got five star views at the fringe come along great to see you I will link
+3796.74 3807.44 SPEAKER_06  Milo's site in the show notes since this is a obviously this is a bonus episode but we'll put that there so yeah if you're in a position to go see Milo buy some tickets go see him do it you will have all the information there if you're lazy you can
+3807.44 3810.88 SPEAKER_09  Google Milo Edwards city name and it's almost certainly going
+3810.88 3820.16 SPEAKER_06  to work I will I will link all of the the the segments of Ali G that we watched in preparation for this in the show notes as well if you want to post comments post your thoughts on this what do you
+3820.16 3830.06 SPEAKER_09  think yeah we didn't talk much about the movie Ali G in the house B8 too rare's bitch on a pension suck my dong etc etc god damn it yeah I'm kind of glad
+3830.06 3857.24 SPEAKER_06  we didn't because I would have had to watch the movie and I think I would have come like just like bleary-eyed and furious be like Milo why did you do this to me please give please cut a perfect edit of Nate saying bitch I would have come I'm gonna put that on the sound board I don't think I actually said that but you know if you can make it sound like that then use it to your heart's content I grant you all the privilege in the world for that but until next time thank you for being a premium subscriber and we'll speak to you soon catch you later
+3857.24 3863.92 SPEAKER_00  bitch on a pension suck my dong what shall I turn the engine on yeah
+3863.92 3889.92 None  yeah yeah yeah yeah yeah yeah yeah yeah yeah

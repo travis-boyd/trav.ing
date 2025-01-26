@@ -1,0 +1,955 @@
+0.38 1.82 None  How long you make it?
+1.84 20.26 None  I have gone bad made from you Degra �'t to I.
+23.80 27.54 None  So I want you to be happy.
+27.54 34.16 SPEAKER_03  If you're hearing this, well done.
+34.56 36.12 SPEAKER_03  You found a way to connect to the internet.
+36.80 43.06 SPEAKER_03  Welcome to the QAA Podcast, Episode 308, Malfuego, featuring Mike Rothschild.
+43.50 47.84 SPEAKER_03  As always, we are your hosts, Jake Rakitansky, Julian Fields, and Travis View.
+48.24 61.14 SPEAKER_09  We are recording this episode on January 20th, during the first couple hours of President Trump's second term, which means that he is now officially America's second non-consecutive president.
+61.42 66.64 SPEAKER_11  No thanks to you, Travis. No thanks to you, Mr. View. You were always a critic.
+66.86 70.24 SPEAKER_09  Yeah, I suppose so. I hope I will continue to be.
+70.34 72.12 SPEAKER_09  Look who's eating their hat now.
+72.30 89.80 SPEAKER_09  Yeah, well, so we try to limit the number of firm predictions we make on this show, but I will say now that unlike the first non-consecutive president, Grover Cleveland, Trump will not be staunchly anti-imperialist, nor a good ally in Washington to the native people of Hawaii.
+90.00 93.70 SPEAKER_09  Now, look it up. Cleveland was actually pretty good on those particular issues.
+93.82 104.00 SPEAKER_09  In fact, Julian, if you could stop fantasizing about all American presidents dying by violence for just a few minutes, I think you would find that Grover Cleveland is your favorite president.
+104.20 106.98 SPEAKER_09  I think you would find that Grover Cleveland is dead.
+106.98 112.32 SPEAKER_03  I think you would both find that Grover Cleveland, like, married his daughter or something like that.
+112.40 119.64 SPEAKER_11  I think that's probably disinformation, but I think Grover Cleveland was not a president and was, in fact, a character on Sesame Street.
+119.86 120.32 SPEAKER_09  All right.
+120.58 121.80 SPEAKER_09  So, I think it's—
+121.80 126.90 SPEAKER_11  Listen, time does my job for me. I don't have to threaten these guys. Where is he now? Six feet under.
+127.10 128.28 SPEAKER_11  I suppose that's true.
+128.28 145.40 SPEAKER_09  Now, it's also a safe bet that Trump will be the conductor of a series of absurd spectacles that will, in effect, cover up, distort, or distract from tragedy, violence, cruelty, corruption, and the level of wealth inequality, which has only worsened since he last left office.
+145.40 155.58 SPEAKER_09  So, today we're going to talk about one ongoing mass tragedy which has personally impacted us to varying degrees, the deadly and destructive L.A. wildfires.
+155.58 171.44 SPEAKER_09  As of this recording, the fires have led to at least 27 fatalities, the evacuation of over 200,000 residents, the destruction of more than 12,000 structures, and they have caused an estimated $50 billion in economic damage.
+171.64 179.54 SPEAKER_09  Entire neighborhoods, such as Pacific Palisades, Malibu, and Altadena, have been entirely or at least largely destroyed.
+179.80 184.04 SPEAKER_09  It is one of the most catastrophic disasters in L.A.'s history.
+184.04 186.64 SPEAKER_09  It is truly awful.
+187.02 199.42 SPEAKER_11  And a friend of mine, you know, technically her house is still standing, but because some guy near her was hoarding lithium-ion batteries, it is like a toxic spill zone, basically.
+199.90 206.78 SPEAKER_11  And, of course, insurance does not cover toxic infection of, like, every part of your home to the point where you cannot return to it.
+207.02 207.20 SPEAKER_09  Fun.
+207.20 213.46 SPEAKER_09  Now, Trump has said that he will probably visit the destroyed areas in L.A. this coming week.
+213.66 215.00 SPEAKER_09  So, looking forward to that.
+215.18 225.28 SPEAKER_09  So, I think it will be valuable to unpack both the truth and the baseless conspiracy theories about the fires before he continues to leverage the pain of this region for political clout.
+225.80 232.22 SPEAKER_09  Joining us is a man who is, unfortunately, the world's top expert on the intersection of these topics.
+232.22 234.22 SPEAKER_03  One and only.
+234.22 234.28 SPEAKER_03  One and only.
+234.62 235.80 SPEAKER_03  That's, wow.
+236.04 236.48 SPEAKER_03  Wow.
+236.60 237.52 SPEAKER_03  What an introduction.
+237.82 242.38 SPEAKER_11  Travis is somehow more disrespectful than me, but, like, it's such an organized fashion.
+242.90 244.16 SPEAKER_08  One of one.
+244.98 245.66 SPEAKER_08  Yeah.
+245.66 254.90 SPEAKER_09  I was speaking, of course, of author, journalist, former Altadena resident, and current climate refugee, Mike Rothschild.
+255.10 261.26 SPEAKER_09  Mike, it is always a pleasure to have you on, but I, of course, wish we were speaking under better circumstances.
+261.74 262.80 SPEAKER_08  Well, thanks, guys.
+263.04 269.04 SPEAKER_08  I can always count on the three of you to lift my spirits whenever my house burns down.
+269.50 271.88 SPEAKER_08  So, you know, we're one for one.
+271.88 277.26 SPEAKER_11  I just think it's such a bummer that the Jewish space lasers targeted you.
+277.44 278.52 SPEAKER_11  Like, this must have been an error.
+278.76 282.30 SPEAKER_11  Like, someone must have, like, fat fingered the controls.
+282.62 286.36 SPEAKER_08  You know, it's, they said that Irony died after 9-11.
+286.74 287.10 SPEAKER_08  Nope.
+287.38 287.62 SPEAKER_08  Nope.
+287.78 293.66 SPEAKER_08  Irony is alive and well and messing with me on a daily basis.
+294.54 297.98 SPEAKER_11  Man, genuinely, I am sorry to hear that, man.
+298.14 299.10 SPEAKER_11  That is awful.
+299.56 300.64 SPEAKER_11  Oh, thank you.
+300.64 301.76 SPEAKER_09  I mean, yeah, I know.
+301.90 309.94 SPEAKER_09  It's, I mean, yeah, it's like, yeah, we, growing up, you know, in Southern California, it's, you know, it's like every couple years, there's always fires.
+310.08 314.38 SPEAKER_09  It's always, like, you always expect it, you know, it's always a possibility that might happen.
+314.46 316.94 SPEAKER_09  It's just, yeah, we're really sorry to hear about it, Mike.
+316.98 319.02 SPEAKER_09  We're wishing the best for you and your family.
+319.28 319.48 SPEAKER_08  Wow.
+319.52 320.16 SPEAKER_08  Thank you, guys.
+320.16 330.44 SPEAKER_09  So, yeah, Mike, you've been writing some, like, some very touching personal essays on your blog about your experience, like, fleeing the fire and, like, losing your home, dealing with the aftermath.
+330.44 336.94 SPEAKER_09  And the rumors that fill in the large amount of uncertainty that comes with an event like this.
+337.10 341.40 SPEAKER_09  So, I was hoping you could, we could start by you just sort of, like, talking about, like, what you've been through.
+341.40 347.92 SPEAKER_08  Yeah, so we started having the Santa Ana winds, I guess it was almost two weeks ago.
+348.06 349.02 SPEAKER_08  And we've had it before.
+349.30 352.00 SPEAKER_08  You know, everybody in the San Gabriel Valley, you're just kind of used to it.
+352.08 353.54 SPEAKER_08  It happens at the beginning of the year.
+353.70 358.18 SPEAKER_08  You know, you may get some branches shorn off one of your trees or you may get some roof tiles knocked off.
+358.34 359.80 SPEAKER_08  You know, they were really, really bad this year.
+359.82 361.50 SPEAKER_08  The worst anybody had seen.
+361.62 367.46 SPEAKER_08  I mean, I, you know, people I know who've lived in the Pasadena-Altadena area for 50, 60 years, they said it's never been this bad.
+367.46 376.52 SPEAKER_08  And I was getting home with our kids about 6 o'clock, and I could see in the distance the glow of what I guess at that point was already the Eton fire.
+376.74 379.16 SPEAKER_08  The Palisades fire had been going for hours at that point.
+379.32 381.30 SPEAKER_08  But we were pretty far from it.
+381.44 384.52 SPEAKER_08  We always thought that we were not in the fire risk area.
+384.66 392.28 SPEAKER_08  The fire risk area really sort of ended at probably the biggest street in the northern part of Altadena, which is Loma Alta.
+392.28 395.16 SPEAKER_08  Everything north of Loma Alta, you're starting to get into the mountains.
+395.36 397.32 SPEAKER_08  You're starting to get into Angeles National Forest.
+397.32 398.52 SPEAKER_08  Like, there's real danger there.
+398.60 400.92 SPEAKER_08  But south of Loma Alta, you know, it's a lot of concrete.
+401.16 402.34 SPEAKER_08  It's a lot of streets.
+402.50 404.32 SPEAKER_08  You know, there's just not danger there.
+404.44 410.14 SPEAKER_08  But, of course, we'd never seen the wind like this, and it hadn't rained at all this winter.
+410.26 411.74 SPEAKER_08  So everything was very dry.
+411.96 416.20 SPEAKER_08  The wind is just blasting, and it's really ripe for something to happen.
+416.42 419.98 SPEAKER_08  And we started to see the glow of the fire probably about 6 o'clock.
+419.98 426.44 SPEAKER_08  And then maybe by about 8.30 or 9, we could start to see the fire literally creeping across the mountains.
+426.44 430.78 SPEAKER_08  You can start to see almost individual trees burning.
+430.98 436.26 SPEAKER_08  You know, if you walked out from where our house was and you look to the left, the mountains are right there.
+436.26 442.44 SPEAKER_08  And so probably about 9 o'clock-ish from where I was standing, you could see the fire.
+442.80 445.98 SPEAKER_08  And we had not gotten any kind of evacuation notice yet.
+446.10 447.72 SPEAKER_08  In fact, our power was still on.
+447.92 450.40 SPEAKER_08  We decided let's just get some stuff in the cars.
+450.58 451.52 SPEAKER_08  Better safe than sorry.
+451.66 455.24 SPEAKER_08  We may have to evacuate for a day or two just because of nothing else of the smoke.
+455.24 456.96 SPEAKER_08  So we got documents.
+457.16 457.94 SPEAKER_08  We got photos.
+458.36 462.02 SPEAKER_08  We got stuff off the walls that really could not be replaced.
+462.14 464.54 SPEAKER_08  But we really didn't have any idea what to grab.
+464.70 468.90 SPEAKER_08  So, you know, we're grabbing kind of random pieces of clothing, random stuff.
+468.98 470.82 SPEAKER_08  There's no real rhyme or reason to it.
+471.04 476.86 SPEAKER_08  So about midnight, we decide, or maybe a little bit earlier than that, we decide let's try to get some sleep.
+477.00 478.70 SPEAKER_08  Let's just see how it goes in the morning.
+478.90 482.72 SPEAKER_08  About 3.25 in the morning, our phones start going off.
+482.82 484.74 SPEAKER_08  And it is get out now.
+484.74 486.22 SPEAKER_08  It's not get ready to go.
+486.30 488.76 SPEAKER_08  It's you need to run literally right now.
+489.00 490.84 SPEAKER_08  By this point, our power is out.
+490.96 492.34 SPEAKER_08  So our house is freezing.
+492.60 494.08 SPEAKER_08  We're running around panicking.
+494.20 495.70 SPEAKER_08  Our kids are running around panicking.
+495.98 499.88 SPEAKER_08  We grab various things and shove them into bags.
+500.14 501.62 SPEAKER_08  I had the wherewithal to get dressed.
+502.00 508.62 SPEAKER_08  But I spent an inordinate amount of time looking for the right t-shirt as if I was like going to the club.
+508.76 511.90 SPEAKER_08  Like, gotta have the right shirt if you're going to evacuate.
+511.90 519.16 SPEAKER_03  Well, that's real because you don't know when you're going to be back or how long you're going to be gone.
+519.32 523.00 SPEAKER_03  And so you're like, what outfit is going to sustain me?
+523.50 524.74 SPEAKER_03  Like, it's a very – yeah.
+524.88 528.44 SPEAKER_08  Because I don't want to look schlubby in the evacuation center.
+528.84 528.96 SPEAKER_11  No.
+528.96 534.32 SPEAKER_11  You've finally gotten your big role as a crisis actor and now you're picking wardrobe.
+534.62 534.92 SPEAKER_11  Right.
+535.16 537.04 SPEAKER_11  This is my wardrobe for my crisis actor.
+537.16 539.22 SPEAKER_03  I love having another Jew on the show.
+539.34 540.30 SPEAKER_03  This is just wonderful.
+540.74 548.30 SPEAKER_03  The – like, as you're – as literally your life and your home are threatened, you're like, oh, I don't want to look like a fucking schlamiel.
+548.30 550.62 SPEAKER_03  Like, with the other evacuees.
+550.80 552.72 SPEAKER_08  Oh, my God.
+552.98 555.76 SPEAKER_08  My younger son leaves with one sock on.
+555.90 558.52 SPEAKER_08  I mean, it's just – you just don't know.
+558.92 560.16 SPEAKER_08  So we get outside.
+560.52 562.62 SPEAKER_08  It is pitch black because all the lights are out.
+562.70 563.44 SPEAKER_08  It's cold.
+563.94 566.42 SPEAKER_08  There's ash and soot in the air.
+566.50 568.74 SPEAKER_08  There's cars going north and south.
+569.02 572.14 SPEAKER_08  There's – we can't see any fire because we don't know where the fire is.
+572.14 573.04 SPEAKER_08  But we just drive.
+573.26 578.84 SPEAKER_08  And we drove probably about two miles south to where my mother-in-law lives in Pasadena.
+579.16 581.12 SPEAKER_08  We thought, okay, we're just going to go there.
+581.34 582.20 SPEAKER_08  It's a safe place.
+582.26 583.62 SPEAKER_08  It's not in the evacuation zone.
+583.74 584.42 SPEAKER_08  We're fine there.
+584.42 586.76 SPEAKER_08  We finally sort of calmed down.
+586.86 587.94 SPEAKER_08  6.30 in the morning.
+588.10 589.32 SPEAKER_08  We tried to get a little bit of sleep.
+589.52 589.78 SPEAKER_08  Bam.
+589.94 590.92 SPEAKER_08  Phones go off again.
+591.12 593.20 SPEAKER_08  Now you need to evacuate where you are again.
+593.34 599.28 SPEAKER_08  So we head to the church where we got married, which is becoming an evacuation center.
+599.48 601.22 SPEAKER_08  We spent most of the day there.
+601.22 604.56 SPEAKER_08  That's where we found out from our neighbors that our house was gone.
+604.86 613.28 SPEAKER_08  And we decided that we were going to head east and we headed out to Claremont, which is about maybe about a 40-minute drive east of L.A.
+613.28 616.84 SPEAKER_08  And we spent a couple of nights there with family friends.
+617.22 624.54 SPEAKER_08  And so, of course, by that point, I'm starting to get media contacts because I've been posting about like, hey, I just lost my house in the fire.
+624.64 625.64 SPEAKER_08  Like, this is a real thing.
+625.78 628.20 SPEAKER_08  So I do Anderson Cooper.
+628.20 632.34 SPEAKER_08  I talked to Anderson Cooper, who had been reporting from just around the corner from my house.
+632.54 632.68 SPEAKER_08  Wow.
+632.72 633.78 SPEAKER_08  That's fucking wild.
+633.94 635.34 SPEAKER_08  I'm talking to Anderson Cooper.
+635.42 640.20 SPEAKER_08  My phone is propped up on a jewelry box being held up by a clothes hamper.
+640.20 644.48 SPEAKER_08  I'm in like the one long sleeve shirt that I have.
+644.54 647.64 SPEAKER_08  I mean, it's just like, you can't even imagine this.
+647.74 652.84 SPEAKER_08  I don't remember anything I said because I'm in like shock.
+652.94 659.28 SPEAKER_08  But also, like, I need to make sure that I have enough headroom on my camera so that I look good on like national TV.
+659.58 664.32 SPEAKER_08  It's, I mean, surreal doesn't do it any sort of justice whatsoever.
+664.32 668.78 SPEAKER_09  Yeah, that's, yeah, lots, lots, lots of stories like that.
+668.86 673.36 SPEAKER_09  I mean, is very, yeah, just very, very difficult to imagine.
+673.84 683.38 SPEAKER_09  Now, before we talk about conspiracy theories related to the fires, let's talk about what is known about the cause of the fires, which right now is not a lot.
+683.48 687.78 SPEAKER_09  Now, it may take some time before officials conclude their investigations.
+687.96 700.38 SPEAKER_09  For example, the ATF, which is responsible for investigating wildfires at the federal level, didn't release their report on the 2023 Maui fires until more than a year after that disaster.
+700.68 706.00 SPEAKER_11  If it were me running the government, I would simply keep like alcohol and firearms away from any fire related stuff.
+706.22 708.60 SPEAKER_09  Yeah, you'd think, I mean, I'll be honest.
+708.66 712.26 SPEAKER_09  Yeah, it's, I'm not sure why they got that particular responsibility.
+712.54 713.96 SPEAKER_08  It's got fire in the name, you know.
+713.98 715.38 SPEAKER_09  Yeah, it's got fire in the name, close enough.
+715.66 719.44 SPEAKER_09  But yeah, but yeah, that, yeah, that investigation took 14 months.
+719.44 721.74 SPEAKER_09  So these things can be complicated.
+721.74 727.56 SPEAKER_09  But what is known is that most wildfires in inhabited areas are human caused.
+727.74 736.84 SPEAKER_09  Now, whether that's intentional, like arson or accidental, like a downed power line or an out of control explosion from a gender reveal party.
+737.02 743.92 SPEAKER_09  No, a gender reveal party, of course, was the cause of the 2020 El Dorado fire, which burned over 22,000 acres.
+744.28 747.02 SPEAKER_11  Oh, I'm hearing the ATF has figured it out.
+747.02 751.74 SPEAKER_11  The world is turning and it turns out the fire was always burning.
+752.44 754.58 SPEAKER_08  But we didn't start the fire.
+754.80 755.68 SPEAKER_11  We didn't start it.
+755.78 756.18 SPEAKER_11  I know that.
+756.48 756.92 SPEAKER_08  We did not.
+757.44 765.08 SPEAKER_09  What is much better understood, however, is the conditions that allowed the fires to spread so far and so fast.
+765.32 771.00 SPEAKER_09  According to climate and weather experts, there are actually three specific conditions that allowed the fires to get this bad.
+771.16 773.56 SPEAKER_09  Wet years, a dry year and high winds.
+773.56 778.26 SPEAKER_09  So number one, the previous two years were extremely wet for Southern California.
+778.58 786.98 SPEAKER_09  This deluge of rain created an unusually large amount of vegetation, which can serve as fuel for those fires if they get too dry.
+787.40 799.44 SPEAKER_09  In 2024, over the summer, there was a twice the average amount of biomass in grasslands and scrublands in coastal Southern California due to these two wet winters in a row.
+799.44 804.92 SPEAKER_09  And number two, this past year in Southern California, like Mike was talking about, I've been very, very dry.
+805.10 813.18 SPEAKER_09  The last time that Los Angeles recorded more than one tenth of an inch of rainfall was May 5th, over eight months ago.
+813.34 817.58 SPEAKER_09  So that day, LA received 0.13 inches of rain.
+817.76 819.02 SPEAKER_09  This is weird, right?
+819.12 826.78 SPEAKER_09  We typically start seeing like some precipitation around like November or December, but it has been bone dry.
+826.78 831.18 SPEAKER_09  I don't know, have you, when have you, when did you start feeling like this, something's off?
+831.24 833.16 SPEAKER_09  I remember it was, for me, it was around Christmas.
+833.16 837.54 SPEAKER_09  I was like, oh, don't we usually get like a little bit of rain by now?
+837.66 839.68 SPEAKER_09  It was, it was, it felt very, very eerie.
+839.98 840.12 SPEAKER_08  Yeah.
+840.22 845.82 SPEAKER_08  It rained some tiny, tiny little bit at some point, maybe, you know, end of December.
+845.82 849.18 SPEAKER_08  And I was like, oh yeah, it hasn't rained at all.
+849.46 852.02 SPEAKER_08  My trees are not growing at all.
+852.10 852.98 SPEAKER_08  Everything is brown.
+853.14 855.36 SPEAKER_08  This, this is really different from the last couple of years.
+855.36 856.00 SPEAKER_09  Yeah.
+856.16 866.94 SPEAKER_09  So in fact, since scientists have started keeping reliable records on rainfall in 1877, there's only been one possible year when it has been any drier.
+867.18 870.80 SPEAKER_09  And that was the 1962 to 1963 season.
+871.02 879.80 SPEAKER_09  So, you know, if your feeling is like, man, I don't remember when it was ever been this dry in Southern California, it's probably because you're younger than retirement age.
+880.36 880.92 SPEAKER_09  Yeah.
+881.10 881.74 SPEAKER_09  None of us.
+881.84 884.42 SPEAKER_09  I mean, we're all getting old, but none of us were born then.
+884.42 884.98 SPEAKER_09  Yeah.
+885.36 892.94 SPEAKER_09  And this dryness helped turn all of that abundant vegetation created in the previous years into highly flammable tinder.
+892.94 904.02 SPEAKER_09  So there's this really great interview that the New Yorker published with the UCLA climate scientist, Daniel Swain, where he explains how weirdly dry it has been in the region.
+904.02 912.42 SPEAKER_03  This is now either the driest or second driest start to the season on record throughout Southern California, going back a hundred years.
+912.66 917.38 SPEAKER_03  In modern history, it has not been this dry this late in the ostensible rainy season.
+917.66 928.50 SPEAKER_03  That is something that really sets the stage for these fires, because had these same winds occurred following, say, an inch or two of rain so far in the season, even if that's below average, it's still a good soaking.
+928.50 932.00 SPEAKER_03  If that had occurred, we wouldn't be seeing the fires that we're currently seeing.
+932.10 934.18 SPEAKER_03  We wouldn't have that explosively dry vegetation.
+934.62 944.20 SPEAKER_03  It essentially has not rained in Los Angeles since last spring in many areas, about a tenth of an inch or less, which is insignificant from a wildfire perspective.
+944.70 952.78 SPEAKER_03  On top of that, the inland parts of Southern California, the mountains, the elevated plateaus, in the desert regions, experienced their hottest summer on record.
+953.00 955.40 SPEAKER_03  The city of Los Angeles did not, to be clear.
+955.54 964.98 SPEAKER_03  But then, in early September, even the city of Los Angeles, and really the entire Los Angeles basin, did experience a record-breaking heat wave, which I remember.
+965.24 967.00 SPEAKER_11  Yeah, it was insanely hot.
+967.16 971.04 SPEAKER_11  My air conditioning just ceased functioning because it was struggling so much.
+971.14 971.34 SPEAKER_11  Yeah.
+971.80 982.00 SPEAKER_09  By the way, this phenomenon of very wet years being followed by very dry years, or vice versa, is a predicted consequence of anthropogenic climate change.
+982.20 983.66 SPEAKER_09  It even has a catchy name.
+983.74 985.34 SPEAKER_09  It's called Climate Whiplash.
+985.60 993.86 SPEAKER_09  There's a very recent scientific paper published in the journal Nature under the title Hydroclimate Volatility on the Warming Earth.
+993.86 1007.44 SPEAKER_09  And it asserts that the data shows that these large transitions between, you know, very dry and very wet conditions between seasons and between years have significantly increased in frequency since the mid-20th century.
+1007.44 1015.26 SPEAKER_09  So the weather conditions are weird, but you have to keep in mind that for the rest of your life, this kind of weirdness is going to be normal.
+1015.94 1016.52 SPEAKER_09  Thanks, Travis.
+1016.78 1017.44 SPEAKER_09  That's...
+1017.44 1018.06 SPEAKER_09  Appreciate it.
+1018.40 1019.38 SPEAKER_09  My pleasure.
+1019.68 1027.38 SPEAKER_09  And the third condition that allowed the fires to get as bad as they did was the very strong dry winds, the so-called Santa Ana winds.
+1027.50 1030.64 SPEAKER_09  A, you know, a regular visitor here in Southern California.
+1030.64 1035.14 SPEAKER_09  So these pushed the fires into more fuel faster.
+1035.34 1039.26 SPEAKER_09  And of course, it's not unusual for LA to see strong winds in January.
+1039.26 1040.18 SPEAKER_09  In fact, it's pretty normal.
+1040.34 1046.12 SPEAKER_09  But these were especially strong and included gusts of up to 100 miles per hour.
+1046.12 1047.28 SPEAKER_03  Yeah, it was crazy.
+1047.34 1050.34 SPEAKER_03  It was crazy that morning when the winds hit.
+1050.46 1054.58 SPEAKER_03  We were outside, like, trying to gather the garbage bins.
+1054.84 1058.90 SPEAKER_03  Because it just so happened that Tuesday morning is, like, trash pickup day.
+1059.00 1062.02 SPEAKER_03  And so everybody's bins are out in the street.
+1062.20 1064.54 SPEAKER_03  And the trucks come early.
+1064.54 1065.98 SPEAKER_03  So all these bins are empty.
+1065.98 1074.20 SPEAKER_03  And we walked out to, like, neighbors in the street, like, running around, trying to grab these, like, huge garbage bins.
+1074.34 1077.52 SPEAKER_03  It really felt like the beginning of, like, the suburban apocalypse.
+1078.02 1088.28 SPEAKER_11  Yeah, I'm just kind of underneath Pasadena and had some friends in Pasadena just kind of already, like, migrating downward because it was not looking good.
+1088.56 1091.54 SPEAKER_08  Yeah, the wind was absolutely brutal that morning.
+1091.54 1097.72 SPEAKER_08  And I could watch, we had a mature avocado tree, and I could watch it just sort of, like, being whipped back and forth.
+1097.90 1099.54 SPEAKER_08  And I'm just going, like, this is bad.
+1100.34 1102.52 SPEAKER_08  I mean, we lived in a pretty sturdy house.
+1102.54 1103.76 SPEAKER_08  We had a 100-year-old cottage.
+1103.92 1105.48 SPEAKER_08  And it was quite well built.
+1105.90 1108.82 SPEAKER_08  And I was sort of like, okay, this is shaking a lot.
+1109.46 1110.66 SPEAKER_08  I don't like this.
+1110.92 1112.88 SPEAKER_08  And, you know, that's well before the fire.
+1113.12 1119.44 SPEAKER_03  Yeah, that's, you know, it fucking sucks because it's, like, there are so many things to be anxious about.
+1119.44 1125.46 SPEAKER_03  And, like, I hate to imagine, but for somebody in your case, it's like, here's one thing of anxiety.
+1125.58 1126.90 SPEAKER_03  It's like the winds, the avocado.
+1127.10 1129.30 SPEAKER_03  Is the house going to hold up to these winds?
+1129.52 1130.66 SPEAKER_03  Is the tree going to go over?
+1130.78 1137.54 SPEAKER_03  And then as things get, like, progressively worse, new anxieties are coming in, new threats, like, you know.
+1137.54 1144.38 SPEAKER_03  I just, like, I feel so bad that, like, you had to go through any and all of this.
+1144.56 1144.80 SPEAKER_08  Yeah.
+1145.24 1146.40 SPEAKER_08  Yeah, it's been a lot.
+1146.88 1150.50 SPEAKER_08  And it's going to continue to be a lot for the foreseeable future.
+1150.68 1155.88 SPEAKER_11  On the plus side, we'll get a collection of poetry from Jake called The Wind, The Avocados, The Fire.
+1156.18 1157.46 SPEAKER_03  I look forward to reading it.
+1158.22 1169.94 SPEAKER_03  No, but while we're talking about poetry, I got to say, Mike, the pieces that you've written over the past couple days on your Patreon have been, like, insanely touching and haunting.
+1170.94 1180.14 SPEAKER_03  And it really, you know, I'm so used to reading, you write about conspiracy theories and history and that sort of thing, which you're, you know, amazing at, obviously.
+1180.40 1184.04 SPEAKER_03  But these personal stories, I mean, I sent you a DM.
+1184.26 1191.42 SPEAKER_03  My mom reached out to me and she was like, his writing reminds me of Tim O'Brien, like, The Things They Carried.
+1191.42 1191.88 SPEAKER_00  Right, yeah.
+1192.00 1199.56 SPEAKER_03  Which, coming from, like, a veteran English teacher, like, I don't know if she's ever said that about my writing.
+1200.00 1216.06 SPEAKER_03  So, at the very least, just know that the documentation that you've been keeping of this, you know, event, because this is like, you know, it reminds me of the old Calvin and Hobbes strip that says, like, this is one of those things that happens to somebody else, but we're somebody else to somebody else.
+1216.06 1224.00 SPEAKER_03  And so, to keep these records for this horrific and historical event to happen to you, like, I think a lot of people are finding value in these writings.
+1224.24 1233.50 SPEAKER_03  So, you know, if that's one good thing that could come out of this, I guess that's, that's, that's a, you know, rose-colored glasses, fire-colored glasses, maybe in this case.
+1234.32 1241.36 SPEAKER_08  You know, for me, it's just, I feel like I need to document this, you know, certainly for other people to read, but also for myself.
+1241.56 1243.36 SPEAKER_08  I don't want to forget the details.
+1243.46 1248.06 SPEAKER_08  I don't want to forget how I feel right now, because in six months, it's going to be different.
+1248.06 1250.06 SPEAKER_08  You know, we're maybe going to be building a new house.
+1250.14 1251.82 SPEAKER_08  We're going to be dealing with all of those hassles.
+1252.02 1256.90 SPEAKER_08  I need to get this stuff out of my head and down on, you know, paper, quote, unquote.
+1257.12 1258.88 SPEAKER_08  And if people read it, that's great.
+1259.00 1262.70 SPEAKER_08  And, you know, eventually, maybe at some point, I'll kind of do something with all of this.
+1262.76 1265.08 SPEAKER_08  But, you know, that's so far down the line, I don't know yet.
+1265.18 1272.48 SPEAKER_08  But for me right now, I just need to get this out of my head so I can cram my head full of other stuff.
+1272.78 1277.34 SPEAKER_11  It's the things they carried, but it's about, like, what toys you pick.
+1277.34 1279.20 SPEAKER_11  Like, when you forget to wear a sock.
+1279.40 1279.56 SPEAKER_08  Right.
+1279.76 1284.12 SPEAKER_08  The sort of the random things that we're realizing we don't have anymore.
+1284.42 1288.28 SPEAKER_08  You know, my late father-in-law's tie collection is gone.
+1289.12 1293.14 SPEAKER_08  Legos that I had when I was a kid that were 40 plus years old, those are gone.
+1293.14 1293.64 SPEAKER_08  Yeah.
+1293.82 1297.12 SPEAKER_08  But then, like, you know, stuff we just bought.
+1297.26 1302.20 SPEAKER_08  Like, you know, you just bought a new roll of paper, you know, a new thing of paper towel rolls.
+1302.28 1303.10 SPEAKER_08  Well, that's gone.
+1303.20 1304.76 SPEAKER_08  Like, it's just wild.
+1305.00 1309.66 SPEAKER_08  The stuff that comes into your head in the middle of the night when you're like, oh, yeah, we didn't grab this priceless thing.
+1309.78 1314.64 SPEAKER_08  And also, we wasted 100 bucks on this thing that we were going to use and we never took out of the box.
+1314.64 1315.08 SPEAKER_03  Yeah.
+1315.24 1321.70 SPEAKER_03  It's like the weight of the historical and, like, precious things that we collect.
+1322.04 1326.84 SPEAKER_03  And at the same time, the precious junk that we also have.
+1326.96 1327.20 SPEAKER_03  Yeah.
+1327.38 1335.44 SPEAKER_08  There have been a lot of jokes in the various text chains I've been on about, well, you know, I don't have to declutter my kid's playroom anymore.
+1336.90 1339.36 SPEAKER_08  Don't have to worry about repainting the front porch.
+1339.36 1339.76 SPEAKER_08  Yeah.
+1340.82 1341.02 SPEAKER_11  Yeah.
+1341.14 1342.90 SPEAKER_11  You don't need Marie Kondo anymore.
+1343.06 1343.32 SPEAKER_08  Nope.
+1343.40 1343.58 SPEAKER_08  Nope.
+1343.66 1346.82 SPEAKER_08  I have embraced minimalism like a hammer.
+1347.80 1356.66 SPEAKER_03  But I imagine also that this is, like, you know, one of the crazy things about it is, like, you said, like, this is going to be something that you're going to.
+1356.82 1359.16 SPEAKER_03  It's going to be a part of who you are for the rest of your life.
+1359.16 1359.26 SPEAKER_00  Yeah.
+1359.26 1365.98 SPEAKER_03  You know, six months down the line, you're going to be like, oh, and I did have that, like, you're like, ah, that pair of shoes.
+1365.98 1369.72 SPEAKER_03  Or, like, you'll think of something that, like, you're like, oh, where is that?
+1369.74 1370.96 SPEAKER_03  And you're like, oh, yeah.
+1371.04 1371.22 SPEAKER_00  Right.
+1371.24 1371.76 SPEAKER_00  Oh, yeah.
+1371.82 1372.16 SPEAKER_00  The fire.
+1372.46 1374.18 SPEAKER_03  Because your brain isn't trained.
+1374.58 1374.76 SPEAKER_03  Right.
+1374.76 1382.92 SPEAKER_03  Our brains aren't trained to process these, like, these kind of things that we're used to seeing in the movies or on TV.
+1382.92 1389.80 SPEAKER_03  And so, like, I can't even imagine, yeah, I can't even imagine, like, living through a Roland Emmerich movie.
+1389.88 1390.80 SPEAKER_08  I've watched so many.
+1390.92 1391.10 SPEAKER_08  Yeah.
+1391.24 1393.40 SPEAKER_08  No, you never imagine it'll be you.
+1393.48 1398.32 SPEAKER_08  You always think of it as sort of, you know, climate, you know, hurricane refugees in the South.
+1398.44 1408.48 SPEAKER_08  They're like old World War II footage of people, you know, pushing carts full of, you know, bundles of things and, like, wearing babushkas and, you know, hats.
+1408.48 1414.34 SPEAKER_11  I just am glad that I still have my water painting of Michael Flynn on a T-shirt.
+1414.82 1415.50 SPEAKER_11  You know what?
+1415.68 1417.20 SPEAKER_08  Pack it next to your documents.
+1418.08 1418.34 SPEAKER_03  Yeah.
+1418.58 1419.42 SPEAKER_03  Seriously, dude.
+1419.52 1419.68 SPEAKER_03  Yeah.
+1419.80 1424.90 SPEAKER_03  Put all the QAnon gear that we've acquired over the years into the firebox.
+1424.90 1426.42 SPEAKER_11  That'll be in my bindle for sure.
+1426.54 1429.68 SPEAKER_11  Just all old, like, ironic QAnon merch.
+1429.74 1432.80 SPEAKER_03  In fact, it'll be the only thing that you save.
+1432.80 1441.48 SPEAKER_03  So, like, the only T-shirts, basically you'll turn into a Q believer because those are the only items you'll have.
+1441.86 1443.04 SPEAKER_11  Explaining to someone else.
+1443.10 1444.80 SPEAKER_11  No, this one's signed by Dylan Wheeler.
+1445.02 1446.96 SPEAKER_03  He used to be a guy.
+1447.12 1447.98 SPEAKER_03  He used to be.
+1448.02 1449.44 SPEAKER_03  He used to be the guy.
+1450.36 1457.26 SPEAKER_09  There's a non-zero chance that the second Trump administration will want some of those items to be added to the Smithsonian.
+1457.88 1458.48 SPEAKER_09  Oh, yeah.
+1458.56 1458.70 SPEAKER_08  Yeah.
+1459.04 1460.42 SPEAKER_08  Presidential library, you know.
+1460.42 1464.74 SPEAKER_09  I think it's really important to note, you know, the conditions that allow the fires to get bad.
+1464.80 1479.28 SPEAKER_09  Because even if you were to assume that these fires were set deliberately as part of an evil plot, or even if you were to assume that the L.A. Fire Department is not very good, these fires could not have been destructive as they were without these conditions being in place.
+1479.32 1486.88 SPEAKER_09  Which means that any explanation about these fires that does not acknowledge these conditions doesn't make sense and is necessarily incomplete.
+1486.88 1494.42 SPEAKER_09  So, I make this point because conspiracy theories or disinformation about fires are often presented as an alternative explanation to climate change.
+1494.50 1496.24 SPEAKER_09  They say, oh, no, it's not climate change.
+1496.52 1497.80 SPEAKER_09  It's the Jewish space lasers.
+1497.98 1498.82 SPEAKER_09  But it doesn't work like that.
+1498.84 1511.62 SPEAKER_09  Because even if you were to assume that the Jewish space lasers are, in fact, what first sparked the fires, you can't explain why they are this destructive without also making reference to the conditions caused by climate change.
+1511.62 1517.58 SPEAKER_09  You know, it's like if it was Rady and, you know, the Jewish space lasers tried to spark something, well, it wouldn't get very far.
+1518.02 1520.76 SPEAKER_11  Okay, someone hasn't heard of the Jewish space winds.
+1520.76 1529.88 SPEAKER_09  There's just no coherent way to sidestep the issue, like even if you were to grant the most ludicrous conspiracy theories.
+1529.98 1538.36 SPEAKER_09  With all that being said, so there are some possible leads on the more like specific causes of the two most destructive fires in L.A.
+1538.36 1541.00 SPEAKER_09  That's the Palisades Fire and the Eaton Fire.
+1541.16 1549.92 SPEAKER_09  So, the New York Times reported that a possible ignition source for the Palisades Wildfire is a small fire that occurred on New Year's Eve on a nearby hiking trail.
+1549.92 1553.34 SPEAKER_09  The fire was caused by fireworks but quickly put out by firefighters.
+1553.60 1559.70 SPEAKER_09  However, officials are investigating whether the remaining embers could have been rekindled by the strong winds.
+1559.92 1565.02 SPEAKER_09  At least one lawyer is investigating if a downed utility line could have sparked the fire.
+1565.32 1584.76 SPEAKER_09  In the case of the Eaton Fire, which has burned over 14,100 acres and was 87% contained as of this recording on January 20th, investigators with the California Department of Forestry and Fire Protection are looking into possible failures on electrical towers owned by Southern California Edison over Altadena.
+1585.18 1588.72 SPEAKER_09  Like I said, investigations are ongoing, but that's what we have so far.
+1588.84 1589.62 SPEAKER_11  Good job, Edison.
+1589.92 1591.14 SPEAKER_11  And I'm talking about the inventor.
+1591.14 1599.62 SPEAKER_08  Yeah, you know, it's interesting because in all of the groups and, you know, WhatsApp chains and all this stuff, people are not really talking about blame.
+1599.74 1601.52 SPEAKER_08  I think at this point it's just nobody really knows.
+1601.52 1602.04 SPEAKER_00  Yeah, there's no point.
+1602.22 1607.24 SPEAKER_08  But I will say there are a lot of lawyers making their presence known.
+1607.32 1611.08 SPEAKER_08  My Facebook feed is full of like, were you affected by the Eaton Fire?
+1611.20 1612.74 SPEAKER_08  We may have a suit for you.
+1612.74 1617.44 SPEAKER_08  And, you know, I have learned very quickly the difference between a class action and a mass action.
+1617.60 1621.40 SPEAKER_08  So class action is a lawsuit where everybody suffers the same damage.
+1621.76 1627.26 SPEAKER_08  Mass action is an action taken by individual people because they've suffered different amounts of damage.
+1627.54 1629.82 SPEAKER_08  There have been a couple of Zooms with law firms.
+1629.98 1636.32 SPEAKER_08  We jumped on one and then got off because it was like 50 people who didn't know how to turn their microphones off.
+1636.84 1637.96 SPEAKER_08  Oh, God.
+1638.20 1639.30 SPEAKER_08  Oh, my God.
+1639.30 1639.96 SPEAKER_08  It was.
+1640.26 1644.54 SPEAKER_08  But there's a there's a lot going on in the legal realm.
+1644.54 1647.56 SPEAKER_08  And that's kind of all I can say at this point.
+1647.56 1653.32 SPEAKER_08  I mean, I don't have much else to say, but the litigation, it is happening and it will happen.
+1653.32 1655.80 SPEAKER_08  And you're going to probably start to see a lot more about that.
+1656.28 1669.64 SPEAKER_03  Tragedies within within tragedies where you jump onto a Zoom call to get any possible answer about, you know, compensation for, you know, or it's any kind of information regarding rebuild.
+1669.82 1676.38 SPEAKER_03  And it's just like echoing backgrounds and like, yeah, and like people hearing people being like, well, I don't know.
+1676.42 1677.04 SPEAKER_03  Is it on?
+1677.12 1677.38 SPEAKER_03  Is it?
+1677.50 1677.98 SPEAKER_03  I can't.
+1677.98 1678.82 SPEAKER_02  I can't hear you.
+1678.82 1679.62 SPEAKER_02  Yeah, I can't hear.
+1679.62 1685.26 SPEAKER_03  It's just like with like the vibes also of like, what do you call it?
+1685.26 1689.38 SPEAKER_03  Like those timeshare, those like horrible timeshare like meetings.
+1689.38 1693.50 SPEAKER_03  But like it's about like your house that burned down and like 50 other people.
+1693.72 1697.36 SPEAKER_03  So like I can't even imagine like, dude, it's yeah.
+1697.48 1700.96 SPEAKER_03  This sounds like my anxiety like nightmare.
+1701.26 1701.46 SPEAKER_08  Yeah.
+1701.58 1701.92 SPEAKER_08  Yeah.
+1702.28 1703.60 SPEAKER_08  That's exactly what it is.
+1703.60 1707.22 SPEAKER_08  Jesus Christ.
+1707.44 1710.02 SPEAKER_11  So, Travis, can we hear from the real specialists?
+1710.42 1710.78 SPEAKER_11  Yes.
+1711.16 1712.64 SPEAKER_09  No further ado.
+1713.16 1716.54 SPEAKER_09  Let's hear what, you know, since you have this is the problem.
+1716.58 1721.30 SPEAKER_09  It's like whenever there's like not a lot of good information, people fill it with bad information.
+1721.46 1724.08 SPEAKER_09  People loathe an information void.
+1724.08 1727.54 SPEAKER_09  And so let's talk about how people have been filling that up.
+1727.54 1744.64 SPEAKER_09  So I rushed to see what representative Marjorie Taylor Greene had to say about this issue, because, you know, back in 2018, she suggested that California wildfires were part of a Rothschild plot to use satellites to clear land for a high speed rail line.
+1744.72 1750.10 SPEAKER_09  So this is the famous Jewish space lasers that gave Mike the title for his most recent book.
+1750.10 1761.28 SPEAKER_11  This is so sad because it's like the only way we could imagine something so cool as a high speed rail line is like if the deep state first like kills a bunch of people and burns their houses down.
+1761.96 1768.18 SPEAKER_09  So this time around, she suggested the kind of like impractical solution to the issue.
+1768.28 1769.78 SPEAKER_09  So here's what she she tweeted.
+1770.04 1774.84 SPEAKER_11  Why don't they use geoengineering like cloud seeding to bring rain down on the wildfires in California?
+1775.16 1776.12 SPEAKER_11  They know how to do it.
+1776.60 1776.82 SPEAKER_09  So.
+1776.82 1779.78 SPEAKER_09  So one major answer to that is that there were no clouds.
+1779.78 1781.96 SPEAKER_09  You can't do cloud seeding without clouds.
+1782.12 1783.74 SPEAKER_09  So that's really a nonstarter.
+1784.04 1787.26 SPEAKER_09  But, you know, I think this is a this is progress on Marjorie's part.
+1787.34 1796.02 SPEAKER_09  She's sort of she's asking basically, why aren't the white hats doing geoengineering as opposed to like, you know, why are why aren't the Jews, you know, burning up California?
+1796.02 1809.30 SPEAKER_08  Right. You know, these are the people who have spent decades afraid of chemtrails and who thinks geoengineering is a George Soros plot to warm the earth so that the elites can get better real estate and, you know, Oprah can build a bigger palace.
+1809.30 1812.08 SPEAKER_08  Now it's like they suddenly want the geoengineering.
+1812.22 1815.88 SPEAKER_08  You know, when is the technology in the hands of the good guys versus the bad guys?
+1815.98 1818.06 SPEAKER_08  It's almost like there's no internal consistency.
+1818.74 1822.40 SPEAKER_11  These absolute fucking losers just want a good cabal.
+1822.60 1825.82 SPEAKER_11  They're totally resigned to being ruled over by a secret cabal.
+1825.82 1840.44 SPEAKER_03  Yeah. And Lord knows that if if if they did look up into the sky and see planes, you know, doing their best to cloud seed, they would be like they are dropping chemicals to mix in alien DNA with the population.
+1840.44 1841.58 SPEAKER_03  They'll never be happy.
+1841.82 1845.44 SPEAKER_11  Right. They'd be calling for like the Wilhelm Reich gun, be like, oh, the Oregon.
+1845.58 1846.46 SPEAKER_11  We need the Oregon gun.
+1846.54 1848.34 SPEAKER_11  We need to cloud cloud bust.
+1848.34 1866.74 SPEAKER_09  Yeah. I remember during the Maui fires, there was a conspiracy theory that somehow the buildings that had blue roofs were passed over for some reason because like, you know, the people in the cabal knew that blue roofs repelled these, you know, these these lasers, these, you know, direct energy weapons or whatever.
+1866.74 1873.44 SPEAKER_09  So I met I hope that Marjorie Taylor Greene introduces legislation that mandates blue roofs to fight wildfires.
+1873.54 1875.12 SPEAKER_09  That seems like it would be upper alley.
+1875.38 1877.18 SPEAKER_11  That'll look cute. We could look like Greece.
+1877.18 1878.18 SPEAKER_08  Yeah. Yeah.
+1878.22 1884.60 SPEAKER_08  You know, I think so much of this is is that a lot of these people just don't understand how fire operates.
+1884.60 1887.28 SPEAKER_08  And, you know, we're going through it in my own neighborhood.
+1887.28 1890.82 SPEAKER_08  So obviously my house is gone and the house on either side of us is gone.
+1891.02 1896.34 SPEAKER_08  But the house two houses south of us perfectly fine, not damaged at all.
+1896.50 1898.96 SPEAKER_08  The house behind us perfectly fine.
+1899.04 1902.00 SPEAKER_08  A little bit of singeing on their outdoor shower, I think.
+1902.18 1904.96 SPEAKER_08  But then almost every other house on that street destroyed.
+1905.26 1907.00 SPEAKER_08  It doesn't make any sense.
+1907.00 1908.88 SPEAKER_08  And it has many, many different causes.
+1908.88 1910.14 SPEAKER_08  Part of it is certainly the wind.
+1910.42 1912.06 SPEAKER_08  Part of it is when firefighters get there.
+1912.26 1919.76 SPEAKER_08  We actually saw on the local news our neighbor just to the south, their house burning on TV.
+1920.24 1923.84 SPEAKER_08  You could tell that there were also firefighters there working on putting it out.
+1923.84 1937.10 SPEAKER_08  So it seems reasonable that the fire was making its way down south and the firefighters were able to get to and put out part of our neighbor's house and were able to completely save our neighbor two doors down, but weren't able to save our house.
+1937.18 1938.20 SPEAKER_08  It's not a plot.
+1938.30 1939.16 SPEAKER_08  It's not a laser.
+1939.16 1942.28 SPEAKER_08  It's just these things have a mind of their own.
+1942.28 1946.16 SPEAKER_08  And once they go, there's no telling what they will do next.
+1946.24 1949.12 SPEAKER_08  But that's not the easy answer that people want.
+1949.46 1952.48 SPEAKER_11  I spilled my big gulp and it fried my laptop.
+1953.00 1956.52 SPEAKER_11  But my paperback, which was right next to my laptop, is dry.
+1956.70 1956.90 SPEAKER_11  Right.
+1957.22 1957.92 SPEAKER_11  Explain that.
+1958.04 1959.24 SPEAKER_11  Explain that, motherfucker.
+1959.86 1960.08 SPEAKER_09  Yeah.
+1960.80 1964.02 SPEAKER_09  Honestly, the fires are worse than having a mind of their own.
+1964.08 1965.78 SPEAKER_09  They're ruled by mindless chaos.
+1966.20 1966.58 SPEAKER_08  Well, yeah.
+1966.76 1967.74 SPEAKER_08  That's exactly it.
+1967.74 1968.90 SPEAKER_08  They're a monster.
+1969.10 1970.34 SPEAKER_08  They don't think.
+1970.46 1971.56 SPEAKER_08  They just go.
+1971.74 1973.56 SPEAKER_11  Travis is becoming a discordian.
+1974.62 1983.94 SPEAKER_09  I sometimes talk about how a core assumption of conspiracists is that all major events are the product of very specific and detailed design and purpose.
+1983.94 1994.44 SPEAKER_09  So all major events happened exactly the way they did because that was the precise end goal of some secret puppet masters or some secret plan.
+1994.44 2001.88 SPEAKER_09  Now, obviously, powerful, corrupt people do, in fact, make secret plans in order to consolidate their power at the expense of people less powerful than them.
+2002.04 2008.54 SPEAKER_09  But conspiracists suppose a level of detailed planning of history that is simply not possible in the real world.
+2008.66 2014.02 SPEAKER_09  Now, we saw how this can work recently when actor director Mel Gibson appeared on Fox News.
+2014.32 2016.32 SPEAKER_09  Mel Gibson is one of the victims of the fire.
+2016.50 2022.18 SPEAKER_09  His $14.5 million Malibu mansion was destroyed by the Palisades fire.
+2022.18 2031.52 SPEAKER_09  And while speaking to Laura Ingram, Gibson did some live baking suggesting that the fires were as severe as they were on purpose for some reason.
+2032.66 2041.60 SPEAKER_00  Well, you know, I know they were messing with the water, letting reserves go for one reason or another.
+2042.06 2043.02 SPEAKER_00  They've been doing that a while.
+2043.52 2049.98 SPEAKER_00  California has a lot of problems that sort of baffle the mind as far as why they do things.
+2049.98 2054.84 SPEAKER_00  And then in the events like this, you sort of look, oh, is it on purpose?
+2055.18 2057.50 SPEAKER_00  Which it's an insane thing to think.
+2058.24 2063.04 SPEAKER_00  But one begins to ponder whether or not there is a purpose in mind.
+2063.10 2063.76 SPEAKER_00  What could it be?
+2063.90 2064.92 SPEAKER_00  You know, I don't know.
+2065.32 2066.40 SPEAKER_00  Do they want the state empty?
+2067.44 2069.10 SPEAKER_00  Dear God, man.
+2069.20 2069.66 SPEAKER_11  I know.
+2069.82 2076.04 SPEAKER_11  Last seen in Twin Peaks, The Return covered in oil asking, God, a light.
+2076.04 2079.82 SPEAKER_09  I mean, this is such strange television.
+2080.12 2088.22 SPEAKER_09  It's like, here comes Oscar winning director, actor Mel Gibson to mutter to himself about what he thinks may have caused the fires.
+2088.54 2091.22 SPEAKER_11  God, he must be such a fucking pain in the ass to hang out with.
+2091.28 2091.96 SPEAKER_11  Oh, God.
+2092.12 2092.86 SPEAKER_11  Oh, God.
+2093.40 2099.80 SPEAKER_03  You could just tell he's like, oh, he's bursting at the scene to tell you exactly who he thinks is responsible.
+2099.80 2105.20 SPEAKER_03  Oh, and I have a feeling that it would rhyme with news.
+2105.98 2107.38 SPEAKER_11  You know what he sounds like?
+2107.44 2115.62 SPEAKER_11  He sounds like the guy who was, like, allowed back into Thanksgiving, but only if he didn't mention very specific things.
+2116.02 2117.84 SPEAKER_11  And he cannot help himself.
+2117.84 2128.62 SPEAKER_08  It's almost like there's some elders in maybe one of the national parks, maybe Yellowstone, maybe Zion.
+2129.96 2131.44 SPEAKER_08  Oh, my God.
+2131.56 2132.66 SPEAKER_03  Oh, my God.
+2132.70 2134.62 SPEAKER_11  He really cannot help himself.
+2134.90 2135.58 SPEAKER_03  His eyes.
+2135.80 2137.14 SPEAKER_03  Look, you know, it's so funny.
+2137.14 2141.66 SPEAKER_03  The video that Travis clipped, no diss to Travis, but very low res video.
+2142.02 2144.84 SPEAKER_03  Just, you know, it's very, very pixelated.
+2144.84 2150.38 SPEAKER_03  And even through the pixelation, you can see how fucking wildly insane his eyes look.
+2150.38 2150.46 SPEAKER_03  Oh, yeah.
+2150.52 2151.04 SPEAKER_03  Absolutely.
+2151.44 2156.94 SPEAKER_03  He's got the expression of, like, Ghost Rider as if his head is like a flaming skull.
+2157.18 2158.78 SPEAKER_11  He looks cooked.
+2158.92 2159.88 SPEAKER_11  He's absolutely cooked.
+2159.98 2160.46 SPEAKER_11  He's baking.
+2160.68 2161.40 SPEAKER_11  He looks cooked.
+2162.02 2163.96 SPEAKER_11  It's fucking fantastic.
+2164.06 2166.66 SPEAKER_11  I can't wait for his new movie about Jesus coming back.
+2166.78 2167.02 SPEAKER_11  Yeah.
+2167.34 2171.66 SPEAKER_03  And his eventual turn as a Fox News anchor.
+2171.86 2172.46 SPEAKER_03  Oh, God.
+2172.46 2179.72 SPEAKER_09  Now, I think it's also worth noting that, according to Trump, Mel Gibson will have some kind of role in the Trump administration's.
+2180.34 2180.62 SPEAKER_09  Yeah.
+2180.72 2188.30 SPEAKER_09  Specifically, he named Gibson as one of three pro-Trump Hollywood stars who will be, like, ambassadors to Hollywood.
+2188.62 2191.68 SPEAKER_09  So here's what he posted on Truth Social.
+2191.68 2201.60 SPEAKER_03  It is my honor to announce John Voight, Mel Gibson, and Sylvester Stallone to be special ambassadors to a great but very troubled place, Hollywood, California.
+2202.02 2214.54 SPEAKER_03  They will serve as special envoys to me for the purpose of bringing Hollywood, which has lost much business over the last four years, to foreign countries back bigger, better, and stronger than ever before.
+2214.54 2219.16 SPEAKER_03  These three very talented people will be my eyes and ears.
+2219.18 2220.50 SPEAKER_03  Oh, my God.
+2220.84 2223.30 SPEAKER_03  My head, my shoulders, knees, and toes.
+2224.76 2227.40 SPEAKER_03  And I will get done what they suggest.
+2227.52 2228.90 SPEAKER_03  What they suggest?
+2229.10 2230.10 SPEAKER_03  Oh, no.
+2230.24 2230.84 SPEAKER_03  Oh, my God, dude.
+2231.40 2232.24 SPEAKER_11  Oh, no.
+2232.48 2238.96 SPEAKER_11  He's naming them ambassadors to a fucking city in his own country.
+2238.96 2240.20 SPEAKER_11  It doesn't, yeah.
+2240.46 2245.04 SPEAKER_03  John Voight, Mel Gibson, and Sylvester Stallone.
+2245.14 2249.62 SPEAKER_11  I will say that I would kill for a buddy movie, like, called, like, Three Kings.
+2250.08 2252.42 SPEAKER_11  But it's them, and they're not in Iraq.
+2252.52 2253.38 SPEAKER_11  They're in California.
+2254.52 2256.70 SPEAKER_08  Also, poor James Woods, man.
+2256.90 2257.54 SPEAKER_03  I know.
+2257.58 2260.02 SPEAKER_11  Oh, this is a huge snub.
+2260.02 2261.20 SPEAKER_03  A huge slight.
+2261.48 2262.50 SPEAKER_03  A huge slight.
+2262.66 2263.74 SPEAKER_11  Oh, the Woodster.
+2263.90 2264.46 SPEAKER_11  The Woodster.
+2264.56 2265.98 SPEAKER_11  He's no longer hot.
+2265.98 2268.06 SPEAKER_03  Yeah, to pick John Voight over.
+2268.06 2274.06 SPEAKER_03  And that probably really pisses off Woods, because I'll bet in their younger years, he and Voight would go out from the same roles.
+2274.22 2279.36 SPEAKER_08  Well, and Woods, I mean, he got an executive producer credit on Oppenheimer.
+2279.58 2281.50 SPEAKER_08  He's an actual recent Oscar winner.
+2281.74 2282.68 SPEAKER_03  Yeah, that's true.
+2282.80 2284.40 SPEAKER_03  Maybe he's a little too close.
+2284.70 2285.50 SPEAKER_03  He's a little too close.
+2285.50 2286.80 SPEAKER_11  A little too close to the cabal.
+2286.94 2291.18 SPEAKER_11  Only losers actually lose their homes, like James Woods.
+2291.52 2293.54 SPEAKER_03  I don't like Christopher Nolan movies.
+2293.84 2295.54 SPEAKER_03  They're very hard to understand.
+2295.54 2304.14 SPEAKER_03  He likes to make the movies backwards and then go forwards instead of a lot of movies start at the beginning and they go to the end, which is how movies are supposed to be.
+2304.24 2313.44 SPEAKER_03  But Christopher Nolan, sometimes he'll start at the end and go to the beginning, or sometimes he'll even, a lot of people are saying he'll start in the middle and go to the end and go to the beginning.
+2313.48 2314.84 SPEAKER_03  Very confusing stuff.
+2314.98 2323.44 SPEAKER_03  Anyways, my ambassador, Sylvester Stallone, will make much more comprehensive movies and better movies about going to space and time travel.
+2323.44 2326.72 SPEAKER_11  There is one last line that you have to get to.
+2326.94 2327.18 SPEAKER_03  Okay.
+2327.54 2327.84 SPEAKER_03  Okay.
+2328.42 2334.04 SPEAKER_03  These three very talented people will be my eyes and ears, and I will get done what they suggest.
+2334.34 2337.82 SPEAKER_03  It will again be like the United States of America itself.
+2337.96 2339.66 SPEAKER_03  The golden age of Hollywood.
+2340.30 2342.60 SPEAKER_11  Folks, we're bringing back the silent flicks.
+2343.08 2353.02 SPEAKER_11  We're bringing, we're, folks, Buster Keaton, Buster Keaton, he was, he was, the house falls, but the door is right over him, and he survives.
+2353.34 2359.64 SPEAKER_03  We're going to be making Mississippi Burning over and over again, but from the other perspective.
+2359.96 2362.34 SPEAKER_11  We're bringing back Lenny Riefenstahl.
+2362.56 2365.36 SPEAKER_11  We're bringing back all of the greatest filmmakers.
+2365.80 2366.92 SPEAKER_03  All the greatest guys.
+2367.02 2368.06 SPEAKER_03  Harvey Weinstein.
+2368.44 2372.28 SPEAKER_03  He's coming back better than ever.
+2372.50 2373.62 SPEAKER_03  Rebirth of a nation.
+2373.62 2376.10 SPEAKER_03  Full color HD.
+2376.30 2378.36 SPEAKER_11  Rebirth of a nation, but with the Avengers.
+2378.92 2382.68 SPEAKER_11  I genuinely would love John Voight, Mel Gibson, and Sylvester Stallone to be in something.
+2382.82 2383.42 SPEAKER_11  Just something.
+2383.62 2386.00 SPEAKER_11  Maybe the three amigos.
+2386.52 2386.78 SPEAKER_03  Yeah.
+2387.18 2395.64 SPEAKER_03  Mel Gibson would be like, he would be like, I fundamentally have religious objections to starring in this movie.
+2395.64 2399.18 SPEAKER_11  And then Sylvester Stallone in blackface answers him.
+2399.18 2406.92 SPEAKER_09  So this announcement from Trump apparently surprised Gibson.
+2407.24 2414.30 SPEAKER_09  Gibson told the trade publication Variety, quote, I got the tweet at the same time as all of you and was just as surprised.
+2414.66 2416.38 SPEAKER_09  Nevertheless, I heed the call.
+2416.66 2425.12 SPEAKER_11  If I were sending people undercover to like report on, you know, the bad and evil and, and the far left Hollywood, I wouldn't like name them.
+2425.12 2427.40 SPEAKER_11  Like you just, you burned all your agents.
+2427.40 2428.52 SPEAKER_09  I don't know.
+2428.76 2430.18 SPEAKER_09  This is interesting.
+2430.70 2432.84 SPEAKER_09  Like be part of Trump's governing style.
+2433.18 2435.30 SPEAKER_09  So there are people who support me and people who don't.
+2435.42 2437.76 SPEAKER_09  And the people who don't support me, I smear and attack.
+2437.84 2441.58 SPEAKER_09  And the people who do support me, I tell them what to do via tweet.
+2441.66 2442.80 SPEAKER_09  And I assume they'll do it.
+2443.22 2444.42 SPEAKER_09  There'll be my eyes and ears.
+2444.62 2446.50 SPEAKER_11  Specifically, Mel Gibson will be my eyes.
+2446.58 2449.20 SPEAKER_11  My big, bulging, paranoid blue eyes.
+2449.34 2454.06 SPEAKER_03  Can you imagine just being like, well, I had no idea I was going to be the ambassador to Hollywood.
+2454.38 2457.78 SPEAKER_03  But look, if my tickets pulled, like I'll answer the call.
+2458.14 2460.00 SPEAKER_11  The ambassador to Hollywood.
+2460.78 2461.16 SPEAKER_09  I don't.
+2461.36 2466.36 SPEAKER_09  What does it mean to like be someone else's ambassador to a place where you already live?
+2466.48 2466.82 SPEAKER_09  I don't.
+2467.94 2468.42 SPEAKER_03  Yeah.
+2468.66 2475.68 SPEAKER_03  If all of the movies have to go through Mel Gibson, John Voight and Sylvester Stallone, we're going to get some great movies.
+2476.20 2477.82 SPEAKER_11  Do they have diplomatic immunity?
+2477.82 2477.98 SPEAKER_11  Did he?
+2480.60 2483.32 SPEAKER_11  Trump thinks the golden age of Hollywood was the 80s.
+2483.92 2490.38 SPEAKER_03  Can you imagine, can you imagine like Kevin Feige or whatever, however you pronounce his last name, like the head of Marvel or whatever?
+2490.54 2494.46 SPEAKER_03  And they're like, well, they're like, all right, fellas, that's picture lock on Avengers 12.
+2494.62 2496.24 SPEAKER_03  Like, wow, $300 million.
+2496.70 2497.62 SPEAKER_03  Like, this is amazing.
+2497.84 2498.54 SPEAKER_03  Is it ready?
+2498.62 2500.08 SPEAKER_03  I mean, is it ready to go up to the top?
+2500.12 2502.04 SPEAKER_03  And they're like, yeah, send it to Gibson.
+2502.04 2512.10 SPEAKER_09  Now, Trump has already weighed in on the fires by taking aim at California Governor Gavin Newsom.
+2512.42 2521.66 SPEAKER_09  Trump specifically accused Newsom of refusing to sign some sort of document called the Water Restoration Declaration, which does not exist.
+2522.48 2524.78 SPEAKER_09  So here's what Trump posted.
+2524.78 2543.96 SPEAKER_03  Governor Gavin Newsom refused to sign the Water Restoration Declaration put before him that would have allowed millions of gallons of water from excess rain and snow melt from the north to flow daily into many parts of California, including the areas that are currently burning in a virtually apocalyptic way.
+2544.20 2544.68 SPEAKER_03  Virtually?
+2544.96 2545.50 SPEAKER_03  I don't know.
+2545.86 2546.14 SPEAKER_03  Nearly.
+2546.54 2549.24 SPEAKER_03  He wanted to protect an essentially worthless fish.
+2552.84 2556.96 SPEAKER_03  Never thought, never thought we'd see a worthless fish.
+2557.24 2557.84 SPEAKER_02  Essentially.
+2558.18 2558.74 SPEAKER_02  Essentially.
+2558.74 2560.74 SPEAKER_02  In essence, it's worthless.
+2560.74 2561.38 SPEAKER_03  A worthless fish.
+2561.52 2562.72 SPEAKER_03  Piece of shit fish.
+2562.92 2564.38 SPEAKER_03  Not enough gills.
+2564.94 2566.06 SPEAKER_02  Too small to eat.
+2566.06 2566.84 SPEAKER_02  Owes me money.
+2566.98 2569.18 SPEAKER_02  Piece of fucking shit fish.
+2570.26 2572.00 SPEAKER_03  They don't even taste good.
+2572.52 2579.50 SPEAKER_03  You can't even put them on pizza or sneak them into a salad that you did not know that was one of the ingredients.
+2580.00 2582.32 SPEAKER_11  It's called a gefilter.
+2582.32 2585.24 SPEAKER_03  And let me tell you where this fish comes from.
+2585.96 2588.34 SPEAKER_03  Protect an essentially worthless fish.
+2588.52 2590.92 SPEAKER_03  Called a smelt by giving it less water.
+2591.08 2592.00 SPEAKER_03  It didn't work.
+2596.10 2601.66 SPEAKER_03  So he's like, you've destroyed your city because you wanted to protect a stupid fish.
+2601.88 2602.84 SPEAKER_03  We're absolutely worthless.
+2603.10 2603.60 SPEAKER_03  And guess what?
+2603.72 2605.40 SPEAKER_03  You didn't even protect the fish.
+2605.40 2607.06 SPEAKER_03  All of those measures.
+2607.40 2609.62 SPEAKER_03  The fish remains unprotected.
+2610.88 2611.24 SPEAKER_09  Yeah.
+2611.86 2612.22 SPEAKER_09  Yeah.
+2612.28 2617.00 SPEAKER_09  One of the rhetorical gifts that Trump has is to be able to do these multi-layered attacks.
+2617.18 2620.40 SPEAKER_09  You know, it's like, it's not just, you know, you wanted to protect the fish.
+2620.54 2622.28 SPEAKER_09  You wanted to protect a worthless fish.
+2622.44 2625.86 SPEAKER_09  And not only did you want to protect this worthless fish, you failed at it.
+2625.96 2626.30 SPEAKER_03  Incredible.
+2626.46 2630.72 SPEAKER_03  Can you imagine being those fish and reading that tweet and be like, what the fuck, dude?
+2630.72 2631.74 SPEAKER_03  Like, I'm worthless.
+2632.20 2633.12 SPEAKER_03  Like, I'm fucking worthless.
+2633.12 2634.80 SPEAKER_03  Like, I'm just a fucking fish.
+2634.94 2635.04 SPEAKER_03  Yeah.
+2635.04 2635.40 SPEAKER_03  I'm literally.
+2635.50 2636.34 SPEAKER_09  Fish catching strays.
+2636.78 2637.18 SPEAKER_03  Yeah.
+2637.36 2644.70 SPEAKER_03  I'm literally just, like, trying to eat a couple particles of the water, a couple bugs, you know, pooping every now and again, trying to stay afloat.
+2644.76 2648.72 SPEAKER_03  And, like, the president of the United States is fucking attacking me?
+2648.76 2649.76 SPEAKER_03  Like, what the hell?
+2650.14 2662.28 SPEAKER_09  So the availability of water has been a special concern after some fire hydrants in the Pacific Palisades temporarily stopped pumping water as firefighters attempted to contain a massive blaze there.
+2662.44 2668.22 SPEAKER_09  So the LA Water Department attributed this issue to excessive demand on the system.
+2668.36 2677.76 SPEAKER_09  So the department couldn't refill tanks quickly enough, so the pressure dropped and water struggled to reach hydrants in the hills, specifically like elevated areas.
+2677.76 2682.06 SPEAKER_09  But this was an issue related to infrastructure, not water availability.
+2682.06 2689.84 SPEAKER_09  In fact, when the fire started, all but three of the state's major reservoirs were filled at or above their historical averages.
+2690.10 2701.54 SPEAKER_09  One of the exceptions is the Santa Ynez Reservoir, a 117 million gallon water resource near the Pacific Palisades, which was under renovation and empty when the fire started.
+2701.66 2710.20 SPEAKER_09  So in response to that, Newsom announced an independent state investigation into the loss of water pressure and unavailability of water from that reservoir.
+2710.20 2726.22 SPEAKER_09  So as far as like what the hell Trump is talking about, Trump appeared to be referring to a plan from Trump's first administration to direct more water from the Sacramento-San Joaquin River Delta in Northern California to farms in the Central Valley and Southern California cities.
+2726.52 2733.38 SPEAKER_09  Newsom's administration opposed it, saying that would endanger fish species in the Sacramento and San Joaquin Rivers.
+2733.56 2735.66 SPEAKER_09  But that had no impact on the firefighting efforts.
+2735.98 2738.98 SPEAKER_09  Most Los Angeles water does not come from Northern California.
+2738.98 2744.72 SPEAKER_09  It comes from the city's 112-year-old aqueduct that runs from the Owens Valley east of the Sierra Nevada.
+2745.08 2750.42 SPEAKER_09  And the supposed, again, the supposed water restoration declaration is not something that is real.
+2750.66 2757.84 SPEAKER_09  You know, this is, I mean, I feel like this is, it reminds me of like why fact-checking Trump is such a fucking pain.
+2757.98 2762.90 SPEAKER_09  Because step one is figuring out what the hell could he possibly be referring to?
+2762.90 2768.44 SPEAKER_09  You know, kind of like guessing what he might be getting at and like trying to like reference that.
+2768.64 2776.46 SPEAKER_11  I mean, I know that like the wonderful company couple, the Resnicks, who control most of the water in California.
+2776.46 2782.64 SPEAKER_11  I know that they are basically being paid to like, you know, kind of help some of these fish survive.
+2782.64 2788.38 SPEAKER_11  It sounds like his restoration was just a way to get more water to, you know, some of these commercial concerns.
+2788.38 2796.76 SPEAKER_08  Well, and the LA firefighting system wasn't designed to fight multiple major fires at the same time.
+2797.02 2800.22 SPEAKER_08  There wasn't enough water because there were too many fires.
+2800.54 2804.08 SPEAKER_08  They couldn't get planes in the air because the winds were way too high.
+2804.32 2806.74 SPEAKER_08  There wasn't pressure because there wasn't any water.
+2806.94 2815.48 SPEAKER_08  You can't design a firefighting system, especially not a hundred-year-old one, to fight massive fires that are not really that close to each other.
+2815.48 2821.28 SPEAKER_08  And the idea of, well, we're going to truck in the water from Sacramento to LA, that doesn't work.
+2821.42 2824.94 SPEAKER_08  It just, I mean, even in the best of circumstances, it just takes too long.
+2825.08 2831.42 SPEAKER_08  I don't think these people really understand how big California is and what the needs are of a city like Los Angeles.
+2831.62 2835.74 SPEAKER_08  You can't just like send some water bottles down and be done with it.
+2835.74 2848.30 SPEAKER_09  One surprisingly popular claim online is that the fires are somehow related to the arrest of rap mogul Sean Diddy Combs for organized sex trafficking and other crimes.
+2848.54 2850.64 SPEAKER_11  He needed it for all his water-based lube.
+2851.44 2852.20 SPEAKER_11  Oh, God.
+2852.48 2859.36 SPEAKER_09  People are saying that the fires were intentionally set in order to destroy evidence of elite involvement in sex trafficking.
+2859.36 2865.94 SPEAKER_09  So, conspiracists online have been especially interested in the claims by a woman named Allie Carter.
+2866.32 2872.12 SPEAKER_09  Allie Carter is a woman who, for a few years now, has claimed that she was the victim of high-level sex trafficking.
+2872.34 2876.28 SPEAKER_09  Now, I don't know what Allie Carter has or has not gone through.
+2876.42 2890.64 SPEAKER_09  But what I do know is that many of her specific claims lack credibility for a few reasons, one of which is that her claims frequently are just a repetition of old false claims from the conspiracist's right rather than any genuine personal testimony.
+2890.98 2896.20 SPEAKER_09  For example, she has claimed that she was trafficked in the tunnels under the Getty Museum in L.A.
+2896.22 2905.30 SPEAKER_09  So, this is a repetition of a false claim of children being imprisoned in the Getty that was first spread by conspiracist Stephen D. Kelly.
+2905.46 2907.74 SPEAKER_09  We did an episode on it a few years ago.
+2907.94 2913.04 SPEAKER_09  And Allie Carter has also repeated the transphobic claim that Michelle Obama is actually a man.
+2913.04 2917.16 SPEAKER_07  I've been trafficked through many elite places.
+2918.22 2929.88 SPEAKER_07  I went from the Buckingham Palace to under the Getty Museum in Los Angeles, still under the custody of Child Protective Services, the child welfare system.
+2930.74 2932.88 SPEAKER_07  And everybody is so worried about the elite.
+2932.98 2936.04 SPEAKER_07  And we could give those names of Barack Obama, Joe Biden.
+2936.22 2937.98 SPEAKER_07  We know about Michelle Obama.
+2938.10 2938.60 SPEAKER_07  That's a man.
+2938.82 2939.92 SPEAKER_07  Jesus Christ.
+2939.92 2942.34 SPEAKER_09  I just, just absolute nonsense.
+2942.64 2950.12 SPEAKER_09  What has also not helped her credibility is that Allie Carter has claimed to be Tupac Shakur's daughter, even though the rapper did not have any children.
+2950.12 2956.34 SPEAKER_09  And she has also spread her message by appearing on the show of rabid anti-Semite Stu Peters.
+2956.90 2962.44 SPEAKER_09  So, there's nothing that she's saying that's really worth taking seriously.
+2962.62 2966.36 SPEAKER_09  Honestly, her whole shtick reminds me of Kathy O'Brien.
+2966.36 2976.02 SPEAKER_09  This is the woman who claimed to have been basically MK-ultrad into becoming a hypnotized sex slave of several elites, including Bill and Hillary Clinton.
+2976.38 2981.08 SPEAKER_09  Yeah, this is, I don't know what her deal is, but yeah, she has been spreading a lot of nonsense.
+2981.22 2982.94 SPEAKER_09  But of course, conspiracists take her seriously.
+2983.66 2991.38 SPEAKER_09  Several conspiracists latched onto the claim made by Allie Carter back in October of last year that fires would be used to destroy evidence.
+2991.62 2995.84 SPEAKER_09  So, here's how one person on Instagram explained this conspiracy theory.
+2995.84 2999.64 SPEAKER_05  Allie Carter told us that there's a huge arrest coming that's going to shake the nation.
+2999.86 3002.68 SPEAKER_05  She also said to watch out for fires because they're going to be burning evidence.
+3002.82 3005.00 SPEAKER_01  The world is going to crumble when they see this next message.
+3005.42 3008.18 SPEAKER_01  In the meantime, there's going to be distractions and fires to hide evidence.
+3008.36 3011.02 SPEAKER_05  Allie Carter told us about these underground tunnels in LA.
+3011.34 3014.52 SPEAKER_05  They're small cities where celebrities go to have parties.
+3014.78 3016.88 SPEAKER_05  She's been down there and she entered through a museum.
+3017.02 3021.72 SPEAKER_05  If Hollywood's trying to destroy all this evidence by fires, how are they going to destroy evidence in the tunnels?
+3021.84 3025.36 SPEAKER_05  I'm really on the fence about this conspiracy theory, but it's starting to make more and more sense.
+3025.36 3031.08 SPEAKER_05  If the fires are tied in with Diddy, they must be covering some deep shit if they're willing to burn down a whole city.
+3031.20 3032.40 SPEAKER_05  It has to be something big.
+3032.46 3033.30 SPEAKER_08  She's on the fence.
+3034.06 3035.36 SPEAKER_08  She's not quite there yet.
+3035.44 3035.72 SPEAKER_09  Yeah.
+3036.18 3040.68 SPEAKER_09  Some have even claimed that Sean Combs' home was lost in the fire.
+3040.88 3041.80 SPEAKER_09  This is not true.
+3042.06 3048.84 SPEAKER_09  He does own a 17,000 square foot mansion in the ritzy neighborhood of Holby Hills, but his home was spared.
+3049.50 3049.66 SPEAKER_03  Good.
+3049.66 3050.26 SPEAKER_09  Nothing.
+3050.40 3050.58 SPEAKER_09  Yeah.
+3050.72 3053.62 SPEAKER_09  Nothing about this makes sense.
+3053.82 3054.74 SPEAKER_03  The tunnels remain.
+3055.08 3055.94 SPEAKER_09  The tunnels remain.
+3056.08 3056.68 SPEAKER_09  We have to ask.
+3056.78 3060.50 SPEAKER_09  You know, it was like, what evidence was your home hiding, Mike?
+3060.62 3061.02 SPEAKER_09  Apparently.
+3061.22 3061.58 SPEAKER_09  I don't know.
+3061.64 3063.60 SPEAKER_09  There's nothing coherent about this.
+3063.60 3074.20 SPEAKER_08  It's the destroying evidence in a massive wildfire would actually be the worst way to destroy evidence because you can't actually guarantee what's going to burn.
+3074.20 3094.64 SPEAKER_08  Unless you're using the laser to target sort of specific homes, but it seems like a little bit of overkill when you can just like send a couple of guys down into the tunnels and you know, maybe dynamite them and not, not go to all of the expense of burning down an entire city to like maybe get like a couple of flash drives or something.
+3094.92 3096.34 SPEAKER_08  It seems, it seems a bit much.
+3096.76 3096.88 SPEAKER_09  Yeah.
+3096.98 3105.92 SPEAKER_09  Like it's like when I want to destroy evidence, when I do it, I do it in such a way that garners worldwide media attention and triggers federal investigations.
+3107.64 3120.62 SPEAKER_09  Another major claim being bounced around is the sort of claim that seems to like pop up every single time there's a major fire, which is that basically the fires are actually part of a plot to clear land for development purposes.
+3121.56 3131.30 SPEAKER_09  In this case, the plot was supposedly part of a plan to accelerate the development of Los Angeles into a smart city or possibly to make space for a summer Olympics in 2028.
+3131.30 3134.90 SPEAKER_11  This is so good because for Mel Gibson, it's depopulating the state.
+3135.08 3138.80 SPEAKER_11  For others, it's development of a smart city, then the high speed rail.
+3139.08 3142.60 SPEAKER_11  They clearly, the cabal has not figured out what they want to do with California yet.
+3143.38 3151.08 SPEAKER_09  For example, this is from a TikTok video that got nearly 200,000 likes and over 7,000 comments.
+3151.26 3153.58 SPEAKER_10  Please, for the love of God, tell me that I'm wrong.
+3154.00 3165.12 SPEAKER_10  Did you know that in 2028, the Olympics is going to be held in Los Angeles County, but not just Los Angeles County, but it includes all of the northern regions of Los Angeles County.
+3165.54 3171.36 SPEAKER_10  Places which include the Pacific Palisades, the Sander Fernando Valley, and Altadena.
+3172.24 3176.02 SPEAKER_10  With just so happens to be the place that is burning right now.
+3176.60 3177.12 SPEAKER_11  Altadena!
+3177.82 3178.34 SPEAKER_11  Bitch!
+3178.56 3182.30 SPEAKER_11  Bitch, not even the fucking Mexicans here are calling it that.
+3182.30 3184.92 SPEAKER_11  Where are you fucking, where are you at?
+3185.44 3186.94 SPEAKER_11  Michigan ass motherfucker!
+3187.40 3189.82 SPEAKER_11  Where the fuck are you recording this from?
+3189.96 3190.68 SPEAKER_08  Altadena!
+3191.22 3194.86 SPEAKER_08  I believe you also called it the Santo Fernando Valley.
+3194.98 3195.34 SPEAKER_02  I know.
+3196.14 3196.76 SPEAKER_02  El Santo!
+3196.76 3197.16 SPEAKER_02  Yeah.
+3199.06 3206.14 SPEAKER_03  And anytime you hear that background sound, that like, you know, you know you're in for some absolute shit.
+3206.36 3206.54 SPEAKER_11  Yeah.
+3206.90 3210.12 SPEAKER_11  Tell me I'm schizophrenic and insane for the love of God.
+3210.26 3210.84 SPEAKER_11  Tell me I'm wrong.
+3210.88 3211.16 SPEAKER_11  You're wrong.
+3211.26 3211.78 SPEAKER_11  You're wrong.
+3211.90 3212.60 SPEAKER_11  You're dead wrong, buddy.
+3212.72 3213.04 SPEAKER_09  Cool.
+3213.18 3214.30 SPEAKER_09  I will gladly, yeah.
+3214.80 3221.40 SPEAKER_09  First of all, I don't understand why the powers that be would want to burn parts of LA that will be used by the Olympic Games.
+3221.40 3224.76 SPEAKER_09  At no point in this video does he explain the plot, basically.
+3224.90 3226.48 SPEAKER_09  What exactly is happening?
+3226.48 3230.90 SPEAKER_09  It just says that, well, you know, they're going to be used by the Olympics and they're burning.
+3231.36 3231.76 SPEAKER_09  Coincidence?
+3231.96 3237.92 SPEAKER_09  And the other part is that, like, you know, I could actually find no evidence that the plans for the Olympics involve Altadena.
+3238.12 3239.48 SPEAKER_09  It appears to have made that part up.
+3239.78 3243.86 SPEAKER_11  Well, no, it's not actually part of it, but Altadena is.
+3243.86 3244.62 SPEAKER_03  Altadena!
+3245.04 3246.36 SPEAKER_03  Yeah, yeah, exactly.
+3246.68 3249.74 SPEAKER_03  That's like the upside down version of Altadena.
+3249.94 3253.44 SPEAKER_11  I'm hearing that they're going to be calling it the Juegos Olímpicos.
+3256.48 3261.12 SPEAKER_11  Fuck, man.
+3261.80 3263.86 SPEAKER_03  Why does that guy have all of his hair?
+3264.22 3265.72 SPEAKER_03  That's a fucking good question.
+3265.72 3266.14 SPEAKER_03  Oh, here we go.
+3266.26 3267.18 SPEAKER_11  Here we fucking go.
+3267.18 3267.48 SPEAKER_03  Incredible.
+3267.48 3269.32 SPEAKER_03  These conspiracy guys, they show up on TikTok.
+3269.56 3271.06 SPEAKER_03  Their brains are absolutely cooked.
+3271.22 3272.48 SPEAKER_03  Somehow, full head of hair.
+3272.48 3274.06 SPEAKER_11  Jake, the guy looks like a rectangle.
+3274.32 3275.06 SPEAKER_11  Like, you're handsome.
+3275.40 3277.58 SPEAKER_11  Like, chill out about the fucking hair, man.
+3277.58 3278.36 SPEAKER_08  Nope, sorry.
+3278.46 3280.60 SPEAKER_08  The shot put was going to be in my backyard.
+3280.84 3281.14 SPEAKER_08  Yeah.
+3281.74 3283.40 SPEAKER_08  We were building it out a little bit.
+3283.62 3302.64 SPEAKER_08  I mean, it's just, it's so insulting to the people who actually live in these communities to decide that we are nothing more than pawns in the various cartoonish schemes of the elders of Zion who some of this land needs to be cleared because we need to put in, you know, room for hurdles for the Olympics.
+3302.92 3306.70 SPEAKER_08  Other parts of it need to be cleared so that we can get rid of the evidence of P. Diddy.
+3306.90 3310.90 SPEAKER_08  We need to put some stack them and pack them towers over there.
+3310.90 3316.78 SPEAKER_08  We need to get rid of Mel Gibson's house over there so that Oprah could build her beachfront.
+3316.92 3326.42 SPEAKER_08  I mean, it's so, it just reduces all of the people, all of the many, many stories and many tragedies that are showing up in my text chains every day.
+3326.52 3332.46 SPEAKER_08  It just reduces us all to sort of, you know, pieces in a game of risk that are getting pushed around a board.
+3332.62 3338.68 SPEAKER_08  It's so unbelievably unhelpful to the people who are actually going through this.
+3338.68 3344.14 SPEAKER_11  You've been hearing from Altadena resident Miguel Rochil.
+3344.66 3345.52 SPEAKER_02  Oh my gosh.
+3348.70 3349.66 SPEAKER_09  I checked.
+3349.80 3352.96 SPEAKER_09  So part of Pacific Palisades actually will be used for the Olympic Games.
+3353.22 3357.06 SPEAKER_09  Specifically, Olympic golf will be hosted by the Riviera Country Club.
+3357.26 3363.32 SPEAKER_09  So this area actually was inside of the evacuation zone, but was ultimately spared by the fires.
+3363.50 3366.08 SPEAKER_09  But again, the video doesn't explain how this plot makes sense.
+3366.08 3369.04 SPEAKER_09  Where was the connection between the fires and the Olympic plans?
+3369.28 3378.78 SPEAKER_09  I was like, I don't, it's like, why, if you're hosting the Olympics, yeah, I mean, it's actually, it's like, it's a bit of a source of, you know, not, not pride that fires wound up being so destructive.
+3378.78 3381.28 SPEAKER_09  So I don't understand how this plot makes any sense.
+3381.58 3385.22 SPEAKER_08  We're going to have the world's eyes on our city.
+3385.22 3396.20 SPEAKER_08  So let's make sure as much of it as possible looks blackened and shitty and turned out and looking like a escape from New York.
+3396.58 3398.28 SPEAKER_11  Hey, yeah, you're laughing now.
+3398.32 3405.24 SPEAKER_11  But once they fucking build the Olympic city over all the carcasses of houses in Pacific Palisades.
+3405.24 3411.06 SPEAKER_03  Guys, we want to make sure that our athletes cannot breathe.
+3411.46 3411.74 SPEAKER_03  Okay.
+3411.88 3419.04 SPEAKER_03  We want to make sure that the athletes have the worst quality air possible so that they can perform their worst.
+3419.04 3428.46 SPEAKER_11  This does remind me of the, the, the Seine in Paris, the river where they made the people swim and then they had to give them like, they all caught a bunch of horrible diseases from it.
+3428.46 3431.88 SPEAKER_08  You thought the vomiting from the Seine river was bad.
+3431.88 3438.84 SPEAKER_11  Oh, you're going to love the fucking coughing up a black hairball from, from running the hurdles.
+3439.80 3440.66 SPEAKER_11  Oh man.
+3440.90 3442.02 SPEAKER_11  Oh, but fuck the Olympics.
+3442.14 3443.64 SPEAKER_11  Anyways, I do.
+3443.78 3447.88 SPEAKER_11  I will say that, but for other reasons than these fucking freaks think.
+3448.14 3453.52 SPEAKER_09  I mean, yeah, my, my always biggest problem with like a lot of like conspiracy theorists is like how underdeveloped they are.
+3453.58 3456.18 SPEAKER_09  I feel like they're not even a complete story.
+3456.18 3458.68 SPEAKER_09  You know, they're not even, they're not even internally.
+3459.00 3461.52 SPEAKER_09  They don't, don't even make for good fiction.
+3461.52 3469.92 SPEAKER_09  Like in this case, it's like, it's like, if you're going to come up with a conspiracy theory, at least have some sort of a little bit of internal consistency within your narrative.
+3470.16 3471.44 SPEAKER_09  But yeah, but this is like, hell no.
+3471.52 3471.62 SPEAKER_09  Yeah.
+3471.64 3473.58 SPEAKER_09  This is just all just pretty weak sauce.
+3473.84 3473.94 SPEAKER_08  Yeah.
+3474.00 3484.78 SPEAKER_08  And I will say that, uh, because, you know, I've been talking about this a lot in the conversations that I've been having with other people in my neighborhood and the, you know, the Facebook groups and the text chains, no one is talking about any of this stuff.
+3485.00 3485.88 SPEAKER_08  No, no one.
+3486.18 3489.92 SPEAKER_08  We are all focused on, Hey, when are the schools going to reopen?
+3489.92 3495.60 SPEAKER_08  You know, can we get more, can we get PPE to sift through the wreckage of our houses?
+3495.96 3497.14 SPEAKER_08  Do you know a good architect?
+3497.54 3500.44 SPEAKER_08  Hey, there's going to be a gathering in the park and we need more tables.
+3500.60 3504.76 SPEAKER_08  None of this stuff does anything to help anybody going through this.
+3504.86 3504.94 SPEAKER_11  Yeah.
+3505.00 3512.12 SPEAKER_11  The city has been going through an incredible effort to provide mutual aid to any and all evacuees.
+3512.12 3522.54 SPEAKER_11  It's been truly heartwarming and, uh, just the opportunities to participate in helping people out are so, there are so many of them happening right now.
+3522.72 3528.90 SPEAKER_11  The people spending their time making these kinds of videos, first of all, are probably not based here.
+3529.10 3529.18 SPEAKER_11  No.
+3529.18 3531.52 SPEAKER_11  And second of all, they can, they can all the way go.
+3531.64 3531.82 SPEAKER_11  Yeah.
+3531.82 3533.52 SPEAKER_11  They can fuck themselves all the way to the moon.
+3533.72 3534.26 SPEAKER_11  Once again.
+3534.26 3534.70 SPEAKER_09  Yeah.
+3534.78 3537.52 SPEAKER_09  Mike, thank you so much for coming on the show again.
+3537.62 3550.24 SPEAKER_09  So, uh, I would encourage all listeners to pick up Mike's two most recent books if they haven't already, because they are absolutely essential for understanding conspiracy theories, both contemporary and historical.
+3550.24 3555.40 SPEAKER_09  So the first is, uh, you know, the storm is upon us, which is the most cited text on QAnon.
+3555.40 3561.44 SPEAKER_09  Like when academics, legal professionals, or policymakers want to understand QAnon, they turn to Mike's book.
+3561.44 3571.04 SPEAKER_09  And I think it is certainly true that this is the book that historians of the future will turn to in order to understand American conspiracism during the Trump era and beyond.
+3571.46 3574.56 SPEAKER_11  Excuse me, Travis, if they can't read, they turn to our podcast.
+3574.70 3574.90 SPEAKER_11  Okay.
+3575.26 3577.08 SPEAKER_11  The illiterate love us.
+3577.26 3577.86 SPEAKER_11  God damn it.
+3579.06 3581.22 SPEAKER_03  It sounds like something Trump would say.
+3581.64 3582.14 SPEAKER_09  All right.
+3582.54 3583.66 SPEAKER_09  And of course, yes.
+3583.72 3594.42 SPEAKER_09  I also recommend picking up, uh, Mike's book, Jewish Space Lasers, which is about the history of Rothschild conspiracy theories and more generally anti-Semitism over the past couple hundred years.
+3594.42 3599.10 SPEAKER_09  Again, this is the most accessible and most authoritative text on the subject.
+3599.44 3606.18 SPEAKER_09  Check out the show notes on this episode for links for buying these books and get them, uh, hardcover Kindle, audiobook if you like listening.
+3606.54 3615.22 SPEAKER_09  And, uh, by reading them, you will have a more comprehensive and sophisticated understanding on modern and historical conspiracy theories than 99% of people.
+3615.22 3619.08 SPEAKER_09  And at the same time, you'll be helping out Mike and his family get back on their feet.
+3619.32 3619.72 SPEAKER_08  Thank you.
+3619.90 3620.60 SPEAKER_08  Thank you guys.
+3620.70 3621.72 SPEAKER_08  It's been a real blast.
+3622.12 3627.78 SPEAKER_08  And, um, if, you know, if people are so interested, I'm, I'm writing about this experience on my website.
+3627.78 3630.00 SPEAKER_08  It's themikerothschild.com.
+3630.10 3635.96 SPEAKER_08  I've got a Patreon going because I don't know when I'm going to be able to work again otherwise.
+3636.10 3639.18 SPEAKER_08  And it's, uh, Patreon slash Mike Rothschild.
+3639.34 3641.56 SPEAKER_08  Uh, and all of it is linked pretty much everywhere.
+3641.56 3643.96 SPEAKER_08  So I really appreciate you guys having me on.
+3644.02 3645.66 SPEAKER_08  It's been a really cathartic for me.
+3645.96 3648.20 SPEAKER_11  Patreon.com slash Mike Rothschild.
+3648.32 3649.68 SPEAKER_11  You heard it folks.
+3649.84 3651.58 SPEAKER_11  Thank you so much for coming on again, Michael.
+3651.58 3656.18 SPEAKER_11  And thank you listener for listening to another episode of the QAA podcast.
+3656.72 3662.38 SPEAKER_11  If you want a second episode every week, you can go to patreon.com slash QAA for five bucks.
+3662.64 3666.54 SPEAKER_11  You will get that and access to our entire archive of premium episodes.
+3666.54 3674.24 SPEAKER_11  For everything else, we've got a website QAA podcast.com listener until next week.
+3674.36 3677.52 SPEAKER_11  May the, may Alta Dena bless you.
+3679.10 3686.78 SPEAKER_03  I was going to, I was going to ask Mike to be like, dude, let's, let's do something fucking like hopeful, like listener until next week.
+3686.94 3688.10 SPEAKER_03  Alta Dino will rebuild.
+3688.28 3691.46 SPEAKER_03  And then you're like, may Alta Dena bless you.
+3691.56 3692.90 SPEAKER_08  No, no, that's, that's the way to go.
+3693.10 3694.02 SPEAKER_11  Callate Hank.
+3694.36 3694.84 SPEAKER_02  Callate.
+3694.84 3709.60 SPEAKER_03  We have auto keyed content based on your preferences.
+3710.46 3713.68 SPEAKER_06  There's an unbelievable brain drain and resource drain in California.
+3713.84 3715.50 SPEAKER_06  It is now strengthened the red state.
+3716.14 3725.00 SPEAKER_06  And to John's point, it's like, maybe, maybe once Trump's in, the feds do have to come in and be like, no more, you are, you are, if we're the United States, we got to do something about this.
+3725.26 3728.78 SPEAKER_04  No, I, I tweeted this on X or whatever it's called at this point.
+3729.28 3732.32 SPEAKER_04  But imagine this was happening in Florida.
+3732.58 3738.90 SPEAKER_04  Imagine our fire hydrants were empty and it was DeSantis walking around the state going like this.
+3739.14 3746.28 SPEAKER_04  I just, you know, I think that there would be basically like troops on our door waiting to get rid of DeSantis.
+3746.28 3751.36 SPEAKER_04  It's really, it's gotten so insane that they're getting a pass for this mismanagement.
+3751.86 3765.08 SPEAKER_04  Elon Musk talking about this so long ago and Donald Trump talking about this so long ago and all of us knew that they needed to cut down this, this, these dry dead trees and make a better situation because they're so prone to fires.
+3765.08 3773.76 SPEAKER_04  It's scary that they didn't do that because of, you know, possibly some fish or some, some environmental issue that they had a problem with.
+3773.96 3777.44 SPEAKER_04  Um, I, I am afraid for the future in places like this.
+3777.50 3779.36 SPEAKER_04  I'm actually a lover of California.
+3779.36 3781.86 SPEAKER_04  I loved LA before it was really destroyed.
+3782.04 3783.14 SPEAKER_04  I love California, the state.
+3783.20 3783.82 SPEAKER_04  It's so beautiful.
+3783.82 3791.66 SPEAKER_04  The fact that they have managed to bring this state to its knees and yet Gavin Newsom is still not, it's still considered presidential material.
+3791.66 3794.24 SPEAKER_04  He's still in the running for 28.
+3794.56 3796.38 SPEAKER_04  I think all of that is crazy.
+3796.38 3802.44 SPEAKER_04  And I would love to see a, you know, again, going back to these leftists who are opening their eyes.
+3802.68 3811.90 SPEAKER_04  I'd love to see them take this lesson and really apply it moving forward and say, we can no longer live by these leftist policies because look what happened.
+3813.82 3818.26 None  See you next time.
+3818.34 3819.78 None  Bye.

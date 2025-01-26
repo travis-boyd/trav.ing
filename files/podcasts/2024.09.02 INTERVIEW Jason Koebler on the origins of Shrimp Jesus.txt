@@ -1,0 +1,511 @@
+Hey everybody, it's Josh coming your way this Monday for another special interview.
+Jason Kebler is a co-founder and editor of 404 Media.
+And throughout 2024, Jason has been reporting on Facebook
+and how it's become overrun with uncanny AI content.
+Last month, he figured out where it's all coming from.
+So this morning, I sat down with Jason to learn more about his reporting.
+And over the course of 40 minutes, we talked about the degradation of Facebook
+and how it may be a sign of things to come for the rest of the internet.
+Hope you enjoy.
+So I'm excited today to be interviewing a special guest.
+He is a writer and editor for 404 Media.
+Welcome to the show, Jason Kebler.
+Hey, how are you?
+I'm good.
+So the reason that I wanted to have you on to talk a little bit today
+is that about a month, month and a half ago, we did an episode about Facebook
+and specifically about the way the platform has changed over the years.
+And we ended up landing on the whole shrimp Jesus phenomenon.
+And for those who are not familiar with what that even is,
+can you just sort of outline for us what that is, how it came to be,
+and why it seems like we still can't, on some level,
+stop seeing pictures of these shrimp Jesuses on our Facebook?
+Yeah.
+Well, first of all, I listened to the episode.
+It was a journey.
+I've been on Facebook sort of like since the beginning.
+And I was like, oh, yeah, it did have all of those features.
+Yeah, it was a useful platform once upon a time.
+Yeah, I forgot about that.
+But I think like some of y'all, like I hadn't spent too much time on Facebook
+over the last few years.
+And I logged in one day and I saw like very bizarre,
+obviously AI-generated content all over my news feed.
+Shrimp Jesus in particular is a specific photo of Jesus,
+like stereotypical Jesus with the arms of a shrimp.
+And there's various like variations on this.
+Like sometimes it's crab Jesus.
+Sometimes he has like a bunch of arms.
+And at the end of each arm is another face of Jesus.
+And like very broadly speaking,
+these are AI-generated images that come from a Bing image generator.
+So Microsoft just like launched a free, you know,
+AI image generator that's powered by DALI,
+which is an open AI product.
+And like these are going viral over and over and over and over again.
+And I think shrimp Jesus has become shorthand,
+at least for me, for this type of AI-generated spam.
+But lots of them don't have anything to do with Jesus at all.
+Like often it is pictures of really old women celebrating their like 115th birthday.
+Yeah, we talked about on the episode,
+Jane Joan going on her baking journey.
+Exactly, exactly.
+So it's a shorthand for this like AI slop that's taken over at least my Facebook.
+And what was it about this that you found so compelling?
+And why did you then decide to sort of dig into it further and get to the core of what was going on here?
+Yeah, I think I was one of the first people to ever write about it.
+And the evolution was very interesting for me.
+It's like every time I logged on, there were like different artistic epics, if you will.
+I was like, oh, at first they were taking memes that some of which I could identify,
+like just previously viral images and then running them through an image-to-image AI generator.
+And like creating this, you know, very surreal, like, oh, this is the same picture,
+but there's 9 million variations of it and they're all going viral.
+So I was really interested in that, like where they were stealing them from,
+how they were doing it, so on and so forth.
+But then there was like a dog rescue that had their page hacked and pivoted into an AI content farm.
+And I had, you know, told their story sort of.
+And I was like, oh, this is like affecting real people sometimes.
+And then came Shrimp Jesus.
+And that's like when everyone started talking about it and trying to understand where it came from.
+And I was like, oh, I've been looking at this stuff for months.
+So like, I'm just, I'm obsessed with it now.
+Like, I want to know where it comes from, why it's going viral, how they're making money,
+who is doing it, how they're doing it, et cetera.
+And it just became this like obsession for me where I was like, I need to know how, who, what, where, et cetera.
+Yeah.
+Well, and obviously you wrote an article a few weeks ago that really went into detail
+about exactly how and why this stuff is getting made.
+But before we get there, I had a question, I guess, about what you were mentioning a moment ago,
+which was like pages getting hacked or repurposed to become these weird AI slop mills.
+On our episode, we talked about an example of that.
+It was a page called Starbright Angels.
+It used to, I guess, be like a place to memorialize dead children.
+And now it's just become a place to find more Shrimp Jesus.
+And to me, there's something really, really sad about that, that like there were these places that used to be ways for real people to connect and communicate.
+And it's just become all part of the slop.
+And I guess I'm just curious to hear like, what were some examples that you found?
+Why are these pages getting repurposed?
+And does Facebook really seem to care about this at all?
+Yeah, the fact that you think that it's sad, I'm glad that you said that.
+Because part of the reason I was so obsessed with this is I find the whole thing to be like really sad.
+Like across the board, upsetting.
+Yeah.
+The people like commenting on it, who don't know that it's real.
+It's like you are arguing with like no one about nothing.
+And spending like hours and hours doing that.
+I think the thing that like really upset me actually was I saw an image of a deck, like someone's deck in their backyard that had been run through AI.
+And there were like hundreds of people arguing about whether the deck was up to code.
+Like whether the supports, like it had the correct support.
+And I was just like, these people are arguing about a fake image.
+Like there's nothing, like this is crazy.
+Like Facebook used to not be like this.
+One thing that I did learn though, is that these pages that are getting taken over, it's almost like an automated process.
+Many times.
+I found this product called Few Feed, which is made by a single programmer in the Philippines.
+And it is enabling a lot of this spam.
+Not the AI part, but the actual spam part of it.
+And it has this tool in it that allows anyone to seize control of like, quote unquote, abandoned groups where the admin has like their Facebook account has been hacked or disabled or something.
+Like there's no admin or it has open admin status.
+So there's like different groups and pages that, I don't know, let's say I wanted, let's say I wanted to invite you to become an admin of a group that we're running.
+I can leave it as like open admin status and you can become an admin of it, but so can anyone else.
+And so this tool like detects pages that have open admin status.
+And so it's being seized in an automated way.
+And then it's being pivoted immediately because once you're admin, you can do anything.
+And that almost makes me feel like a little bit better.
+It's like these people seemingly are not targeting like dog rescues.
+They're just targeting anything that they can take and pivot to be a meme page because it comes with those followers built in.
+And it's very sad, but it's also just like these conversations that we have about like information integrity and plagiarism and all these sorts of things.
+I think they're very important, but they're so divorced from what's actually happening where it's just a like, how do I go viral?
+How do I make money?
+Don't care what the content is.
+It doesn't matter.
+Well, I am interested.
+And I think more broadly, we are interested on our show in the idea of like, how do we communicate with each other in general?
+And how do the narratives that we see in media affect that communication?
+And social media is one of those forms of media, right?
+Like if the metanarrative that you're getting, as was the case in early Facebook, was, hey, here's all your friends.
+You know, they're going to a party.
+They went there last night and, you know, Greg puked on the sidewalk.
+Wasn't that so funny?
+That's creating a very different sort of internal narrative for yourself in terms of how you're engaging with that.
+And I think in general, it causes people to communicate differently.
+I don't know, because you follow all this stuff with social media and the web.
+I'm curious to hear what you think this is doing to the way that we communicate.
+You're absolutely right.
+Like Facebook used to be a place where you talk to your friends, your family.
+Like maybe you followed some fan pages of whatever.
+And like your news feed was largely made up of things that you followed and liked and people who you knew and people who you interacted with.
+And like there's still some of that, a little bit of that.
+Like when I log on to Facebook, I still see kids from my high school talking about like their babies.
+But I'm seeing a lot of stuff that I've never liked.
+I've never interacted with.
+I don't know what it is or where it comes from.
+And this is because Facebook made a very specific change to how the news feed works.
+And it started doing this thing called recommended content.
+And this was basically an attempt to recreate the TikTok for you page where you open it up and you're just like bombarded with whatever is popular on the platform.
+And of course, it attempts to have something to do with things that you've interacted with or liked in the past.
+It's like if you start liking AI-generated content, that's like all you're going to see.
+But it's not like, hey, your uncle commented on this or your friend posted on your wall.
+It's like someone who you know possibly interacted with this weird AI-generated picture of a log cabin.
+So we're going to show it to you now.
+And we're also going to show you this like image of Jesus made by someone in India.
+And you are like a person who lives in West Virginia or Ohio or California or whatever who has no connection to any of that stuff.
+And you start to see it.
+And so I do think it has turned Facebook from a social network to just like a big internet feed.
+And we have lots of big internet feeds.
+It's like that's what the entire internet has become.
+And there's increasingly few spaces where you can have these interactions that you used to have on Facebook.
+Well, I feel like for a while on Facebook, it was already starting to trend that way.
+You know, we had a big problem, obviously, in the mid-2010s when they unveiled reactions.
+And then, you know, if you gave an angry react, it was 10 times more powerful than a like or something like that.
+But there was still places here and there.
+And even now there are still places here and there where you can get real conversations like, you know, Facebook groups, especially, you know, finding groups of people who have a similar interest.
+But it's just becoming rarer and rarer because the signal to noise ratio has become so bad, right?
+Yeah, yeah.
+And I think that, like for me personally, group chats, group texts have replaced what Facebook used to be.
+And that is nice.
+Like I enjoy the group chats that I'm in where I can just kind of come in and leave and come in and leave.
+But it's very limiting because I have to purposefully do that, whereas I feel like there used to be a time where I would not talk to someone for months but then see something that they posted on Facebook and think, oh, like that's really interesting.
+Like let me catch up with them again.
+And so, you know, I feel like in the early days Facebook was very good for maintaining connections with people.
+And now it's like I don't even know what it's good for anymore.
+It's like it's very good for marketplace.
+It's very good for like the groups if you're specifically in it.
+But if you're like a casual person who like hops on Facebook and scrolls, it's just like a feed of like the id of the internet.
+Well, we might as well take a moment here to talk about how all that stuff gets generated.
+Because on August 6th, you published an article on 404 Media entitled Where Facebook's AI Slop Comes From.
+And basically in this article, you explain how individual people in countries like India, Vietnam and the Philippines are generating and posting pretty much all of this content.
+So what did you discover?
+So I spent like nine months between my first article and this article being like, where does this come from?
+I couldn't find it.
+And I'm usually pretty good at finding this sort of thing because I just have written articles about this type of thing before.
+And it usually either comes from like Discord, like someone is teaching people how to do this sort of thing on Discord or YouTube.
+And I was searching in English, in Hindi, in Vietnamese, in, you know, Tagalog, etc.
+Like using Google Translate and I couldn't find anything.
+And then one day I like searched for this thing called Vercel app, which is just like a weird cloud platform that you can use to deploy AI online.
+And the reason I searched for that on YouTube is because on every, not on every, but on many Facebook pages that had AI Slop, they were linking to something called Vercel app.
+And then you click it and it would go to a click farm and the click farm would be like a weird spam page that would just like bombard you with Google ads.
+And so I was like, okay, like I don't really know what's going on here, but Vercel is involved in some way.
+And finally, one day I typed in Vercel Facebook onto YouTube, which I should have done many months before.
+And I found this entire like influencer community of people who were teaching others how to make money on Facebook.
+And what I learned basically is that the AI spam is an evolution of other types of spam on Facebook.
+It's like this is not a new community that popped up in the last six months.
+They've been doing this for years and years and years.
+It's just that AI, like AI photos are the newest and most effective way to spam Facebook for reasons that might be obvious, which is like you can make tons and tons and tons of them.
+You can make a bunch of variations.
+So they seem unique because a lot of the previous spam relied on copy paste.
+Yeah.
+Well, like say I am, you know, the average guy in the Philippines hoping to make some money.
+And, you know, I hate my day job and I've decided that I want to toil in the content farms instead.
+Uh, why might I want to make a bunch of slop on Facebook as a means of a living?
+And what would it look like for me if I wanted to do that?
+So Facebook launched this program called the Facebook Creators Program bonus.
+It's like a weird name.
+And this basically pays people to go viral on meta platforms.
+So Instagram and Facebook.
+I don't think it I don't think there's any version of it for WhatsApp.
+But basically they launched this as an incentive to get like celebrity influencers to post reels instead of posting on TikTok.
+Like it was to incentivize them to post on Instagram.
+This didn't work out in the way that they expected, did it?
+It didn't work out in the way they expected.
+They eventually like expand the program because I guess it may have worked out because what does happen is like Instagram reels.
+There's just like tons and tons and tons of weird stuff on Instagram reels.
+I don't know how much time you spent on there, but like it's weirder than TikTok in my opinion.
+I see lots of crazy stuff.
+Yeah, I follow a TikTok account that just reposts Instagram reels of really bad music.
+It seems to be a real locus for that for some reason.
+Yeah, it's also a locus of like copy pasting YouTube videos, like segments of YouTube videos.
+And so it's basically like factory style, like load our platform up with stuff.
+And so they expand that to Facebook and they expand that program not just to reels, but also to images.
+And crucially, they also expand it to not just encompass American and European popular influencers.
+They also open it up to the Philippines, to India and to a few other developing countries, primarily in Southeast Asia.
+And you don't need to be like an influencer anymore.
+You can just be like a person who publishes like whatever.
+So basically, like this group of Facebook spammers learns about this and learns that they can make direct money directly from Facebook.
+And they just start spamming.
+They spam, spam, spam, spam.
+And they find that this bizarre AI stuff works for whatever reason.
+You know, they seem to think that it's a mix of real people interacting with this stuff, as well as you can do some paid promotion to like seed it.
+And then you can also use some automated tools to like do a bunch of likes and comments in the initial days.
+But there's definitely real people seeing and interacting with this stuff.
+And then they're making, you know, anywhere from like a couple cents per image to I've seen as high as $400 for a single image.
+And that was made by a guy in India who had been working in Mumbai.
+He said he was working 15 hours a day and was making $130 a month at his other job.
+Wow.
+And then he makes $400 with one image on Facebook.
+And so he's like, screw this job.
+I'm going to become a Facebook spammer.
+These are entire influencer communities of their own, right?
+These are guys doing like hustle grind set kind of shit, but for spamming on Facebook, right?
+It's kind of a similar model where it's like, hey, check out my cool videos.
+Check out my class.
+Like that kind of thing.
+Yeah.
+If you've ever seen like a bro who says like side hustle with real estate, like I'll teach you how to make tons of money buying and flipping apartments or whatever.
+It's the exact same thing.
+But for Facebook spam, it's like there's maybe 10, 15 identifiable popular influencers who have hundreds of thousands or millions of followers on YouTube.
+And they do a video almost like every day about the new meta, which is like the new strategy that you can use to go viral on Facebook.
+And then, yeah, they're like, just buy my course.
+I'll teach you how to do it.
+And of course, they're racking up like the YouTube ad revenue associated with this as well.
+So they're making money for sure.
+The people who are spamming, you know, less so.
+There's I've seen some quote unquote success stories where people are making a bunch of money.
+But I also talked to a kid, a teenager in India who did this for 20 days straight and he made like zero dollars.
+And he's very upset that he had like been taken in by this influencer scheme more or less.
+Well, that's something that's interesting to me, too, that like it's not as if creating this stuff is any sort of a guarantee.
+As with so many other things in the content economy, you might just build and build and build and build and keep putting stuff out there and never even see a single penny.
+Do you have a sense of how common it is to sort of end up in the situation of that kid where you really go for it and it just doesn't work out?
+That's kind of a tale as old as time where like the first few people to do something might have success.
+But I personally think that Facebook has been tweaking its payment algorithms that this is less and less effective because theoretically they don't want to be paying out thousands and thousands and thousands of dollars to people who are posting AI spam.
+And so they're constantly tweaking their algorithms.
+There's no real insight into how they work.
+And yeah, that's like there's many people who think that they're going to be able to make a lot of money.
+And then once they get started doing it, they're like, oh, this actually like isn't working at all.
+And that that can even happen if their images are going somewhat viral.
+And so if there's enough people doing this.
+That doesn't mean that just because they're not making a lot of money, it doesn't like ruin your Facebook experience or you're not seeing this like crap because you still very well might be.
+Right.
+Well, and what interesting conversation that I heard you have was with my friend Hussein, who hosts 10,000 posts.
+And the two of you got to talking on that episode, which is very good, by the way, everybody should go listen to it.
+You got to talking about the nature of sort of the tech labor economy and the way that this sort of thing where it's these people in, again, countries like India, the Philippines, Vietnam.
+These people are often used for other forms of labor by these big tech companies as well.
+For instance, with content moderation, you know, if Facebook needs to see if an image that looks like it's borderline, like maybe it's something that is like explicit, let's say child abuse material or something like that.
+They don't know whether or not it is.
+And so they give it to some contracted guy in the Philippines whose job it is to look at this stuff all day and be like, is this child abuse material or not?
+You know, this is nowhere near as terrible of a job as that.
+But because there is more economic pressure to do anything to be able to make ends meet and because there aren't as many readily available jobs, doing this sort of thing for a living is far more common for people in countries in the developing world, in the global south.
+And so is this just another reflection of that dynamic that we've been seeing?
+Is this sort of a new, weird thing of its own?
+How does this map over to the way that tech has exploited the global south, I guess is basically my question.
+Yeah, I mean, I think it's a great point.
+And it's one that I tried to make in the article, but didn't dive into that much.
+I think effectively, like effectively in this case, Facebook is taking these gigantic markets in Bangladesh, in India, in the Philippines, etc.
+And is turning these people into extremely low paid workers, more or less, because a lot of what they're doing is they're just flooding these platforms with content.
+And then you look at like Facebook's earnings reports.
+And Facebook will say specifically that its recommendations algorithm has led to higher ad revenue has led to more engagement has led to more time on site, because you can just like endlessly scroll this stuff in a way that maybe you couldn't have done a few years ago.
+So I personally, and that's the other part of this, we talked about like, whether this is sad or not, I find that to be very upsetting as well.
+Because it's another example of big tech based in the United States launching something internationally, either purposefully or without care.
+And the knock on effects are not only like bad for usability, but also have the the impact of like, hundreds, thousands, millions, probably not millions of people are posting AI content, but at this point, but like many, many, many, many people become the beta testers for like, you know, whatever Mark Zuckerberg wants to try next.
+And I think that's not, I just don't think that that's great.
+And I think also, it's like, these people are making $400 from one image one day and like one cent the next day.
+And so it's very precarious work, it can go away at any time.
+It might be nice for a little while.
+And I think to your point, they're very used to, or like a lot of these workers are used to working in specific click farms or doing different types of spam.
+And so I think that they will pivot, like they will find the next thing to do.
+And this has become a viable career path in the global south, where, you know, maybe you train AI for a little while, then maybe you make AI for a little while, then maybe you manage a bunch of social media pages for a little while.
+Maybe that's not the worst thing.
+Like, I think that there will be something else.
+But fundamentally, these people are like the very low paid labor for the enormous profits that we're seeing big tech make year after year after year.
+What's strange to me, too, is that I feel like this is going to sound really dumb and really obvious, maybe, but like, there's nothing there.
+I think that's the thing that breaks my brain the most about all of this is that clearly there's something about this that works.
+There's something that's weird and addictive and engaging about this content, but it doesn't actually do anything.
+It doesn't mean anything.
+I don't know how to wrap my head around that.
+I'm curious if you sort of had a similar reaction to it in all of your time looking at this stuff.
+I did.
+I think that in the lead up to the 2016 election on Facebook, there was the fake news.
+I wouldn't say scare, but, you know, maybe it was blown out of proportion as to how important it was in getting Donald Trump elected.
+But the reporting from that era was like this was governments doing this.
+And it was sometimes, you know, kids doing it, but they were usually doing it for a specific end and with like a specific ideology, more or less, like there was a reason for it.
+And here it is like we are going to make whatever works and we don't care what it is.
+There's no real ideology behind it other than we want to go viral on Facebook so that we can get, you know, pennies or dollars from the platform.
+And I don't blame the people who are doing it.
+It's just that there's not it's like algorithmically guided.
+And so in that sense, it's not only as an AI content, but the AI, the prompts that are being used are often copy pasted and they're often honed over time based on what works in the algorithm.
+And it's just like the algorithmification of.
+An entire platform, the entire Internet.
+And it's not it's not like an Internet that I want to be on.
+It's not why I get on the Internet.
+And I think I actually have enjoyed, you know, looking at Shrimp Jesus and being like, oh, wow, that's really weird.
+But that novelty wears off extremely quickly.
+Yeah, we noticed that when we were preparing for the episode that we did, because it was just like, yeah, at first it's kind of like, ha ha.
+Yeah, 90 year old lady, 100, 110 year old lady beginning her baking journey.
+But like there's like five prompts and it's just variations on the same image over and over and over again.
+And I guess that's because what works, right?
+I mean, is that all it is?
+So one of the reasons why the things are so weird is because a lot of people are using voice to text to generate them.
+So they're using their phones.
+They're speaking in Hindi into Google Translate.
+Google Translate is then translating it into English and then they are copy pasting that into the generator.
+And so, you know, Google Translate is not perfect and it's not great.
+There's also people who are generating these things in Hindi directly in the generation prompt.
+And we know that AI, like large language models are not nearly as accurate or good in languages that are not English.
+And so that's why there's some of the weirdness.
+A lot of the other weirdness is like people are doing slight variations on whatever is working.
+They'll like add a word or add a sentence or whatever and generate a bunch of stuff and they just post everything.
+It's not like, oh, that wasn't good.
+So like I'm not going to post it.
+The advice that I've seen on YouTube is like post everything.
+And so that's why there's like all of these like slight variations in my opinion, at least.
+I'm not sure where the new stuff comes from.
+It seems like it's like an individual person who tries something like has a moment of inspiration, tries it, it works.
+And then it becomes part of the broader canon of things that people are like copy pasting.
+So if I am the average, you know, content farmer clock in for another day in the mines, what might my day look like?
+Yeah, I think that the people who are very good at doing this are scheduling.
+They're using different automated tools to publish every 15 minutes across like hundreds of different pages.
+But then there's a lot of people like the teenager I was talking about earlier who are doing this manually.
+Every post?
+Every post.
+And so he had a little notebook.
+And he had a bunch of timers on his phone.
+And in his notebook, he had like a checkmark box, like do an X every time he posted something.
+And so he was doing this by himself every 15 minutes.
+And I mean, it's crazy.
+Like if you think about it, it's like you think that a lot of this stuff is fully automated.
+And yet there is actually a ton of human labor that goes into it.
+And it's it's pretty wasted human labor.
+It's like, let me log into Facebook every 15 minutes to publish my one image and then put a checkmark in my notebook.
+Like that is it's crazy.
+I mean, you want to talk about things that are just inherently saddening.
+It's like, who knows?
+Maybe that maybe that kid has the next great Hindi novel in him, right?
+Like, who knows?
+It's all of this potential creative labor that is instead wasted in so many different ways.
+You know, that is a a waste of time.
+That is a waste of effort.
+The end product is useless.
+And all of us who really engage with this shit in general, I feel we're all just it's all just such a waste in a way that, again, breaks your brain when you start thinking about it too hard.
+Yeah.
+Yeah.
+There were a lot of a lot of times while reporting on this where I was just like, this is the bleakest shit I've ever seen.
+They also do it with like celebrities and stuff like as in there's a lot of like non consensual like imagery of female celebrities and things like this.
+It's just like across the board.
+It's not the worst stuff on the Internet, but it's like up there.
+And it's and there's all these guides on how to do it.
+And people are just, you know, copycatting each other.
+And I think that that that network effect of like there's an influencer at the top telling people how to do this and then it's trickling down to just like thousands and thousands of other people.
+It upsets me because I'm just like, oh, Facebook has found millions of people who are willing to do its work for it.
+And who are willing to populate its platforms for it so that it can make more and more money.
+And I guess that's how Facebook has always worked.
+We're all just like posting there and Facebook is advertising against it.
+But in this case, it's like there's no as you said, it's useless.
+There's like no.
+There's no community building there.
+There's not like a community of people who are like, I really love Shrimp Jesus, except for the people who are making it, I guess.
+Yeah.
+Well, and also, I think about the way that the platform started and how far away we are from that now.
+You know, when it got started, obviously, at first it was just Facebook and then it was a couple of schools and then it was the Ivy League and then it was like all colleges.
+And then they brought high schools in.
+The user base just kept growing and growing and growing.
+But at first there was something about the exclusivity of the network where it sort of caused people to demand something of the platform that I don't think is the case anymore.
+What does the average Facebook user even look like anymore?
+Like who is the average Facebook user and why are they using the platform?
+Yeah, I mean, I only have my stereotypes, to be totally honest.
+Like I haven't looked at data recently, but as I understand it, it's like it's an aging population.
+Meta will say that Facebook proper is actually seeing a little bit of a renaissance among young people.
+But by and large, it's like an aging like boomer type population.
+I haven't been able to report any of this stuff because it's just like based on a couple of conversations with people who work there or who used to work there.
+But from what I understand, it's like Facebook proper, like classic Facebook is a bit of an orphan product.
+It's like all everything goes into their AI products in Instagram and WhatsApp.
+And then it's like, of course, there's still a bunch of people working on Facebook to some extent.
+But it's like, how do we keep the lights on versus like how do we recapture some of the some of what made Facebook so appealing in the first place?
+And I think that's that's what's made it really easy to spam.
+Also, Facebook is an incredibly complicated platform.
+It's like there's groups, there's events within groups, there's marketplace, there's like all of these places that stuff can hide on Facebook.
+And I think that is a result of Facebook launching like product after product feature after feature for 20 years.
+And then like either abandoning it or just like leaving it on.
+So it has all these like vestigial organs on it.
+And you can still poke people, it turns out.
+I feel like they've brought that back recently.
+I think they got rid of it for a while and brought it back.
+I'm not positive.
+But that's I thought I remember like people being excited that they brought back the ability to poke.
+But that's a little bit different than your question.
+But I do think that that each of these little products has like vestigial users who are in it just for the groups or people who are in it just for the pages or people who are use it only for marketplace.
+And so I don't know.
+I don't know if there's that many people who are like taking advantage of the full Facebook suite of offerings, if you will.
+So then that leads to, I think, another question.
+What's their product?
+Like genuinely, what are they selling?
+What's the point of Facebook?
+Yeah, I mean, I don't I think that they're selling ad views to to advertisers.
+And it's like they just have.
+First mover advantage and the fact that it just has like so many people on it still who just made a Facebook account and will casually log in every once in a while.
+And I should have said this before, but Facebook is still very big in the global south.
+It's like used a lot more like regularly by younger people in the global south than it is in the United States, I would say.
+But I mean, I don't know.
+Like the product is like a feed, a means by which to deliver you ads.
+Like it really is not anything more than that anymore.
+And I think that I don't I think that Instagram has some of these problems and threads will have some of these problems and WhatsApp has problems as well.
+But I do feel like there's like a core product in each of those where I can identify what it is.
+It's like Instagram is stories and it's reels and you post pictures of your vacations there.
+WhatsApp, you like talk to your friends on threads is like Twitter, but like not as fun and no less Nazis.
+And then Facebook is like, I don't know.
+I don't know.
+It's like an ad delivery device.
+And Facebook is also meta, I should say, is more and more intentionally obfuscating their data, too.
+Right.
+They're getting rid of all of the big data tools that you can access that lets you know what's going on with the platform like CrowdTangle.
+Right.
+Yeah.
+A lot of the early reporting on this was like a lot of the heavy lifting came from CrowdTangle, which is a tool that used to let you see how posts traveled on Facebook.
+And they are sunsetting that I never had access to CrowdTangle, but some of my sources did.
+I know you talked about this in the original episode, but Renee DiResta, who used to work at Stanford, did a really great study where she was able to show like a lot of this stuff is probably fake, like as in the growth of it.
+Like a lot of them are, you know, pages that have been taken over, so on and so forth.
+And you can do that through CrowdTangle.
+You can see like more historical information.
+And like that is gone now.
+And I don't think that's because of the AI problem in general.
+I think it's because CrowdTangle across the board led to a lot of embarrassing things for Facebook because the stuff that goes very viral there is like not stuff that you want to be the most popular things on your social network.
+So is there any way that they can, that Facebook can like, I don't know, turn this around and make the platform feel engaging again?
+Do they want to?
+Do they care?
+Like what do you think is the future?
+My personal opinion is that Facebook does not care.
+They are still making a lot of money from Facebook.
+And that money is actually increasing if you look at the earnings reports.
+It's like the AI recommendations and the like realsification of every platform, including Facebook, has led to a situation where metas revenues are increasing.
+And seemingly they're increasing on Facebook itself.
+So I think even if they start hemorrhaging users eventually, it's like they are always looking for what the next thing is going to be.
+It's like they lit so much money on fire trying to do the metaverse.
+Are likes still coming soon, by the way?
+You know what?
+I have no idea.
+I like I don't.
+Metaverse I was out on like from day one.
+I was like, this is not going to be a thing.
+We've we've done some reporting on like VR over the course of a decade.
+And it's just like people don't want it, man.
+That like that's that's my that's my personal feeling.
+But ultimately, it's like I don't think Facebook is coming back.
+I don't think it's going to like return to some moment of glory where it's suddenly a useful network again.
+I think that they're going to bleed every last cent out of it and then just like, you know, put the cool stuff, quote unquote, into Instagram threads, like whatever new platform.
+They're going to launch.
+Honestly, like that's another really interesting thing is that Facebook's been around for like 20 years, maybe a little longer than that.
+And I think it's a peek into the future of other social media networks, because I really do feel like it's this dying colossus.
+I've called it like a dying mall.
+And I think that if you are Twitter, if you are Instagram, like this is a peek into what happens like slowly over time as your user base ages, as people die.
+Like over the last 20 years, you know, millions of Facebook users have died and their accounts have.
+Kind of like gone fallow.
+And there's a huge market for just like stealing.
+Like hacking those accounts and then using them for spam.
+Like, I just think that it's a peek into the future of like what this looks like, unfortunately.
+I know that's bleak, but it's bleak.
+Yeah, no, it's it doesn't it's not useful to like try to put a smiley face on it because it does feel like that's where a lot of these things are going.
+But I will say this, if our listeners are interested in finding a source of information that is exciting and up to date and written by actual people, I know of a website that they might be interested in going to and even subscribing to.
+Can you tell us more?
+Yeah, please check out 404media.co.
+It's a journalist owned, journalist founded publication that we launched about a year ago.
+We also have a podcast called the 404 Media Podcast where we talk about stuff like this.
+It's not nearly as well produced as this show.
+But yeah, it's not.
+I mean, we just we're we're talking about the news of the day, but we do independent investigations, scoops, funny blogs, shitposting, etc.
+I would love if you could check us out.
+Yeah, please do.
+We've got links down in the episode notes.
+I've been a subscriber to 404 Media and would really recommend it to anybody.
+Y'all are doing great, incisive journalism, and it's a real breath of fresh air compared to the slop coming out of the content mills.
+So check that out.
+And thank you so much for listening to this special interview.
+If you would like to hear more about Shrimp Jesus and the death of Facebook, we have an episode about just that thing.
+It's available on our Patreon, which is $5 a month.
+Link to that, of course, in the episode notes as well.
+And Jason, thank you so much for your time today.
+Yeah, thank you so much for having me.
+This is fun.
+All right.
+I'm the worst of all possible Josh's, and we will see you on Wednesday for the regular episode.
+Bye.
+Bye.
+Bye.

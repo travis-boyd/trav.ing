@@ -1,0 +1,1431 @@
+Welcome listeners to the 261st chapter of the QAA podcast, the Pilled Game Developers episode.
+As always, we are your hosts, Jake Rokitansky, Brad Abrahams, Liv Akar, and Julian Field,
+here to usher in a new year on your very favorite QAA podcast. I'm here to ask the three hosts with me,
+how are you feeling? How's 2024 shaping up for you? Do you have any of these resolutions that
+people keep talking about? And where are you at in your life? I got COVID over the brick,
+so I'm not feeling all that good. It's lasted way too long. I don't know, is this a thing with
+COVID specifically, where like you get it to a mild port and you're like, okay, great. Like
+all my plans for next week, you'll be fine. I'll wake up in a couple of days and it just like,
+just stays like this forever. Yeah. Liv, you're basically two illnesses,
+one injury and half of a lukewarm beer in a trench coat. And I expect that to continue in 2024.
+Yeah. Why is my immune system so bad? I can't tell.
+My experience with COVID is that, yeah, it takes about a week and a half to get up to 80%. And then
+it takes like a month to get that last 20% back. Oh, you talk, you spoke of illness. Now we're going
+to have Jake talking about his sinuses and starting the year on a very bad foot.
+Look, my sinuses have been just fine. But I too, but I too have spent the break with COVID. And then
+with like a horrible stomach virus that plagued my family for about another two weeks. So yeah,
+it's just been, it's been injured dog, sick people, sick again. And then when we were feeling better,
+we watched the Heaven's Gate documentary on New Year's Eve. So we're off to a little bit of a
+rocky start. Can we get some positivity going in the chat? One good thing with me having COVID is I've,
+I've been quarantine with my girlfriend and I just like, for some reason, my COVID brain is produced.
+I just continually repeat. I think I have COVID in a German accent to her.
+Babe, I think I have COVID.
+I think I have COVID.
+I have COVID. And she doesn't like it at all, but I think it's really fun.
+You know, words are spells like that. This is, you're manifesting. You're all going to,
+you're all going to be sick this year. Clearly. That's all you guys could talk about. Okay.
+I have variety of illnesses too. Do I talk about it? Yes. All the time, but not right now.
+Meanwhile, Brad, Brad witnessed a high speed chase on his New Year's.
+Yeah. My, my New Year's day, a fugitive who had about like 10 cop cars chasing her crashed into my
+neighbor's house and kind of totaled two of his cars and then led the police on a, on a wild goose
+chase. And there were canines out. There were two helicopters circling and they were warning everyone
+to stay inside because of a dangerous armed fugitive on the loose. And it ended up being a teenage girl.
+Well, and she had a choice. She was, she was a full speed towards two houses and she looked at the
+houses and one had a big blow up, a neon green alien floating out front. And the other had a Biden
+lawn flack. And we know what she chose.
+Wow. That's beautiful. Okay. So Jake going to be sick. Live going to be sick. I mean, do we,
+come on, Brad, bring me some of that Canadian positivity here.
+Well, I mean, after, after a year spent at, uh, alien conferences, consciousness expos,
+a red pill expo, I think this is the year we ascend to 5d. I'm convinced.
+I like that. I like that. I think this year, like I'm saying, fuck the haters. And I don't mean
+like that. I hate them in return. I mean, I am going to fuck and suck my way through every hater.
+I'm going to kiss them right on their mouth. I'm going to spit in it. I am going to rub their
+little heads and make them disoriented. All my haters this year for you, I am switch. Okay.
+A little bit of doming, but then I'll switch. You can, you can dom me. It's fine. I'll sub for you,
+baby. So write in if you hate me and, uh, are interested in this kind of arrangement. I'm all ears.
+What if, what if that email you got from that like Gen X person who was really angry about
+like our review of the Obama movie? What if it was like, cause you didn't read it. What if it was
+just the raunchiest email ever? That would be amazing if it's cause the subject was Julian
+and the Obamas. And then the email started, I've been listening to the show since. And then it's
+like, dot, dot, dot. I just archived it, but it would be awesome. It's like, I'd be looking to
+listen to the show since I got so fucking horny for you. And I would like to be put in a man-sized
+cage and then you stick your penis through the bars. And boy, would I go to town on that?
+Please call me a little piece of trash.
+This sounds like potentially a new perverts episode, I think for you and Liv.
+Everything is a perverts episode. That's my, my real resolution is for the country. It's not for
+me because I'm feeling unselfish this year. This year is the year that America starts to bathe and
+drink piss. Bathe in piss, drinking piss. We're mixing piss into our cocktails. We're drinking urine
+going into the 2024 election, folks. And we're going to elect a giant bag of piss that we're
+going to be suckling from as if we are the small piglets and it is the mother sow. That's what I
+predict for this beautiful country this year. Speaking of 5D, one good thing over the break,
+I did manage to secure a PlayStation VR headset. And I got to say, I'm so much better in VR than I am
+in real life. I am, I am dual wielding. I am flipping guns into the air and reloading the
+other gun in my hand and then catching the one that flips. I am peeking around corners. I am
+landing headshots. I am such a better person in VR and more capable. Uh, I, I should say something
+interesting too, is I get no motion sickness from this anymore. I, my body and brain have fully
+adapted into the VR space. And, uh, you know, it's nice to get off the couch a little bit. I think
+that's probably my, my resolution is to, you know, I know it sounds kind of cliche and cheesy,
+but I I'd like to be a little bit more active. I'm, I'm still a relatively young guy and I'm pretty
+fat and I'd like to lose a couple LBs, get a little bit more active, feel a little bit more
+confident. And, uh, I think, uh, virtual reality is the first step towards that.
+Jake, I told you it's really simple. 30 minutes of vigorous walking every day. And you're basically,
+you'll be at a point where the hospital won't have to welcome you this year.
+I am doing 30 minutes of vigorous walking in place.
+On a treadmill?
+No.
+In place. I'm just stamping. I am marching on my carpet. I'm just marching into, into nowhere.
+Um, and I'm swinging my arms. I'm reloading my weapons. Um, new taken, but I am Liam Neeson
+and I'm pulling Jake out of VR. He's getting bet on by a bunch of Saudi children in like
+some VR room somewhere.
+Marched into like a real dangerous neighborhood or something.
+So I liked it. Yeah. Like for you, like VR is your like 10 and back, like you're a super
+soldier for a day, you know, put back into your body.
+The real solution is you have to do like all of the cringe yuppie stuff that I didn't do
+for all. Cause I was like, Oh, it's fucking lame. But like, just like jogging in the morning
+and then like doing mindfulness meditation stuff. Oh yeah. It's great. It feels great.
+Once you embrace the cringe yuppie stuff, you actually become a lot happier. Once you embrace
+like how basic, you know, you can possibly be life is actually a whole lot better. I must say.
+Yeah. 2024 more community, more moving our bodies outdoors. Yes. More eating good food that we cook
+for ourselves. Yes. Um, throwing our phones in the garbage. Yeah. Throwing our phones in the garbage,
+more words of appreciation for our loved ones. I love you, Jake. I love you, Brad. I love you,
+Liv. Travis is no longer going to be on the podcast. It's going to be a lot easier for me to express
+low. So I love you, Travis. Now that you're no longer part of the podcast. Annie, I love you because
+you're so far away. It's easy to love somebody when they're so far away on a beautiful island
+somewhere enjoying a pastoral life. I love you all listeners. And I think with that, we are going to
+kick into the first episode of the year. That is an episode about two different stories of people
+who have developed games that are, let's say, compromised by the mind virus, by the unwoke
+mind virus or whatever the opposite of the woke mind virus is. I guess it's just the red pill,
+but it's now airborne and it has contaminated some of our precious game developers. Our only chance
+at a future in which we can fight back against the billionaires who own us and own our minds and bodies
+Yeah. It seems like there are two wolves in the gaming community. One wolf is incredibly inclusive
+and understands that maybe sometimes the reason that people pivot to a virtual world is because
+they feel safer in there and they're more than happy to cultivate that sense of community and
+inclusivity. And then there's another wolf and that wolf is an 11-year-old boy who calls you the N-word.
+And also, I should say that if you're under 13, you shouldn't be playing VR. So I don't know who
+you are, high-voiced little guy who was calling me bad things in our Ghostbusters VR lobby, but you
+shouldn't be playing, okay? It says so on the box, not for children under 13. So I'm hoping we could
+have some haptic feedback accessories that would allow the words to hurt you like sticks and stones
+would so that the 13-year-old N-words actually physically impact you. Yeah, that out of the
+front of the VR headset, it's like one of those rods that they just insert into cattle's foreheads.
+Yeah, that's awesome. And the transition into the other world would be pretty seamless.
+That would be cool if you could hack like a VR headset and make it into like the Anton Chigger
+like cattle gun thing. Man, there would be so many dead Jakes out there and 13-year-olds would rule
+the world. Also, if you're 13 and listening to this podcast, turn it off. Turn it off.
+Find your parents. Yeah. All right, let's kick it off. Who's going first? We've got Liv and Brad
+bringing it this year to usher us in. We'll begin with a story of a very opportunistic
+killed game. Let's call it that. As you may know, American conservatives are obsessed with the ways
+in which their political opponents are supposedly ruining their favorite cultural mediums. In the wake
+of this culture war, swabs of conservatives have been baying for alternative sources for the cultural
+products they consume that are explicitly partisan. Mediums like movies, they appear to have gotten
+their wish, with movies like The Sound of Freedom getting a pretty large budget and doing pretty
+well in the box office, especially considering how pilled it is. Oh yeah, now you can like actually
+stare a little closer at Roku City and see a lot of the children that are kept in some of these
+buildings. There's a whole part of the city now that's queuing on. It's also like the first thing
+that comes up if you log into Amazon Prime and it's like their featured movies. The first one that's up
+is Sound of Freedom. I thought that was a little bit disturbing. Well, and that studio, Angel Studios,
+they've got 10 movies coming out this year. Wow. Ouch. Wow. Prolific amount of content.
+Ron Perlman is starring in one of them. I do one or two of those movies a day on the toilet.
+But lest we forget about video games, one of the crucial early battlegrounds of this culture war.
+Since Gamergate, the right has been complaining about the supposed pernicious influence of soy
+beta left-wing feminists in their game, surely creating a market for so-called uncucked right-wing
+game studios to swoop in and take their money. I'm so sorry, guys. You can't uncuck video games.
+Video game is the cuck. Cucks play video games like me. Like we play them to be cucked. You're watching
+someone do something cool and you think you're in control, but they're actually,
+they're going to come on your face. Where can I buy this game?
+That's the average game on Steam now, Liv. Don't pretend they aren't catering to you.
+Liv, you have to uncheck the right filters and then you'll see all of them.
+Liv in Milk Farm VR.
+Well, there hasn't been much of this, at least not at the level of something like Sound of Freedom.
+One gaming, quote unquote, studio, if you can call them that, that has swooped in to attempt to fill
+this market niche is Nordic Empire Games, who in May of 2022 released a game called Acquitted.
+Yeah, what if, what if the Ultima series was called Ultima Thule instead?
+You're trying to, you're trying to select the skin color of your character. There's only one option.
+Following its name, this game sees you leave a courthouse only to be surrounded by,
+quote unquote, brain dead zombies having to maneuver around a fairly small map,
+collecting different weapons to kill them. Oh, and also you're playing as Kyle Rittenhouse
+and all the zombies are leftist SJWs. Most of them appear to be leftist Black Lives Matter protesters.
+Some are holding Soviet banners, some Antifa flags, and some have pink or green hair.
+And your main character, Kyle Rittenhouse, is a plus four puffiness.
+I'm playing as the Michelin man in a schoolboy outfit. I'm incredibly uncucked.
+There are even special zombie types, like the transgender zombie, who is seemingly 12 feet tall,
+muscular, and wearing a dress and voice.
+Let's go.
+Write in if you fit this, uh, this terrible, terrible shape.
+Here's a preview of the game for the hosts.
+Okay.
+Did you want me to keep playing?
+No, you don't have to keep playing.
+Well, there's two more minutes. Come on.
+Oh.
+No, no, don't.
+It seems like, yeah, some people are carrying, um, like, hammer and sickle flags.
+Yeah.
+Because, yeah, yeah, because you see a ton of those at, uh, at any, at any kind of, uh, Rittenhouse
+protest.
+This is really putting the boys back in proud boys.
+All of the enemies have gray skin, so they, they can circumvent, you know, racism, I guess.
+And green blood.
+So, you know, it's T. It's rated T, uh, at the most.
+But honestly, this just looks like a, a worse version of Postal, which was the original,
+uh, freak out, the original freak out game.
+I remember when that came out.
+And it's weird because you could just play Postal and imagine that everybody you're killing
+is, you know, a lefty, uh, you know, SJW or whatever.
+But no, they had, their imaginations just aren't good enough.
+They need to see the pink, uh, the pink hats.
+They need to see the communist flags.
+They need to see the, uh, the dresses.
+No imagination here.
+But just, just imagine, like, your Doom Slayer guy is Kyle Rittenhouse.
+I mean, just the level of, like, depravity and cuckness that it would take to even imagine
+that.
+And, uh, and you think that, that you're awesome playing this.
+I mean, it's also, it's not 3D.
+It's like a top-down, uh, twin-stick shooter kind of vibe.
+So, Jake, uh, continuing his long tradition of, of comparing games that are not very similar.
+Oh, yeah, Postal's better produced than this game.
+Absolutely.
+Definitely.
+Definitely.
+Well, I guess Postal is more isometric.
+It's isometric?
+No, it's like a 3D game.
+No, no, no.
+Not the original.
+The, the, um...
+Oh, it's like GTA.
+It evolved.
+It evolved.
+It evolved into a first-person shooter, I believe, after Postal.
+I think Postal 2, they switched to more 3D graphics.
+But the original was...
+Take it back, man.
+...Sprites and isometric.
+Well, nearly a top-down, nearly a top-down game.
+Yeah.
+Yeah.
+But essentially, this game looks like it belongs on Miniclip in the late aughts.
+Yeah.
+As like a freely playable Flash game made for the browser.
+Yeah, totally.
+But oddly, it's none of those things.
+In fact, it's available on the Steam Marketplace for the low, low price of $10.
+Wow.
+That's a little bit high.
+I think this is a 499 game at tops.
+I believe it's eight pounds, too.
+Like, it's a pretty...
+As far as indie games go, I bought an indie game for that price where you play it for
+like 30 hours.
+Yeah.
+How expensive is Vampire Survivor, which is like the big breakout hit?
+I think that's probably in the $10 range.
+It might be more now that it's popular and it's gone to...
+You can get it on mainstream, on consoles.
+No, it came out for $299 in early access and then it changed to $499.
+So, no, you're incorrect.
+All right.
+I guess the communists don't care that much about making money, these damn wokesters.
+But if you want to pay to, instead of having a cool protagonist have Kyle Rittenhouse, then
+go ahead.
+Pay twice the amount of a good game.
+Despite this price, many a conservative seems to have loved it, as is evidenced by the overwhelmingly
+positive score the game has on Steam reviews and the numerous right-wing political influencers
+who spoke positively about the game and sent their fan base to go purchase it.
+So, it's like, what if we were doing Gamergate but now it costs $10?
+This is gentrification.
+This is the answer to Gamergate.
+This is the insanely good right-wing game.
+Yeah.
+They finally did it.
+They made the good art.
+This is insane because one of the only other games that I've seen that has an overwhelmingly
+positive review on Steam is like Baldur's Gate 3.
+Oh, yeah.
+Baldur!
+Yes, sir.
+Comments on the trailer for the game give a good preview into the general right-wing
+consensus behind it.
+Saw this on the quartering and had to buy it.
+Great fun.
+40% off on Steam till the 9th of May.
+Definitely worth four pounds of anybody's money.
+It is actually very fun regardless of any political thing associated to it.
+Love it.
+I want to work on my self-defense and this game seems like the perfect way to learn LMAO.
+Yeah, for sure.
+Yeah, no, this will teach you a lot.
+First of all, when you fight in the streets, you're top-down.
+Like, your view shifts.
+You have to press W-A-S-M-D.
+After you're killed and your spirit floats up above your body, you can then gain a top-down
+perspective to better defend yourself.
+Press L to be a British person who buys this type of game.
+To see what all the hype was about, I decided to shill out some of my hard-earned QAA bucks.
+Did you use Julian's credit card for this?
+We actually would have allowed you to use the company card for this, Liv.
+Importantly, I only played it for about one hour and 50 minutes, as Steam Policy allows
+for a game to be refunded if it's played for less than two hours and bought less than two
+weeks ago.
+Nice.
+And oh boy, will I tell you that that one hour and 50 minutes was very long.
+Opening the game, you're greeted with a super epic introduction to the lore, which reads,
+They tried to kill him.
+They tried to frame him.
+They failed.
+An innocent young man is returning home a hero, but evil never sleeps.
+And the nightmare repeats once more against the mobs of the brain dead.
+This, to me, is such a good example of having the worst heroes and people that are, in so
+many ways, the antithesis of brave or charismatic or heroic.
+And so they need to reframe reality as like, no, it's this guy.
+He's the universal soldier.
+Yeah, this big boy was acquitted by a judge.
+Like, even according to him, it was like, deeply traumatic and he was crying.
+Yeah, he was blubbering during the trial.
+Yeah, like, LeBron said he was like, fake crying that he had like, a sour candy in his
+mouth and like, right wing Twitter got so mad at him.
+Like, how dare you say that actually he wasn't afraid.
+But now they're like, no, no, no, you could kill a bunch of leftists.
+Yeah, he could easily do that.
+He's like, super Chad.
+This is a young man who, if his rifle jammed, like, would have just been another guy with
+like, a bruise.
+Yeah.
+Upon booting up the first level, you, Kyle Rittenhouse, step out of a courthouse and are
+spawned into a pretty small map that seems to be sectioned off by hordes of SJW zombies
+who slowly enter into it to attack.
+Which, again, doesn't really make sense at all.
+But I guess the zombies are touring with you?
+Seems like maybe the least creative excuse for having a small map I've seen from one
+of these early art flash games.
+Yeah.
+In Clown World, the Antifa and the communists like have set up an arena where young white
+men have to fight for their lives.
+Okay.
+You have to kite around this small arena with an AR-15, shooting a certain amount of zombies
+without dying.
+And I was surprised to learn that after this first level, you're not transported elsewhere.
+At the end of every round, it shows Rittenhouse re-entering the courthouse and the game
+reads,
+You survived.
+Go back to court for your next self-defense trial.
+So you've killed again and you need the justice system to once again clean your hands.
+Big boy hero.
+Wow.
+That's fucking amazing.
+That's so cool.
+Yeah.
+And then in the next level, you're plopped out in front of the same courthouse on the
+same map in a Sisyphean endless recurrence.
+Which seems like Rittenhouse is like nightmare.
+That seems like the thing he's going to do after he dies forever for eternity.
+Does it get more difficult with each level or different enemies?
+There is like maybe one or two enemies eventually, but it's really just the same enemies, just
+in more intensity.
+And then you get extra weapons.
+Like you get the like machine gun.
+The real Kyle Rittenhouse game would be a walking simulator where the judge gives you a big handshake and smile.
+Then you walk out and you have to make your way to Tucker Carlson's studio to do your interview.
+And this goes on for 100 levels.
+Oh my gosh.
+Awesome.
+Meaning this is just the least thought out like game in terms of lore you could possibly conceive of.
+Which is funny because that's the point of indie games is like, well, we can think about things.
+We don't have all the fancy like coding hours.
+Yeah, like you can use the like toolkits to kind of get the essential mechanics down.
+And then you can have your imagination kind of go wild from there in terms of like storytelling, what art you want to include.
+And then how you modify those different, you know, kind of cookie cutter, like twin stick shooter mechanics.
+But this is totally without imagination, of course.
+It's literally just what if we like pooped out the toolkit standard and then slapped some flags to make you feel like you're killing the bad people you are angry at because you watch too much television or YouTube videos.
+I didn't manage to get through all the 100 levels in less than two hours.
+But looking at gameplay of some sucker who did, they didn't even give you an end game animation.
+It just says the exact same thing, but you can't progress to a further level.
+Insane.
+Like they even think about someone actually playing this game.
+The game was made within the refund window for Steam.
+With all this in mind, the right wing reaction to the game is very, very funny.
+They're absolutely desperate for any game that has explicitly right wing politics.
+And they've broadly just pretended that this game is awesome.
+Here's an example of a tweet about it from fake journalist Andy No.
+There's some new Kyle Rittenhouse inspired video game on Steam called Acquitted where you fight zombie rioters.
+In 2020, there was a game released on Steam and Nintendo Switch called Tonight We Riot in which players controlled rioters who try to kill police and capitalists.
+Which that game is like actually well produced.
+Yeah.
+Like there's, it's, you know, it's clearly a real studio who cares about making a game.
+But again, basically all the reaction was just like kind of culture war stuff, especially on Twitter.
+Where it's like, we have our game now.
+The leftists are mad about it.
+And you can't criticize us because you guys released a game where you kill cops.
+Which is like every video game, basically.
+Yeah, I mean, it's really funny that they basically have to pretend that there's like an overwhelming force that you're fighting against.
+Because like these games thrive on the idea that there are endless waves of like some overwhelming kind of empire, right?
+A state enemy or some larger force that you're heroically fighting against.
+Like the police, like the military state or something.
+But in these guys' minds, it's like, well, there's actually some sort of arena controlled by SJWs in which we are constantly fighting for our lives.
+Which is, you know, it's so cool.
+Like they're doing the inversion that they see in everything else.
+The quartering also made a quote unquote review of it.
+Which ironically is mainly just him complaining that people on left Twitter don't like the game.
+And funnily enough, it seems like he didn't even really get around to playing it.
+And quote capitalists.
+His point here, obvious that, you know, I don't remember any outrage about that game.
+At least not from journalists.
+I haven't seen any potential outrage from that video game.
+But certainly people are losing their minds over this one.
+And I suppose you could argue that it might make sense.
+But I mean, I couldn't care less.
+And I could care so little knowing by basically the topic of this video.
+I'm really glad to have this video sponsor, Matt at PCs.
+Wow.
+I don't care about any of this.
+Oh, God.
+And this is a pathetic man child.
+Like all his little games lined up.
+His little figurines all around.
+And he's like, people online are angry.
+And I don't even care, though.
+I'm making a video about a thing I don't care about.
+Here's the product you should go buy to build your PC at home.
+So you can play the Kyle Rittenhouse game.
+Oh, my God.
+Also, is he completely forgetting that people were so mad about Grand Theft Auto that there
+was talk in the government about passing laws banning the game and all that stuff?
+It's like, no.
+He frames this as if like, in the leftist society, doesn't even care about games where you're
+killing police officers.
+And it's like, well, no, no, no.
+For years and years and years, that was like the only thing that people were talking about
+was violence in video games.
+And you're killing cops.
+And you're doing all this stuff to the point that it was being discussed at like a government
+level.
+Like, can you imagine?
+Can you imagine in the current climate, all these little babies watching a new GTA come
+out with just a black protagonist like has occurred in the past?
+They would make such a fucking freak out about it.
+And yet, when they fucking probably like played that game for the first time, they were like,
+this is so cool.
+And now they would make a big fuss because they're just they're performative like fuss
+makers.
+At this point, they are the pageantry of outrage.
+They accuse the libs of being.
+Yeah, that's very true.
+They basically ensured that they like just kind of can't enjoy games because of their
+culture war shit.
+And like, instead of enjoying games, they have to pretend that like this shitty game is like,
+oh, yeah, no, I've played all 100 levels.
+It was epic.
+Did anyone actually like comment on the gameplay or the graphics or anything like that in the
+reviews?
+There was a the clip of sticks and hammer is a good example of about how far it goes.
+Broadly, none of the positive reviews really dwelled on it.
+There's a couple of people who have negative reviews who have actually like clearly have
+some sort of standard where they're like, I love the politics of this because I'm evil,
+but this game sucks.
+Yes, there we go.
+That's ethics in game journalism.
+There's also important context to this that the game was removed from a digital games
+distribution platform called Fanatical, which is a bit smaller.
+It's a UK based thing because of outrage.
+And so that like spiraled a lot of the purchases because they're like, well, it's unfair because
+this game that isn't evil kind of looks like our evil, poorly created game.
+But also like the game is still there on Steam, which is like by far the largest game marketplace.
+Yeah.
+And which at this point, like half the games are like a pregnant Nazi takeover, the molesting
+game.
+And they're like, oh, man, we're just going to leave everything up now.
+Holocaust denier Stix and Hammer 666 also did a review of the game as he, to quote him,
+got a free Steam code for the game.
+And it's very funny to watch him pretend the game isn't a complete nothing as he has pretty
+much nothing to add about why the game is good other than culture war bullshit.
+This is the kind of game that people in my age range that remember the 2000s, especially
+online with the old Flash games, mainly which were, you know, structured like this, you'll
+probably like it.
+So other than the controls, which can be a little bit wonky, a really good game.
+And of course, it's really, really fun because it's meme worthy and everything like that.
+So just a quick review for that game.
+Link in the description and I'll pin it down below to it's on the Steam store.
+Yeah, it'd be worth checking out.
+It's a fun game.
+Lots of explosions and lots of meme worthy content.
+Again, you've got every permutation of like the violent leftoid rioter meme that you can
+have.
+Pink haired freaks, brainless zombies, people waving the commie flag, people that are throwing
+bottles of, uh, of, uh, gas and shit around.
+It's really fun.
+It's also reasonably hard with each wave.
+You're going to get more and more enemies and they get more and more vicious.
+And, uh, yeah.
+Yeah.
+Probably in the first few playthroughs, unless you're a real hardcore gamer, you know, you've
+literally got a hamster tube with Mountain Dew in it and shit like that.
+Uh, probably get slaughtered a few times.
+I know that I did as well.
+Because I had COVID, I played this like in-app TikTok game called Crazy Parking.
+There were 31 editions.
+They're all little filters.
+You just have to press a button and the thing like parks at a certain amount of time.
+You have to like time a thing and it'll like, a car will park.
+And it was substantially harder than this game.
+The in-app native TikTok little meme game.
+Gen Z is dealing with their main fear, parallel parking.
+Yeah.
+Yeah.
+This sticks video is like the, like the right wing equivalent of when you scroll, you know,
+after you've scrolled through like three videos on TikTok or whatever, and a video comes up
+of like some guy in his living room and he's like, my girlfriend and I have been, have been playing
+this really incredible game called Royal Match.
+Now, what you gotta do is you gotta get the king and you see the king and you gotta get him all the
+way through the maze of the princess and we're having a really good time with it.
+Royal Match, click the link below and you could get, it's like, it's the same, it's the same thing
+but sadder because nobody's, he's not making, you know, money from the developer to do this
+little commercial.
+Maybe he is, who knows?
+The whole point of like Gamergate was that they stopped making good games and instead they were
+just putting like politics into games, which is exactly what he's saying.
+He's like, it's meme worthy.
+Okay, well, can you discuss it in the context of other twin stick shooters?
+Like there are so many good ones.
+The only context he brings is that it's like the shitty, like early aughts flash games, which
+again, were free.
+And there are so many better like twin stick, early aught flash inspired style games that,
+yeah, you can infuse your own politics in it.
+That's the best part about a video game is that you as the player can supply, you know,
+whatever backstory you want.
+I mean, a lot of people love that about video games when they're creating their character or
+whatever.
+So this idea that it's more enjoyable because it requires no imagination.
+You are a right wing, a right wing supposed hero.
+You are mowing down the people whose politics or lifestyles you hate.
+You know, it's, it's so, oh, it's just so boring.
+That's so awesome though.
+It's like, what if Gordon Freeman was like a ruddy cheeked school boy?
+What if, what if Gordon Freeman was like me?
+It's also like, just made me remember, like you use WASD to move around and it's incredibly
+clunky.
+Like they haven't gotten the WASD movement.
+Like, you know, you can move parallel or whatever by pressing two of them down properly.
+So your character will like move in really weird directions sometimes and you can't remap
+anything.
+They didn't bother putting in like remapping for, it's just such a lazy, it's worse than
+those games.
+Yeah, folks, uh, I recommend depression quest instead.
+A comment on the video seems to summarize the appeal of the game best when it says,
+this is hysterical.
+The best part?
+It triggers the left.
+Hashtag priceless.
+Awesome.
+It even says it's triggers the left.
+Heading over to the steam reviews of the game.
+So people who have actually played it and it tells a similar story.
+While it's overwhelmingly positive reviews, I believe it was like 720 positive and like
+20 negative.
+Almost all of them exclusively mentioned the politics of the game.
+Steam reviews also broadcast the amount of hours played for the reviewer.
+And as it turns out, most of these guys have played the game for less than me.
+For a brief sample size of the eight most acclaimed positive reviews for the game on
+its main page, six of them have not played the game for even an hour.
+As an example, one user who has 0.4 hours on record and only 0.1 at the time of review
+writes,
+At first I felt bad for the zombies, but then I realized that we're dealing with a clear
+case of self-defense.
+It's their fault for not respecting the rule of law.
+Besides, after I did some research, I was quite shocked by how many of the zombies are
+actually pedos and domestic abusers.
+10 out of 10.
+High replay value.
+Poignant social commentary.
+Oh my god.
+Poignant.
+You wasted $10.
+Like, hell, you just got, oh, like you got fucked by some idiot who didn't make a good
+game.
+For 20 minutes of gameplay.
+Yeah.
+Also, in the short paragraph of this review, it mirrors the, like, real-time cognitive dissonance
+that one might have, like, watching the event that this is based on, which is, at first I
+felt bad for the zombies, but then I watched Tucker Carlson for two hours and I realized
+that all the zombies I was killing was in self-defense.
+Heading into the few negative reviews of the game tells a different story.
+One user, who has 1.2 hours on record, and presumably could refund the game, I hope they
+did, writes,
+While I was personally very happy to see Kyle Rittenhouse walk free, I can't exactly recommend
+this game.
+Fairly ugly textures and insanely repetitive gameplay, which includes absolutely awful mechanics.
+Hardly any of the limited weapons you get are actually useful.
+Switching between them is awful as there are multiple weapons on each button and cycling
+them takes ages, seemingly longer than just reloading.
+While this may be somewhat enjoyable for a while, it is in no way, shape, or form worth
+8 euros.
+So this is essentially a perfectly executed scam by some indie dev team taking advantage
+of the fact that conservatives will eat up literally any garbage that appeals to their
+politics.
+But who's behind this Nordic Empire game studio that produced it?
+As Josh Walker writes for Kotaku,
+One third of the Swedish team is William Hahn.
+Once the press secretary for far-right political party, the Swedish Democrats Youth League.
+The Swedish Democrats are a nationalist and populist party founded from the remains of
+various fascist and white nationalist groups of the 1980s.
+Like many such groups worldwide, they've distanced themselves from these origins while remaining
+overwhelmingly anti-immigration.
+And, well, Swedish broadcasters ruled that it's cool to call them xenophobic.
+Hahn himself, in 2010, was thrown out of a Nordic council meeting in Iceland after racially
+abusing a bartender.
+Then, in 2015, Hahn was expelled from the Swedish Democrats after the party found its
+way to some election success and began clearing house of its more extremist elements.
+Hahn was alleged to have been collaborating with far-right parties, according to Sperry's
+radio.
+So he instead formed a new party, firmly to the right of Swedish Democrats, called Alternative
+for Sweden.
+Of course, a reference to Alternative for Germany, the very right-wing German party.
+So the game was essentially constructed by a Swedish guy who was so racist, he was too
+racist for the racist party.
+Awesome.
+This new extra racist party that Hahn helped found argues for, among other things, the
+forced expulsion of one million immigrants in Sweden and complete withdrawal from the
+EU.
+But Hahn's political tenure was not meant to last, when in 2020, at the start of the pandemic,
+he got in a controversy for buying surgical masks and selling them for a markup.
+As he stated in his resignation statement for the new party that he founded,
+While I understand that the party does not benefit from mixing with my private company,
+I maintain that no one would have been better off in a scenario where I had not imported these
+scarce goods to Sweden.
+Quite the opposite.
+It's basic economics.
+Basic economics.
+Oh my god.
+Which I'm sure at the making of this game, also very basic economics.
+So it appears that acquitted was one of probably many scams that Hahn ran to make some quick
+bucks.
+And I will give him credit, insurvise with this game, unlike the mask thing, he seems
+to have pulled it off pretty well, appealing to the American right in the exact way he
+needed to ensure they'd spend money on his video game equivalent of snake oil.
+In an interview for ISNIC24, a far-right media org that contextualized him as a Sweden-friendly
+entrepreneur, he said,
+In the game development industry, almost all major game companies have some form of political
+correctness in them.
+But a very large percentage of players do not.
+There is a huge discrepancy.
+It's just, it's Gamergate Sweden, I guess.
+That's because most gamers don't, I mean, I think most normal humans wouldn't just go
+to games for their politics.
+I mean, I don't like play Diablo because I think I'm actually like fighting the forces
+of evil.
+I do.
+I actually, I play Diablo because I'm Catholic.
+Yes.
+He would also explicitly attempt to get far-right influencers on board with the game so more
+people could buy his slop.
+Here he is tweeting at Swedish Nazi and Minecraft founder Notch.
+Hey Notch, smiley face.
+What do you think of my game?
+Notch writes,
+Looks pretty solid to me.
+The graphics are a bit rough, but that's never been a problem for me.
+I play Vampire Survivors for crying out loud.
+Also, don't worry about the graphics.
+It's on the level where you can tell it's an early project by someone who puts in a lot
+of effort.
+Like I mentioned, it's not a barrier to most people, as long as there's a fun game there.
+Just wanted to offer some professional critique, smiley face.
+Which is like, because he knows he can't say it's like shit.
+Yeah.
+But he's like, yeah, this is a great start for your thing.
+Yes.
+Did he tweet at Kyle Rittenhouse?
+Do you know?
+Oh, I don't think, I think he tweeted a bunch of people, but I don't think Rittenhouse responded.
+I wonder how Kyle Rittenhouse would feel.
+Having the murder of two people on your conscience, regardless what the court fucking tells you.
+Late at night, I guarantee you, Kyle Rittenhouse is thinking about murdering those people.
+Remorseful or not, I don't know.
+But, you know, and then to see a game that is glorifying this, and it shows you mowing
+down tons of people.
+I wonder what he would think.
+I wonder if it's something that would disturb him.
+Or if it's another thing where he goes, yeah, that's right, I'm cool.
+I did a good thing, actually.
+And hey, I was just, you know, hey, I'm actually not a bad guy.
+I did look, and there's one reply from at Nordic Games to a Rittenhouse thing, to Rittenhouse
+tweet where he says, if only someone made that game.
+Oh, wait, and it's a link to it, the game, and it has five likes.
+So I don't think Rittenhouse saw it.
+Okay.
+Not enough clout.
+But of course, this isn't a pure grift, insofar as Han really does seem to be obsessed with
+American politics.
+There's a tweet from him in 2016, posting with a very poorly fitted MAGA hat, for instance.
+It's like a train conductor's hat.
+Oh, I don't know if I've ever seen such a poorly fitted hat.
+The rest of his timeline is basically just him retweeting his similarly far-right Swedish
+wife.
+He's very much so like a wife guy.
+And boosting posts arguing for the great replacement theory.
+I don't know.
+I think this hat might be photoshopped on.
+Look at how...
+It's like shit, brother.
+Look at the difference in size it is to the one that's on the guy to the left of him.
+It looks ridiculous.
+And the color is a little...
+Hold on.
+Wait a minute.
+Is it photoshopped?
+I don't know.
+I mean, it might be.
+It might not be.
+Are MAGA hats adjustable?
+Surely they are.
+Like you said, isn't just that big.
+I think train conductor is very appropriate here.
+There's something about me and big MAGA hats, poorly fitted, that it just tickles me in such
+a way.
+And adding to the fact the lure that they might not be adjustable is also really funny.
+I think it's photoshopped.
+I think that he felt like, eh, I want to be in the hat too.
+He actually photoshopped everything.
+His friend, the champagne.
+The champagne bottle in their hand.
+It was really, it was really Sunny D originally.
+Well, Han doesn't seem to be the smartest businessman or politician.
+For the online American right, that doesn't really matter.
+If you make slop for them, they'll eat it up.
+Even if this slop is an indie game.
+Which I found quite revealing, as it doesn't take many resources to make one of those.
+Just notch, like, drinking vomit out of a boot and being like, yum.
+The argument from GamerGators that the gaming industry and all its funds go to SJW left-wingers
+so they can't actually make good games just doesn't apply here.
+And yet still, the main politically charged games to come out of this culture war are poorly
+made grifts like this one.
+Wow.
+Well, that's a game that I will be delisting from my wish list.
+Boo.
+I didn't know that about Han.
+I will be unfollowing right now.
+I came here to add commas and stab people.
+And I'm all out of commas.
+Joseph Cantrell.
+Alright, so this is a warning for the listeners to brace themselves for a descent into a deeply
+disturbed psyche that led to some real-world violence.
+This underreported story took place less than a year ago, on the 23rd of February, 2023.
+It was 5.30pm, and a Microsoft employee, we'll pseudonymously call him David, was just
+leaving work for the evening.
+He stepped out into a dark and drizzly Redmond night, looking forward to unwinding with his
+wife for the rest of the evening.
+In a stroke of bad luck, he missed the walk signal at the corner of 156th Ave Northeast and Northeast
+28th Street, just south of Microsoft Building No. 27.
+As he waited for the light to change, he heard a man shouting in the distance.
+As the shouting grew closer, it sounded more like unhinged ranting and raving.
+He tried to ignore it and mind his own business, but out of the corner of his eye, he saw the
+stranger walking briskly towards him.
+Before David could face him, he felt a rapid succession of searing pains in the right side
+of his neck, head, and torso.
+He was being stabbed.
+He fell backwards, hard onto the pavement.
+The stranger continued to stab and stab as David instinctively tried to shield himself
+with his feet and hands.
+A witness said David's scream sounded like a dying animal.
+A truck driver who was stopped at the intersection said he saw the stranger stabbing the shit out
+of David.
+He and another driver jumped out of their vehicles and yelled at the stranger to stop.
+This was enough to scare him off, sending him running down the street.
+The whole incident lasted only 10 seconds.
+First responders arrived quickly.
+David had been stabbed 12 times, and there was blood everywhere.
+Surprisingly, he was still conscious and was able to describe his attacker to the police
+before being rushed to the hospital.
+He said it was a white male, 5'9", in his mid to late 20s, dressed in a dark hoodie and
+black pants.
+The man was a total stranger.
+Around this moment, David's wife received a notification on her phone.
+It was an automated alert sent from David's Apple Watch, letting her know he had just taken
+a hard fall.
+She tried to call, but there was no answer.
+To add to the oddness, it said his location was in Seattle, not Redmond, which was the
+location of the hospital they drove him to.
+He was admitted in critical condition, with a fractured skull, brain bleed, nerve damage
+in his hands, and other injuries.
+It wasn't hard for police to find the attacker.
+A literal trail of blood led them to his nearby apartment, where he'd barricaded himself in.
+After breaking down the door, they found him trying to trash the evidence, namely, a knife
+and gloves covered in blood.
+He was identified as 26-year-old Joseph Cantrell, and he was also a Microsoft employee.
+He was charged with one count of attempted second-degree murder and one count of first-degree
+assault.
+Sup, mate?
+Surprisingly, the story was just a blip in the headlines.
+This may partly be on account of Microsoft scrubbing all references of Cantrell from Bing
+and DuckDuckGo News at the time.
+And I checked, and it's still like there's a search filter on it, on Bing and DuckDuckGo.
+Even if you type, like Joseph Cantrell, Microsoft murder, these results will come up, you'll
+see there.
+But on like every other search engine, it shows up.
+I guess an employee stabbing a fellow coworker wasn't a good look for the company.
+I was about to find out other reasons they may have wanted to keep this out of the news.
+After seeing a few of the local news stories, my curiosity got the best of me.
+Who was Joseph Cantrell really?
+And what were his motives for such a gruesome surprise attack?
+Then I found his website, and things were about to get a lot stranger.
+The now offline site opened with his bio.
+Sup, world?
+I'm Joseph Richard Cantrell, a currently calculated 27.79957357-year-old straight white male programmer
+with a passion for flashlighting the electron torch of mutual prosperity.
+I am merely an extraordinary man and nothing more.
+My evolved cells, their DNA, and everything else in my body have their roots in my family.
+To get here, my grandmother emigrated from Germany to the USA during Adolf Hitler's
+bolstering of Nazi Germany in the 1930s.
+Uh oh.
+After marrying my grandfather, she gave birth to my late mother, Patricia Ann Cantrell.
+I only remember seeing my alleged father less than 10 times total, but my mother was always
+there for me.
+It's also kind of insane, like, yeah, my family left during the really good period that
+I like.
+It goes on to reveal he was prescribed Adderall for ADHD at age 5, and had been on it for most
+of his life since.
+He grew up with his mother in Columbus, Ohio, before attending Georgia Tech, where he graduated
+with a bachelor's in computer science.
+From here, the bio shifts into hyper-detailed quantifying of his life, with tidbits like,
+I have spent 84 days of my life playing Modern Warfare 2, and 50 days playing Borderlands 2
+on Xbox 360.
+At age 11, I once wrote 90,000 words of a novel called Krelzor's Quest, similar to Pokemon
+Mystery Dungeon, Blue Rescue Team.
+I once ate a luxury dessert of a baker's dozen original glazed Krispy Kreme donuts in one sitting.
+I hate Star Wars, high school musical, college football, and the show Friends.
+Okay.
+All right.
+After a long and highly technical musing on the nature of space-time in the universe,
+he ends with a tract about his ADHD, as well as hinting at his mother's substance abuse
+during her pregnancy.
+My various neurotransmitter release rates decelerate over time due to a prenatal genetic alteration
+by alcohol and tobacco.
+But in my neural disturbances, I've danced and conversed with processions of rainbow ghost
+women to keep me company through the occasional derivative Misty Night.
+From age 5 to age 26, I called this attention deficit hyperactive disorder, ADHD.
+Now, I've grown to call this part of myself neurodeceleration disorder, NDD.
+Okay.
+Yeah, so kind of a crank we got here?
+Yeah.
+Elsewhere on his site, he exhaustively lists his favorite video games, which include Borderlands
+2, Bioshock Infinite, and Kirby's Adventure.
+TV shows, which is mostly anime with Death Note at the top, but also South Park, Futurama,
+Family Guy, King of the Hill, and Scooby-Doo.
+Favorite movies are Texas Chainsaw Massacre 2, Friday the 13th 6, Halloween 4, Nightmare on
+Elm Street 4, Garfield, A Tale of Two Kitties.
+Ha ha ha ha ha ha!
+Ha ha ha ha!
+And Scooby-Doo on Zombie Island, and so he's a big sequel fan.
+Wow.
+Yeah, the most fascist part about this guy so far, the Nazi thing, the second most fascist
+thing is the sequel of.
+I don't like that.
+Yeah, something's wrong there.
+His favorite novels include the Harry Potter series, The Stranger by Camus, and Huxley's
+Brave New World.
+Okay, so two books he was assigned in high school and then all of Harry Potter.
+You may be asking what this story is doing in an episode on pilled game developers.
+Besides being an avid gamer, Joseph was also a DIY game designer.
+On the game section of his site, nestled among some innocuous shooters and platformers,
+were a few more questionable titles that opened the window to his psyche.
+I'll start with the worst one first, just to get it over with.
+It's titled Anne Frank Simulator.
+Okay.
+Oh boy.
+This is his description.
+This parodic game entails Anne Frank dodging the Holocaust and collecting points along the way.
+What?
+I hate this.
+In a single night, I created this to reach the limits of American free speech.
+Anne Frank, although controversial, I reiterate this game was made in good fun akin to the likes of Robot Chicken.
+What?
+Basically doing the like, like racism, turning the racism knob as I look back at you.
+How about this?
+Also, Anne Frank isn't controversial.
+It's like a horrible tragedy.
+Like there's nothing controversial about it.
+I think it's more like it's controversial that I would make this game is what he means.
+Because then he says, I reiterate this game was made in good fun.
+I think maybe he forgot to delete Anne Frank in that sentence.
+Like it starts the A as a capital.
+So although controversial, I reiterate this game is made in good fun.
+Yes.
+Yeah.
+And so this was the only game, thankfully, that you couldn't play.
+But apparently you could put Anne in a microwave oven.
+Oh.
+Come on.
+Yeah.
+Jesus Christ.
+So this is a sick, sick, sick guy.
+Yeah.
+I thought you played as Anne.
+What the?
+She was dodging microwaves, I think.
+Oh, God.
+Yeah.
+Oh.
+Next was a game called Prophet Launcher.
+That's P-R-O-P-H-E-T.
+And here's the description.
+Aim to offend yet test devotion to the pillars of humanity's most sacred in this endless speedy 2D shooter parody.
+As the final prophet of this world, annex the souls of the endless legion of old prophets and use them to enhance your own power.
+Begin with the first prophet Jesus, the crossed man sent to destroy your Old Testament to faith and die for your sins.
+I don't think that was the first prophet.
+Like famously within the canon of that religion.
+Not the first one.
+So here's some gameplay where you play as either a male Columbine styled shooter or a big breasted woman.
+Shooting up Jesus, Mohammed, who's really just Osama bin Laden with a suicide bomb.
+The Star of David, Buddha, Hitler.
+Oh.
+And what I can only describe.
+Wait a second.
+This way.
+Okay, go ahead.
+What I can only describe as a pagan marijuana wizard.
+Okay, so Hitler is listed among the prophets.
+That is a big, big, big red flag.
+Yes.
+That is just the taxonomy here is incredibly worrying.
+Oh.
+Maybe.
+That's.
+Looks like absolute shit.
+Oh, yeah, it is a marijuana wizard.
+There's Hitler.
+There's Hitler.
+And the Ku Klux Klan.
+And Trump.
+Okay, another prophet.
+KKK, guys.
+All right.
+Okay.
+So that's prophet.
+Oh, my Lord.
+My game was better than this one.
+This one, it's a real piece of shit.
+Looks like shit.
+Yeah.
+Yeah.
+Yeah.
+And it's totally, I mean, it really is a window into a very disturbed brain.
+I mean, they're floating stars of David.
+That's like an, I guess that's like a mob, a mob of Magandavids.
+Hitler is the biggest enemy, by the way.
+I did note that Hitler was the biggest and the only one smiling.
+Jesus Christ.
+So next and most apropos to this episode is a crude looking game called Untrumpable, where
+you play as Donald Trump dodging fake news and collecting truth.
+You control Trump's face flying around the screen, frantically dodging the CNN logo, a
+missile with Kim Jong Un's face, the Twitter bird and a USPS van branded with Biden and Xi's
+face on it, all while collecting falling diamonds and money.
+And here's some gameplay.
+Oh, this looks so bad.
+Oh, my gosh.
+Why is CNN inverted?
+This looks really bad.
+Yeah, this is mental illness programmed.
+Yeah.
+The last one is a bit more interesting.
+It's a first-person 3D exploration game called For My Aspect, which he describes as a loose
+metaphor for his ADHD.
+The rest of the description reads,
+Awaken high atop a lodge on fluorescent mountain during an excursion to Alaska.
+Play through the eyes of Sipione Mattella, a rich, novice novelist searching to regain his
+sense of surroundings.
+Sipione brought a PC, a cat, a flashlight, and some rations to travel light.
+Experience beautiful Alaskan vistas and slay your personal demons.
+And here's the clip.
+He's signing his games like a Joseph Cantrell game.
+Okay, this is 3D.
+Yeah.
+It's an evolution.
+This is supposed to be one of those horror games where you're stuck.
+Loves that.
+We'll have scrims.
+This is weird.
+Poorly rendered unity water.
+Yeah.
+But at least, you know, he's trying and it sounds like he's putting some narrative to it.
+It's not overtly, horribly political or racist.
+But at this point, I just wanted to check in with the three of you and just get your
+impressions of Joseph so far going by his website and the games.
+Watch list.
+Yeah.
+Yeah.
+Yeah.
+Yeah.
+I mean, I'm surprised somebody who is this clearly disturbed in both the writing on the
+website and the portfolio, if you will.
+I'm a little surprised that he was able to get a job working at Microsoft.
+I mean, maybe I'm wrong.
+Maybe, you know.
+Gates, huge fan of the games.
+Well, also, he did.
+He applied in their neurodiversity program.
+So I think they're willing to kind of brush aside some of the idiosyncrasies.
+Yeah.
+The Anne Frank thing.
+He has ADHD.
+Like, yes.
+Yeah.
+Pretty much, folks.
+So that was on his website when he was hired.
+He has a learning disability.
+He read that book and thought it was a comedy.
+Yeah.
+So, like, I think it's all like disturbing stuff.
+But so far, it wasn't screaming murderer to me yet.
+But as I was browsing the site of the attempted murderer, I felt like pretty eerie and haunting
+to me.
+Like, I shouldn't.
+I just shouldn't even be on his website.
+Yeah.
+Yeah.
+Especially because he covered his life just in such candid and vulnerable minutia.
+But so far, this was actually just a trickle of info about Joseph.
+And the flood was about to come.
+And it's about to get unfathomably darker.
+There was a hidden link to a text file on his site posted the day before the crime.
+The file is a 234,000-word or 1,000-page life journal.
+The first paragraph reads,
+This was originally a document detailing my drug use and my thoughts on or during their
+effects, like the dream journal my mom bought me when I was a kid.
+However, it is now my overall life journal and literary practice.
+It should be freely and posthumously published to help humanity or whatever.
+I'm sure it will help someone in the future, given the challenges I face with abnormal
+genetics of decelerating neuron firing rates.
+So the first 20 pages detail every single substance he's experimented with, starting
+from 19 years old.
+Some are the familiar suspects like amphetamines, LSD, mushrooms, cocaine, MDMA, meth, and heroin.
+But the amount of obscure research chemicals he lists next made my heart start racing.
+This is just a partial sampling.
+25I-NBOME.
+2CT2.
+2CE.
+5-MEOMIPT.
+DOM.
+DOC.
+2-5BNBOH.
+3-MEOPCP.
+I recognize that one.
+Okay.
+DCKOPCE.
+3-HOPCP.
+2-F-DCK.
+I think that's just like an acronym you put in your fields profile.
+TMA2.
+It stands for two foot dick.
+ETHLAD.
+2FMA.
+4ACODMT.
+And the last 3FLPCP.
+And that was just, you know, maybe a third of the things that he listed.
+And most I have not heard of.
+I just feel like it's my Manchurian candidate activation code or something.
+Yeah.
+Of all the substances, amphetamine sulfate, a.k.a. Adderall, was his true love.
+Glowingly described by him as,
+This is the gold standard and my ticket to life with neural deceleration disorder.
+Rainbow women and even a white light and full body orgasm at high doses.
+Rainbow women.
+I was with you as I have ADHD.
+I was with you for a while there.
+But.
+Well, the whole point is you're not overdosing on it.
+If you're like using it as a treatment.
+He disliked meth the most, saying.
+This drug feels like a dirty poison flowing through one's veins, like alcohol's bodily feelings.
+The roads here all lead to the dominion of Adolf Hitler, his wife, and his Nazi regime of no remorse.
+Huh.
+I think his relationship with Hitler and the Nazis was complicated.
+Right.
+And because I guess they were like just on meth a lot.
+Yeah.
+Exactly.
+Right.
+I see.
+So he's like, he's like, if only they didn't do meth, I would love them.
+He liked to use LSD and DMT to enhance his weightlifting, claiming they made him able to lift twice as much weight, which I hadn't heard before.
+Yeah.
+I don't like to go to the gym after like smoking weed.
+You know what I mean?
+That's crazy.
+And then DMT at the gym.
+He similarly lists his favorite snacks, Reese's Pieces and peanut butter cups, sour Skittles, Krispy Kreme, hot dogs, his favorite restaurants, Golden Corral.
+Whing nuts, McDonald's, IHOP.
+Julian, don't say it.
+What's that?
+That he and I share one thing in common, a couple things in common.
+I don't know.
+I ordered a couple of McDonald's burgers last night to usher in the new year.
+He also lists his workouts and supplements and the 10 different tricks he taught his dog Breezy to do.
+And there's his dog who seemed very cute.
+After the exhaustive lists, the Life Journal chapter begins with this entry.
+February 1995.
+My mom, Patricia Cantrell, and alleged dad, Bonnell Love, have sex in a motel room conceiving me.
+And then follows with the stark and vulnerable admission that his mom drank and smoked heavily while pregnant with him,
+and that his father was estranged from them even before Joseph's birth.
+He writes of his mother's alcoholism, which led to her license getting suspended after causing an accident while drunk driving.
+Without a car, she lost her job at the Piggly Wiggly and wouldn't find another job for 10 years.
+As a result, they'd go for months at a time without electricity at home.
+When she finally got a new job, the lights came back on.
+She told Joseph that this was his birthday present that year.
+This poverty also meant she couldn't afford proper treatment when she got cancer.
+She died at 54.
+The more recent the journal entries become, the more bizarre they get.
+He talks about getting a kick out of dressing up as Hitler for Halloween.
+He details how he jerks off for hours at a time.
+There are about 100 references to his STDs.
+Oh.
+This is very, that was very important.
+So he's a gooner.
+Yes, yes.
+He's a gooner.
+Okay, okay.
+Yeah, hours at a time.
+But not just a gooner if he's getting a bunch of STDs.
+At the same time, yeah.
+And as his amphetamine use becomes more extreme, paranoid delusions start to take hold in his mind.
+July 2022.
+These past two years, it's felt like an enemy has sat outside my door the entire time I've been in these two motels.
+I want to learn guitar, but my thoughts instantly turn to the swarm of enemies I picture on the other side of both walls and standing outside my door.
+I do believe I'm becoming more paranoid.
+He thinks that movies are making direct references to his life.
+Even movies made before he was born, like Scarface.
+He was terrified of Jews, black, and brown people.
+And especially Indian immigrants.
+He journals about team meetings at Microsoft where he said disparaging things about his Indian colleagues.
+Yet still, Microsoft kept him employed, even after seeing the game section on his website.
+He was a believer of the replacement theory.
+Woven into these fears were an insistence that members of these groups were gang-stalking him.
+For example.
+The black and Latino gangs intend to screw me out of my money with deceitful corporate practices like tampered vending machines and IT departments dedicated to programmatically and periodically severing my internet connection.
+They also want to screw you out of my time by pointing you in the wrong direction in stores.
+They also want to goad me into being sued, jailed, or killed because my pain is only a pawn for their amusement.
+Who is you in this?
+Yeah.
+Yeah, I think he meant to say that in general, like these gangs are misdirecting people like in the pharmacy when they ask for directions like, where's the nose spray?
+And they'll send them to the wrong aisle as part of the gang-stalking.
+Oh, man.
+This is like amphetamine psychosis.
+Yep, yep.
+And a lot of other stuff.
+Yep.
+He became convinced these black and Latino gangs wanted to give him and other people with ADHD, STDs, and COVID-19, as well as hitting them with cars and telling him mean things in passing like,
+You're crazy.
+You're a crazy person.
+You're a violent person.
+There were hundreds and hundreds of pages more, but I couldn't subject myself or you to any more of this.
+I decided to jump to the end, to the days leading up to the attack.
+On February 15th, 2023, he wrote,
+And a few days later,
+And finally, on the afternoon of the attack, he wrote,
+An hour later, he left his apartment and stabbed a stranger to the brink of death.
+So that's the story of game developer Joseph Cantrell.
+And I was like asking myself afterwards, like, is this a cautionary tale?
+You know, like, I'd like to think that if Joseph or someone in a similar situation, like, could they get some kind of help to stop them from going this deep?
+Or at least not be as isolated as like a first step?
+Or was the deck just totally stacked against him too early from, like, substance abuse from his mom while he's in the womb?
+Adderall from age five when his brain's still developing?
+Like a broken home?
+The experimental drug use?
+Like, what do you guys think?
+Well, it also seems to me, you know, based on his writings, that the introduction of right-wing political talking points sort of helped to shape some of his paranoia.
+Paranoia, you know, it's clear, I mean, with the Trump game and dodging fake news and the conspiracies about the government and, you know, immigrants and that sort of thing.
+It seemed like he found enemies and sort of people to turn his paranoia and delusions and anger towards.
+But, yeah, I mean, it sounds like somebody who didn't really have any sort of parental figures, who was isolated, who didn't really have anybody saying, hey, I'm worried about you.
+Hey, you know, I've noticed these things.
+I mean, it sounds like, you know, if his writing is to be believed, that, you know, he had some kind of argument with his cousin who basically, you know, called him an asshole.
+And, you know, I think that that could be true.
+I think that, you know, the lack of education about mental health and the sort of understanding that people might be going through something chemical, you know, leads to some of that behavior just being seen.
+Oh, man, you're a dick.
+That guy's an asshole.
+You know, which was obviously not the right, you know, it didn't help, certainly.
+And, yeah, I mean, it's a really sort of shocking and sad story.
+I'm really happy that the person who he attacked survived.
+And did he face any kind of legal repercussions?
+Was he?
+So the trial was supposed to happen back in April and there's been no news about it.
+So I think it's just been delayed and Joseph is, like, still in prison.
+Well, I sincerely hope that instead of being in prison, that at the very least he can maybe get to some kind of medical facility and work with, you know, work with people who can maybe help ease some of his symptoms.
+Because this, at least, you know, from my perspective, this doesn't sound like somebody who is a hardcore criminal, you know, who's just went on a murder spree.
+You know, this sounds like somebody who is deeply, deeply sick.
+Yeah, psychotic break.
+Yeah, and keep him away from all the acronym drugs.
+Like, we don't need this guy to have more weird chemicals in his brain.
+And also, we don't need Brad to ever write any part of any episode ever again.
+Happy 2024.
+Just an insanely grim story with, like, no outs.
+Like, everything I could say is just, like, it just everything feels bad.
+This is what happens when I'm not writing about paranormal stuff.
+You got to keep me busy.
+Yeah, yeah, you're writing about a different kind of demon, a very real one.
+This year we're manifesting a better Brad and a better you.
+Okay.
+It's interesting to me that he mentions vending machines in his sort of manifesto, if you will, because I have some personal experiences of working...
+What?
+...at a very large gaming developer or publisher.
+Oh, you mean...
+No, I think I signed an NDA when I worked there, so we're going to have to beep whatever Julian just said out.
+Oh, you're going to have to beep the word...
+Yeah, and we're going to have to beep it again.
+We're going to have to beep it again there.
+It's been a really long time.
+I mean, it's been a decade or so since I worked there.
+Wait, did Julian say...
+We're going to have to beep that out again when Brad said it.
+Sorry.
+I just didn't hear him.
+No, wait.
+So what was the company?
+It was called...
+I think you said...
+Look, all right.
+And now all three have been beeped.
+I guess I'll just say it for good measure.
+Don't beep those ones.
+No, you're going to beep all three of those as well.
+But let's just say this.
+It is a huge developer.
+They release a game every year that is very popular, and it's a shooting game.
+Now, that's vague enough, so I can't get in trouble.
+But I was a quality assurance tester there for years, and I was on the night team.
+So there were two shifts, right?
+There was a group of testers who came in from 8.30 to 5.30 p.m. in the evening, and then
+there was a second group who went from 5.30 p.m. till 2 in the morning.
+And for me, I had chosen the night shift because I was still trying to act at the time, and I
+figured that if my job was primarily at night, if I had an audition or something that came
+up, I could do it during the day.
+Now, this actually was horrible because what would happen is, you know, you get home from
+work, and you want a couple hours to sort of unwind from the workday.
+This is normal for everybody.
+But I was getting home at 2 in the morning or 2.30 after commuting.
+And so then I would stay up till 5 or 6, kind of unwinding, and then sleep till about
+4 p.m. the next day and wake up and go to work.
+And it was a very, very bad time in my life, despite that the job was pretty fun.
+But I witnessed wild things there.
+And one of the things was, is that there was a constant battle over the vending machines.
+Now, in the basement of the facility, they had vending machines on essentially free play,
+meaning that you could walk up to a vending machine, put no money in it, hit a button,
+and a soda would come out.
+Now, for a bunch of gamers, ranging from, I would say, the majority of people there
+were, you know, probably 18 to mid-30s, most of the people.
+One of my team leaders was a 19-year-old kid who happened to be a whiz at the music rhythm
+game that we were testing.
+And he was a team leader because of this.
+He was, you know, a prodigy, so to speak.
+Damn, it sounds like you're talking about c*** over at a**.
+C***.
+That's two bleeps right there.
+But so the thing was, the most popular drink in the vending machine was brisk iced tea.
+For whatever reason, this was the most popular soda that could be vended.
+And as a result, would not sell out, but it would deplete the quickest.
+It's crazy that this story ends in a stabbing.
+Say that again?
+What did you say?
+Nothing.
+Did you say, does this story end in a stabbing?
+Because it does.
+What?
+Yeah.
+Well, an attempted stabbing, at least.
+Oh.
+Now, there was one day where somebody from the night shift noticed that somebody from the
+day shift, as they were leaving work, was spamming the brisk iced tea button on the vending machine
+and loading the sodas into their backpack.
+And they did not like this one bit, because what this person was doing is, this is breaking
+the rules.
+You know, you are essentially taking people who are coming in to work for the next, you
+know, six or eight hours or whatever.
+And you are depriving them of, you know, the coveted brisk iced tea.
+So when they saw that somebody was loading up on them before they went home, they pulled
+a knife on this person.
+And there was no stabbing.
+Oh, my God.
+There was a violent confrontation.
+And I believe, I believe that that person was removed.
+Now, that's just one of the stories.
+There was another time where a guy on our team wandered up to the executive level of the
+building.
+This was where the, you know, the higher ups, you know, we were the lowly testers in the
+basement.
+And as you went floor, you know, floors up, you got more important people in the company.
+This guy wandered up there to use a restroom and he saw that somebody's laptop and BMW
+keys were sitting out on their desk unattended.
+He took the BMW keys, put them in his pocket, and then he stashed the laptop in the bathroom,
+supposedly to come back and get it at the end of his ship.
+And then I guess he was going to go out into the parking lot and just click the keys until
+a BMW opened and then take that as well.
+I love doing your shift after that.
+Like, I'll do this later.
+I'll do the Grand Theft Auto afterwards.
+I got quality testing, quality assurance to do.
+And the only reason he got caught was because another guy on our team happened to be, you
+know, sort of like having a friendly chat with one of the security guards who, you know, everybody
+was pretty friendly.
+It was a pretty friendly environment for the most part.
+And they noticed on the video surveillance screen that this guy from the basement was walking
+around on the executive level.
+And, you know, my team member was like, oh, that's so-and-so from our team downstairs.
+What's he doing up here?
+And they watched him take the laptop and watched him take the Beamer keys.
+And that night, two police officers came in and arrested him.
+Now, this was not the first time I saw somebody arrested at this company.
+There was another incident where a very young kid, teenager, probably 18 or 19, posted a screenshot
+from an unreleased game onto his Instagram to brag about the fact that he was working
+on it.
+Now, we all signed really, really insane NDAs, you know, to work at this company.
+And the, you know, when he posted this image, he basically broke a deal that this developer
+had with a huge retailer that they would be the first to reveal the, let's just call it
+the gameplay for now, of this particular game.
+And essentially cost the company like hundreds of millions of dollars because now the retailer
+could say, no, we are not the first to reveal this, the screenshot of this particular aspect
+of the gameplay, that young man was marched out in handcuffs.
+Now, you might think that all of this is like really crazy, but there's even more crazy
+shit.
+Like the fact that I discovered sort of accidentally that my entire team of testers, I would say
+maybe 85% of them, not the entire team because I wasn't, were all on LSD and Molly while
+they were working.
+And I found this out because, you know, you would get five, besides your lunch break,
+you would get two five minute breaks.
+And this was essentially for the smokers.
+You would go out, you would smoke, you would come back in.
+I was standing outside with this young guy and he, we were just kind of standing silently.
+I was smoking and he was looking up at the sky and he goes, man, the sky looks so beautiful
+tonight.
+Dear God.
+And then he vomited all over.
+And then he vomited like projectile vomited like instantly, like all over the ground.
+I was like, are you okay, man?
+And he went, ah, damn.
+Now I'm going to have to take another one.
+And I said, another one?
+What are you talking about?
+And he said, oh, you don't know.
+He said, this guy is slinging MDMA.
+And I was like, oh, what?
+And I was like, really?
+He's like, oh yeah, man.
+He's like, everybody's doing it.
+And I walked back into work and I looked in all the little dark rooms where everybody's
+testing.
+I noticed that everybody is just chewing air sandwiches.
+Everybody's face is just twisted and they're kind of intently looking at the screen, playing
+the game.
+And I went, oh my God, everybody on this team is on drugs.
+It's really hard to figure out why there's still bugs in big video games.
+Well, my biggest, I'll tell you my biggest contribution.
+There were two loading screens when you were loading up the game that I was testing on.
+It was a music game.
+And the loading screen, at first, it showed a guy in a suit carrying a suitcase.
+And then in the next loading screen, he had an instrument and he was like a rock and roll
+star.
+And that was one of the loading screens.
+And then the other loading screen was a woman in a apron with a broom.
+And then in the next loading screen, she had an instrument and was a rock star.
+And I wrote it up as a bug.
+I said, and you have to be really careful about how you write bugs.
+You have to keep emotion out of it in every way or the bug wouldn't even get looked at.
+The developing team was incredibly sensitive to how their game was criticized.
+So it couldn't look like a criticism.
+And so I just wrote, not all women are homemakers, potential legal issue.
+Okay, we need to get this mollied out Jake to bed.
+I've never taken molly.
+We need to usher in the new year.
+And he's clearly, he wants to tell us all about the various awfulnesses at this big company
+when they were developing.
+Yeah.
+And Korean.
+Korean.
+Okay, going to bleep all that.
+And I think.
+That's such a cool way of like learning your brain.
+It's like just doing quality assurance for.
+Yeah.
+Yeah.
+I got really good.
+I got really good at the game.
+I thought that I was going to.
+I thought that it was going to be something that would impress people at parties because
+I could play on the highest difficulty level.
+And I remember being at a party and seeing the special controllers and stuff and going,
+oh, here's my chance.
+And I picked it up and I was crushing it and nobody cared.
+And I went, oh, okay.
+Nobody cares about this.
+This is not impressive.
+And I've wasted years of my life.
+Listener, thank you so much for making your way through this very long episode with many
+different emotions, I would have to say.
+I think this is going to show that we are a polyemotional podcast, that we can do it all
+for you.
+And I look forward to the year with all of you in this room where we are cardboard cutouts
+and you are a real person, but you're still taking a photo, a selfie saying me and all my
+friends.
+We love you.
+And if you have not yet, go sign up at patreon.com slash QAnon Anonymous.
+Go sign up at patreon.com slash QAA, where you can get access to all of our miniseries.
+Liv and I are doing Perverts.
+Travis is doing Trickle Down.
+There's 10 episodes of Spectral Voyager up.
+We've got 10 episodes of ManClan.
+There's lots of stuff for you, plus a premium episode for every main one.
+And with that, I guess we're just going to have to survive another year on this beautiful
+earth and look forward to the election.
+Listener, until next week, may the deep dish bless you and keep you.
+And Happy New Year.
+Happy New Year.
+Happy New Year, everyone.
+Happy New Year, everyone.
+Happy New Year.
+That's from Travis.
+Happy New Year.
+That's for Manny.
+It's not a conspiracy.
+It's fact.
+And now, today's Auto-Q.
+I was recently approached by Nordic Empire Games, and they asked me if I would actually
+give them a little bit of review.
+Review on their new game called Acquitted.
+Self-Defense vs. Brain Dead.
+Now, this is inspired by the Kyle Rittenhouse incident.
+And look, this is a parody.
+That's all this is.
+It's a bit of satire, if you will.
+So, basically, all the rioters are zombies.
+You have your basic Antifa, who's wearing a mask.
+You have your multicolored hair females.
+You have people carrying communist flags.
+Well, you know, we like to toss commies on this channel.
+And, of course, we have Antifa flag bearers.
+And, of course, the extremely overweight feminist, who squeals and everything else.
+And, I believe they show pictures of it.
+I haven't gotten to it yet.
+But, in the, like, final levels or whatever, they even have some MAMs.
+Now, this game, this game is actually a lot of fun.
+It's very, very easy.
+It's about 67 megabytes.
+It's a very small game.
+So, it's not going to take up a lot of room.
+It doesn't take a lot of computing power.
+And, look, this game is a lot of fun.
+It's very simple.
+It doesn't take a whole lot of strategy or anything.
+You're just running around and shooting zombies.
+Some zombies are tougher than others.
+And, you know, every level, you have to go to court and prove your self-defense.
+No big deal.
+Every time they see it as self-defense.
+And, if you look at it, you'll actually realize you're nothing more than an arena player.
+You are a gladiator for the Antifa and the commies as they watch as their champions try to take you down.
+So, this is just a fun little tongue-in-cheek game with modern politics involved.
+YouTube, do not get upset about it.
+It is simply satire.
+It is nothing more than parody.
+Look, I'll tell you.
+Go over to Steam.
+Drop $7.95 on acquitted.
+Self-defense versus brain dead.
+Thank you so much again for coming by.
+Take care.
+And, as always, God bless.

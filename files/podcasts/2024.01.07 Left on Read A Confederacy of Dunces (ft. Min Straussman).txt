@@ -1,0 +1,751 @@
+0.00 3.10 SPEAKER_03  Hello everybody and welcome to this November.
+3.78 11.60 SPEAKER_03  Lex on Red. It is Riley. It is Alice who I see on Zencaster. It is Kirsten Dunst.
+11.98 20.32 SPEAKER_02  Yeah, I'm bringing pun names back. That's going to be a thing I do in the Zencaster from now on until my co-workers murder me with an axe to stop me from doing it.
+20.58 24.00 SPEAKER_03  No, you're just trying to get a job at Mad Magazine circa 2002.
+24.56 24.94 SPEAKER_03  That's right.
+25.06 27.10 SPEAKER_03  Some call it the height of Mad Magazine.
+27.10 32.04 SPEAKER_03  And also we are joined by friend of the show and writer Min Straussman.
+32.34 39.44 SPEAKER_01  I don't have a punny name. I didn't realize that was required. No one told me.
+39.56 41.82 SPEAKER_02  It's not. That's an extracurricular on my part.
+41.90 43.24 SPEAKER_01  Okay, okay, cool.
+43.62 51.16 SPEAKER_03  And we have read in between our sort of dalliances to the Christmas shopping store.
+52.64 56.46 SPEAKER_02  I already don't want to talk about this. What's your Christmas shopping been like, Riley?
+56.46 57.74 SPEAKER_02  Oh, my Christmas shopping.
+57.74 61.22 SPEAKER_02  Yeah, let's just divert off into this. Let's catch up, you know?
+61.30 71.48 SPEAKER_03  Okay. How's my Christmas shopping been? It's been good. I've decided to decorate the house with trees and baubles and in one case a wicker tree skirt.
+73.32 74.34 SPEAKER_02  Hold on, hold on.
+74.34 83.98 SPEAKER_02  I know we're getting to somewhere else with this, right? But like, a wicker tree, why? To do amphibious landings with the trees? Why?
+85.32 87.56 SPEAKER_02  Wait, what do you think wicker is?
+87.72 95.70 SPEAKER_02  Are the trees naked otherwise? Is it embarrassing for a tree not to have a skirt? Is there some tree etiquette?
+95.70 98.72 SPEAKER_00  Yes, there is tree etiquette. It's got to have a skirt.
+99.70 102.38 SPEAKER_03  I'm messing up my tree etiquette so badly, dude.
+102.38 112.08 SPEAKER_03  And the other thing that's going to happen is I, like it happens every year, I'm going to receive a bunch of wine-themed things that aren't wine.
+112.52 124.46 SPEAKER_03  Because everyone says, oh, well, we can't just get in wine. We have to get in Viticulture, a cooperative European-style board game with 90,000 different tokens that is about winemaking.
+124.46 129.72 SPEAKER_03  Like, I'm serious. You can get, like, if you roll well enough, you'll make a sparkling wine in Viticulture.
+129.90 136.28 SPEAKER_02  How many copies of the Viticulture board game do you have at this point?
+137.06 138.44 SPEAKER_03  One so far.
+139.00 144.18 SPEAKER_02  And rising, you know, as I log on to Amazon to buy you another one.
+144.42 158.14 SPEAKER_03  It's great. It's like, there are weather tokens, there are alcohol counters, there's like, the whole point of the game is, you're trying to, like, assign resources to make as good of a wine as possible.
+158.34 160.70 SPEAKER_03  But if you try to make too good of a wine, you won't make much.
+161.00 164.46 SPEAKER_03  It's just true. Like, that's just how it happens in real life.
+164.46 174.02 SPEAKER_03  But to represent this whole process as a board game requires, like, a heroic level of abstraction.
+174.70 181.18 SPEAKER_03  Yeah, it doesn't require a Battle for North Africa level of rulemaking, but it certainly does require a lot of different tokens.
+181.92 182.48 SPEAKER_02  Outstanding.
+182.48 188.72 SPEAKER_02  Min, any, like, Christmas shopping contributions? What's the vibe in Paris?
+188.96 192.76 SPEAKER_01  The only Christmas shopping I've done is getting you your present.
+193.58 194.12 SPEAKER_01  Well, thank you.
+194.18 195.80 SPEAKER_01  So that's as far as I've gotten.
+195.80 197.96 SPEAKER_02  You got me a copy of Viticulture.
+198.42 200.90 SPEAKER_01  I did. I'm like, Riley, I can't believe you told her.
+202.62 205.74 SPEAKER_01  Yes. So that is as far as I've gotten.
+205.82 207.84 SPEAKER_01  I'm not very good at present shopping.
+207.84 212.64 SPEAKER_01  I always kind of, like, blank on what to get people and then panic at the last minute.
+213.36 216.04 SPEAKER_01  And I'm just, like, not very good in general at getting gifts.
+216.24 217.40 SPEAKER_01  So it's all...
+217.40 220.26 SPEAKER_01  I did have to go to a couple bookstores for work.
+220.26 228.46 SPEAKER_01  And that was panic-inducing because Parisian bookstores right before Christmas, it's like a madhouse in there.
+228.58 240.24 SPEAKER_01  It's like those scenes from, like, you know, Black Friday in the States where, like, there's two women fighting over Turkey, except for, like, it's the last, you know, play ad edition of, you know, Foucault or something.
+240.80 241.86 SPEAKER_01  It's harrowing.
+241.86 244.98 SPEAKER_01  So I've had a little bit of that experience recently.
+246.68 248.02 SPEAKER_03  And what about you, Alice?
+248.16 249.08 SPEAKER_03  Tell us...
+249.08 251.74 SPEAKER_03  You seem to wish to talk about Christmas shopping.
+251.90 253.32 SPEAKER_03  I assume it's for a reason.
+253.86 254.90 SPEAKER_03  What have you done?
+255.30 255.58 SPEAKER_02  Yeah.
+255.78 256.48 SPEAKER_02  No, I...
+256.48 270.08 SPEAKER_02  So my new thing that I'm experimenting with is I'm asking people directly what they want and then getting it for them and sort of conquering the social anxiety of that moment, right?
+270.08 275.70 SPEAKER_02  Where I just sort of, like, lay my cards on the table and I say, like, what is...
+275.70 278.96 SPEAKER_02  I am not smart enough to intuit anything about you.
+279.20 281.16 SPEAKER_02  What is the thing that you want?
+281.60 283.60 SPEAKER_02  And then I get it for them, you know?
+283.84 286.68 SPEAKER_02  And that could be fucking anything, you know?
+287.48 288.76 SPEAKER_00  Could be a luxury vibrator.
+289.40 290.90 SPEAKER_03  A luxury vibrator, yeah.
+291.38 295.44 SPEAKER_03  This was a business idea that we were discussing sort of at the...
+295.44 297.32 SPEAKER_03  Before we started recording, which is...
+297.32 306.44 SPEAKER_03  You noticed that there is a huge market in, like, luxury sex toys for AFAB people.
+306.44 308.56 SPEAKER_02  Yeah, if you want to buy a vibrator, right?
+308.76 311.10 SPEAKER_02  Or, like, we can express it in, like, all kinds of terms.
+311.16 315.80 SPEAKER_02  If you want to buy a vibrator or, like, some kind of penetrative sex toy, right?
+315.94 318.40 SPEAKER_02  On the high end, you have a lot of options.
+318.52 326.86 SPEAKER_02  You can spend, you know, hundreds and hundreds of pounds on this sort of beautiful objet d'art that also, like, fucks you, right?
+328.90 330.06 SPEAKER_02  Personally, not my thing.
+330.16 332.60 SPEAKER_02  I bought the cheapest one they have.
+332.66 335.86 SPEAKER_02  It's like a Kalashnikov and it serves in exactly the same sort of, like...
+335.86 336.34 SPEAKER_02  Yeah, it's gas powered.
+336.34 338.76 SPEAKER_02  ...mix of reliability, pretty much, yeah.
+339.26 341.44 SPEAKER_02  It proliferates all over the world.
+341.78 343.14 SPEAKER_02  It's on a lot of flags.
+344.28 345.80 SPEAKER_02  Yeah, absolutely reliable.
+345.94 346.82 SPEAKER_02  Requires no maintenance.
+346.82 353.84 SPEAKER_02  But, yeah, you can buy these things that are, like, trimmed in, like, gold or ermine or whatever.
+354.48 355.76 SPEAKER_02  But then that's fine.
+356.54 359.02 SPEAKER_03  No, you can't buy the ermine trimmed one.
+359.12 361.16 SPEAKER_03  You need to be given it when you're elevated.
+362.26 372.92 SPEAKER_02  But I've noticed there's a kind of, there's a gap in the market for, let's say, the elevated luxury sex toy that you penetrate rather than that is penetrative.
+372.92 383.82 SPEAKER_02  There's no, as far as I know, I'm willing to be corrected, and I say this entering the sixth minute of a podcast nominally about a book we haven't started talking about yet, as far as I know, there's no luxury flashlight.
+384.44 384.62 SPEAKER_02  Right?
+384.78 390.08 SPEAKER_02  And you'd think there would be, uh, you know, a niche for that.
+390.50 398.72 SPEAKER_02  Because, you know, people who want to fuck a flashlight like luxury objects too, I assume.
+398.72 411.90 SPEAKER_02  Is it, I don't know why, maybe there's something inherently kind of more shameful and repellent about this that you would, because, like, seeing a fancy vibrator on an end table, you're like, oh, these are sex people, but, like, in a classy way.
+412.16 416.06 SPEAKER_02  Seeing a flashlight on an end table, you're like, I, no, this is bad.
+416.30 417.34 SPEAKER_02  This is immediately bad.
+417.40 420.98 SPEAKER_03  Yeah, you're like, I have to get out of, I have to get far away from this end table.
+421.38 421.66 SPEAKER_03  Yes.
+421.66 423.34 SPEAKER_03  Or else it could be my end.
+423.34 423.94 SPEAKER_03  Yeah.
+425.74 431.46 SPEAKER_03  There's no, um, there, we haven't gentrified, we have not gentrified the flashlight.
+431.96 432.06 SPEAKER_03  No.
+432.18 434.74 SPEAKER_03  And I, for one, think, because, you know, what else we've gentrified?
+434.90 440.16 SPEAKER_03  We've gentrified other things that are considered to be, like, embarrassing, like, um, Rogaine, right?
+440.20 440.42 SPEAKER_02  Sure.
+440.56 447.34 SPEAKER_03  That's been gentrified in the same way that most things, most of these products are gentrified, which is dark packaging, embossed gold lettering.
+447.68 448.76 SPEAKER_03  Everything else is the same.
+449.08 450.02 SPEAKER_02  Yeah, yeah, yeah, for sure.
+450.02 462.68 SPEAKER_02  But in this case, you know, you would think the flashlight, you know, okay, maybe there's some sort of tension between luxury and hygiene there, but surely the outside, you can make that out of, like, a Carrera marble or something.
+463.28 466.34 SPEAKER_02  That is, sorry, that is the funniest possible material.
+466.94 472.06 SPEAKER_02  Yeah, I reached for a classy material and my mind was briefly possessed by Donald Trump.
+472.36 477.28 SPEAKER_02  I was like, yeah, why don't you have Carrera marble or some, like, red velvet spray paint bits of it gold?
+478.00 478.48 SPEAKER_03  Perfect.
+478.48 480.16 SPEAKER_03  Yeah, the executive flashlight.
+480.40 484.34 SPEAKER_03  I like that the executive flashlight is the two things you want out of a flashlight.
+484.56 485.78 SPEAKER_03  It's heavy and cold.
+487.88 491.66 SPEAKER_03  Listen, I don't know what people want with these things.
+491.88 492.06 SPEAKER_03  Yeah.
+492.06 496.96 SPEAKER_03  I think personally, you could trim it the outside in Corinthian leather.
+497.84 502.48 SPEAKER_03  And then again, you maybe you could emboss your name on it or not.
+503.86 509.02 SPEAKER_02  But like a little, like, engraved, like metal nameplate, like stitched into the thing.
+509.02 511.98 SPEAKER_03  Or, I promise we're going to talk about the book in a second.
+512.32 516.62 SPEAKER_03  You could get like, you know how like Tiffany's has those, if found, please return to Tiffany's.
+516.74 517.44 SPEAKER_03  Oh my God.
+518.78 522.70 SPEAKER_02  The Tiffany blue and sterling silver flashlight.
+523.98 524.50 SPEAKER_02  Okay.
+525.02 525.52 SPEAKER_02  Okay.
+525.52 527.86 SPEAKER_02  We're, we're so good at this.
+527.94 528.38 SPEAKER_02  Yeah.
+528.38 531.58 SPEAKER_02  I would say we are prepped to record now.
+531.94 534.48 SPEAKER_02  Um, what do you mean we've been recording this whole time?
+534.48 541.78 SPEAKER_03  Um, no, we are, we are taught, we're continuing our, um, a note, by the way, on episode releases.
+542.00 545.24 SPEAKER_03  We are going to go back to two a month, uh, in January.
+545.24 547.58 SPEAKER_02  This is a big kind of like, please don't be mad at us.
+547.64 548.90 SPEAKER_02  We're trying our best thing.
+549.20 549.56 SPEAKER_02  Yeah.
+549.72 551.80 SPEAKER_02  This is happening to me a lot lately.
+552.26 552.48 SPEAKER_02  Yeah.
+552.52 556.72 SPEAKER_03  And also I was very, very, very sick towards the end of November.
+556.72 566.32 SPEAKER_02  I mean, the thing is we, we always have good reasons, but as it's been like this with the, whether there's your problem as well, where it's like every time I am not putting out stuff to schedule, I feel like the bastard of earth.
+566.86 569.74 SPEAKER_02  Um, so please accept our heartfelt apologies.
+570.38 576.58 SPEAKER_02  Uh, we will be entering you by way of compensation to a, into a prize draw for the executive CEO of Flashlights.
+577.94 581.40 SPEAKER_03  But if you don't use it yourself, then you can just sell it on.
+582.02 583.20 SPEAKER_02  Yeah, exactly.
+583.38 584.62 SPEAKER_02  You can just give it to someone else.
+584.76 585.06 SPEAKER_02  Yeah.
+585.06 586.66 SPEAKER_02  A gifted flashlight.
+587.30 595.86 SPEAKER_03  So, but this is, anyway, we will, we will be back in the normal schedule as of next month when the holidays end and, and my tummy settles, which it has.
+596.40 597.44 SPEAKER_03  Um, your valve.
+597.86 599.00 SPEAKER_03  Yeah, my valve, my valve.
+599.14 603.72 SPEAKER_03  I had such a valve problem, which is so relevant to the book we're talking about.
+603.72 624.76 SPEAKER_03  It was, um, John Kennedy tools first and only book that was just found after his death and then published, um, a Confederacy of dunces, which I think is a kind of companion piece to our William Morris discussion, because it's another book about a weird guy who looks at the modern world and says, this should be more medieval.
+624.76 625.36 SPEAKER_03  Yeah.
+625.80 628.00 SPEAKER_02  Take me back to the 1350s.
+629.14 630.68 SPEAKER_01  It was the best of times.
+630.78 631.82 SPEAKER_01  It was the worst of times.
+631.98 649.08 SPEAKER_03  And that's a different, um, so, so we are all, we're all here because, um, I said we should read this book, uh, because it's a, an old favorite of my mother's as well, just as a, a silly book, but unlike the, uh, William Morris, it is fiction.
+649.08 656.46 SPEAKER_03  Um, and I, I had one, um, one sort of quote just to start us off from early on in the, in this work.
+656.78 659.22 SPEAKER_03  Um, then we'll start talking about character and setting and so on.
+659.56 659.80 SPEAKER_03  Ahem.
+660.54 668.38 SPEAKER_03  Uh, some, this is, uh, Ignatius, the main character talking about his experience of being broadly hated at university.
+669.20 672.20 SPEAKER_03  Uh, his mother says, they was nice to you at college, Ignatius.
+672.30 673.02 SPEAKER_03  Now tell the truth.
+673.06 674.54 SPEAKER_03  They let you hang around there a long time.
+674.62 675.86 SPEAKER_03  They even let you teach a class.
+676.36 678.52 SPEAKER_03  Uh, Ignatius saying about how miserable it was.
+678.52 679.64 SPEAKER_03  Oh, it was basically the same.
+680.10 685.10 SPEAKER_03  Some poor white from Mississippi told the Dean that I was a propagandist for the Pope, which was patently untrue.
+685.42 686.88 SPEAKER_03  I do not support the current Pope.
+687.06 687.88 SPEAKER_03  He does not fit.
+688.04 691.24 SPEAKER_03  He does not at all fit my concept of a good authoritarian Pope.
+691.76 695.14 SPEAKER_03  Actually, I'm opposed to the relativism of modern Catholicism quite violently.
+696.00 704.04 SPEAKER_03  Uh, however, the boldness of this ignorant redneck fundamentalist led my other students to form a committee to demand that I grade and return their accumulated essays and examinations.
+704.04 708.84 SPEAKER_03  There was even a demonstration outside the window of my office for being such simple ignorant children.
+708.96 709.88 SPEAKER_03  They managed it quite well.
+710.04 715.24 SPEAKER_03  And at the height of the demonstration, I dumped all the old papers completely ungraded out the window and right onto their heads.
+715.48 720.56 SPEAKER_03  The college was too small to accept this act of defiance against the abyss of contemporary academia.
+723.06 723.98 SPEAKER_00  It's so good.
+723.98 740.42 SPEAKER_02  We're doing Man Out of Time in a sort of comic novel set in 1962 New Orleans, Louisiana, centered around this figure, this guy, Ignatius Jacques Reilly.
+742.02 744.38 SPEAKER_02  And Ignatius Reilly, he's...
+744.38 750.14 SPEAKER_02  We'll get into this when we talk about the book's journey towards publication, right?
+750.14 755.10 SPEAKER_02  Um, but overall, what the novel is, is it's a farce, right?
+755.14 781.40 SPEAKER_02  It's a character-driven farce where Ignatius, this very large, very dyspeptic man, uh, who is obsessed with, you know, uh, geometry and the values of Boethius and the early scholastics, um, is, is sort of forced to confront American Southern Louisiana and New Orleanian society of the 1960s.
+782.04 782.52 SPEAKER_01  Yeah.
+782.58 786.22 SPEAKER_01  I would just say, like, I don't know that he's obsessed with geometry as such.
+786.22 796.86 SPEAKER_01  He just uses the term geometry, geometry and theology over and over again to kind of, as like a signifier of his desire for order in the world.
+796.86 804.40 SPEAKER_01  So when he's saying geometry and theology over and over, he doesn't mean, like, you know, Pythagoras or whatever, right?
+804.42 805.40 SPEAKER_01  He just means order.
+805.56 806.56 SPEAKER_01  He's obsessed with...
+806.56 809.66 SPEAKER_01  He, at one point, says that he wants there to be a king.
+810.06 811.64 SPEAKER_01  Like, that's his political party.
+811.94 819.38 SPEAKER_01  He changes political position several times throughout the novel, but at one point he says he just wants there to be, like, an authoritarian king, right?
+819.62 820.86 SPEAKER_02  And at one point there's...
+821.38 834.42 SPEAKER_02  Well, at a few points throughout the novel, as we kind of hinted at with the, I do not support the current pope because he's not authoritarian enough, these prefigure real ideologies of the 21st century.
+835.54 839.14 SPEAKER_02  There's another one that I'll get into, and I get to talk about how homophobic this book is.
+840.32 841.22 SPEAKER_02  But, yeah...
+841.22 843.20 SPEAKER_03  This book is extremely...
+843.20 845.88 SPEAKER_03  It is, I'd say, a difficult...
+845.88 847.64 SPEAKER_03  I don't want to say from modern sensibilities.
+847.80 851.86 SPEAKER_03  I'd say this book is certainly of the 1950s South, let's say.
+852.22 853.04 SPEAKER_02  Well, here's the thing.
+853.04 877.52 SPEAKER_02  I think Tool is a southern centrist of the time, and what the book tries to do is engage in this kind of high-handed thing of, well, to engage with modern times, whatever the times are, always compromises you, always makes you ridiculous, but to avoid doing so makes you more ridiculous and makes you this kind of, like, slightly deranged character.
+877.52 884.80 SPEAKER_02  But there's really nothing that can be said about this in either direction other than that the whole thing is farcical.
+884.80 891.48 SPEAKER_02  Which is an interesting choice for the 1960s.
+892.48 899.44 SPEAKER_02  It's sort of, like, an alarmingly privileged one, and I think the book is, in a lot of ways, genteelly racist and homophobic.
+900.48 903.54 SPEAKER_02  But at the same time, it's...
+903.54 907.30 SPEAKER_02  Rod Dreher really likes this book, right?
+907.30 910.60 SPEAKER_02  And Rod Dreher thinks that the woke left are trying to cancel this book.
+911.34 922.30 SPEAKER_02  And as someone who is on the woke left, and has just said that it's, you know, a racist, homophobic book that's problematic or whatever, I don't want to cancel it.
+922.34 925.48 SPEAKER_02  I just have a slightly more jaundiced view of it.
+925.52 931.04 SPEAKER_02  And I think that's entirely in line with the kind of attitudes of the novel, which are pretty jaundiced themselves.
+931.04 933.84 SPEAKER_03  Well, it's, um...
+933.84 934.58 SPEAKER_03  It's the...
+934.58 936.86 SPEAKER_03  Let's talk, maybe, about the, um...
+936.86 941.06 SPEAKER_03  The inciting incident of a confederacy of dunces.
+941.44 943.64 SPEAKER_02  There's a really good, uh, line.
+943.86 945.22 SPEAKER_02  Let me see if I can find it.
+945.30 946.66 SPEAKER_02  It's, um...
+946.66 947.24 SPEAKER_02  Yes, here we are.
+947.32 956.14 SPEAKER_02  In the shadow under the green visor of the cap, Ignatius J. Riley's supercilious blue and yellow eyes looked down upon the other people waiting under the clock at the D.H.
+956.22 961.02 SPEAKER_02  Holmes department store, studying the crowd of people for signs of bad taste in drag.
+961.04 961.28 SPEAKER_02  Yes.
+962.16 962.80 SPEAKER_02  Um...
+962.80 968.30 SPEAKER_02  And Ignatius, we should say at this point, is a very large man, both in height and width.
+968.74 975.20 SPEAKER_02  He's wearing a green hunting cap with ear flaps, a red flannel jacket, and desert boots.
+975.82 976.54 SPEAKER_02  Um...
+976.54 983.20 SPEAKER_01  Which is apparently based on one of Tool's own, like, professors at school wore this kind of outfit.
+983.20 986.26 SPEAKER_02  Yeah, a medievalist that he knew from Tulane, I think.
+986.50 986.72 SPEAKER_01  Yeah.
+986.72 987.36 SPEAKER_02  Um...
+987.36 995.98 SPEAKER_01  And also, I think the first thing that grabs you, besides all the kind of colors of that opening image of Ignatius judging the people down below him, right?
+996.02 997.34 SPEAKER_01  It's very, like, evocative.
+997.72 1003.82 SPEAKER_01  But the hunting cap thing, at least, you know, for me, makes you think of Catcher in the Rye, right?
+1003.86 1004.48 SPEAKER_00  Yeah, yeah, yeah.
+1004.48 1005.98 SPEAKER_01  And I think that's intentional.
+1005.98 1014.90 SPEAKER_01  Like, there's a very, like, let's do a New York, you know, novel, but set in New Orleans kind of attitude to this whole book.
+1015.14 1024.78 SPEAKER_01  Like, when I was reading it, it reminded me a lot of Herzog by Saul Bellow, like, this kind of, like, hapless man, you know, sort of meandering around the city.
+1024.78 1032.32 SPEAKER_01  Um, and I think, like, the opening, you know, quotation, like, uh, epigrams in the novel sort of point to that, too.
+1032.42 1035.58 SPEAKER_01  Like, drawing this connection between Manhattan and New Orleans.
+1036.22 1039.48 SPEAKER_01  Um, I don't know if I can just, like, there's a little quote here.
+1039.54 1052.60 SPEAKER_01  It says, There is a New Orleans city accent associated with downtown New Orleans, particularly with the German and Irish Third Ward, that is hard to distinguish from the accent of Hoboken, Jersey City, and Astoria, Long Island.
+1053.16 1060.08 SPEAKER_01  So, yeah, I think there's, like, this very much, like, what if we did a New York, you know, 1960s novel, but in New Orleans?
+1060.72 1073.32 SPEAKER_02  It's interesting that you mention, uh, Catcher in the Rye, because this is, it's also a tale of, like, disaffected American youth, but the joke here is that Ignatius is 30 years old.
+1073.86 1084.10 SPEAKER_02  Um, he lives with his mother, and a lot of this stuff would be very, uh, you know, uh, easily, easily apparent to us today.
+1084.18 1085.56 SPEAKER_02  This is a type, right?
+1085.76 1097.60 SPEAKER_02  And at the time that this was written, this is a much more singular guy, and I have a theory about this novel, which is that we as a society, um, are suffering from a kind of guy in inflation, right?
+1097.96 1103.68 SPEAKER_02  Where so much of the comedy in this book is, uh, I have invented a guy, right?
+1103.76 1117.06 SPEAKER_02  I have invented a tradcath guy who still lives with his mum, who, uh, is trying to, like, impress an ex-sort of girlfriend, uh, by developing a party for the divine right of kings.
+1117.24 1118.26 SPEAKER_02  That's a type of guy.
+1118.50 1122.22 SPEAKER_02  And you can read a novel, you can build an entire novel off that guy.
+1122.22 1131.54 SPEAKER_02  Whereas now, thanks to the horrifying technology of the internet, you can log on and you can find 50 guys, all with a disturbing kaleidoscope of beliefs.
+1132.18 1135.38 SPEAKER_02  Um, and you kind of, you learn to discount them, you know?
+1135.44 1142.52 SPEAKER_02  And you, you kind of, you don't have the kind of deep dive on these, on these weirdos that you do here.
+1143.14 1163.28 SPEAKER_03  It's, and this is one of the reasons why I thought it would be such an interesting read, is that, is for all of the novel's faults, it really does identify, it identifies, um, the exact, this exact type of person who would become such a kind of focus of our, of our culture.
+1163.46 1183.52 SPEAKER_03  And I think the reason, right, is that, is that in order to, is that, I'm just going to quote from here from the beginning, from this inciting incident where he's waiting outside of a, um, uh, of, of a department store for his mother and he gets hassled by a police officer just for looking odd, um, and says, well, I'm 30, uh, and says, well, he has no job.
+1183.66 1185.98 SPEAKER_03  His mother says, Ignatius has to help me at home.
+1186.06 1189.78 SPEAKER_03  I have terrible arthritis, to which Ignatius clarifies, I dust a bit.
+1189.86 1193.50 SPEAKER_03  And in addition, I'm at the moment writing a lengthy indictment against our century.
+1193.50 1198.28 SPEAKER_03  And when my brain begins to reel from my literary labors, I make an occasional cheese dip.
+1198.28 1199.82 SPEAKER_02  It's, it's posting.
+1200.02 1200.86 SPEAKER_02  It's just posting.
+1201.12 1203.10 SPEAKER_02  This is, this is a man before the computer.
+1203.28 1203.74 SPEAKER_02  Yeah.
+1203.86 1207.16 SPEAKER_02  And, and the computer has made a lot of us into Ignatius Riley.
+1207.58 1207.90 None  Yeah.
+1208.52 1210.80 SPEAKER_03  That's what I, that's what I think ultimately it is.
+1210.82 1215.66 SPEAKER_03  The, the people is Ignatius is, he's compelled to post.
+1215.80 1222.32 SPEAKER_03  He's constantly writing, um, whether he is writing his, I have no computer and I must post.
+1222.92 1223.36 SPEAKER_03  Effectively.
+1223.46 1223.78 SPEAKER_03  Yes.
+1223.78 1242.22 SPEAKER_03  Uh, he is writing his, as you know, indictment of everything that happened after 1350, basically just, but they're really just his random thoughts written in crayon on, um, on sort of these sort of tablet pieces of paper, um, that he just sort of leaves scattered around.
+1242.38 1255.00 SPEAKER_03  Uh, when he gets a job, he just writes of his resentments of, um, having to work at Levy Pants, which is, I think probably the funniest, um, sequence, uh, in the novel, uh, which we'll talk about shortly.
+1255.56 1271.30 SPEAKER_03  Uh, and you know, he is, um, but he, he feels as though this is, uh, this, imagine if Ignatius sort of was able to publish all of his little thoughts and then he found like 20 people or so who thought they were all awesome.
+1271.48 1273.16 SPEAKER_03  He would generate lots more Ignatius.
+1273.16 1274.16 SPEAKER_03  Absolutely.
+1274.16 1281.72 SPEAKER_02  I mean, he, he, he writes all of this stuff in these, uh, big chief brand tablets, which are like little exercise books or composition books for children.
+1282.24 1283.96 SPEAKER_02  Um, another sort of remedial thing.
+1284.32 1297.06 SPEAKER_02  Uh, and at one point he writes down with the breakdown of the medieval system and he capitalizes medieval, the gods of, and all of these are capitalized at the start, chaos, lunacy, and bad taste gained ascendancy.
+1297.06 1307.16 SPEAKER_02  And the thing is, if you posted that, there would be a bunch of statue avatar guys who all look and act like Ignatius Riley, just liking that, giving you a big thumbs up of encouragement.
+1307.86 1313.10 SPEAKER_01  A tweet came across my, my timeline this week that just said, what if Ignatius Riley was a gamer?
+1313.80 1316.76 SPEAKER_01  And I feel like that's just like, yeah.
+1317.18 1318.68 SPEAKER_02  Exclusively plays Crusader Kings.
+1318.76 1319.04 SPEAKER_01  Right.
+1319.14 1319.54 SPEAKER_00  Exactly.
+1319.76 1319.94 SPEAKER_03  Yeah.
+1320.04 1320.24 SPEAKER_03  Yeah.
+1320.30 1320.50 SPEAKER_03  Yeah.
+1320.50 1320.58 SPEAKER_03  Yeah.
+1320.58 1320.62 SPEAKER_03  Yeah.
+1320.62 1320.94 SPEAKER_03  Yeah.
+1320.94 1325.04 SPEAKER_03  So this is, let's, let's talk about the actual inciting incident, right?
+1325.04 1328.86 SPEAKER_02  It, um, he, he gets harassed by the world's saddest cop.
+1329.18 1329.50 SPEAKER_02  Yeah.
+1329.66 1330.46 SPEAKER_02  Me as a cop.
+1330.94 1339.88 SPEAKER_02  Patrolman Mancuso, a recurring character in this, whose job at the police department is to get bullied into doing the dumbest, gayest shit.
+1340.42 1343.88 SPEAKER_02  Um, and it's just constantly harassed by everyone.
+1344.32 1344.62 SPEAKER_02  Yes.
+1344.74 1353.88 SPEAKER_03  The, the world's most harried cop, uh, decides to, because he's, he's charged with taking in at least one quote unquote suspicious character.
+1353.88 1354.64 SPEAKER_02  Yeah.
+1354.72 1356.54 SPEAKER_02  It's a, it's a make work thing by his sergeant.
+1356.60 1359.46 SPEAKER_02  His sergeant wants him to bring in, bring, bring me a guy.
+1359.58 1360.02 SPEAKER_02  Right.
+1360.12 1366.36 SPEAKER_02  And, and Mancuso attempts to bring him the like preeminent guy of New Orleans, Ignatius Riley.
+1366.78 1370.14 SPEAKER_02  Um, and very nearly starts a riot on Canal Street.
+1370.48 1378.88 SPEAKER_03  Where, uh, an, an old man sort of starts accusing everybody of being communists, uh, Claude Robichaux, uh, and in the, in, in the ensuing, uh, scuffle.
+1378.88 1384.72 SPEAKER_02  It's all written in, in like, uh, sort of in a way that evokes the accent.
+1384.72 1388.58 SPEAKER_02  So not, not, not communist, but commonness.
+1389.14 1389.62 SPEAKER_03  Commonness.
+1389.92 1390.44 SPEAKER_02  Commonness.
+1390.86 1408.26 SPEAKER_03  And, uh, Ignatius, of course, and his mother, um, run away to a bar called the Night of Joy, uh, which is like a, a, a struggling, um, uh, strip club where, uh, his mother begins drinking and Ignatius sort of huffily takes down several brandies.
+1408.32 1415.78 SPEAKER_03  At which point his mother, um, uh, they are, they are thrown out by the proprietress, Lana Lee, who wishes to protect her investment.
+1415.78 1418.08 SPEAKER_03  She's very worried about protecting her investment is Lana Lee.
+1418.34 1424.76 SPEAKER_02  I should also say part of the reason why they are thrown out and why his mother is drinking so heavily is because Ignatius cannot be normal.
+1425.36 1435.80 SPEAKER_02  Uh, and so, so he has, he tells her something like four times in sequence, the story of the only time he has ever left New Orleans, which is by Greyhound bus to Baton Rouge.
+1436.20 1442.02 SPEAKER_02  Uh, and this is such a sort of like harrowing psychic ordeal that he, he can't face it.
+1442.02 1446.52 SPEAKER_02  And his, his valve, his pyloric valve in his stomach sort of rebels against him.
+1446.82 1448.00 SPEAKER_02  He has these huge belches.
+1448.00 1453.60 SPEAKER_01  She also calls the proprietress a Nazi, which she gets called several times by several different characters.
+1453.60 1465.62 SPEAKER_02  Oh yeah, Lana Lee, uh, this kind of like very imposing looking, very muscular leather trench coat wearing woman who is fully just like called a Nazi and kind of acts like one throughout.
+1465.88 1466.08 SPEAKER_02  Yes.
+1467.54 1483.80 SPEAKER_03  And, um, it's, uh, is then they, they, they leave, uh, well, hammered, uh, and you get into a car and then Irene promptly gets into an accident, which means that they owe $1,200, which is of course quite a bit of money.
+1484.48 1486.74 SPEAKER_03  Um, Ignatius must then-
+1486.74 1490.74 SPEAKER_02  I have the quote for this. Uh, this is Ignatius writing here.
+1490.74 1493.24 SPEAKER_02  The gyro had widened.
+1493.38 1494.66 SPEAKER_02  This is, you know, seek.
+1495.02 1500.94 SPEAKER_02  Uh, the great chain of being had snapped like so many paperclips strung together by some drooling idiot.
+1501.56 1508.86 SPEAKER_02  Death, destruction, anarchy, progress, ambition, and self-improvement were to be Piers Plowman's new fate.
+1509.32 1510.76 SPEAKER_02  And a vicious fate it was to be.
+1511.24 1515.14 SPEAKER_02  Now he was faced with the perversion of having to go to work.
+1517.08 1518.70 SPEAKER_01  It's just like me, for real.
+1518.70 1556.64 SPEAKER_03  And, um, you know, and, and so of course working for Ignatius is what he'd like to do is he just wants to sit in his bedroom, write in his children's exercise books frequently about, um, and again, this is, this is another thing that struck me as a really, this wasn't so much a predictor of, um, modern strange right-wingers, but a, um, a description of a tendency that's been in the case for a long time, which is the idea that modern culture, especially sort of like modern culture that has like pretty girls dancing in it is degenerate and I must go and see it so I can report in its degeneracy.
+1557.16 1557.46 SPEAKER_02  Yes.
+1557.62 1557.78 SPEAKER_02  Yeah.
+1557.80 1561.86 SPEAKER_02  And he's, he's sort of like alarmingly repulsive in some of these.
+1561.94 1569.72 SPEAKER_02  He, he is the kind of person who watches a, you know, a sort of review TV program that has children dancing and says all of them should be gassed.
+1569.72 1578.92 SPEAKER_02  He, he like sees a movie with a, uh, an actress he's obsessed by, um, and he calls her an abortion and, and, you know, and like shouts for them to rape her.
+1579.16 1583.26 SPEAKER_02  He is a horrible, disgusting man at every turn.
+1583.72 1607.32 SPEAKER_02  Um, and again, that it really, it prefigures this and the book's kind of interest in almost sort of verging with obsession with, uh, sadomasochism and rape specifically, uh, is it's alarming, but it, it, again, it prefigures a lot of stuff of, you know, stuff that was extant at the time and stuff that's extant now.
+1607.80 1613.64 SPEAKER_01  Um, yeah, I think, I think though, like one of the things that's interesting that makes Riley or not you, right.
+1613.88 1614.68 SPEAKER_01  Ignatius Riley.
+1614.82 1615.94 SPEAKER_01  I should call him Ignatius Riley.
+1616.22 1619.38 SPEAKER_02  I only realized this would be a problem now, half an hour in.
+1619.38 1633.20 SPEAKER_01  Um, the thing that makes Ignatius like interesting though, and not just sort of this like grotesquerie is that, you know, he is clearly captivated by that, which he despises and he feels compelled.
+1633.20 1637.80 SPEAKER_01  Like there's a scene where he's like, I basically like come hell or high water.
+1637.98 1641.22 SPEAKER_01  I have to go see this new movie that I know I'm going to hate.
+1641.82 1645.82 SPEAKER_01  And when there's a movie that comes out that might actually be good, he's like, no, I have no interest.
+1646.02 1658.56 SPEAKER_01  So like, you know, in, and in the same way too, like he venerates, you know, both of us well, both of us was like, uh, you know, uh, gave up most of the world, like didn't engage in like sloth or any sort of vice or whatever.
+1658.56 1667.80 SPEAKER_01  And meanwhile, Ignatius, as much as he valorizes this medieval thinker is like a totally discussed, you know, lays around in his bed all day eating cake.
+1667.80 1668.52 SPEAKER_01  Right.
+1668.70 1673.16 SPEAKER_01  So I think there's something like interesting in that sort of.
+1673.90 1675.92 SPEAKER_03  And masturbating, which is described as his hobby.
+1676.30 1676.52 SPEAKER_02  Yes.
+1676.52 1676.92 SPEAKER_02  Yes.
+1677.04 1692.04 SPEAKER_02  In alarming ways, there's repeated descriptions of him violating a women's glove that he just has, which is, it's, it is nasty, but the key conflict going forward is Ignatius needs a job.
+1692.12 1693.84 SPEAKER_02  His mother is making him get a job.
+1693.84 1698.66 SPEAKER_02  And as he says, employers sense in me a denial of their values.
+1698.86 1700.08 SPEAKER_02  They fear me.
+1700.48 1705.48 SPEAKER_02  I suspect that they can see that I am forced to function in a century, which I loathe.
+1705.94 1731.14 SPEAKER_03  And this is again, like we, when we talk about the, um, the sort of the modern Ignatius as being, as being produced by a kind of, in a sense, like just resentment of the world around him, that he isn't given the kind of, that he doesn't have the kind of, you know, contemplative, but he also gets to masturbate, eat hot dogs and be angry at the movies life of a sort of 14th century monk with a time machine.
+1731.42 1736.88 SPEAKER_03  Then again, it's, it's, it is the same reaction or it is to me, it feels like it rhymes.
+1736.88 1737.48 SPEAKER_04  Hmm.
+1737.74 1743.14 SPEAKER_03  Um, and then, you know, so he, he decides he has to go and get sort of, he has to go and get a job.
+1743.66 1756.18 SPEAKER_03  Um, and then he starts writing the journal of a working boy, which he assumes will, um, uh, uh, cause a kind of spontaneous revolution in America against capitalism for feudalism.
+1756.18 1766.56 SPEAKER_02  He, he, he says, uh, for the first time in my system, I, uh, for the first time in my life, I have met the system face to face, fully determined to function within its context as an observer and critic in disguise.
+1767.44 1773.36 SPEAKER_02  Um, and he, he observes and critiques in disguise getting a job at a pants factory.
+1773.64 1777.88 SPEAKER_03  Oh, not just any pants factory, the worst pants factory in New Orleans.
+1778.66 1790.86 SPEAKER_02  The pants factory that is a kind of like psychic totem burdening both the owner and his wife, um, which, which sort of entraps two office staff and a number of factory employees.
+1791.90 1791.98 None  Hmm.
+1792.32 1807.58 SPEAKER_03  Uh, so in, uh, Levy, I think most of the exchanges with Levy pants, especially that feature the owner of Levy pants, Gus Levy are some of my favorites because he is a guy who is just, who hates that he owns this company.
+1808.18 1811.74 SPEAKER_03  Um, who's, who's constantly harried by everyone around him.
+1811.74 1820.64 SPEAKER_03  Um, and how, and his wife sort of lying on an exercising board full sort of half asleep, be like, you know, you've really stolen my youth.
+1820.86 1823.56 SPEAKER_03  And he's like, Oh my God, your children hate you.
+1823.86 1825.06 SPEAKER_01  Your children hate you.
+1825.18 1826.16 SPEAKER_03  You've stolen my youth.
+1826.18 1830.46 SPEAKER_03  And he's like, can you just get off the exercising board and talk to me to leave the board out of this?
+1830.60 1830.74 SPEAKER_02  Yeah.
+1830.82 1838.62 SPEAKER_02  The, the Levy's are a fantastic, uh, sort of study in like bourgeois contempt and like, you know, the, the death of a marriage.
+1838.78 1839.84 SPEAKER_02  It's a, it's a great time.
+1839.98 1848.66 SPEAKER_02  Uh, and the whole time she's, she is obsessed with psychotherapy, uh, which she doesn't know anything about and is, is on this like wiggler.
+1848.78 1849.52 SPEAKER_02  She's being wiggled.
+1849.62 1855.08 SPEAKER_02  She's on the, the sort of like exercise board and she's just sort of like gently wiggling, scolding him.
+1856.02 1865.28 SPEAKER_01  Well, I was just going to say the thing about the Levy's that I find really interesting too, is the way that they are this, you know, second generation Jewish family.
+1866.24 1880.24 SPEAKER_01  Um, so like Gus Levy, his father was the one who, you know, worked his way up from being an itinerant, you know, uh, pants salesman to, to founding this, you know, this empire that's made him very, very wealthy.
+1880.34 1892.64 SPEAKER_01  I mean, it's like stretch to call it an empire being a little sarcastic, but making this factory, you know, Levy pants that, um, you know, has made the family very wealthy, but he was this horrible, horrible person, the father.
+1893.34 1905.70 SPEAKER_01  And so the reason that Gus Levy has so much trouble like managing this business is because he's like traumatized by the memory of his, his terrible father.
+1905.96 1916.98 SPEAKER_01  And I think it's also, you know, an interesting case study and like, you know, Jews becoming like waspy, secular, you know, members of New Orleans society, right.
+1916.98 1918.60 SPEAKER_01  It's about sort of like this integration.
+1919.04 1926.84 SPEAKER_01  And so rather than having any sort of religion, like they talk about Christmas, it's like his wife has embraced psychoanalysis, psychoanalysis.
+1927.46 1927.86 SPEAKER_00  Yes.
+1927.86 1931.86 SPEAKER_01  Which is, you know, so like classic of this, this time period.
+1932.54 1933.68 SPEAKER_01  Um, I don't know.
+1933.72 1944.54 SPEAKER_01  I just, I think, you know, coming from a family of like Southern Jews myself, um, who, you know, not from New Orleans, but from Mississippi, but stay, you know, same sort of like dynamic.
+1944.54 1947.80 SPEAKER_01  Like I just found it so like painfully accurate.
+1947.80 1952.58 SPEAKER_01  Like this was basically the house that my grandfather would have grown up in, you know what I mean?
+1952.58 1972.72 SPEAKER_01  Like it really, like he, I think that's one of the strengths of the book is that he does paint these like, you know, yes, obviously satirical, but so, such accurate, uh, in their notes, pictures of these, these families, like the Levees, you know, I think it's like, like, oh, I know these people because I might be related to some of them.
+1975.22 1975.62 SPEAKER_01  Unfortunately.
+1976.00 1976.12 SPEAKER_01  No.
+1976.48 1977.26 SPEAKER_01  Um, yeah.
+1977.60 1980.14 SPEAKER_02  Sadly, you didn't get the like pants air money.
+1980.28 1985.02 SPEAKER_01  No, no, that was all long gone before I ever came onto the scene, but, uh, certainly heard about it.
+1985.50 1985.70 SPEAKER_01  Yeah.
+1986.44 1990.68 SPEAKER_03  So, um, Ignatius sort of moves around town applying for jobs.
+1991.06 1995.10 SPEAKER_03  Uh, and there are other several sort of sub narratives going on here as well.
+1995.10 1995.96 SPEAKER_03  It's not just him.
+1996.32 1996.80 SPEAKER_03  There's patrol.
+1996.92 2006.70 SPEAKER_03  We have the character of his mother who's finally leaving the house and getting some friends because she's not just consumed by her, you know, oafish and terrible son.
+2007.26 2009.38 SPEAKER_02  She, she is kind of terrible to him.
+2009.46 2011.84 SPEAKER_02  She is a bit of an alcoholic also.
+2012.02 2015.78 SPEAKER_02  She keeps a bottle of muscatel in the oven to conceal it from Ignatius.
+2015.86 2020.08 SPEAKER_02  And one of the cruelest things he says to her is to, to get your wine out of the oven.
+2020.14 2020.94 SPEAKER_02  I think it's done.
+2020.94 2027.74 SPEAKER_02  Um, but yeah, they're kind of like mutually toxic on a sort of like mountain goat song level.
+2028.74 2030.74 SPEAKER_01  Um, it's very Southern Gothic, right?
+2031.06 2032.10 SPEAKER_02  Like, yeah, for sure.
+2032.16 2036.86 SPEAKER_02  Well, it's, it's, it's, it's a carnivalesque Southern Gothic is how I would describe this book.
+2037.28 2042.04 SPEAKER_02  Um, it, we're taking a lot of the Southern Gothic stuff and we're, we're making it farcical.
+2042.16 2043.06 SPEAKER_02  We're subverting it.
+2043.06 2051.52 SPEAKER_02  Um, and, and we're being like, damn society through the lens of this kind of quicksotic, uh, strange man.
+2052.12 2052.26 SPEAKER_04  Hmm.
+2052.90 2062.96 SPEAKER_03  Um, and then of course we also have patrolman Mancuso who is, uh, you know, frequently being put in sort of different getups patrolling the French quarter, trying to arrest suspicious characters.
+2062.96 2076.84 SPEAKER_03  Um, and then we also of course have, um, uh, uh, we have then the, the denizens of Levy Pants with the one dedicated employee who's desperately trying to make all of it work, who hires Ignatius for the filing.
+2077.28 2086.78 SPEAKER_03  Uh, and, um, Miss Trixie, the sort of an accountant who is desperate to retire, who's mostly asleep, uh, who is being slightly senile.
+2086.78 2087.34 SPEAKER_00  Yes.
+2087.34 2094.88 SPEAKER_03  Who's being kept on board because she is a kind of person for Mrs. Levy to experiment her psychological theories on.
+2095.52 2095.56 SPEAKER_03  Hmm.
+2095.98 2097.70 SPEAKER_03  Um, yeah, it is.
+2097.86 2108.96 SPEAKER_03  And, and other sort of, and even other, other sub narratives such as, uh, Ignatius's relationship, relationship, mostly correspondence, uh, with his, I'd say liberal other half.
+2109.28 2112.40 SPEAKER_02  Myrna, I got, I, I, we got to talk about Myrna Minkoff.
+2112.40 2116.78 SPEAKER_02  Uh, so Myrna Minkoff, phew, interesting, right?
+2116.78 2117.34 SPEAKER_02  I love her.
+2117.88 2121.82 SPEAKER_02  I, I, I feel a little conflicted, right?
+2121.86 2129.26 SPEAKER_02  Because this is the thing where Tool tries to take it from just, here is a weird guy to this says something about America.
+2129.40 2137.54 SPEAKER_02  And like, the reason why this novel was never published was because publishers thought and, and told him this, that it wasn't in aid of anything.
+2137.66 2139.10 SPEAKER_02  There wasn't a point to it.
+2139.12 2140.36 SPEAKER_02  There wasn't a narrative to it.
+2140.36 2142.94 SPEAKER_02  Uh, and I, I think that's true, right?
+2142.96 2143.98 SPEAKER_02  I think that's borne out.
+2144.04 2153.20 SPEAKER_02  And part of the reason, part of the way he attempts to sort of remedy this is by having this character who is like, here is the, uh, socialist- Real Ignatius.
+2153.82 2157.08 SPEAKER_02  New Yorker opposite of Ignatius.
+2157.12 2160.48 SPEAKER_02  And together these two comprise a dramaturgical dyad or whatever the fuck.
+2160.48 2168.04 SPEAKER_02  Um, and they had been in an unconsummated relationship in university.
+2168.54 2173.80 SPEAKER_02  Um, and since then they kind of exist to taunt each other by mail.
+2174.20 2179.98 SPEAKER_02  Um, and she, she's engaged in causes, right?
+2179.98 2186.08 SPEAKER_02  And, and, and to all sort of attempt to parody the left of the 1960s, right?
+2186.08 2199.94 SPEAKER_02  Uh, as these kind of, particularly the white and particularly the Jewish left of the 1960s as being, uh, masochistic, sex-obsessed, hypocritical, racist, uh, defensive.
+2199.94 2205.40 SPEAKER_02  And all of this kind of falls quite flat.
+2205.46 2207.68 SPEAKER_02  There's a real sneering tone to it.
+2207.74 2210.50 SPEAKER_02  And it's unusually misogynistic here, too.
+2211.10 2215.66 SPEAKER_02  Um, like, Myrna, Myrna is, she's described as being masochistic, right?
+2215.78 2230.42 SPEAKER_02  Um, you know, the, the, the narrative points out, and I'm not sure if this is in character with Ignatius or not, that, uh, she's, she was only happy when a police dog was sinking its fangs into her black leotards when she was being dragged feet first down stone steps from a Senate hearing.
+2230.96 2236.40 SPEAKER_02  Bands of crackers and rednecks had chased her from villages, slashed her tires, whipped her a bit about the arms.
+2236.72 2242.96 SPEAKER_02  She had been hunted by bloodhounds, shocked by cattle prods, chewed by police dogs, peppered lightly with shotgun pellets.
+2243.24 2249.66 SPEAKER_02  She had loved every minute of it, showing me quite proudly, and I might add suggestively, a fang mark on her upper thigh.
+2250.14 2253.72 SPEAKER_02  And, okay, that person exists, but it's just me, right?
+2253.72 2262.20 SPEAKER_02  You can't, to generalise from that, to, like, tell a story about, like, American leftists in the 60s.
+2262.86 2267.00 SPEAKER_02  It's really trying to do, like, a both sides thing here, right?
+2267.06 2268.68 SPEAKER_02  It's both sides of farcical.
+2268.96 2275.74 SPEAKER_03  It's a little bit John Kennedy Tool, as you say, falling into the Ignatius Riley character, which is, everybody is an idiot.
+2276.16 2282.02 SPEAKER_02  Well, as he wrote it, he felt himself becoming more like him, which is a thing, you know, happens to authors.
+2282.02 2288.74 SPEAKER_02  His letters home to his family from Puerto Rico, where he was writing this, get more Ignatius-like.
+2288.74 2313.14 SPEAKER_02  Um, uh, but yeah, I, I think it's genuinely a reflection of, of his worldview, which is that, uh, you know, an uncomfortable kind of centrism, uh, that retreats from what politics were happening in America in 1962, no less, and going, well, okay, but, like, all of this is kind of still carnival-esque.
+2313.14 2327.50 SPEAKER_02  Um, it's, it's like the people who, if you, if you try to generalize this as a type of guy, right, this is the type of guy that you see on Twitter whose, whose deal is, like, both sides are stupid, and the important thing is that I'm smarter than both of them.
+2327.76 2335.24 SPEAKER_03  Yeah, which is, again, and that's the, the, you could say that the Ignatiuses, there, there are Ignatiuses all over the place.
+2335.24 2345.80 SPEAKER_03  There are many, of course, uh, people who are, um, sort of, you're, well, not many, but there are very loud, you know, Rod Dreher back to the 1350s trad cats.
+2346.02 2352.88 SPEAKER_03  There are also a very many, um, rally to restore sanity people, which is exactly as inward looking.
+2353.46 2355.24 SPEAKER_03  And, um, you know, again, like farcical.
+2355.24 2360.78 SPEAKER_02  There's a, there's a sort of distinction there, because those people aren't Ignatius Riley, those people are John Kennedy Tool.
+2361.06 2361.28 SPEAKER_04  Yeah.
+2361.38 2371.06 SPEAKER_02  Um, and, uh, the sort of, the viewpoint of the book is, to me, this kind of moral cowardice, right?
+2371.12 2393.06 SPEAKER_02  That happens a few times in this, where, uh, there's an attempt to sort of, like, dabble in, uh, current events, recognize the sort of hazard and comedic potential of doing that, recognize also the comedic potential of refusing to do that and being a sort of man out of time, and then sort of nothing.
+2393.42 2401.46 SPEAKER_02  And I think that's where I, I tend to agree with the, you know, the original publishers, or rather non-publishers of this, which is, you know, where is this going?
+2401.64 2407.38 SPEAKER_02  What is this in aid of, other than just kind of being a character study or being a farce?
+2407.38 2413.30 SPEAKER_03  What I think it's in aid of, really, is all of the sequences at Levy Pants, essentially.
+2413.58 2414.86 SPEAKER_03  Yeah, for sure.
+2415.26 2442.74 SPEAKER_03  Um, not in aid of anything, but, uh, setting up, uh, this big weirdo, uh, getting a, um, getting a normal job, and then appointing himself Master of Theology and Geometry and Research at this Pants administration factory, um, and creating for himself a sign embroidered with Fleur de Lis, uh, while sort of creating an efficient filing system that it just involves throwing out every file he's given.
+2442.74 2443.26 SPEAKER_03  Yeah.
+2443.42 2453.96 SPEAKER_02  His sort of, his great innovation here, he decides, um, as he says, if, if Levy Pants was to succeed, the first step would be imposing a heavy hand upon its detractors.
+2454.52 2460.70 SPEAKER_02  Levy Pants must become more militant and authoritarian in order to survive in the jungle of modern commercialism.
+2460.70 2491.72 SPEAKER_02  So he, he, he being the only one who was doing any administration, starts destroying files, and then when a letter has to go out signed by the absent Mr. Levy, uh, to, to one of the distributors, he alters it as his signature forged, um, and writes this kind of stream of abuse, which, again, is, is very online to them, which ends with, I think, maybe my favourite passage in the novel, We do not wish to be bothered in the future by such tedious complaints.
+2492.24 2494.76 SPEAKER_02  Please confine your correspondence to orders only.
+2495.26 2500.72 SPEAKER_02  We are a busy and dynamic organisation whose mission, needless effrontery and harassment, can only hinder.
+2501.22 2507.44 SPEAKER_02  If you molest us again, sir, you may feel the sting of the lash across your pitiful shoulders, yours in anger.
+2509.52 2513.14 SPEAKER_02  Which is also the auto-reply for the contact form on trashfuture.co.uk.
+2513.14 2513.30 SPEAKER_02  Yeah.
+2516.10 2532.70 SPEAKER_03  Um, yeah, and, and of course the, uh, the, the, this is of course not Ignatius's only job, uh, as he is of course fired when, uh, they realise that he has been abusing their customers, binning all their files, and attempting to, um, attempting...
+2532.70 2533.20 SPEAKER_03  Attempting...
+2533.20 2535.60 SPEAKER_03  Attempts to lead a civil rights riot.
+2535.60 2536.32 SPEAKER_03  Attempts.
+2536.32 2536.64 SPEAKER_03  Yeah.
+2536.64 2543.42 SPEAKER_03  Um, where he's hoping that they, that everyone, yeah, a, a riot that's supposed to have at least a body count?
+2543.66 2558.88 SPEAKER_01  Well, this is an interesting bit because it's, it's, he presents himself as like the leader of this civil rights movement, but his only target is poor Mr. Gonzalez, who is the only person working at Levy Pants.
+2558.88 2570.20 SPEAKER_01  And so, you know, when he, uh, because he's trying to get Ignatius to do things, Ignatius decides he's going to organise the workers, but just against this one specific guy.
+2571.04 2578.32 SPEAKER_01  And when the workers get into the office and they find out what, you know, what Ignatius's plan is all along, they just sort of abandon him there.
+2578.40 2581.52 SPEAKER_01  And of course, um, he's fired eventually for this.
+2581.88 2596.10 SPEAKER_02  The joke here, I guess, is that this is, Ignatius has a racist conception of what a civil rights sort of action or protest is, and tries to organise one on that basis to get himself out of work.
+2596.50 2596.52 SPEAKER_02  Yeah.
+2596.56 2598.30 SPEAKER_03  The crusade for Moorish dignity.
+2598.58 2598.76 SPEAKER_01  Yeah.
+2598.86 2599.22 SPEAKER_03  Yes.
+2599.42 2607.82 SPEAKER_01  And also to, to show his would be, you know, sort of his, his other half, uh, Meyer Minkoff that he can also do political organising.
+2608.36 2608.66 SPEAKER_01  Yes.
+2608.84 2616.40 SPEAKER_02  He's constantly doing stuff with the aid, with the aim of like writing her a letter that's like, check out the shit I just did.
+2616.40 2627.60 SPEAKER_02  It's way more impressive and impactful than you like lecturing at the, at the Y about how, uh, you know, uh, sexual liberation will, uh, will like free us.
+2628.40 2638.10 SPEAKER_03  It's also, it's, there's a little bit of the everything I do I'm doing versus someone, which reminds me a lot of the, like, I'm going to buy a Keurig coffee maker and throw it off the balcony.
+2638.36 2638.72 SPEAKER_01  Yeah.
+2639.00 2639.28 SPEAKER_01  Yeah.
+2639.28 2645.92 SPEAKER_02  I will say also that the Levy Pants bit and specifically the, uh, the crusade for Moorish dignity, right?
+2645.98 2653.80 SPEAKER_02  Has, I think one of the more revealingly and sort of authorially racist parts of the book, right?
+2653.84 2669.72 SPEAKER_02  And there are a few of these, but there's one part where Ignatius sort of like, he, he remonstrates with the entirely black factory workers that, uh, you know, their aspirations to join the middle class, uh, a bourgeois, right?
+2669.78 2671.26 SPEAKER_02  Which is, you know, again, very familiar.
+2671.72 2675.02 SPEAKER_02  Um, you know, or he sort of calls them liberals, right?
+2675.22 2691.26 SPEAKER_02  Um, and then he says, if essentially, if only I could be like you guys and just not have to work and just, you know, be distant from society by, you know, by choice or by accident of birth, then I could just have my creature comforts.
+2691.26 2692.86 SPEAKER_02  And you guys are so lucky actually.
+2693.50 2701.82 SPEAKER_02  And that to me is like, obviously that's part of Ignatius's character, but I think there's an assumption there that is authorial.
+2702.26 2717.70 SPEAKER_02  Um, and I think that's a very Southern one specifically, uh, about what racial dynamics in the South are, what they look like, uh, and you know, the, just the dynamics of work in the South as well.
+2717.70 2744.04 SPEAKER_03  Uh, well, again, I guess you think about the, about the author here, the author is ultimately someone who was unable to, unable to reconcile, I think his, his place in the world of, of work and wrote this, wrote, wrote a book that was sort of a satire, but it was trying to satirize his own situation, but from the remove of someone who really ought to be satirized.
+2744.04 2744.82 SPEAKER_02  Yeah, absolutely.
+2745.18 2752.02 SPEAKER_02  I mean, he, he, he writes, uh, like, um, Ignatius thinks he imagines himself as black, right?
+2752.36 2764.62 SPEAKER_02  And he imagines his mother as black and she says, she and I could live most pleasantly in some moldy shack in the slums in a state of ambitionless peace, realizing contentedly that we were unwanted, that striving was meaningless.
+2765.40 2782.22 SPEAKER_02  Um, and this idea of like, sort of the Buddha nature or the sort of, uh, the sanctified medieval, uh, sort of cloistered nature, uh, of, of, you know, poverty there is, I don't know.
+2782.32 2787.82 SPEAKER_02  It's, it's intended to be funny, but I think it's also, there's, there's a kind of like underlying romanticism there.
+2788.30 2796.98 SPEAKER_03  And of course though, uh, Levy Pants is not Ignatius's only job because as we say, the crusade for more dignity does not spark a kind of medievalist revolution.
+2796.98 2803.78 SPEAKER_03  Rather, it gets Ignatius fired from Levy Pants again, offhandedly by Gus Levy, who desperately doesn't want to be there.
+2804.28 2815.22 SPEAKER_03  Um, and, uh, ends up back wandering the streets looking for a job when he gets a kind of paid in kind role vending hot dogs.
+2815.46 2815.98 SPEAKER_02  Yes.
+2816.16 2821.28 SPEAKER_02  The, the, the sort of funniest part of the joke here is that he eats most of the hot dogs himself.
+2822.00 2822.52 SPEAKER_03  Indeed.
+2823.08 2826.94 SPEAKER_03  Um, and, uh, again, sort of creates increasingly fantastic.
+2826.98 2831.24 SPEAKER_03  Fantastical stories about being, being robbed by urchins for hot dogs.
+2831.54 2831.82 SPEAKER_04  Hmm.
+2832.68 2841.22 SPEAKER_03  Um, the, uh, so he, uh, and, and this is of course much to dismay of his mother who says, oh, we have been brought so low.
+2841.30 2842.82 SPEAKER_03  My son is selling weenies.
+2843.30 2848.16 SPEAKER_03  Um, this also is where the, the various threads of the novel begin to come together.
+2848.16 2851.86 SPEAKER_03  Um, where the night of joy, right?
+2851.94 2856.28 SPEAKER_03  This, uh, the strip club, um, the proprietress is, has this.
+2856.28 2858.70 SPEAKER_03  Um, business relationship.
+2858.70 2864.32 SPEAKER_03  I think selling sort of pornographic material buying and selling pornographic material of
+2864.32 2882.44 SPEAKER_02  herself specifically. Um, she's, she also, she employs, uh, a recurring character and the only like meaningful black character in the novel Jones as, uh, sort of a porter by coercion, right?
+2882.44 2886.42 SPEAKER_02  Because he, he's gotten arrested at the start of the novel in the aftermath of Ignatius.
+2886.98 2892.24 SPEAKER_02  Um, and it's sort of, uh, you know, looking for an out from this as well.
+2892.62 2900.50 SPEAKER_02  Um, and, and she's trying to run this, uh, this strip act with a bird and a slightly dim stripper.
+2900.94 2901.46 SPEAKER_04  Mm-hmm.
+2901.86 2903.30 SPEAKER_03  More than slightly, I think.
+2903.66 2932.22 SPEAKER_03  Well, um, yeah, but the, uh, so this is the, and when it all comes to head in the hot dog vending cart where, um, again, Ignatius still writing his diary of a working boy sort of versus Myrna, um, must now, uh, now finds these sort of various pornos, um, stuffed in the, in his hot dog cart and he sort of becomes an, um, uh, an unintentional, uh, peddler of, uh, such, um, blue postcards, so to speak.
+2932.58 2946.24 SPEAKER_01  Well, it, it all, well, what happens is he has lent this, there's this boat, this book by both is that he's obsessed with that he lends to the policeman and then somehow it ends up in the, I can't remember it now exactly, but it ends.
+2946.38 2949.74 SPEAKER_02  Yeah, he, he, it gets, it gets the, the consolation of philosophy.
+2949.74 2957.92 SPEAKER_02  It gets stolen from Mancuso in a bus station restroom where he's been ordered to cruise in order to entrap gay men.
+2958.04 2962.84 SPEAKER_01  Which is very funny because the gay men keep calling the cops on Mancuso, so he gets arrested.
+2963.06 2964.02 SPEAKER_02  I have a lot of this.
+2964.30 2965.70 SPEAKER_02  So, so I, I want to talk about.
+2965.90 2967.24 SPEAKER_01  I want to say, let me just finish.
+2967.36 2971.84 SPEAKER_01  So he, so he like, so this book ends up in this pornographic photo.
+2971.84 2977.44 SPEAKER_01  And so when Ignatius Riley sees the pornographic photo, he is like, I have to meet this woman.
+2977.66 2982.16 SPEAKER_01  She's the woman of my dreams because she's like beautiful.
+2982.24 2985.52 SPEAKER_01  And she's reading this like obscure 14th.
+2985.58 2993.56 SPEAKER_01  Well, it's not, I mean, for a medievalist, it wouldn't be obscure, but for any normal member of the public obscure, you know, text, like she is the perfect woman for me.
+2993.56 2999.00 SPEAKER_01  And so he barrels into the, the bar basically to find her.
+2999.12 3002.48 SPEAKER_01  And then this is where things, you know, all things go tits up basically.
+3002.48 3003.40 SPEAKER_02  Yeah, for sure.
+3003.48 3010.08 SPEAKER_02  I do want to talk about gays a bit because he has an intervening crusade when, when the crusade for Moorish dignity doesn't work out.
+3010.08 3014.84 SPEAKER_02  Um, which is he encounters, uh, a homosexual man.
+3015.40 3027.06 SPEAKER_02  Um, and they, like the gay community of New Orleans are very aware that Mancuso, this undercover cop who is being dressed in increasingly ludicrous outfits.
+3027.14 3028.10 SPEAKER_02  It's a little bit Thomas Pynchon.
+3028.50 3032.06 SPEAKER_02  Um, it's sort of been going around attempting to entrap them.
+3032.06 3039.56 SPEAKER_02  Um, and, uh, and one of them says, I'm so glad the police have returned him to the people who truly appreciate him.
+3039.80 3042.14 SPEAKER_02  I'm sure he was being wasted wherever he was recently.
+3042.62 3043.74 SPEAKER_02  Oh, that accent of his.
+3043.92 3048.22 SPEAKER_02  Some people like him best as the British tourist, but I've always preferred his Southern Colonel.
+3048.52 3050.48 SPEAKER_02  Sort of being, being entrapped by Colonel J.G.
+3050.48 3050.90 SPEAKER_02  Acaster.
+3051.06 3052.26 SPEAKER_02  It's really a matter of taste.
+3052.50 3055.02 SPEAKER_02  We've had him arrested twice for making indecent proposals.
+3055.40 3057.60 SPEAKER_02  That's always wonderfully confusing to the police.
+3057.84 3061.68 SPEAKER_02  I do hope that we haven't gotten him in too much trouble for he's close to our hearts.
+3062.06 3069.80 SPEAKER_02  Um, but Ignatius, like he sees another gay man dressed as a sailor.
+3070.14 3073.96 SPEAKER_02  Um, and he, he deduces that he is impersonating a troop.
+3074.48 3083.32 SPEAKER_02  Um, and, and, and this, uh, this guy he's talking to, uh, Dorian sort of jokingly says that's not all he impersonates, which is, is another great line.
+3083.32 3102.22 SPEAKER_02  And, and he decides that the way to gain world peace is, uh, through, again, he acted, he accidentally invents a kind of 21st century ideology, which survives in like graffiti and bathroom stalls and in Portland, which is that like all gay sex is inherently liberatory.
+3102.80 3108.82 SPEAKER_02  Um, and so his idea is government by homosexuality.
+3108.82 3113.28 SPEAKER_02  Uh, everyone else, almost everyone else has had an opportunity to run the world.
+3113.42 3116.10 SPEAKER_02  I cannot see why these people should not be given their chance.
+3116.78 3118.46 SPEAKER_02  Um, you know what he invented?
+3118.54 3119.98 SPEAKER_02  He invented the they, them army.
+3120.74 3121.36 SPEAKER_02  Sort of.
+3121.40 3121.54 SPEAKER_02  Yeah.
+3121.72 3128.98 SPEAKER_02  In, in seeing the success of their unified fellows here, perverts around the world will also band together to capture the military in their respective countries.
+3128.98 3137.90 SPEAKER_02  Uh, when we have at last overthrown all existing governments, the world will enjoy not war, but global orgies conducted with the utmost protocol and the truly international spirit.
+3138.20 3140.80 SPEAKER_02  These people do transcend simple national differences.
+3141.40 3155.86 SPEAKER_02  Um, and so he inveigles Dorian to set him up with a, this is like a speaking opportunity at a party where he's going to announce, uh, this concept, right?
+3155.86 3160.48 SPEAKER_02  Um, and what follows is alarmingly homophobic.
+3160.58 3181.48 SPEAKER_02  Let me say, um, he goes to this party and to kind of like runs out of description and devolves into dialogue at points where he's like the point that he's trying to make is that gay men are sort of farcical and effeminate and, uh, sadomasochistic and incapable of engaging with serious politics.
+3181.48 3185.38 SPEAKER_02  Uh, even when it's presented by a sort of goon like Ignatius.
+3185.88 3195.62 SPEAKER_02  Um, and, and so they are, he, he makes his attempt to rally them and, uh, they respond with sort of total disinterest and laughter.
+3195.62 3199.20 SPEAKER_02  And there's a strange kind of thing that happens here.
+3199.46 3204.18 SPEAKER_02  Uh, also three extremely hostile butch lesbians chase him out of the thing and threaten to beat him up.
+3204.18 3206.50 SPEAKER_02  Um, and yeah, of course.
+3206.96 3223.38 SPEAKER_02  But the thing that strikes me about this is it's the same with Dorian and the other various homosexuals of this book as it is with Jones, the only like meaningful black character of the book where there is closely observed dialogue, but only in a kind of like out group way.
+3223.88 3231.62 SPEAKER_02  Um, this is the kind of gay person you would write if you had heard gay people being acid and acerbic to you, but not amongst themselves.
+3231.62 3234.74 SPEAKER_02  You know, uh, none of these characters know how to code switch.
+3235.24 3239.10 SPEAKER_02  Um, and there's, they have no interiority, uh, because of course, why not?
+3239.12 3239.74 SPEAKER_02  It's a farce.
+3240.12 3249.46 SPEAKER_02  Uh, and so he is, he is expelled from this thing, uh, this party which sort of degenerates into, uh, just kind of effeminate lunacy.
+3249.46 3249.90 SPEAKER_02  Yeah.
+3250.90 3257.30 SPEAKER_03  It's the, the, the big gay party that where the, all there is, is flouncing around at increasing intensity.
+3257.62 3258.56 SPEAKER_02  Yeah, absolutely.
+3258.82 3265.62 SPEAKER_03  It's, it's, it's, if you only have ever seen game, like gay men flounce around, you'd be like, well, I guess when they're alone, they flounce more.
+3266.62 3280.14 SPEAKER_01  I do wonder though, like, and I, I don't, I want to be careful not to like overstate things, but you know, one of the things we haven't really talked about is like, you know, this is a very Catholic book and tool himself with a very Catholic person.
+3280.14 3290.38 SPEAKER_01  And there's, you know, a lot, I'm not Catholic, so I don't want to like, you know, kind of, but, but there is, you know, speculation about tools, own sexual orientation.
+3290.38 3290.90 SPEAKER_01  Right.
+3291.54 3309.00 SPEAKER_01  And so, you know, I, I wondered like reading through this, like, you know, is there, is there a kind of like very Catholic sort of, you know, in the same way that Ignatius, you know, is obsessed with that, which he hates presumably.
+3309.54 3309.98 SPEAKER_01  Right.
+3310.04 3316.14 SPEAKER_01  Because he, and he is, you know, it should be mentioned, like he is, doesn't have sexual relations with Mirna.
+3316.22 3319.42 SPEAKER_01  The only sexual fantasy we see him have is about his dog.
+3319.82 3319.98 SPEAKER_01  Right.
+3321.16 3334.96 SPEAKER_01  You know, you do have to wonder about Ignatius's own sexual orientation and the way that this might manifest in loathing in the same way, like this being a first novel, they do tend to be pretty autobiographical.
+3335.48 3338.66 SPEAKER_01  Could we think some of the same things about tool?
+3338.92 3339.46 SPEAKER_01  Like I do.
+3339.72 3339.88 SPEAKER_01  It's.
+3340.28 3340.40 SPEAKER_02  Yeah.
+3340.72 3341.72 SPEAKER_02  Well, it's interesting.
+3341.82 3367.00 SPEAKER_02  You mentioned the, the Catholicism because his first sort of the closest thing he gets to like a critique of this milieu is an aesthetic one where he looks at some of the furniture and Dorian sort of like, you know, lavishly decorated living room and says a human in such a room was expected not to rest or sit or even relax, but rather pose, thereby transforming himself into a human furnishing that would compliment the decor as well as possible.
+3367.68 3372.84 SPEAKER_02  After Ignatius had studied the decor, he said to Dorian, the only functional item in here is that phonograph.
+3373.18 3375.22 SPEAKER_02  And that is obviously being misused.
+3375.72 3378.50 SPEAKER_02  This is a room with no soul.
+3378.50 3390.48 SPEAKER_02  And I think this is one of the times where you can kind of feel to put his thumb on the scale a little bit and be like, this is, this is when Ignatius is like half right about something, you know?
+3390.90 3391.18 SPEAKER_01  Yeah.
+3391.42 3391.68 SPEAKER_01  Yeah.
+3391.72 3413.88 SPEAKER_01  And I think like, you know, that also goes back to like his own sort of fantasy about what a perfect Catholic, because I think this, this book is very criticism, critical of Catholicism in general, Catholicism as sort of a social place where people just go and recite the rosary and like his mother goes to church, but doesn't really have any sense of theology.
+3413.88 3414.38 SPEAKER_01  Right.
+3414.46 3417.04 SPEAKER_01  Whereas Ignatius doesn't go to church.
+3417.04 3419.10 SPEAKER_01  He's doesn't believe in the Pope.
+3419.10 3419.46 SPEAKER_01  Right.
+3419.94 3423.18 SPEAKER_01  But he does pray to different saints at different points.
+3423.18 3427.68 SPEAKER_01  Like we see him, you know, sort of engaging in this like daily Catholic worship.
+3427.68 3435.78 SPEAKER_01  And so like, I think, you know, you can think about critiquing the room itself as like talking about like the way he might talk about a cathedral.
+3436.30 3436.70 SPEAKER_01  Right.
+3436.86 3445.00 SPEAKER_01  It's what comes to mind to me anyway, that, that these are ornate spaces without soul and like that he's engaging in like a real Catholic practice.
+3445.18 3472.46 SPEAKER_01  Now, of course he's not perfect in this either, but I think that's, you know, a big through line of the text is this sort of, you know, and keeping in mind like the religious politics of the time, like it matters that like New Orleans is a very Catholic city and he comes into conflict with the KKK, not so much or like not so much on the grounds of like racial issues, but because the KKK are Protestants.
+3472.84 3472.98 SPEAKER_01  Right.
+3473.26 3477.42 SPEAKER_01  And so like, this is also, you know, part of the dynamic that's going on in the book.
+3477.52 3483.68 SPEAKER_01  Like, it's just a very particular sort of place and time that he's describing here.
+3483.68 3484.60 SPEAKER_03  Hmm.
+3485.22 3489.20 SPEAKER_03  So I think coming sort of towards the end, right?
+3489.30 3504.04 SPEAKER_03  I find the end of this book to be very odd, which is just that he is, he sort of, he realizes, oh no, my dream woman who was both hot and read medieval literature doesn't really exist.
+3504.42 3504.54 SPEAKER_02  Yeah.
+3504.62 3509.74 SPEAKER_03  It is actually Lana Lee, the kind of like alarmingly fascist strip club proprietress.
+3509.74 3518.98 SPEAKER_03  Um, and, uh, and, and a very strange ending for a farce happens, which is Myrna arrives and takes him to New York saying, it'll be better for you.
+3519.06 3519.38 SPEAKER_02  Hold on.
+3519.52 3529.00 SPEAKER_02  We have to back up a bit because the, the actual sort of like degeneration into farce is, uh, he sort of interrupts this terrible strip act.
+3529.08 3530.92 SPEAKER_02  He gets savaged by a bird.
+3530.92 3540.64 SPEAKER_02  Um, Jones takes this opportunity to sort of like sabotage the, the night of joy and leads Mancuso to, um, uh, the illicit pornography.
+3540.64 3541.94 SPEAKER_02  So he gets his big bust.
+3542.02 3545.38 SPEAKER_02  He gets to stay on the force, uh, and Lana Lee gets arrested.
+3545.38 3550.14 SPEAKER_02  And of course the three lesbians show up to, to attack everyone.
+3550.14 3554.82 SPEAKER_02  Uh, and this sort of ties itself all together.
+3555.12 3570.64 SPEAKER_02  We, we check in with each of the characters and, uh, you get a more or less explicit, like ending for Lana Lee where she is sexually assaulted by three butch lesbian stereotypes in jail.
+3570.64 3572.36 SPEAKER_02  And it's like, Oh, okay.
+3572.70 3575.58 SPEAKER_02  Uh, great.
+3575.78 3576.90 SPEAKER_02  Thanks for that.
+3576.90 3590.34 SPEAKER_02  Um, you know, I, I, again, it's, it's not to say that the novel doesn't have anything worthwhile to talk about on it because I've been talking about it, but it's, it's one of those things that I think kind of stops you in your tracks or at least did me.
+3591.20 3591.60 SPEAKER_03  Yeah.
+3591.72 3608.90 SPEAKER_03  I think it was, I felt sort of some of the, I was sort of stopped in my tracks throughout reading it where like the, with some of, I think Ignatius is more, um, let's say, um, um, extreme condemnations of like female actors and so on.
+3609.42 3623.52 SPEAKER_03  Um, and I, I guess I, I remember just sort of, um, yeah, I, I, I, I remember reading it when I was, uh, you know, much, much younger and I think focusing more on, you know, Oh, Hey, this big oaf is a weird guy.
+3623.60 3624.08 SPEAKER_03  Yeah.
+3624.08 3626.78 SPEAKER_02  Um, it's a very funny book in places.
+3626.78 3633.66 SPEAKER_02  And the thing is, I, I don't mind, uh, a novel being repulsive or a character being repulsive.
+3634.18 3638.02 SPEAKER_02  I don't mind sort of like twisting the knife on that at all in the slightest.
+3638.02 3645.66 SPEAKER_02  But I, again, I, I come back to the, the sort of the reason why publishers did not like this at the time, which is to what end, you know?
+3646.02 3658.00 SPEAKER_02  Uh, and, and if the end is, uh, you know, this, this says something about our society, uh, or American society of the sixties, particularly in the South, what does it say other than, uh, damn, this shit's crazy.
+3659.04 3659.48 SPEAKER_03  Yeah.
+3659.54 3664.86 SPEAKER_03  I think that's, that's basically, um, I think that's basically where it comes to, right?
+3664.88 3672.52 SPEAKER_03  Which is, I think he, he thought of a weird guy, um, and then placed him in what he imagined was a weird place.
+3672.70 3675.30 SPEAKER_03  And then that was sort of it.
+3675.72 3675.82 SPEAKER_03  Yeah.
+3675.82 3682.42 SPEAKER_02  I mean, the thing is, it's like, it's still a fun novel.
+3682.64 3693.60 SPEAKER_02  It's still a, a sort of compelling novel in places, but the meanest thing I've ever heard said about this, about this book was, um, why does the world need a heterosexual Truman Capote?
+3694.18 3701.52 SPEAKER_02  And I think that's basically, that's, that's my like top line review of this is, yeah.
+3701.92 3702.44 SPEAKER_03  Why?
+3702.62 3703.14 SPEAKER_03  Why this?
+3703.42 3703.56 SPEAKER_03  Yeah.
+3703.56 3711.40 SPEAKER_03  Um, well, I'll tell you why this it's because it was another weird medievalist, but then upon rereading it, I was like, oh yeah, well, why this though?
+3712.10 3712.38 SPEAKER_03  Hmm.
+3712.74 3719.68 SPEAKER_01  I think for me, you know, I wrote my, this is, we can, you know, this is too pretentious to get out of that.
+3719.78 3742.40 SPEAKER_01  You know, I wrote my, my master's thesis on Kate Chopin, who is a, uh, Southern Gothic, you know, short story writer who's, you know, earlier than Thomas O'Toole, but, or John Kenny O'Toole, but like whose work bears a lot of, you know, similar problems or hallmarks of the Southern, you know, Gothic writer in general.
+3743.02 3748.26 SPEAKER_01  Um, and so for me reading this, like, I think it's interesting, you know, you keep saying like, what's the point of this book?
+3748.26 3750.20 SPEAKER_01  And, um, I don't know.
+3750.22 3750.74 SPEAKER_01  It's so funny.
+3750.74 3752.30 SPEAKER_01  Like, I don't read it that way at all.
+3752.30 3773.90 SPEAKER_01  And maybe it's just cause I'm like, I've read so much of this kind of literature, even though this is a little bit later, um, than the 19th century, like so much of this kind of like Southern American, like storytelling is just about like sort of the dynamics between like weird characters.
+3773.90 3780.76 SPEAKER_01  And like part of the centrifugal force of the South is that it just sucks people in and holds you there.
+3781.00 3783.56 SPEAKER_01  You know, like one of the major themes in the book, right.
+3783.58 3785.96 SPEAKER_01  Is like the wheel of Fortuna, right.
+3785.96 3787.48 SPEAKER_01  And how it like rises and falls.
+3787.48 3800.16 SPEAKER_01  And we're all like set on these like set fates, you know, and I feel like that's a very like Southern American sort of, you know, even if it's not articulated in those sort of medievalist terms, like that's something you see in Faulkner.
+3800.30 3801.80 SPEAKER_01  That's something you see in Chopin.
+3801.80 3803.82 SPEAKER_01  That's something you see in Flannery O'Connor, right.
+3804.32 3812.16 SPEAKER_01  It is like, you know, so it's, it's more about like the dynamics of like this space and these people then like sort of, yeah.
+3812.18 3817.24 SPEAKER_01  Then having a sort of broad social critique or even showing like character development.
+3817.24 3826.66 SPEAKER_01  I mean, if you think about like, um, you know, uh, some of Flannery O'Connor's work, like you don't see that sort of character development there either.
+3826.66 3831.08 SPEAKER_01  It's like people start and end pretty much where they, you know, where they began.
+3831.08 3839.76 SPEAKER_01  And so, um, to me, like, I thought it was interesting cause he's clearly like trying to use farce to like break out.
+3839.76 3845.78 SPEAKER_01  You know, he has a lot of critique for Mark Twain in this book and like, he's trying to like break out of that mold.
+3845.78 3849.42 SPEAKER_01  Um, but it ultimately like succumbs to it as well.
+3850.14 3866.18 SPEAKER_01  Um, you know, whether it's like the dialects language or like some of the stuff we've picked up on in terms of like the way that he talks about black people or writes about, you know, um, sort of the set, um, classes in New Orleans society.
+3866.18 3871.40 SPEAKER_01  Like all of these things to me, like as much as he's trying to break out of them, he's like, he can't escape.
+3871.74 3871.94 SPEAKER_01  Right.
+3872.08 3880.06 SPEAKER_01  It's like his relationship, both the author and Ignatius's relationship with his mother, which is why I get to get back to, uh, Riley, what you were saying.
+3880.12 3888.48 SPEAKER_01  The ending is a little strange, although I personally like it, but it definitely is worth like commenting on the fact that he gets out of the South.
+3888.48 3892.04 SPEAKER_01  And that is his like escape from this, this cycle.
+3892.88 3892.92 SPEAKER_02  Yeah.
+3893.00 3895.08 SPEAKER_02  The ending feels a little packed on to me.
+3895.14 3896.14 SPEAKER_02  I don't hate it at all.
+3896.44 3900.36 SPEAKER_02  Um, I, I think it's like, you know, it's well written.
+3900.56 3904.08 SPEAKER_02  It's like compelling in the thing that it is, but structurally it's a bit weird.
+3904.38 3914.62 SPEAKER_02  Um, where his, his mother finally reaches breaking point and tries to have him condemned just as, as Mr. Levy is trying to sort of like fix everything as like a deus ex machina.
+3914.62 3921.98 SPEAKER_02  Um, and, and, and Myrna arrives at the door, um, and, and rescues him, uh, moments before the ambulance gets there.
+3922.52 3933.08 SPEAKER_03  Um, which, and of course he in, which echoes another sort of, um, say a traumatic experience he's had of one time leaving New Orleans on a Greyhound bus.
+3933.68 3937.20 SPEAKER_03  Uh, but now he's out, he's able to leave New Orleans, I guess.
+3937.44 3942.76 SPEAKER_03  Coming back to what Min said, I guess if the only change really is he was in the South and now he's not.
+3942.76 3954.46 SPEAKER_02  Yeah, I mean, there's, it, it's a beautiful, uh, ending paragraph, uh, where, where he writes, uh, he rolled down the window an inch or two and breathed the salt air blowing in over the marshes from the Gulf.
+3954.90 3957.32 SPEAKER_02  As if the air were a purgative, his valve opened.
+3957.82 3959.68 SPEAKER_02  He breathed again, this time more deeply.
+3960.16 3961.54 SPEAKER_02  The dull headache was lifting.
+3962.98 3963.46 SPEAKER_03  Right.
+3963.46 3963.50 SPEAKER_03  Okay.
+3964.24 3969.12 SPEAKER_03  I think that's, um, probably in fact as good as any place, uh, to leave it for today.
+3969.64 3969.80 SPEAKER_03  Mm.
+3970.00 3973.04 SPEAKER_03  Uh, and bring another episode of Left Unread to a close.
+3973.34 3978.22 SPEAKER_03  Uh, so, with an endorsement of, hey, you should check out luxury sex toys.
+3979.22 3988.86 SPEAKER_02  Yeah, I managed, I managed to enjoy, uh, endorsing luxury sex toys and the concept of, like, the Carrera marble fleshlight, but not the book that we read for this.
+3988.86 3994.62 SPEAKER_02  Uh, which is, I, I, I'm not sure what sort of like the, what that translates to on like a five star system, but.
+3994.88 4000.08 SPEAKER_03  Uh, one, one magic bullet, but made of platinum.
+4000.54 4000.88 SPEAKER_03  Yes.
+4001.10 4001.28 SPEAKER_03  Yeah.
+4001.30 4001.48 SPEAKER_03  Yeah.
+4001.76 4002.20 SPEAKER_03  Perfect.
+4002.72 4006.46 SPEAKER_03  Uh, Min, thank you very much for coming on and, uh, sharing your knowledge with us today.
+4006.50 4008.40 SPEAKER_03  Otherwise I think we would have been much more baffled.
+4009.16 4010.68 SPEAKER_01  I'm happy, happy to be here.
+4010.80 4011.42 SPEAKER_01  It was a lot of fun.
+4011.66 4012.94 SPEAKER_01  It was good to reread this book.
+4013.04 4013.40 SPEAKER_01  Definitely.
+4013.40 4014.32 SPEAKER_01  Hmm.
+4014.74 4017.10 SPEAKER_03  And, uh, Alice, it's your pick next time.
+4017.22 4021.24 SPEAKER_03  So you let me know what I'm reading and I will send out the call to the.
+4021.62 4021.66 SPEAKER_02  Delight.
+4022.10 4022.90 SPEAKER_02  The listeners.
+4023.24 4025.46 SPEAKER_02  Uh, I will, I will have a think about this.
+4026.04 4026.32 SPEAKER_02  Uh.
+4026.34 4026.78 SPEAKER_02  All right.
+4027.06 4032.06 SPEAKER_03  Well, any case, thank you for listening and we will see you again on the next normal or bonus episode.
+4032.36 4033.06 SPEAKER_03  Bye everybody.
+4033.32 4033.54 SPEAKER_02  Bye.
+4033.54 4033.60 SPEAKER_02  Bye.

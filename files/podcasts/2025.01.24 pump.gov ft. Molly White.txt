@@ -1,0 +1,959 @@
+0.00 14.92 SPEAKER_00  President Trump and Secretary Rurio need to pick up the phone and call Prime Minister Stormer in the United Kingdom and say to the Prime Minister, Mr. Prime Minister, with all due respect, stop dipping into your ketamine stash.
+15.08 16.12 SPEAKER_00  Put down the ball.
+30.00 38.78 SPEAKER_01  And from all of us here at TF Podcast, I want to echo the comments made by Representative Kennedy from Louisiana.
+39.14 43.24 SPEAKER_03  Yeah, sick and tired of our Prime Minister's ketamine habit.
+43.80 45.28 SPEAKER_03  Wildly uncontrolled.
+45.64 47.66 SPEAKER_03  You see him shambling out to the podium.
+47.82 49.40 SPEAKER_03  He's forgotten how his legs work.
+49.46 50.48 SPEAKER_03  It's embarrassing.
+50.86 51.58 SPEAKER_03  It's shameful.
+51.58 57.72 SPEAKER_01  At long last, Prime Minister Stormer, put down your bong, your trademark bong.
+57.72 60.14 SPEAKER_03  He carries that thing everywhere.
+60.36 61.92 SPEAKER_03  It's not even funny anymore.
+62.16 68.40 SPEAKER_03  You might think it's weird that we've never mentioned it over the like year we've been talking about him, but like it's not important, you know?
+68.52 70.60 SPEAKER_01  Yeah, no, that's that's the one thing we like about him.
+70.66 72.28 SPEAKER_01  That's this one cool trait.
+72.46 74.28 SPEAKER_01  He's always carrying a bong.
+74.70 76.40 SPEAKER_01  He's always carrying a bong.
+76.54 78.72 SPEAKER_01  He's always walking like he's playing quop.
+78.72 82.70 SPEAKER_01  And this is we think that this is good in a Prime Minister.
+82.70 87.80 SPEAKER_01  Now, I want to also welcome our guest for this episode.
+87.98 89.22 SPEAKER_01  It is returning champion.
+89.42 94.00 SPEAKER_01  I think probably racking up some pretty might be might be racking up close to double digit appearance numbers.
+94.10 100.72 SPEAKER_01  Now it is, of course, Molly White of Citation Needed and an ardent Wikipedia, which we may discuss briefly later.
+101.12 103.76 SPEAKER_01  Joining us once again, Molly, welcome to the show.
+103.90 104.88 SPEAKER_01  Thanks for having me back.
+105.04 105.76 SPEAKER_01  Always a pleasure.
+105.98 109.00 SPEAKER_01  Also, you'll notice that Milo is not here.
+109.00 114.30 SPEAKER_03  Yeah, he's he's off doing the kind of like extreme tour of stand up comedy.
+114.50 119.62 SPEAKER_03  You know, he's he's taken the bit that you were doing, Molly, at the end of the last episode and gone a step further.
+119.80 124.24 SPEAKER_03  You know, he's gone from being in Belgium to like, you know, he's in the benthic zone.
+124.44 126.32 SPEAKER_03  It's on the sea of tranquility.
+126.70 130.42 SPEAKER_01  Yeah, he's doing comedy clubs on the moon now.
+130.62 134.88 SPEAKER_01  He's trying to light a cigarette and put it through his the visor of his moon helmet.
+134.88 140.86 SPEAKER_03  I just get sick of it when stand up comedians decide they want to go to the moon, especially for the cancelled ones.
+141.12 143.72 SPEAKER_03  You know, like wearing the leather jacket over the space suit.
+143.88 149.22 SPEAKER_01  I saw some of these moon hipsters are making me a coffee flavored coffee.
+149.62 150.86 SPEAKER_03  We're sea of tranquility.
+151.06 153.10 SPEAKER_03  Astronauts drive the rover like this.
+153.68 156.92 SPEAKER_01  Earlier, we were talking about how he's he's he's in Brazzaville.
+157.04 158.02 SPEAKER_01  He's in Kinshasa.
+158.40 160.96 SPEAKER_01  He's doing crowd work in Brazzaville in Kinshasa.
+160.96 166.26 SPEAKER_03  We got doing the crowd work in Kinshasa just like I was in Brazzaville the other day.
+167.08 167.86 SPEAKER_03  It's getting cheap.
+168.46 170.90 SPEAKER_01  We have we have so much to get into today.
+171.02 179.92 SPEAKER_01  We are going to talk about a few things about the the merger of techno capital, especially platform techno capital with the state.
+180.02 186.08 SPEAKER_01  We're going to talk a little bit about, of course, crypto and the the aims of the crypto people.
+186.08 192.16 SPEAKER_01  Now that Trump is in charge and their mixed feelings about it, Molly, you've been like, look, from one hater to another.
+192.26 198.18 SPEAKER_01  May I say you have been an excellent biographer of all of the guys who are like, hey, but crypto is good.
+198.28 199.68 SPEAKER_01  How come he rug pulled?
+199.90 202.26 SPEAKER_01  He's supposed to make us look good and he didn't.
+202.38 204.98 SPEAKER_05  Yeah, he's giving crypto a bad name, I guess.
+205.86 206.30 SPEAKER_01  Yeah.
+206.50 207.66 SPEAKER_01  What's what's next?
+207.80 210.94 SPEAKER_01  Releasing the guy that made crypto all about buying heroin.
+211.22 211.66 SPEAKER_01  Come on.
+211.66 212.46 SPEAKER_01  No, no, no, no.
+212.58 218.16 SPEAKER_02  I mean, I was I was really worried about the crypto community after like the hook to a thing.
+218.34 221.52 SPEAKER_02  You know, hook to a was supposed to be about community was supposed to be about networking.
+221.54 223.88 SPEAKER_02  And she really like did a number on them.
+223.94 226.40 SPEAKER_02  The community just about survived based on what I saw.
+226.70 229.76 SPEAKER_03  She's forgotten the values that Hawke was based on.
+229.76 240.62 SPEAKER_03  I guess the thing that's really funny to me, right, is is Trump being I remember when you went to that, like that crypto conference where he was essentially like, well, have fun playing with your little toys or whatever.
+240.62 242.90 SPEAKER_03  And he's still that guy.
+243.04 245.52 SPEAKER_03  He's still the guy who's like crypto.
+245.98 256.70 SPEAKER_03  You know, he's the understanding that crypto is there to buy drugs over the Internet and do rug pulls and all of the like Coinbase type guys were like, no, it's not for buying heroin.
+256.96 260.64 SPEAKER_03  It's for like a really inefficiently buying a bagel or whatever.
+261.00 264.20 SPEAKER_03  I feeling very betrayed by this, you know, and it's very funny.
+264.44 264.60 SPEAKER_05  Yeah.
+264.68 268.86 SPEAKER_05  He's been pretty consistent that he thinks crypto is made up Internet money.
+268.86 274.54 SPEAKER_05  Like he talked about, like, maybe we'll just make some Bitcoin and pay off the national debt.
+274.72 277.94 SPEAKER_05  And the crypto people were like, he's so funny.
+278.16 283.04 SPEAKER_05  And now when he's like actually trying to do that, they're like, wait, what's happening?
+283.50 284.30 SPEAKER_02  Wouldn't it be crazy?
+284.34 287.58 SPEAKER_02  Wouldn't it be crazy to like just mint a Bitcoin to like cancel the national debt?
+288.14 288.46 SPEAKER_02  Unless.
+289.02 289.28 SPEAKER_02  Yeah.
+289.78 296.06 SPEAKER_03  Really like an abiding theme of the early days of the Trump presidency is like, well, he's not going to do something that stupid and evil.
+296.06 299.22 SPEAKER_05  Well, then then, of course, he's not going to do exactly what he told us.
+299.22 299.42 SPEAKER_03  Yeah.
+300.00 308.50 SPEAKER_03  I mean, listen, as much as it's all getting kind of alarmingly Hitlerite, even more than usual, like, you know, particularly with the transphobia stuff.
+308.50 312.22 SPEAKER_03  I will say Trump, like he kind of gives with the one hand and takes with the other.
+312.34 312.46 SPEAKER_03  Right.
+312.50 319.54 SPEAKER_03  Because with this Silk Road shit, with legitimizing doing an online marketplace, he has made it very easy to buy hormones over the Internet.
+319.76 329.30 SPEAKER_03  So critical support, I guess, to Donald Trump for on the one hand, making it illegal to be trans, but on the other hand, making it impossible for the government to stop you.
+329.30 336.28 SPEAKER_02  Well, this is the thing, because he's like set the perfect conditions for it, because like based on what I've seen so far, like he's basically dismantling public health as like an idea.
+336.42 336.66 SPEAKER_02  Right.
+337.00 342.64 SPEAKER_02  And so this like presents an interesting opportunity for like lots of I mean, for lots of grifters for sure.
+342.72 347.28 SPEAKER_02  But I've always like admired the medical ingenuity of like the trans community.
+347.50 351.36 SPEAKER_02  And this provides like a very good opportunity for them to like really flourish.
+351.60 351.80 SPEAKER_02  Right.
+352.22 352.62 SPEAKER_03  Yeah.
+352.86 354.22 SPEAKER_03  It's like bootstrapping.
+354.34 354.56 SPEAKER_03  Right.
+354.56 357.86 SPEAKER_03  Like we're all going to be brewing bathtub estrogen.
+358.26 359.54 SPEAKER_02  Yeah, because like things are going to be bad.
+359.54 375.42 SPEAKER_02  But like I feel like one of the funnier outcomes that could potentially happen would just be like somehow the trans identity and sort of like trans people in general just continue to like or just like continue to flourish under the Trump administration, primarily because like they're used to working under pressure and used to working against resistance.
+375.42 378.48 SPEAKER_02  And like now like in they found like Donald Trump.
+378.60 379.02 SPEAKER_02  I don't know.
+379.08 382.18 SPEAKER_02  I think it's not to sort of say I don't want to say that things will be good.
+382.18 388.90 SPEAKER_02  What I'm saying is that like things might not work in the way that many of like the Trump people think it's going to.
+389.06 390.46 SPEAKER_03  I appreciate that.
+390.54 395.22 SPEAKER_03  I appreciate I think we do have a capacity for resilience that people don't really understand.
+395.32 408.20 SPEAKER_03  I do think one of the funnier outcomes is four years on the you know, as much as it gets repressive publicly, every trans person is functionally a qualified pharmacist is one of the best sort of like.
+408.20 409.84 SPEAKER_01  Can I can I float something to you?
+409.90 410.02 SPEAKER_01  Right.
+410.10 413.02 SPEAKER_01  Which is we know how NASCAR got started.
+413.18 413.42 SPEAKER_01  Right.
+415.42 415.78 SPEAKER_03  OK.
+416.04 416.84 SPEAKER_03  Yeah, sure.
+416.92 424.82 SPEAKER_03  So like eventually, like in 60 years time, there's a form of like administering exogenous hormones that is like basically related.
+424.82 429.38 SPEAKER_03  But all of this kind of like it's got like an outlaw mentality, but it's kind of confected.
+429.52 431.08 SPEAKER_03  There's a lot of money flying around.
+431.28 434.56 SPEAKER_03  You know, it's mostly just a shell over the hormones, you know?
+434.56 437.40 SPEAKER_01  Yeah, it's it still involves just as much turning to the left.
+437.96 446.56 SPEAKER_01  Now, the third thing that we're going to talk about, of course, is that article about one of my favorite companies in the entire world, which we'll get to.
+446.56 458.96 SPEAKER_01  But before we get into the discussion of the various sort of Trump crypto rug pulls, I think we would be remiss if we didn't talk at least briefly about Elon Musk asking himself, can I do a deniable Nazi salute here?
+459.16 462.76 SPEAKER_01  And then like kind of almost getting away with it, but not.
+463.00 464.18 SPEAKER_03  Well, I mean, this was the thing.
+464.18 469.72 SPEAKER_03  I think the sequence is really funny because if you watch the video, you can see him psych himself up to do it.
+469.78 480.90 SPEAKER_03  Right. And I tend to view it as like man thinking, oh, can I do a fun little Easter egg, like plausibly deniable Nazi salute like Laura Ingraham did?
+480.90 489.40 SPEAKER_03  And then fucking it up, doing an implausibly deniable one and having it get denied anyway by all of his various like lick spittles.
+489.64 500.50 SPEAKER_01  But by having it get denied by like the ADL, Benjamin Netanyahu, the lady who was like, oh, yeah, Corbyn's an anti-Semite because he said the name of Jeffrey Epstein weird was like, no, that's not a Nazi salute.
+500.50 502.20 SPEAKER_03  We can get a total list now.
+502.26 509.32 SPEAKER_03  So like Palestinian flag, anti-Semitic, doing your kind of like isometric arm exercises with just the one arm.
+510.12 510.86 SPEAKER_03  That's that's fine.
+510.94 512.00 SPEAKER_03  That's not anti-Semitic.
+512.06 512.62 SPEAKER_03  It turns out.
+512.76 516.50 SPEAKER_05  Yeah, it's actually a part of the new public health plan is sort of this calisthenics.
+516.50 520.88 SPEAKER_03  We're going to build America's bicep strength back up.
+521.38 522.56 SPEAKER_03  One arm at a time.
+524.66 528.68 SPEAKER_03  Just like like two years into the turn, it's like, all right, everybody switch arms.
+530.46 537.50 SPEAKER_01  America is suffering from a case of nerd neck and we need to improve our front delt strength, which means that you need to be doing front raises.
+537.50 540.46 SPEAKER_01  But we're all very busy and we have to do the one at a time.
+540.54 543.06 SPEAKER_01  OK, God, I didn't think this was complicated.
+543.06 546.96 SPEAKER_03  Do like a leg raise, but while you're walking and sequentially.
+547.62 548.88 SPEAKER_01  Yeah, that's what we're doing.
+548.94 558.52 SPEAKER_01  We're doing one one arm raise, repeat one thousand times for two years and then do two leg raises across back and forth across the gym.
+558.82 559.84 SPEAKER_01  One hundred meters a day.
+560.24 565.22 SPEAKER_01  But honestly, you know, I don't think it matters if it's a general crowd warming up gesture.
+565.22 566.86 SPEAKER_01  By the way, I think it was right.
+566.94 567.82 SPEAKER_01  I think that's what he was doing.
+567.96 572.52 SPEAKER_01  And he was doing it in the 4chan way of just being like, I wonder if I can get away with it.
+572.52 576.14 SPEAKER_03  Yeah, it's it's it's vintage like power level shit.
+576.22 576.40 SPEAKER_03  Right.
+576.46 584.62 SPEAKER_03  It's the same as like whenever like some guy who works for Homeland Security is like, what if I sneak the numbers 14 and 88 into this press release?
+584.62 584.90 SPEAKER_03  Right.
+584.94 590.46 SPEAKER_03  And like if it kind of it's one of those things where it's fun for them to try and fly under the radar.
+590.46 595.10 SPEAKER_03  And if you say anything, it kind of makes you look crazy or they can make you look crazy.
+595.10 597.04 SPEAKER_03  So, yeah, much the same.
+597.12 603.62 SPEAKER_03  It's just that, again, to be clear, Elon Musk is a big fucking Nazi idiot and has fucked this up once again.
+603.88 609.96 SPEAKER_01  Yeah, he's fucked it up in a way that only he can, which means he's utterly fucked it up at zero consequence to him.
+610.14 610.54 SPEAKER_01  Yeah.
+610.76 611.62 SPEAKER_01  But also, right.
+611.62 620.96 SPEAKER_01  What I say is it doesn't matter if it's like a neurodiversity comfort Roman salute, because what he was doing, what he was doing, what he was doing that little even if you say, OK, it wasn't a Nazi salute.
+621.00 621.44 SPEAKER_01  It was back.
+621.50 622.02 SPEAKER_01  Who cares?
+622.20 622.40 SPEAKER_01  Right.
+622.40 639.00 SPEAKER_01  Because even if it's a general crowd warming up gesture, what he was doing was warming up a crowd of powerful social reactionaries and plutocrats to get excited about a program of right wing revolution directed at punishing social undesirables, maximizing the power of the already wealthy and like an expansion, a possibly expansionist militarized state.
+639.00 649.24 SPEAKER_01  So whatever salute, wave, fart or dance he does is by definition Nazi because of what he's doing it for, not because you need a protractor to identify whether or not it is.
+649.32 651.98 SPEAKER_01  Yeah, it's functionally a Nazi salute.
+651.98 661.66 SPEAKER_01  Like you also before we move on to some of the tech stuff and then the the crypto stuff, you also did actually log on to 4chan to look at what the Nazis were saying.
+661.66 665.52 SPEAKER_03  I did. I did a bit of opposition research and I tested the waters there.
+665.52 675.48 SPEAKER_03  And what's really funny is that the reaction seems to be from, to be clear, like hardcore Nazis, or at least as hardcore as he gets on 4chan, to be like, hey, this guy's pandering to us.
+675.48 687.18 SPEAKER_03  So, Elon really can't do anything right because even the guys that he does all this for, whose respect he desperately wants, and it's really funny to want like some Groyper's respect in the first place.
+687.32 689.02 SPEAKER_03  Like, no, this is insincere.
+689.12 690.26 SPEAKER_03  He's a fake Hitler fan.
+690.64 693.84 SPEAKER_03  You know, I bet he can't even name two Hitler albums.
+694.26 697.58 SPEAKER_01  Yeah, he doesn't, he doesn't even like, he doesn't know anything about the esoterica.
+697.74 700.12 SPEAKER_01  I bet he won't even go on a grail quest.
+700.12 717.36 SPEAKER_01  The other thing, and this is sort of more on the technology stuff, this is still sort of Elon related, is looking at two paired stories that I think are worth addressing, which is, I've often talked about the last four years, there are two comparator cases of like fixing neoliberalism, quote unquote, right?
+717.36 722.22 SPEAKER_01  There is the Bidenomics, which again, I don't mean made neoliberalism good.
+722.50 723.78 SPEAKER_01  I mean, it just fixed it.
+723.88 727.08 SPEAKER_01  So it kept working as like a method of wealth extraction, right?
+727.08 730.50 SPEAKER_03  Yeah, all the IRA stuff to make sure the bridges don't fall down.
+730.60 731.10 SPEAKER_03  Yeah, sure.
+731.38 731.74 SPEAKER_01  Yeah, yeah.
+731.86 737.62 SPEAKER_01  This is what, that's what Biden did and how in the UK we tried to do it on the cheap and obviously it's not going to work.
+737.72 740.10 SPEAKER_01  We're going to have a measured number of bridges fall down.
+740.22 744.68 SPEAKER_01  Now, we're going to decide which schools are going to be replaced entirely with porticabins.
+744.78 751.76 SPEAKER_03  I mean, he didn't really, it didn't really sound like that partly because Starmer, I can't really do Starmer's accent and it gets a bit distorted when he's on the Ketterman as well.
+752.08 754.76 SPEAKER_03  Yeah, it was mostly just like bong bubbles.
+754.76 758.68 SPEAKER_03  Yeah, just kind of like chewing noises because he kind of forgotten how his jaw works.
+759.30 759.78 SPEAKER_01  God.
+759.96 764.20 SPEAKER_01  Anyway, Trump has basically said, okay, I'm going to kill what he calls the Green New Deal.
+764.32 777.30 SPEAKER_01  Actually, the Inflation Reduction Act, which was basically just a huge amount of tax credits and giveaways to already wealthy people, including like a lot of business owners, a lot of people building energy infrastructure, a lot of people building battery infrastructure.
+777.50 778.32 SPEAKER_01  Maybe illegal.
+778.54 779.06 SPEAKER_01  Who knows?
+779.16 779.56 SPEAKER_01  Who cares?
+779.66 780.24 SPEAKER_01  It doesn't really matter.
+780.24 788.50 SPEAKER_03  All Biden's pitch, right, was to go to like the guys who made the wind turbines and be like, you're going to get a shitload of wind turbine money.
+788.60 791.16 SPEAKER_03  And then all of those guys went cool and voted for Trump anyway.
+791.42 795.10 SPEAKER_03  Like, it's why he was going around opening bridges, putting his name on stuff.
+795.16 799.34 SPEAKER_03  It's where the whole like, ooh, Earth Rider, thanks to the Great Lakes thing comes from, you know?
+799.34 802.94 SPEAKER_03  And it worked not at all and is now being dismantled.
+803.08 803.58 SPEAKER_01  So great.
+803.72 804.14 SPEAKER_01  Fantastic.
+804.52 804.62 SPEAKER_01  Yeah.
+804.72 807.84 SPEAKER_01  Awesome legacy you've got there that could just be undone in 10 minutes.
+808.08 817.96 SPEAKER_01  But I think if we want to talk about what's potentially amusing, it's that elements of this seem to be specifically spiting Elon Musk in particular, which is great.
+818.42 820.96 SPEAKER_01  I got to support, again, critical support.
+821.28 828.42 SPEAKER_01  I can't say I support his ongoing global commitment to fossil fuels program, but I can support his Musk spiting program.
+828.42 844.66 SPEAKER_03  Well, I mean, if you think about the Elon crash out, it's a guy whose money is mostly coming from electric car subsidies, like going all in on the drill baby drill guy rather than the EV party because he got radicalized by his own website.
+844.82 846.56 SPEAKER_03  Just brilliant stuff.
+846.56 862.86 SPEAKER_05  You know, watching the sort of development of the Doge Committee, I think, and Elon Musk's new appointment to it, I think, is just sort of a signal of what's to come as far as Elon Musk's approach to dismantling everything in front of him.
+863.16 868.42 SPEAKER_05  You know, we saw him sort of enter the Twitter headquarters and start pulling the copper wires out of the walls.
+868.42 871.50 SPEAKER_05  And I think he's going to be repeating that quite shortly.
+871.72 874.42 SPEAKER_02  Do you think Elon's going to do like a sink thing at the way in the White House?
+874.56 876.92 SPEAKER_02  I would be shocked if he didn't, honestly.
+877.34 877.80 SPEAKER_03  Shoot me.
+878.94 880.42 SPEAKER_03  I know you're right.
+880.54 882.36 SPEAKER_03  I know it's like inevitable at this point.
+882.48 887.88 SPEAKER_02  I think I think Trump's going to get rid of him purely just because of like he's just going to be like, I'm just done with this guy's shit.
+888.02 891.46 SPEAKER_02  I don't think that like any sort of like Nazi related thing is going to bring him down.
+891.46 894.86 SPEAKER_02  I don't think it's going to be like him sort of very openly advocating fascism.
+894.96 897.22 SPEAKER_02  It's really just going to be like, this guy is fucking annoying.
+897.46 898.14 SPEAKER_02  That's sort of it.
+898.32 900.50 SPEAKER_02  And that's why and that's why Elon's a bad hang.
+900.64 905.00 SPEAKER_02  Yeah, he's just like he's he's just like not a particularly fun guy to hang out with.
+905.16 916.66 SPEAKER_05  It also occurred to me when the Nazi salute thing was going around that Trump is very likely to be annoyed at Elon Musk for stealing his spotlight by pulling a stunt like that.
+916.66 919.92 SPEAKER_05  You know, there's sort of the battle of the egos happening.
+920.44 930.70 SPEAKER_05  And I think Musk's sort of constant need for attention and validation is likely to get old very quickly when Trump is also constantly in need of those things.
+930.70 933.48 SPEAKER_05  And there is only so much attention to go around.
+933.84 935.02 SPEAKER_03  It's just not fair, right?
+935.06 944.10 SPEAKER_03  You get up on stage and you sign like 50 executive orders doing more Hitler shit than anyone else has done in like, you know, recent presidential memory.
+944.10 949.20 SPEAKER_03  And then one guy goes out and he does the Hitler like arm thing.
+949.40 952.00 SPEAKER_03  And all of a sudden he's getting all of the Hitler credit.
+952.24 957.64 SPEAKER_03  It's like it's just, you know, once again, we're invisibilizing Donald Trump's labor.
+958.02 962.74 SPEAKER_01  I can't believe that they've rolled back all of the Hitler credit that they give to electric vehicles as well.
+962.82 963.84 SPEAKER_01  That's going to be really bad.
+964.06 969.96 SPEAKER_01  But the other thing I think about this, which is really amusing, and this is going to be underscored, by the way, by the next thing we talk about before we get to the crypto stuff.
+969.96 974.90 SPEAKER_01  As you sort of alluded to, Molly, right, this is a very personal relationship between the two of them.
+975.16 986.24 SPEAKER_01  That Elon's whole business, all of his different businesses, whether it's SpaceX, Boring Company, Tesla as well, are dependent to a greater or lesser extent on the federal government of the United States.
+986.34 991.76 SPEAKER_01  Whether as a direct customer, such as SpaceX, or as a gigantic subsidy machine like Tesla.
+991.76 1004.12 SPEAKER_01  And by cutting lots of the subsidies that buoy the Tesla brand, while at the same time potentially alienating that relationship, it seems like who knows which part of the government might be open to him if that relationship falls apart, I guess.
+1004.70 1006.46 SPEAKER_01  But it remains to see.
+1006.66 1009.56 SPEAKER_01  The other thing I want to talk about is the executive order.
+1009.76 1019.34 SPEAKER_01  They're taking away billions of dollars in already committed financing for like energy projects, infrastructure spending, highway maintenance, like huge amounts of stuff got rolled into that act.
+1019.34 1020.38 SPEAKER_01  If you want to talk about chaos.
+1020.60 1021.80 SPEAKER_03  Don't, don't, don't need it.
+1021.86 1025.90 SPEAKER_03  When the road, when the bridge collapses under you, your cyber truck will keep you safe.
+1025.90 1028.42 SPEAKER_05  Well, it's okay because they can be boats, I hear.
+1029.86 1030.30 SPEAKER_01  Perfect.
+1030.88 1033.02 SPEAKER_01  All property to be beachfront property.
+1033.18 1034.64 SPEAKER_01  All cyber trucks to be boats.
+1035.40 1038.10 SPEAKER_03  The big announcement comes out two years in.
+1038.16 1039.12 SPEAKER_03  Everybody switch arms.
+1039.24 1040.48 SPEAKER_03  All cyber trucks are now boats.
+1040.60 1041.96 SPEAKER_03  Oceans are now battlefields.
+1042.62 1043.94 SPEAKER_01  Yeah, that's right.
+1043.94 1057.30 SPEAKER_01  So is this thing Stargate, which again is like a much bigger version of what the Starmer government is announcing between bong hits, I guess, in the UK, which is huge privately funded data center construction.
+1057.54 1059.70 SPEAKER_01  Huge privately funded data center construction.
+1059.70 1063.54 SPEAKER_01  Up to half a trillion dollars is the announced amount invested.
+1063.86 1067.66 SPEAKER_01  And it's all being headed up by some very old friends and former guests of this show.
+1067.86 1070.60 SPEAKER_01  Sam Altman, Masayoshi Son, and Larry Ellison.
+1070.60 1078.24 SPEAKER_01  Those are the big three guys who are going to be, it seems, building half a trillion dollars worth of data infrastructure, largely in Texas.
+1078.66 1083.56 SPEAKER_01  Also being funded, by the way, by the government of Abu Dhabi, which is very funny.
+1083.80 1084.04 SPEAKER_01  Why not?
+1084.16 1084.90 SPEAKER_01  Yeah, why not?
+1085.04 1089.96 SPEAKER_01  But that this is going to be the thing, I believe, it's, you know, details are hazy still.
+1090.32 1099.88 SPEAKER_01  Like when the U.S. government fires everybody and also when they ramp up all of their sort of domestic surveillance capabilities and so on via the use of large language models, or they attempt to anyway.
+1099.88 1105.30 SPEAKER_01  This is going to be the consortium investors that sells them all of their compute, I think.
+1105.52 1106.34 SPEAKER_01  I don't know that.
+1106.46 1107.86 SPEAKER_01  That's what this looks like to me.
+1108.06 1123.04 SPEAKER_03  I mean, it was fun watching Sam Altman sort of like really turn up the sycophancy and be like, oh, Mr. President, sir, we couldn't have done it without you and your, you know, your massive support and foresight and stuff.
+1123.12 1124.98 SPEAKER_03  And it's like, OK, well, Trump does.
+1125.18 1126.60 SPEAKER_03  May I say amazing hair?
+1126.60 1127.36 SPEAKER_03  Yeah, exactly.
+1127.62 1130.02 SPEAKER_03  Like, and Trump obviously like likes that.
+1130.10 1132.02 SPEAKER_03  It's very easy to flatter him.
+1132.26 1133.44 SPEAKER_03  So I don't know.
+1133.54 1143.46 SPEAKER_03  I'm kind of part of me thinks maybe there's some some sort of like room to maneuver there where Sam Altman just kind of tries to replace Elon as like presidential friend designate.
+1143.46 1156.34 SPEAKER_05  Well, it is very funny, given the longstanding grudge between Musk and Sam Altman to see this massive investment into basically, you know, open AI and its business.
+1156.80 1159.82 SPEAKER_05  And Elon Musk is clearly seething over it.
+1159.96 1164.06 SPEAKER_03  They're like they're both fighting over the affections of one old man.
+1164.18 1164.80 SPEAKER_03  It's beautiful.
+1164.80 1165.94 SPEAKER_01  Like that's the thing.
+1166.04 1169.28 SPEAKER_01  Donald Trump is amazing at getting people to fight for his affection.
+1169.46 1171.32 SPEAKER_01  It's like he has like Cupid power.
+1171.82 1172.82 SPEAKER_03  Like Don Jr.
+1173.16 1176.18 SPEAKER_03  And Eric and I guess Baron to an extent.
+1176.38 1178.36 SPEAKER_03  And now also Elon and Sam Altman.
+1178.54 1178.96 SPEAKER_03  So, yeah.
+1178.96 1190.92 SPEAKER_05  But we're also sort of watching Elon Musk's ego get in his own way, because like immediately after this triumphant announcement of the deal, Elon Musk was on Twitter saying, oh, the money isn't there.
+1191.02 1200.84 SPEAKER_05  They don't have the money, like basically undercutting the whole thing, which, you know, leads me to question how that relationship is going so far.
+1200.84 1210.32 SPEAKER_01  Look, if I ever have a first buddy, I want my first buddy to be honest with me and undermine, if necessary, the signature spending project to my government.
+1211.28 1216.18 SPEAKER_05  You know, personally, I think that all negotiations in the government need to be happening via subtweet.
+1217.38 1219.28 SPEAKER_01  So basically, Mr.
+1219.50 1219.74 SPEAKER_01  Mr.
+1219.82 1230.46 SPEAKER_01  Trump said he would remove barriers to allow for the creation of more data centers, making emergency declarations to allow Stargate to generate that's what we call it, Stargate to generate its own electricity without providing any details.
+1230.46 1231.44 SPEAKER_03  I remember they called it Stargate.
+1231.54 1232.84 SPEAKER_03  That show wasn't even that good.
+1232.96 1246.74 SPEAKER_01  They're going to build a bunch of fucking like small modular reactors in Texas to power, you know, the big either computer says no or computer says, you know, they're building friend computer, basically, that's going to run the government and it's going to be nuclear powered.
+1246.88 1250.26 SPEAKER_01  I wasn't expecting friend computers to be wearing a cowboy hat, but, you know, whatever.
+1250.58 1251.72 SPEAKER_05  And it's on backwards.
+1252.80 1255.50 SPEAKER_01  I see you have expectations of friend computer.
+1255.66 1257.10 SPEAKER_01  That is considered to be heresy.
+1257.28 1258.76 SPEAKER_01  Please line up for disintegration.
+1258.76 1266.28 SPEAKER_01  Also, I like I like this one of my favorite bits, by the way, if you want to do some Kremlinology odd, like the relationship between Musk and Trump.
+1266.40 1267.90 SPEAKER_01  This is a fantastic sentence.
+1268.04 1268.18 SPEAKER_01  Mr.
+1268.28 1271.72 SPEAKER_01  Trump separately addressed questions from reporters about the potential sale of TikTok.
+1272.02 1280.44 SPEAKER_01  When asked if he'd be in favor of Elon Musk buying TikTok, Trump said, yeah, but then he turned to Larry Ellison from Oracle saying, but you can also purchase it.
+1280.54 1281.92 SPEAKER_01  I have to make the right deal.
+1282.10 1285.58 SPEAKER_03  Oh, the Trump recency bias is a beautiful thing.
+1285.58 1294.82 SPEAKER_03  The fact that he just absorbs the worldview of the person he's spoken to most recently is really a key tool in the toolbox of turning people against each other.
+1294.82 1301.78 SPEAKER_02  And I think the interesting thing about Elon is that because he's so bad at talking to people in general, like even the people who are on his side, he's like such a bad communicator.
+1302.02 1306.48 SPEAKER_02  I feel like and, you know, you're dealing with a president who just like loves being busted up and like that's what he wants.
+1306.52 1309.28 SPEAKER_02  He wants you to tell him that like he's the special boy all the time.
+1309.28 1314.40 SPEAKER_02  Like it feels like it's a recipe for failure, primarily because like Elon does not know how to deal with this guy.
+1314.60 1317.94 SPEAKER_02  He was convenient for like, you know, the period of the election, perhaps.
+1318.04 1326.20 SPEAKER_02  But I do feel like beyond I mean, there's so many things that make him a viable like a liability, but he's not going to be able to save himself primarily because he just doesn't really have the social skills to do it.
+1326.20 1340.86 SPEAKER_01  I would suggest the probably how we will know who wins in the like tech guys versus versus each other to get Trump's favor battle is if Trump gets all of the surgeries that Larry Ellison had to look 75, even though he's 80.
+1342.74 1348.54 SPEAKER_01  If Trump just just walks out one day looking exactly like Larry Ellison, then I think we'll know who won.
+1348.54 1356.28 SPEAKER_01  Yeah, so Musk and his like data center that he built in Memphis that's powered entirely by like methane gas or whatever.
+1356.54 1358.62 SPEAKER_01  Nowhere to be seen in this entire mix.
+1358.88 1364.26 SPEAKER_01  Meanwhile, all of the funding that subsidizes his terrible car business seems to have been unilaterally withdrawn.
+1364.50 1366.18 SPEAKER_01  A master of a master stroke, sir.
+1366.36 1370.18 SPEAKER_01  But speaking of master strokes, I want to talk in more detail about the rug pulls.
+1370.18 1379.40 SPEAKER_01  We talked in brief about them on the last episode, but there was sort of so much going on that I figured we'd wait until we were talking to you, Molly, to actually get into them.
+1379.52 1383.84 SPEAKER_01  I'd say how happy are the crypto people seeing a rug pull in high office?
+1383.96 1386.58 SPEAKER_01  Because as they always say, you can't be what you can't see.
+1387.00 1398.90 SPEAKER_05  I would say the reaction has been mixed, but there's been a lot of negative reactions to the Trump meme coin and especially the Melania meme coin that followed very shortly afterwards.
+1398.90 1417.62 SPEAKER_05  A lot of people who had been very pro Trump, who had believed that Trump was going to save the cryptocurrency industry from the evil Biden administration, suddenly are looking at Trump and going, oh, no, he is not in this for the right reasons, which is extremely funny to watch.
+1417.76 1426.54 SPEAKER_01  He's not in this to create communities of innovators who are relating to one another on the blockchain and freely exchanging ideas that they own.
+1426.54 1437.22 SPEAKER_01  He's just using this to personally profit himself to the tune of some small amount of money that some tiny fraction of whatever financially illiterate reporters said it was.
+1437.88 1439.08 SPEAKER_01  Let's just zoom out, right?
+1439.12 1441.22 SPEAKER_01  Because what exactly happened?
+1441.34 1447.56 SPEAKER_01  Because we talked about World Liberty Financial, the company that was set up by, I believe, Eric, who, by the way, seems to be...
+1447.56 1450.38 SPEAKER_01  If we want to talk about the Suns, there's a brief aside about the Suns.
+1450.38 1454.40 SPEAKER_01  I have a feeling that this is going to be the Eric Trump term.
+1454.40 1456.74 SPEAKER_01  The first term was the Don Jr. term.
+1456.96 1457.80 SPEAKER_01  Yeah, the first term...
+1457.80 1461.28 SPEAKER_01  Because the first term was like, oh, everyone's being mean to conservatives.
+1461.58 1463.14 SPEAKER_01  Here, meet Charlie Kirk.
+1463.30 1463.94 SPEAKER_01  He was...
+1463.94 1464.52 SPEAKER_01  That was him.
+1464.66 1465.90 SPEAKER_01  He was the culture war son.
+1466.02 1470.70 SPEAKER_01  And then Eric, who was quiet in the first term, he's the crypto son.
+1470.78 1471.86 SPEAKER_01  He's the grifter son.
+1472.04 1473.50 SPEAKER_01  And this is going to be his term to shine.
+1473.64 1478.56 SPEAKER_05  I think Barron Trump is going to be the quiet successor to the Don Jr.'s throne.
+1478.80 1480.96 SPEAKER_05  He seems to be kind of a crypto degen.
+1480.96 1485.04 SPEAKER_03  Yeah, like third term is the Barron term, you know.
+1485.18 1486.28 SPEAKER_05  Oh, good point.
+1486.98 1494.78 SPEAKER_01  So, but let's talk a little bit about what happened between like all the announcement of World Liberty Financial and like the Trump crypto corporate interests.
+1494.78 1501.04 SPEAKER_01  And then the president of the United States celebrating his inauguration by like triggering a Ponzi scheme.
+1501.04 1508.20 SPEAKER_05  Yeah, so Trump had gotten in on this World Liberty Financial scheme, largely thanks to his various sons.
+1508.92 1511.92 SPEAKER_05  That launched a little while ago.
+1512.08 1514.08 SPEAKER_05  You know, that's not like recent news.
+1514.22 1517.52 SPEAKER_05  But people were all excited that Trump was getting into crypto.
+1517.52 1523.72 SPEAKER_05  And, you know, there's supposedly like this DeFi app behind it that like right now it does nothing.
+1523.72 1525.96 SPEAKER_05  There is no World Liberty Financial platform.
+1525.96 1533.74 SPEAKER_05  But they are promising that at some point it will become this sort of trading app that people will be able to use.
+1533.80 1536.00 SPEAKER_05  And the crypto world was largely excited about that.
+1536.22 1537.46 SPEAKER_01  As all of them have, of course.
+1537.68 1542.16 SPEAKER_01  Every single one of these projects has become the platform trading app that it promised to be.
+1542.24 1542.52 SPEAKER_05  Right.
+1542.52 1547.06 SPEAKER_05  Every single one of them has actually released software, much less follow through on their promises.
+1547.16 1562.72 SPEAKER_05  But yeah, so, you know, he had this crypto project already and he was receiving like 75 percent of the revenues from that project, but apparently decided that that was not sufficient for him and that he needed to get in on the meme coin craze.
+1562.72 1572.36 SPEAKER_05  Because a couple of days before his inauguration, it was, I think, Friday night, he announced the launch of the Trump meme coin, much to everyone's surprise.
+1572.64 1577.86 SPEAKER_05  There was no lead up, you know, with World Liberty Financial, they had been teasing it for months.
+1578.40 1582.20 SPEAKER_05  But this just came out of nowhere and kind of surprised everyone.
+1582.54 1586.28 SPEAKER_01  I mean, so you see the hidden hand of Barron here.
+1587.46 1589.44 SPEAKER_05  I wouldn't be surprised.
+1589.44 1593.88 SPEAKER_05  He seems to have some crypto interests of his own.
+1594.16 1603.28 SPEAKER_05  You know, there was this speculation happening months ago that he was actually behind the DJT meme coin, which has not been proven.
+1603.74 1609.82 SPEAKER_05  And in fairness, relies very much on believing Martin Shkreli, which is probably not a good thing to be doing.
+1610.22 1614.20 SPEAKER_05  But, you know, Barron Trump seems to have some machinations of his own.
+1614.24 1616.64 SPEAKER_05  And I would not be surprised if he was involved here.
+1616.64 1626.58 SPEAKER_05  You know, he was he was nominated as the crypto visionary, I think, was his title briefly for the World Liberty Financial Project.
+1627.18 1631.32 SPEAKER_05  And so I, you know, I wouldn't be surprised if he had something to do with this.
+1631.44 1633.82 SPEAKER_01  So I think what we're saying is that Don Jr.
+1634.16 1637.86 SPEAKER_01  is Glossu Rabin and then Barron is Fade Rautha.
+1639.02 1639.50 SPEAKER_01  Essentially.
+1639.98 1640.44 SPEAKER_01  Sure.
+1640.70 1641.42 SPEAKER_01  The good son.
+1641.64 1642.24 SPEAKER_01  The good nephew.
+1642.42 1643.64 SPEAKER_01  The Barron Trump.
+1643.64 1644.64 SPEAKER_01  Yeah.
+1645.24 1651.64 SPEAKER_01  One of the things I also really loved was around this mess, there were people who were tweeting inadvisedly.
+1652.26 1659.78 SPEAKER_01  One that you quoted, which I'll read you here, is a guy called Ran Neuner says, I was OK with the Trump coin because of the signal it sent to the world.
+1659.98 1667.36 SPEAKER_01  After the Melania coin, it became clear they are now grifting at the expense of the entire crypto community and importantly sucking liquidity out of the rest of the market.
+1667.36 1672.96 SPEAKER_01  Don't get me wrong. As my timeline shows, I knew about Melania way ahead of the launch and profited off that information.
+1673.14 1674.60 SPEAKER_01  But I can't support this mess.
+1675.22 1676.64 SPEAKER_01  That sounds like an admission.
+1677.00 1677.34 SPEAKER_05  Oh, yeah.
+1677.50 1681.92 SPEAKER_05  Just tweeting your crimes, I guess, is the new thing to do.
+1682.24 1685.68 SPEAKER_03  Being the like Lincoln Foundation of like insider trading.
+1685.96 1687.32 SPEAKER_03  Lincoln Project, rather.
+1687.32 1690.02 SPEAKER_05  Yeah, that was a pretty blatant thing to be saying.
+1690.16 1699.76 SPEAKER_05  And even the crypto world was like, hello, excuse me to basically, you know, to tweet out that I made a ton of money, but I was shaking my head the whole time.
+1699.84 1700.56 SPEAKER_02  So I disagreed.
+1701.30 1704.18 SPEAKER_01  Look, did I did I get involved in the Ponzi scheme?
+1704.58 1706.74 SPEAKER_01  Did I profit for the Ponzi scheme?
+1706.86 1708.58 SPEAKER_01  Have I made off with the money now?
+1708.86 1709.26 SPEAKER_01  Yes.
+1709.52 1717.22 SPEAKER_01  However, I do not believe that Ponzi schemes, generally speaking, are good for the business or Italian communities at large.
+1717.22 1720.14 SPEAKER_01  It's illegal to be involved in something, is it?
+1720.36 1722.30 SPEAKER_01  It's illegal to have friends, I guess.
+1723.42 1726.22 SPEAKER_01  So but this is just one element of it, right?
+1726.38 1731.44 SPEAKER_01  You know that there's these like meme coins that the family launches personally.
+1731.78 1745.68 SPEAKER_01  The other element that seems that people seem to be taking more seriously is the idea that Trump is going to start a national Bitcoin reserve and basically put a floor under the price of Bitcoin for all of the degenerate gamblers out there.
+1745.68 1746.12 SPEAKER_05  Yes.
+1746.12 1746.44 SPEAKER_05  Yeah.
+1746.44 1755.56 SPEAKER_05  So the idea of this like strategic Bitcoin stockpile has been going around since at least the Bitcoin conference, which was in July 2024.
+1756.14 1770.70 SPEAKER_05  And people, Bitcoiners at least, have been very excited about the idea that he would install this plan basically to either hold on to a large number of Bitcoins or preferably go out and buy a large number of Bitcoins.
+1770.70 1774.48 SPEAKER_05  Although he's been very sort of vague about what his actual plans might be.
+1774.72 1781.06 SPEAKER_05  But now we're sort of seeing this sudden concern where it was OK when it was Bitcoin that he was talking about.
+1781.22 1788.22 SPEAKER_05  But anytime he considers any other token, you suddenly see a bunch of people saying, wait a minute, this can't be right.
+1788.22 1793.54 SPEAKER_05  Like he would he would be basically investing in other tokens solely to make profits for them.
+1793.54 1797.50 SPEAKER_05  And everyone else is looking at them and going, yes, that's the problem.
+1797.74 1799.16 SPEAKER_01  Because he is who he is.
+1799.16 1804.92 SPEAKER_01  He sees the crypto industry for exactly what it is and is unable to like mask that.
+1805.16 1807.10 SPEAKER_01  And he's really annoying all of them.
+1807.18 1808.44 SPEAKER_01  I mean, back to the meme coins.
+1808.56 1813.70 SPEAKER_01  This is the this is a quote from Trump that was from, I think, today, actually, day of recording, the 23rd of January.
+1813.70 1817.68 SPEAKER_01  I don't know much about it other than that I launched it and it was very successful.
+1819.12 1822.00 SPEAKER_01  And then the coin crashed in value.
+1822.68 1824.20 SPEAKER_01  It was like, I guess I launched it.
+1824.26 1829.08 SPEAKER_01  It was very successful when he was told that his coin raised several billion dollars for him.
+1829.18 1831.10 SPEAKER_01  He played it down saying several billion.
+1831.36 1837.50 SPEAKER_01  That's peanuts for these guys pointing to a coterie of tech billionaires assembled for a press conference about Stargate.
+1839.28 1840.24 SPEAKER_05  That's incredible.
+1840.24 1845.20 SPEAKER_01  These guys, these guys don't even care about a few billion and some of them are extremely tall.
+1845.32 1846.58 SPEAKER_01  Sundar Peshai, stand up.
+1846.64 1847.74 SPEAKER_01  Let's see how tall you are.
+1848.22 1849.06 None  Look at him, folks.
+1849.96 1851.02 SPEAKER_01  Look at him, tower.
+1852.26 1852.42 SPEAKER_01  Yeah.
+1852.50 1856.66 SPEAKER_01  So because it's crypto, some people have to say this is amazing for crypto.
+1856.98 1857.12 SPEAKER_01  Right.
+1857.26 1861.74 SPEAKER_01  Jeff Dorman from the quote unquote investing firm Arca posted the following online.
+1861.92 1864.74 SPEAKER_01  He missed out on his nominative determinism calling of being a bouncer.
+1865.04 1865.38 SPEAKER_01  Yeah.
+1865.40 1866.04 SPEAKER_01  Being a Jeff.
+1866.84 1873.14 SPEAKER_01  Trump token just signaled to every community, company, municipality, university and individual in the world.
+1873.26 1875.28 SPEAKER_01  Doghouse, outhouse, manhouse.
+1877.28 1882.16 SPEAKER_01  That crypto can now be used as a capital formation and customer bootstrapping mechanism.
+1882.16 1895.00 SPEAKER_01  So, you know, even though the president just celebrated his inauguration by pointing out to everyone that cryptocurrency is a Ponzi scheme and it only enriches you if for capital formation as a Ponzi scheme.
+1895.36 1899.24 SPEAKER_01  There are still some crypto people who are like, no, this is actually good for us.
+1899.34 1900.22 SPEAKER_01  This is actually amazing.
+1900.34 1903.82 SPEAKER_01  Everyone can do a Ponzi scheme now to do to like raise capital for a project.
+1903.82 1909.76 SPEAKER_03  I just think it's beautiful that there is still some community in America that's optimistic about things, you know?
+1909.88 1917.28 SPEAKER_01  Well, I suppose if your whole economy is based on thinking that a thing will go up in the short term, then you can unload it.
+1917.28 1917.48 SPEAKER_01  Hmm.
+1917.70 1922.06 SPEAKER_01  You sort of need to be optimistic in the same way that a shark needs to keep swimming.
+1922.06 1924.28 SPEAKER_05  Yeah, that is that is the crypto way.
+1924.50 1932.68 SPEAKER_05  Like it's been remarkable over the years that I've followed the crypto world to see how they will turn any circumstance into a good thing.
+1932.84 1934.80 SPEAKER_05  You know, it's good when the price goes up.
+1934.84 1936.30 SPEAKER_05  It's good when the price goes down.
+1936.52 1938.66 SPEAKER_05  You know, it's good when the market falls apart.
+1938.66 1940.88 SPEAKER_05  Everything that happens is good for crypto.
+1941.36 1953.74 SPEAKER_01  And I suppose it's it's difficult to say, right, especially now that like the White House and its associated and associated agencies are staffed by Trump loyalists, including having people like David Sachs as the crypto czar.
+1953.74 1966.40 SPEAKER_01  It's difficult to say what will happen in the future because, well, quite simply, they are going to, I think, quite seemingly arbitrarily add legitimacy to this or that crypto project.
+1966.40 1978.26 SPEAKER_01  And that sort of because crypto is based entirely on perceived legitimacy and perceived institutional capture, then it seems like the use cases for cryptocurrency are going to stay exactly what they were.
+1978.50 1984.20 SPEAKER_01  However, the prices are going to be all over the fucking shop because they will act semi randomly.
+1984.54 1988.64 SPEAKER_01  David Sachs is the the crypto czar, who, by the way, the president does a rug pull.
+1988.72 1989.88 SPEAKER_01  What does the crypto czar do?
+1990.04 1990.44 SPEAKER_01  Nothing.
+1991.16 1993.84 SPEAKER_01  But, you know, it's tough to say what will or won't go.
+1993.84 2007.82 SPEAKER_01  One thing I think will happen is that we're going to now see a huge number of meme coins just that anybody close to the president will parlay that moment of like closeness with the president into a Ponzi scheme.
+2007.82 2015.38 SPEAKER_01  For example, the Detroit pastor, Lorenzo Sewell, who spoke during the inauguration, then celebrated by launching a Solana meme coin.
+2015.62 2019.48 SPEAKER_03  Great thing that happens coin for the rest of the rest of the administration.
+2019.48 2027.28 SPEAKER_01  Yeah, I genuinely think that's what's going to happen is there's going to be a profusion of meme coins that anybody close to the administration then launches for themselves.
+2027.46 2031.30 SPEAKER_01  We're going to get like, you know, another like missile bombardment of Iran or whatever.
+2031.52 2038.30 SPEAKER_01  And then someone in the Department of Defense is going to like launch a meme coin celebrating the missile bombardment of Iran, for example.
+2039.06 2041.86 SPEAKER_01  It is my view that that will happen.
+2041.86 2052.86 SPEAKER_05  Well, I think that the meme coin move by Trump has kind of alarmed people in the crypto world who, you know, believe that some regulation is necessary.
+2053.82 2060.38 SPEAKER_05  And then over here, Trump is like just doing crime and just like cash grabbing.
+2060.38 2072.74 SPEAKER_05  And that has been a very strange thing to watch because for months now, years even, the crypto world has been slamming regulation and attempts at enforcement.
+2072.74 2081.92 SPEAKER_05  And then Trump launches this meme coin and suddenly there was this group of people going, oh, no, you know, maybe the previous thing wasn't so bad.
+2081.92 2095.90 SPEAKER_05  Because they realized that, you know, the total Wild West scenario where crime is legal and, you know, people are just getting punched in the face and having their wallet stolen every two seconds in the crypto world is also actually not good for crypto.
+2095.90 2106.56 SPEAKER_05  And so there is this really weird, you know, sort of scenario that we're coming up against where total deregulation may actually not be what the crypto industry really wants.
+2106.56 2111.76 SPEAKER_05  But that has been almost what they have been lobbying for all this time.
+2111.86 2114.64 SPEAKER_05  And so I'm really curious to watch how that plays out.
+2114.80 2116.50 SPEAKER_01  Like it's it's ultimately right.
+2116.56 2122.32 SPEAKER_01  Like you can now get a doge or even a bonk go to horny jail ETF.
+2122.32 2133.02 SPEAKER_01  Like that's now like actual like fucking like, I don't know, Citadel is going to have to like make sure that they're that they're having their markets clear for a bonk go to horny jail ETF.
+2133.30 2135.90 SPEAKER_01  Like someone at Citadel is going to have to work with that.
+2135.90 2137.98 SPEAKER_05  Yeah. Like and you're not even joking.
+2137.98 2147.98 SPEAKER_05  Like they have been there have been filings for a doge ETF and there have been, you know, someone has already talked about creating a Trump meme coin ETF.
+2148.36 2150.50 SPEAKER_05  Like this is the world that we live in right now.
+2150.50 2152.40 SPEAKER_02  I love this living in like the dumbest time.
+2152.60 2157.88 SPEAKER_01  Yeah. Another sort of funny observation is this is something I sort of because I like you, Molly.
+2157.98 2163.96 SPEAKER_01  I follow a lot of crypto people because I find their madness to be quite compelling that I looked at like this is noticed.
+2163.96 2172.82 SPEAKER_01  And it's like, hey, so all of the people who were like following Nancy Pelosi's every like options trade with NVIDIA, which again, it's like, no, there's clearly something going on there as well.
+2172.92 2174.80 SPEAKER_01  But who are like, oh, that's insider trading.
+2174.84 2176.80 SPEAKER_01  She's doing insider trading are now just like, Mr.
+2176.86 2180.14 SPEAKER_01  President, I am honored to participate in your Ponzi scheme, sir.
+2180.14 2187.66 SPEAKER_01  And, you know, the answer given to it was, look, Nancy Pelosi, she didn't if she threw like option plays our way, that would be different.
+2187.78 2189.76 SPEAKER_01  At least we can participate in this one.
+2190.86 2203.76 SPEAKER_05  Yeah. I mean, this morning we watched a Bitcoin price spike by like several thousand dollars because Senator Cynthia Lummis tweeted something about things coming with like the B as the Bitcoin symbol.
+2203.76 2206.84 SPEAKER_05  And then she was like, watch out for an announcement at 10 a.m.
+2206.96 2209.58 SPEAKER_05  And Cynthia Lummis, by the way, holds Bitcoin.
+2209.80 2213.54 SPEAKER_05  So, you know, stands to profit from increases in the Bitcoin price.
+2213.70 2215.00 SPEAKER_05  The Bitcoin price spikes.
+2215.24 2222.16 SPEAKER_05  And then, of course, her announcement is not what everyone hoped it would be, which was the announcement of the Bitcoin strategic reserve.
+2222.16 2231.94 SPEAKER_05  But was instead her just saying that she had been confirmed as the candidate for the digital assets subcommittee on the Senate that doesn't even exist yet, but probably will.
+2232.78 2240.04 SPEAKER_05  And, you know, no one seemed all that concerned about the fact that she holds Bitcoin and was making those tweets.
+2240.04 2249.38 SPEAKER_05  Whereas, you know, yeah, as you mentioned, the concern about traditional financial manipulation within Congress has been quite loud from the crypto world.
+2249.38 2253.38 SPEAKER_05  And, you know, personally, I think maybe both should be disallowed.
+2254.14 2254.92 SPEAKER_02  I wonder how much of it.
+2255.04 2265.16 SPEAKER_02  I'm sorry to bring this up right at the end, but it was like a really as I'm sort of listening to this, something that I am very curious about is that line between like whether it's a financial instrument or like whether it's a meme.
+2265.32 2270.14 SPEAKER_02  And the only reason I sort of bring that up is because like I wonder whether that kind of dilutes its seriousness.
+2270.14 2278.36 SPEAKER_02  I like, you know, the reason why people sort of stay doing like crypto and stuff, despite like all the sort of, you know, volatility and the fact that like people lose loads of money all the time.
+2278.36 2284.92 SPEAKER_02  And it's genuinely it's like a terrible system that is effectively gambling is I imagine like the like the mimetic component of it.
+2284.98 2287.56 SPEAKER_02  That's sort of like mass participation kind of component of it.
+2287.66 2291.48 SPEAKER_02  And I do wonder whether like like how long does this kind of like sustain for?
+2291.64 2299.30 SPEAKER_02  Is there going to be a certain point where it's like, no, these things are actually like, you know, they may not necessarily be currency, but it's not necessarily like it's not.
+2299.40 2301.40 SPEAKER_02  It is something that you have to take seriously, right?
+2301.40 2310.34 SPEAKER_03  Sorry, that was a severe alert issued by the UK and Scottish government going off on my phone that there's a red warning for wind.
+2311.02 2312.18 SPEAKER_03  So, okay, great.
+2312.32 2312.68 SPEAKER_03  Thank you.
+2312.78 2326.30 SPEAKER_03  Thank you to the government for making me very nearly piss and shit myself on the basis that Trump had just nuked Tehran for danger of falling trees.
+2326.30 2335.36 SPEAKER_03  Well, look, you could have profited from the me mandatory unsilenceable audio warning for for bad.
+2335.42 2336.16 SPEAKER_03  Well, thank you.
+2336.20 2344.88 SPEAKER_02  All I can really say is that it's a shame that like, you know, it's a shame that the Captain Tom Griff like ended so soon because like Captain Tom coin could have really done something.
+2347.92 2348.32 SPEAKER_03  Motherfucker.
+2348.32 2350.26 SPEAKER_03  More wind.
+2350.28 2353.50 SPEAKER_03  Literally, it's the same that they just sent me the same thing twice.
+2353.72 2354.34 SPEAKER_03  Okay, great.
+2354.42 2359.44 SPEAKER_03  Well, listen, I'm going to be killed by the storm storm Eowyn that's about to happen.
+2359.70 2368.62 SPEAKER_03  I'm also just getting texts from everyone I know saying fucking hell, my phone just did two massive like emergency broadcast things.
+2368.96 2372.38 SPEAKER_03  So, yeah, I'm really enjoying living in the poly crisis.
+2372.38 2377.26 SPEAKER_05  You're going to get a third identical alarm and it's going to be Trump having nuked Tehran.
+2377.26 2379.02 SPEAKER_03  Yeah, the funniest possible moment.
+2379.02 2381.86 SPEAKER_02  The real poly crisis is when there's something in the fridge that's unlabeled.
+2383.90 2390.28 SPEAKER_01  So, I guess you listening are going to have the same experience that we are having now, which is will there be another beep?
+2391.24 2399.48 SPEAKER_01  The question, I think one thing you were asking earlier, Hussain, it's a good one to end on, is the question always is like, well, what are these things that's never really fully been answered?
+2399.48 2406.66 SPEAKER_01  And I suppose the answer is it doesn't matter because everyone who's playing with them is having fun playing with them.
+2406.86 2421.10 SPEAKER_01  And the more that they are able to jam them into our lives, either by just sort of propping up elements of the financial system that is like actually used for capital allocation and therefore the allocation of like economic effort into things, then probably the worse our lives will be.
+2421.10 2427.02 SPEAKER_03  Well, the person with the right attitude to crypto, bizarrely, once again, turns out to be Donald Trump.
+2427.16 2433.14 SPEAKER_03  The guy going, you know, have fun with your toys and then using it to commit this kind of like rug pull.
+2433.22 2435.46 SPEAKER_02  Yeah, say what you will, I imagine he's having a lot of fun with it.
+2435.46 2441.20 SPEAKER_05  But I would argue that actually a lot of people in the meme coin world are not having much fun at all.
+2441.38 2450.94 SPEAKER_05  You know, looking at meme coin platforms, like there's this platform called Pumped Up Fun, which is the sort of what has caused a lot of this meme coin craze recently.
+2451.20 2456.32 SPEAKER_05  Some analysts looked at it recently and the majority of people on Pumped Up Fun are losing money.
+2456.32 2460.34 SPEAKER_05  Like this is not a broadly profitable thing to be doing.
+2460.34 2471.86 SPEAKER_05  As with so much in crypto, you know, it's usually only the people who get in super early who are able to buy low and sell high and everyone else is just chasing that opportunity.
+2471.86 2484.18 SPEAKER_05  And they are the exit liquidity for the people who created the coins or had insider information about the coins or who got in mega early thanks to, you know, trading bots or something that they're using.
+2484.18 2501.64 SPEAKER_05  And then everyday people who see stories about people making a million, you know, a hundred million dollars off of meme coins and think that could be me are getting totally wiped out because they are just trying to gamble on these tokens where the vast majority of people lose money.
+2501.64 2514.34 SPEAKER_01  Yeah, well, I mean, as as with everything, right, it's the whole crypto system, whatever it is, is just a way to transfer exit liquidity to like the 2% of early adopters who actually get in.
+2514.50 2520.26 SPEAKER_01  And everyone who talks about it, including the people who were like, well, Trump made 60 billion dollars on a meme coin are all complicit.
+2520.54 2527.22 SPEAKER_01  I want to move on, though, which is, of course, this is no, no, no article has ever been sent to be more than.
+2527.22 2533.48 SPEAKER_01  A very Trump sentence in and of itself, you know, no article has ever been sent to me more.
+2533.56 2534.04 SPEAKER_01  It's terrific.
+2534.32 2537.44 SPEAKER_01  This is what I've been promising to do for a couple of weeks and we are getting to it.
+2537.50 2541.20 SPEAKER_01  This is something very dear to everybody in the Chicago metro area as well.
+2541.30 2543.96 SPEAKER_01  Who remembers cooler screens?
+2544.44 2545.16 SPEAKER_01  Oh, yeah.
+2545.32 2557.56 SPEAKER_03  The what if instead of looking through glass into a fridge to see what's in the fridge, you could have like a massive like LED billboard saying like beer with a little animation of beer being poured.
+2557.74 2557.90 SPEAKER_01  Yeah.
+2558.48 2562.44 SPEAKER_01  Molly, did you come across cooler screens in your in your time on this earth?
+2562.90 2565.66 SPEAKER_05  I have seen them like once.
+2565.66 2569.28 SPEAKER_05  And I think it was when I was in New York City for the Sam Bankman free trial.
+2570.28 2570.72 SPEAKER_01  Yeah.
+2571.14 2574.10 SPEAKER_01  So obviously you must have loved them, right?
+2574.14 2574.78 SPEAKER_01  Because they're awesome.
+2575.26 2579.18 SPEAKER_05  I mean, why would I want to look at the real thing when I could look at a picture of the thing?
+2579.18 2582.46 SPEAKER_01  Or you could also participate in the economy by viewing an ad.
+2582.70 2583.30 SPEAKER_01  And that's important.
+2583.38 2583.96 SPEAKER_01  That is true.
+2584.28 2584.52 SPEAKER_05  Yes.
+2584.62 2589.82 SPEAKER_01  So to those of you who don't remember, cooler screens was a company we talked about a couple of years ago, I think.
+2589.84 2599.10 SPEAKER_01  And we updated when they were involved in some very contentious litigation with Walgreens who basically sponsored their rollout on the basis that their screens didn't work.
+2599.20 2599.46 SPEAKER_01  Really?
+2599.56 2602.90 SPEAKER_03  I mean, that's a pretty minor issue in the grand scheme of things, you would think.
+2603.04 2612.68 SPEAKER_01  Well, the great thing is also if your screen that you've replaced your glass fridge with doesn't work, what you're left with is much worse than a glass fridge, which is nothing.
+2612.84 2614.98 SPEAKER_01  You're left with just a normal opaque door.
+2614.98 2621.98 SPEAKER_01  So these are smart freezer doors that played ads triggered via proximity sensors like someone walking by.
+2622.22 2639.38 SPEAKER_01  I mean, I just cannot for the life of me imagine what it would be like to work stocking shelves in a Walgreens where you could not walk to any of the many work tasks you have to do over an hour without hearing the same like, I don't know, like fucking like Doritos ad played for you over and over and over again.
+2639.60 2643.02 SPEAKER_03  Sort of a Mariah Carey, all I want for Christmas is you sort of situation.
+2643.24 2643.40 SPEAKER_01  Yeah.
+2643.56 2643.82 SPEAKER_01  Yeah.
+2644.00 2648.88 SPEAKER_01  Now this this story that's come out about it updates from their contentious lawsuit.
+2649.16 2650.78 SPEAKER_01  So we last talked about this in 2023.
+2650.78 2655.96 SPEAKER_01  In December 2023, this is now being written about sort of for the first time in detail.
+2656.24 2663.28 SPEAKER_01  Cooler screens and Walgreens relationship got so fraught that cooler screens bricked all of the freezer doors at Walgreens out of spite.
+2666.46 2666.90 SPEAKER_03  How?
+2667.32 2669.24 SPEAKER_03  Like, why don't they have that capability?
+2669.58 2679.28 SPEAKER_03  This is like a like a really low level Russian cyber attack is to be like, you know, we'll see how the West does without their fucking fridge screen.
+2679.28 2685.26 SPEAKER_02  This is like a nice, yes, a nice kind of sort of like consumer case for like all the sort of like IDFs, like Miller, like, you know, genocide technology.
+2685.26 2687.14 SPEAKER_02  It's like, well, yeah, it kills populations.
+2687.38 2693.38 SPEAKER_02  You know, you can sort of like destroy populations, but also it can prevent the person that you dislike from getting a drink from the fridge.
+2693.62 2693.80 SPEAKER_02  Yeah.
+2694.08 2696.36 SPEAKER_03  It's a red alert going off on my phone.
+2696.46 2698.54 SPEAKER_03  That's just like the fridge doors are broken.
+2698.92 2699.06 SPEAKER_01  Yeah.
+2699.16 2701.96 SPEAKER_01  People are no longer able to see where the Arizona iced tea is.
+2702.38 2706.10 SPEAKER_01  I've been getting texts nonstop, by the way, about that.
+2707.24 2707.60 SPEAKER_01  Yeah.
+2707.66 2708.38 SPEAKER_01  The fridge doors.
+2708.38 2709.60 SPEAKER_01  I tell them it's OK.
+2709.84 2710.10 SPEAKER_01  Yeah.
+2710.46 2717.80 SPEAKER_01  At first, the outage didn't arouse suspicion because the screens were so terrible that they were always flickering, crashing or showing the wrong products.
+2717.92 2719.44 SPEAKER_01  This is a quick direct quote from the article.
+2719.66 2721.18 SPEAKER_01  Every so often they caught fire.
+2723.34 2724.16 SPEAKER_03  What's in this fridge?
+2724.24 2725.54 SPEAKER_03  Oh, I guess it's fire.
+2725.76 2728.76 SPEAKER_03  I guess it's a surprisingly realistic depiction of the fire.
+2729.16 2731.86 SPEAKER_05  They're just trying to emulate the Tesla business model.
+2732.14 2732.42 SPEAKER_01  Yeah.
+2732.60 2734.48 SPEAKER_01  Well, it's just like, hey, what's in here?
+2734.50 2735.50 SPEAKER_01  Well, it used to be ice cream.
+2735.62 2736.54 SPEAKER_01  Now, not so much.
+2736.54 2742.82 SPEAKER_01  But store managers were stuck with them due to Walgreens agreement with the company to roll out the technology and share ad revenue.
+2743.06 2748.12 SPEAKER_01  And that's why, by the way, cooler screens could control the screens from cooler screens HQ in Chicago.
+2748.12 2753.36 SPEAKER_01  It's because they were like it was a hardware business where the main revenue was going to be ad sales.
+2753.52 2756.36 SPEAKER_01  And you might wonder why they got such a sweetheart deal with Walgreens.
+2756.36 2758.40 SPEAKER_01  And that's because Arsenevacian.
+2758.80 2759.46 SPEAKER_01  Uh-huh.
+2759.58 2760.60 SPEAKER_04  Did you say Arsenevacian?
+2761.06 2761.34 SPEAKER_03  Yeah.
+2762.18 2763.76 SPEAKER_01  Arsenevacian, Chairman Bob's brother.
+2764.00 2764.30 SPEAKER_01  Yeah.
+2764.82 2766.84 SPEAKER_01  Chairman Bob's fire starting brother.
+2766.86 2768.86 SPEAKER_03  It's nominative determinism once again.
+2768.98 2770.34 SPEAKER_03  You know, you had that doorman guy.
+2770.46 2772.16 SPEAKER_03  Now you've got now you've got Mr. Arsenevacian.
+2772.32 2775.10 SPEAKER_03  The guy who fights corporate America with the power of fire.
+2775.64 2776.08 SPEAKER_01  Arsenevacian.
+2776.08 2783.76 SPEAKER_01  He co-founded Cooler Screens with the former Walgreens CEO Greg Wasson, which is basically how they got this incredible sweetheart deal.
+2783.76 2791.62 SPEAKER_01  And why Walgreens was stuck in a contract with Cooler Screens, which could not deliver more or less any of what they promised.
+2791.82 2793.54 SPEAKER_01  It delivered a lot of stuff being on fire.
+2793.80 2794.74 SPEAKER_01  You've got to give them credit for that.
+2794.76 2797.34 SPEAKER_02  If you want a hot Arizona iced tea, then it's great.
+2798.28 2798.60 SPEAKER_01  Yeah.
+2798.68 2799.12 SPEAKER_01  And who doesn't?
+2799.22 2799.70 SPEAKER_01  Check it out.
+2799.82 2809.66 SPEAKER_01  So basically what happens is, as we know, Cooler Screens, once Walgreens was like, this is obviously a terrible product that's broken and we regret buying it, was sued by what Walgreens got sued for $200 million.
+2810.10 2811.66 SPEAKER_01  So you say, why would they want to fuck off?
+2811.66 2819.36 SPEAKER_01  Digital displays, this is from the article again, could be adjusted over the internet, but they depended on store staff to physically stock goods according to the adjustments made.
+2819.60 2826.14 SPEAKER_01  Too often, customers would open a door projecting rows of milk only to discover soda or empty shelves instead when the screens worked at all.
+2826.30 2829.04 SPEAKER_01  So yeah, you could say in like Cooler Screens HQ.
+2829.04 2830.80 SPEAKER_03  This is the fridge that pranks you.
+2830.90 2831.66 SPEAKER_03  Yeah, prank fridge.
+2831.78 2833.38 SPEAKER_03  In so many ways.
+2833.48 2834.50 SPEAKER_03  It could be nothing.
+2834.82 2836.24 SPEAKER_03  It could be on fire.
+2836.64 2838.14 SPEAKER_03  It could be completely different.
+2838.30 2839.76 SPEAKER_03  And I think that's beautiful.
+2839.94 2840.84 SPEAKER_01  It could be a goat.
+2840.96 2841.82 SPEAKER_01  It could be a car.
+2842.20 2843.90 SPEAKER_01  You should often switch, by the way.
+2844.04 2846.06 SPEAKER_01  Mathematically, you should switch the fridge door.
+2846.24 2847.94 SPEAKER_03  The Monty Hall fridge?
+2848.10 2848.34 SPEAKER_01  Yeah.
+2848.56 2850.10 SPEAKER_01  Basically, as they were...
+2850.10 2851.80 SPEAKER_01  So this is a terrible product, right?
+2851.94 2856.34 SPEAKER_01  And again, the whole idea, like when you actually think about it, you take a step back and think about it.
+2856.34 2865.28 SPEAKER_01  Saying we're going to manage the stock of every Walgreens from our 75 person office in Chicago.
+2865.28 2868.80 SPEAKER_01  And that's going to be sort of semi-automated.
+2868.80 2871.54 SPEAKER_01  Like that's never going to work ever.
+2871.94 2875.30 SPEAKER_03  Well, listen, I mean, why this negativity, you know?
+2875.42 2884.66 SPEAKER_03  Like I think the sort of prank fridge that's under the thumb of a guy who can just destroy it remotely is, you know, I think that's a great piece of technology.
+2884.96 2885.10 SPEAKER_01  Yeah.
+2885.22 2887.24 SPEAKER_01  They call it vendor risk.
+2887.52 2888.18 SPEAKER_01  Boy, is it.
+2888.98 2894.64 SPEAKER_01  And so basically, in all this like legal battling, that's when Arsenevacian bricked the fridges.
+2894.88 2895.20 SPEAKER_01  Quotes.
+2895.64 2899.76 SPEAKER_01  The team secretly cut the data feeds to more than 100 Walgreens stores in Chicago.
+2900.08 2903.88 SPEAKER_01  Customers assumed the fridges were out of order and instead had to rummage through them one by one.
+2904.14 2906.46 SPEAKER_01  Staffers pasted pieces of paper on the opaque screens.
+2906.68 2912.00 SPEAKER_01  And when service requests were filed with cooler screens, they simply marked them all resolved and didn't fix anything.
+2912.00 2920.18 SPEAKER_01  Which is hilariously petty and is where I want to get into the story of Arsenevacian, the CEO of Cooler Screens.
+2920.30 2923.54 SPEAKER_01  And man, I cannot believe we didn't talk about when we talked about the company initially.
+2923.80 2926.44 SPEAKER_01  That's a little bit, by the way, of shorter malpractice by me.
+2926.90 2928.50 SPEAKER_01  Avacian said about the company.
+2928.72 2930.56 SPEAKER_01  And by the way, he has such Trump diction.
+2930.84 2934.98 SPEAKER_01  He says, we're somehow surviving an assassination attempt by Walgreens.
+2936.02 2936.50 SPEAKER_01  Okay.
+2936.72 2938.88 SPEAKER_01  Really good sentence in and of itself.
+2939.20 2941.26 SPEAKER_01  And it will be a miracle if we do.
+2941.26 2946.54 SPEAKER_01  He said he had to cut off the store data feeds to get Walgreens to respond to overdue invoices.
+2946.72 2949.96 SPEAKER_01  By the way, when we see how this guy ran his business, we'll keep that in mind.
+2950.12 2958.00 SPEAKER_01  He then said, but as soon as we flip that page, which we will very shortly with Walgreens, everyone's going to say, let's look at the core of the product.
+2958.20 2959.78 SPEAKER_01  Is this real shit or is it bullshit?
+2960.20 2961.56 SPEAKER_01  I got the Trump.
+2961.62 2966.34 SPEAKER_01  The Trump diction for me was as soon as we flip the page, which we will very shortly with Walgreens.
+2966.34 2967.38 SPEAKER_03  Yeah, yeah, yeah.
+2968.18 2974.52 SPEAKER_03  I'm really enjoying paranoiac fridge magnets, I guess.
+2977.30 2979.84 SPEAKER_01  I'm the world's only gang-stocked CEO.
+2980.68 2986.96 SPEAKER_05  I do think it is important, though, when we're evaluating products to determine, is this real shit or is this bullshit?
+2986.96 2989.12 SPEAKER_05  I'm so often asking that, yeah.
+2989.44 2996.86 SPEAKER_01  Well, when I look at the core after we've flipped the page, which we will very shortly, if that is, I survived the assassination attempt by Walgreens.
+2997.42 2998.42 SPEAKER_05  And it will be a miracle.
+2999.18 2999.38 SPEAKER_01  Yeah.
+2999.52 3001.52 SPEAKER_01  By the way, Walgreens is going to kill me.
+3001.58 3003.60 SPEAKER_01  I'm the most prosecuted man in the entire world.
+3003.80 3005.32 SPEAKER_01  It'd be a miracle if I survived.
+3005.42 3008.34 SPEAKER_01  But when we turn the page and we will very shortly, it's going to be amazing.
+3008.34 3013.44 SPEAKER_03  It's really weird how all of those Walgreens whistleblowers kept turning up missing.
+3013.84 3017.80 SPEAKER_01  You know the Walgreens wet work team?
+3018.02 3024.12 SPEAKER_01  Arsene Vakian went on, I got dozens of life-threatening emails over a freaking screen in a store.
+3024.22 3025.66 SPEAKER_02  What's a life-threatening email?
+3026.16 3026.54 SPEAKER_03  What?
+3027.02 3029.94 SPEAKER_03  Email from CEO at Walgreens.com.
+3030.04 3031.56 SPEAKER_03  Oh, I'm so mad at you.
+3031.56 3038.02 SPEAKER_03  No, email from CEO at Walgreens.com.
+3038.16 3040.62 SPEAKER_03  Subject line, I am going to kill you.
+3040.90 3041.80 SPEAKER_03  Main text.
+3042.10 3046.46 SPEAKER_03  The only way to prevent this is to brick all of my fridge doors.
+3046.60 3047.54 SPEAKER_02  It's a blank email.
+3047.66 3048.84 SPEAKER_02  It's just like an EXE file.
+3048.90 3051.28 SPEAKER_02  And you've really got to like figure out whether you're going to open it or not.
+3052.04 3052.24 SPEAKER_01  Yeah.
+3052.90 3056.68 SPEAKER_01  The Walgreens CEO just sending like the saw video.
+3056.68 3058.86 SPEAKER_01  Arsene Vakian wakes up in a fridge.
+3058.86 3062.68 SPEAKER_01  That wakes up in like a door with a room with eight exits.
+3063.12 3065.62 SPEAKER_01  All of which are covered in bricked fridge doors.
+3066.14 3067.66 SPEAKER_01  It's a warplay game.
+3068.40 3071.30 SPEAKER_01  Avakian began working on his idea in 2017.
+3071.74 3076.96 SPEAKER_01  He had previously made his money starting a well-regarded cafe chain called Argo Tea in Chicago.
+3077.28 3080.30 SPEAKER_01  And said he fantasized about Argo becoming the Starbucks of tea.
+3080.44 3085.30 SPEAKER_01  But eventually set his sights higher saying actually Argo will not be the Starbucks of tea.
+3085.56 3087.60 SPEAKER_01  Argo will be the apple of tea.
+3087.60 3092.68 SPEAKER_03  I think Starbucks is kind of the Starbucks of tea on account of they sell tea there.
+3092.86 3095.66 SPEAKER_03  It's very easy to co-locate tea and coffee like that.
+3096.16 3097.28 SPEAKER_03  No, no.
+3097.36 3098.40 SPEAKER_01  It's never been done before.
+3098.58 3099.16 SPEAKER_01  No, no, no.
+3099.34 3101.58 SPEAKER_01  The apple of tea.
+3102.20 3107.68 SPEAKER_05  I will say there was an Argo Tea in the library on my college campus.
+3107.90 3112.04 SPEAKER_05  And one of the worst things about it was that they did not co-locate coffee and tea.
+3112.16 3113.90 SPEAKER_05  And you could not get coffee there.
+3114.32 3115.34 SPEAKER_05  What the fuck?
+3116.14 3116.60 SPEAKER_01  Tea only?
+3116.60 3117.16 SPEAKER_01  Tea only?
+3117.56 3117.94 SPEAKER_01  Yes.
+3118.52 3119.00 SPEAKER_01  What the hell?
+3119.18 3122.86 SPEAKER_01  That's why you know that fucking Arson Avakian is crazy, right?
+3123.10 3126.42 SPEAKER_01  Because he'd be like, I have an actual successful tea store.
+3126.52 3127.88 SPEAKER_01  I want it to be the Starbucks of tea.
+3128.10 3131.18 SPEAKER_01  Should I do what Starbucks did and like try to be everything to everyone?
+3131.42 3132.60 SPEAKER_01  Abso-fucking-lutely not.
+3132.70 3133.68 SPEAKER_01  I will not be doing that.
+3133.74 3135.28 SPEAKER_01  I will never back down from my principles.
+3135.46 3136.72 SPEAKER_01  I would like to be Apple, please.
+3137.74 3139.60 SPEAKER_01  Also keep in mind that he said he wanted to be Apple.
+3139.60 3143.58 SPEAKER_01  So what happened next to Argo, and this is from the article again, is the subject of debate.
+3143.80 3151.80 SPEAKER_01  Avakian maintains that Argo was profitable before he left and he had no subsequent day-to-day involvement with the company, which faced a series of lawsuits from unpaid bills.
+3151.80 3165.20 SPEAKER_01  Again, like it's only it's the last refuge of the medicine man who lives by just always being two towns over from his last scheme to say, oh, yeah, I did all the crazy stuff because it was unpaid bills.
+3165.20 3183.22 SPEAKER_03  I'm reading about Argo tea and there's a puff piece in the Wall Street Journal from back in the day about how Arsenevakian cited branches of Argo tea, which cites him as like talking to homeless people predominantly to get granular detail on the blocks he considers.
+3183.74 3189.16 SPEAKER_03  And it's like it's interesting that that was that was like an example of his kind of savvy, you know?
+3189.16 3201.74 SPEAKER_03  So a guy who is willing to like bother people to be like, hey, can you know, what do you what do you think about the prospects of like a tea room, but not selling coffee in it is in itself kind of revealing, I think.
+3202.00 3204.06 SPEAKER_01  Will I be able to go in and use the bathroom?
+3204.20 3205.20 SPEAKER_01  Oh, no, no, of course.
+3205.34 3206.08 SPEAKER_01  No, no, no, no, no.
+3206.12 3208.14 SPEAKER_05  But you can buy an eight dollar cup of tea.
+3208.64 3209.46 SPEAKER_01  Oh, boy.
+3209.68 3213.68 SPEAKER_01  That's the other thing that's hilarious is like anyone with hot water can make tea.
+3213.82 3216.08 SPEAKER_01  You don't need like a shop with equipment.
+3216.08 3220.14 SPEAKER_01  You do need a lot of specialized equipment to make an espresso drink.
+3220.28 3221.52 SPEAKER_01  Well, you do need that.
+3221.64 3234.54 SPEAKER_01  Anyway, so Argo tea went bankrupt in the pandemic and legal filings indicate that despite Avakian's claims to the contrary, he was president and director of an entity that Lager acquired Argo's debt and assets.
+3234.70 3242.94 SPEAKER_01  And a default judgment was entered against him in favor of one landlord who accused him and others of fraudulently transferring his assets to a shell corporation to avoid paying creditors.
+3242.94 3244.98 SPEAKER_01  So, again, just like normal ass guy.
+3244.98 3260.60 SPEAKER_01  But TSI, Avakian discussed the concept that would become cooler screens with friends in Chicago business circles, including Wasson, the former CEO of Walgreens, who, by the way, was most remembered for overseeing its fraught merger with Boots and leading the company's $140 million investment into Veranos.
+3261.16 3261.68 SPEAKER_01  Fantastic.
+3262.04 3263.92 SPEAKER_01  Second worst investment he ever made.
+3265.28 3267.92 SPEAKER_01  So I said earlier he wanted to be Apple, right?
+3268.06 3271.54 SPEAKER_01  So the article also describes what it's like to work for cooler screens.
+3271.64 3272.74 SPEAKER_01  Oh, I assume great.
+3272.74 3273.70 SPEAKER_01  Oh, yeah.
+3273.84 3274.86 SPEAKER_01  Completely easy.
+3275.44 3277.22 SPEAKER_01  Really keeps it professional.
+3277.42 3278.70 SPEAKER_01  Maintains chains of command.
+3279.16 3279.58 SPEAKER_01  Absolutely.
+3279.84 3280.40 SPEAKER_01  There's no.
+3280.68 3290.20 SPEAKER_03  My boss is like coming to my office and demanded that I execute what he described as a Mossad level cyber attack on Walgreens.
+3292.70 3295.98 SPEAKER_01  Wasson left Avakian in charge of the day to day running of the company.
+3296.10 3296.98 SPEAKER_01  It just fucked off.
+3296.98 3301.58 SPEAKER_01  And Avakian made increasingly odd demands such as make the door look like an iPhone.
+3302.36 3302.72 SPEAKER_03  What?
+3303.10 3303.28 SPEAKER_03  Huh?
+3303.60 3303.80 SPEAKER_01  Yeah.
+3303.90 3305.06 SPEAKER_01  Make it look like an iPhone.
+3305.30 3305.54 SPEAKER_01  Yeah.
+3305.82 3306.18 SPEAKER_01  You know.
+3306.50 3308.14 SPEAKER_01  What if the door was phone?
+3308.14 3309.78 SPEAKER_03  We're going to be the Apple of doors.
+3310.10 3310.48 SPEAKER_01  Yeah.
+3310.52 3312.76 SPEAKER_01  We can't be the Apple of tea, but maybe we'll be the Apple of doors.
+3312.76 3316.86 SPEAKER_03  This is the genius of being like a founder, right?
+3316.90 3325.52 SPEAKER_03  If you take an object that you encounter in your daily life, like a teacup or door and you go, what if I was the Steve Jobs of that?
+3325.86 3329.44 SPEAKER_03  And unfortunately, the problem is that all the good ones of those are kind of taken.
+3329.64 3331.66 SPEAKER_03  Steve Jobs already did that with the computer.
+3332.02 3336.26 SPEAKER_03  So like after that, you're really kind of, you know, grasping at straws, right?
+3336.50 3336.62 SPEAKER_03  Yeah.
+3336.70 3338.38 SPEAKER_01  Well, you could be the Steve Jobs of straws.
+3338.38 3338.72 SPEAKER_01  Oh, shit.
+3338.72 3340.08 SPEAKER_01  What if straw was more like an iPhone?
+3340.82 3343.40 SPEAKER_01  So also cooler screens outsourced its ad sales.
+3343.50 3344.42 SPEAKER_01  That was like its whole business.
+3344.42 3344.72 SPEAKER_01  Right.
+3344.80 3357.12 SPEAKER_01  And their plan, basically, if you haven't sort of made the leap yet of Aikian's vision was what if we had real life advertising that was as annoying and intrusive as online banner ads and pop ups and stuff.
+3357.12 3358.58 SPEAKER_01  That was the vision he had.
+3358.74 3358.82 SPEAKER_01  Yeah.
+3358.86 3366.90 SPEAKER_03  So like a local newspaper, you can't open a fridge without firing off like four different videos or playing in different locations.
+3366.90 3372.06 SPEAKER_01  Yet you have to like reach through a maze of video screens to just get your Arizona iced tea.
+3372.40 3374.30 SPEAKER_01  So they worked with Yahoo to sell the ad space.
+3374.52 3375.56 SPEAKER_01  And this is where we see.
+3375.86 3381.62 SPEAKER_01  Well, this is where we see some shortfalls because they sold 91 percent fewer ads than projected.
+3381.88 3386.86 SPEAKER_01  They tried to sue Yahoo about this because no one wanted to buy ads in their fridge doors.
+3386.94 3388.56 SPEAKER_01  They tried to sue Yahoo for 19 million dollars.
+3388.56 3392.78 SPEAKER_03  I kind of understand why Walgreens tried to have this guy, Michael Clayton, you know,
+3392.78 3404.40 SPEAKER_01  says one former cooler screen exec says that Aikian wanted those marketing dollars, but that he and his lieutenants could be preposterously condescending on calls with the Yahoo sales team.
+3404.52 3409.60 SPEAKER_01  I promise that the legal copy in Bloomberg that I'm reading is right.
+3409.84 3412.62 SPEAKER_01  It says preposterously condescending.
+3412.78 3415.80 SPEAKER_01  I wish I could have known what they're talking, how they would talk.
+3415.88 3417.40 SPEAKER_05  Yeah, I want a recording of that call.
+3417.40 3424.08 SPEAKER_03  Just meanwhile, across the street, the Walgreens assassination team setting up the sniper rifles.
+3425.88 3429.94 SPEAKER_01  Picking up the phone, being like, are you the illiterate rubes at Yahoo?
+3430.88 3431.32 SPEAKER_01  Ass.
+3431.84 3434.12 SPEAKER_01  I wouldn't expect you to be able to spell.
+3435.24 3436.58 SPEAKER_03  Armenian Ignatius J.
+3436.74 3437.06 SPEAKER_03  Riley.
+3439.56 3441.82 SPEAKER_01  I mean, again, this is this is very accurate.
+3441.92 3443.06 SPEAKER_01  This is why it's like this.
+3443.22 3444.46 SPEAKER_01  It's not about the screens.
+3444.50 3445.80 SPEAKER_01  It's about Arsene of Aikian.
+3445.80 3446.16 SPEAKER_01  Yeah.
+3446.46 3452.22 SPEAKER_03  I mean, the screens are also fucking stupid, to be clear, but this is a treasure of a
+3452.22 3456.86 SPEAKER_01  guy you've brought us. Meanwhile, Avakian's relationship with Walgreens was also souring.
+3456.96 3463.74 SPEAKER_01  The chairman, Stefano Pessina, and the board brought in the former CEO of Starbucks, Rosalind Brewer, as CEO.
+3464.12 3464.94 SPEAKER_01  The natural enemy of T-man.
+3464.94 3466.34 SPEAKER_01  The nominative discernmentism again.
+3466.52 3466.68 SPEAKER_01  Yeah.
+3467.18 3468.58 SPEAKER_05  The Starbucks of Starbucks.
+3469.54 3469.76 SPEAKER_01  Yeah.
+3470.10 3470.80 SPEAKER_01  Many are saying.
+3470.80 3471.52 SPEAKER_01  The apple of coffee.
+3471.52 3478.68 SPEAKER_01  Who looked around a Walgreens store and was reported to simply say, why do our stores look like a fucking casino?
+3479.38 3480.62 SPEAKER_01  He fucking hated it.
+3480.72 3483.84 SPEAKER_01  So-called free thinkers when it's time to get an Arizona IST.
+3484.02 3492.60 SPEAKER_01  So basically, at this point now, Cooler Screens is like a company that turns discussions with Walgreens into lawsuits for breach of contract.
+3492.76 3493.76 SPEAKER_01  There are multiple lawsuits.
+3493.76 3498.72 SPEAKER_03  It's like a generator of condescending phone calls, I guess.
+3499.52 3512.60 SPEAKER_01  So, the second complaint in breach of contract alleged that the screens were failing to meet their goals for ad revenue, with each smart door bringing in only 59 cents a day, pittance to the thousands of dollars it costs to install them.
+3512.74 3515.56 SPEAKER_03  Yeah, that second part was going to be my next question.
+3515.56 3524.02 SPEAKER_03  Wait, is that why in all the place, all the videos I've seen of them, the ad is just like a video of some beer pouring and it just says beer?
+3524.32 3524.40 SPEAKER_01  Yeah.
+3524.48 3530.14 SPEAKER_03  Because they couldn't, not because it was like meant to be instructive, but because they couldn't find advertisers for it?
+3530.14 3531.10 SPEAKER_01  Yeah, partly.
+3531.38 3533.20 SPEAKER_01  But also, it was very difficult.
+3533.76 3536.60 SPEAKER_01  Because this is people, right?
+3536.80 3537.74 SPEAKER_01  Let's think of it this way, right?
+3537.86 3542.70 SPEAKER_01  Online advertising works because it's tracking you with cookies or you're like using a promo code or whatever.
+3542.70 3546.96 SPEAKER_01  So, you could know pretty well how many of your ads are converting into sales.
+3547.16 3560.62 SPEAKER_01  However, what happens if a Walgreens employee walks past a fridge door, it plays an ad for Revlon and then someone else in the makeup section takes a lipstick to the front desk and then buys it?
+3560.82 3561.06 SPEAKER_01  Yeah.
+3561.30 3574.40 SPEAKER_03  Well, I mean, the way you solve that is by like having massive intrusive surveillance of the entire like environment, which means that, you know, your 50 cents of profit off these is offset even more because now the door costs $20,000.
+3575.02 3580.96 SPEAKER_01  Now, it's like when you go into Walgreens, you get like a leash put on you so that they can track wherever you're going.
+3581.90 3582.60 SPEAKER_03  Well, okay.
+3582.74 3583.66 SPEAKER_01  Well, all right.
+3584.20 3592.46 SPEAKER_01  So, Avakian says it would have been successful if only Walgreens had allowed him to expand to every Walgreens location in the country because then it would have had enough.
+3592.46 3593.76 SPEAKER_03  No, you don't understand.
+3593.92 3596.30 SPEAKER_03  Give me control of your entire company.
+3596.42 3599.32 SPEAKER_03  And if you say no, I will take that as a death threat.
+3600.04 3604.82 SPEAKER_01  So, Avakian claimed that displays garnered 100 million monthly impressions.
+3604.82 3614.90 SPEAKER_01  So, basically, like a third of the population, like, yeah, like about a third of the population of the US walked through a Walgreens in Chicago or like enough people, you know what I mean?
+3615.02 3616.76 SPEAKER_01  Everyone was going to Walgreens all the time.
+3616.84 3618.38 SPEAKER_01  It was like Spencer confidential numbers.
+3618.38 3627.44 SPEAKER_01  People doubted the math saying that, for example, door sensors could count views from a store associate walking to the bathroom or an abandoned shopping cart or even a beam of light hitting the sensor.
+3628.32 3633.60 SPEAKER_03  Yeah, just a passing B increases, you know, Budweiser's perceived sales.
+3633.86 3637.54 SPEAKER_01  So, this is a very long article and I've edited it heavily.
+3637.80 3642.00 SPEAKER_01  This is one paragraph I'm going to read and I haven't edited it at all.
+3642.14 3646.80 SPEAKER_01  Cooler Screen sued Walgreens in June 2023 and the tension escalated in court over the following months.
+3646.80 3654.06 SPEAKER_01  Walgreens threatened to rip out the doors while Cooler Screen demanded more than six million in supposedly unpaid bills, even while it stopped sharing ad revenue.
+3654.26 3655.98 SPEAKER_01  Then Avakian launched the December attack.
+3656.10 3662.42 SPEAKER_01  A security camera caught Wasson, former CEO of Walgreens, entering one of the stores affected shortly after the attack happened.
+3662.54 3672.98 SPEAKER_01  The footage, which Walgreens submitted in court as evidence the attack was premeditated, showed Wasson walking straight to the blank cooler and then, quote, seemingly admiring his handiwork before then leaving.
+3672.98 3678.56 SPEAKER_01  Well, just another day in corporate espionage.
+3679.34 3680.50 SPEAKER_01  I love these guys.
+3680.50 3682.16 SPEAKER_05  Criminal masterminds.
+3683.38 3683.56 SPEAKER_03  Yeah.
+3683.80 3686.32 SPEAKER_03  It's just like, it's just kind of in the filing.
+3686.54 3690.44 SPEAKER_03  It's like suspects described doing a dusting his hands gesture.
+3690.44 3691.48 SPEAKER_03  Twirling the mustache.
+3691.48 3698.66 SPEAKER_01  Suspect was described as, uh, as hitting the dab on the cooler screen screens.
+3698.90 3701.10 SPEAKER_01  This happened at a time when that would have made sense.
+3701.32 3706.52 SPEAKER_02  The suspect, the suspect also like did an anime villain monologue to the blank screen, um, as he laughed.
+3706.52 3712.44 SPEAKER_01  So, uh, he said, I was just there to get a prescription, insisting the timing was purely a coincidence.
+3712.78 3718.72 SPEAKER_01  Well, I would say retired CEOs of multinational companies do not walk to Walgreens to pick up their own prescriptions.
+3719.14 3721.42 SPEAKER_03  Maybe he was doing the Kurt Vonnegut envelope thing.
+3721.50 3723.84 SPEAKER_03  Maybe he just wanted to like, you know, take a walk.
+3723.84 3724.18 SPEAKER_01  Yeah.
+3724.30 3729.90 SPEAKER_01  Uh, so in early 2024, Walgreens then removed the doors all mass and replaced them with traditional glass.
+3730.10 3739.98 SPEAKER_01  In a bitter twist, because the screen's dimensions were customized for Walgreens, they're not reusable at different retailers and $50 million worth of them are now lying in a warehouse in El Paso, Texas.
+3742.48 3747.74 SPEAKER_01  It's just, I mean, future archaeologists.
+3747.98 3757.52 SPEAKER_03  It's not even really testing, testing the kind of, you know, meaning of $50 million worth of in the sense that they're not usable for anything.
+3757.66 3760.98 SPEAKER_03  It costs that much to make them, but you can't like even scrap them.
+3761.06 3763.80 SPEAKER_03  It's just, that's, that's, that's beautiful.
+3763.80 3764.68 SPEAKER_01  I love that.
+3764.76 3764.92 SPEAKER_01  Yeah.
+3765.00 3766.52 SPEAKER_01  I love our economic system.
+3766.60 3768.00 SPEAKER_01  I think it works super well.
+3768.30 3768.64 SPEAKER_03  Why is it?
+3768.70 3770.84 SPEAKER_03  Why is it a bespoke size?
+3771.34 3772.78 SPEAKER_03  Why did it need to be that?
+3773.16 3782.30 SPEAKER_01  Well, if Walgreens just allowed them to expand fully into every single store they owned and then all of the boot stores in the UK, it would have been fine.
+3782.60 3782.98 SPEAKER_01  Okay.
+3784.42 3784.94 SPEAKER_01  Okay.
+3785.30 3786.56 SPEAKER_01  This is the last thing about Avakian.
+3786.72 3798.88 SPEAKER_01  During a September breakfast meeting with Wasson and a Bloomberg Businessweek reporter at the Four Seasons Hotel in Chicago, Avakian remained irate about the debacle, reeling off a litany of the ways that Walgreens, quote, put him on his deathbed.
+3801.18 3802.40 SPEAKER_01  This guy's so cool.
+3802.94 3807.52 SPEAKER_01  I'd say the guy most killed by a medical practitioner since Harold Shipman.
+3807.72 3808.56 SPEAKER_01  Fuck's sake.
+3808.64 3811.28 SPEAKER_01  He then goes on to say, however, I will win big at trial.
+3811.28 3816.84 SPEAKER_01  He's brought several executives to act as character witnesses, introducing them with the disclaimer.
+3817.10 3823.24 SPEAKER_01  Just so you understand, the reporter may have spoken to some former or even current employees who think I'm an asshole.
+3823.62 3826.96 SPEAKER_03  This is the most American story, I think.
+3827.14 3829.06 SPEAKER_03  And, you know, I really like it.
+3829.10 3829.18 SPEAKER_03  Yeah.
+3829.26 3832.58 SPEAKER_03  This is the coolest guy in history, I think, in conclusion.
+3833.36 3836.64 SPEAKER_03  I think Walgreens was probably right to gang stalk him.
+3836.64 3844.54 SPEAKER_03  I can't comment on the, like, assassination stuff, but, like, you know, probably, probably good from a corporate perspective to, like, have this man gang stalks, I think.
+3844.76 3854.54 SPEAKER_01  I mean, if you want to think about, like, guys who just feel natural in the second Trump era, I don't think it gets better than Arsenevakian.
+3855.00 3858.42 SPEAKER_05  Maybe he'll install the cast-off doors in the White House.
+3858.56 3862.48 SPEAKER_05  I think that is the obvious next step for Kularek.
+3862.48 3862.96 SPEAKER_01  Oh, yes.
+3863.34 3867.10 SPEAKER_01  It's, yeah, as Molly indicated, it rebranded as Cooler X.
+3867.32 3869.48 SPEAKER_01  So I think it is going for that doge bump.
+3870.66 3872.06 SPEAKER_01  Cooler X, the cooler everything.
+3872.28 3873.04 SPEAKER_01  The cooler app.
+3873.22 3877.84 SPEAKER_01  It's going to be, yeah, look, President Trump, would you like to rescue a great American company?
+3878.18 3885.16 SPEAKER_01  Then make it mandatory for all doors in American government buildings to be Cooler Screens doors.
+3885.34 3889.52 SPEAKER_05  Where they can advertise the cooler meme coin that they will launch.
+3889.64 3890.26 SPEAKER_01  Yeah, that's right.
+3890.26 3896.62 SPEAKER_01  Look, I think that's all the time we have for cooler screens, but sometimes there's an article that contains a guy who's just delightful.
+3897.00 3901.54 SPEAKER_01  And Arsenevakian, you are the official delight of the week here at TF Towers.
+3901.82 3909.40 SPEAKER_01  However, I also want to, again, thank Molly for coming on today and for sharing her wisdom on crypto and other.
+3909.72 3911.46 SPEAKER_01  Recommend people check out Citation Needed.
+3911.60 3923.54 SPEAKER_01  But also, as I mentioned up at the front, you are an ardent Wikipedia person, editor, advocate, etc. And I think Wikipedia now is coming under some threat from the doge people.
+3923.80 3932.58 SPEAKER_01  So what can people do if they want to keep using it as a not a source directly, but a source of sources for I don't know, let me just get grab something out of the thin air.
+3932.88 3934.10 SPEAKER_01  Their podcast about mayors.
+3935.24 3935.32 SPEAKER_05  Yeah.
+3935.32 3940.30 SPEAKER_05  I mean, I think one of the best things people can do is contribute to Wikipedia as an editor.
+3940.70 3945.76 SPEAKER_05  We always need more people who are editing and it is not as intimidating as it sounds.
+3946.02 3955.36 SPEAKER_05  But, you know, just supporting Wikipedia in any way, you know, using the website and, you know, of course, donating to the Wikimedia Foundation is all, you know, goes a long way.
+3955.60 3955.70 SPEAKER_01  Yeah.
+3955.80 3959.18 SPEAKER_01  And also, this has been a bonus episode of TF.
+3959.38 3962.40 SPEAKER_01  I promise November and I are going to put out a Left on Red very soon.
+3962.40 3964.50 SPEAKER_01  I forgot how to read.
+3964.66 3965.12 SPEAKER_01  I'm sorry.
+3965.30 3968.40 SPEAKER_03  I'm working on it from first principles back soon.
+3968.60 3973.70 SPEAKER_01  Well, no, she had me read the book Nevada, which I'm about halfway through and will be done very quickly.
+3974.18 3978.00 SPEAKER_01  I think it's part of a longer term campaign that she has, but I'm not sure yet.
+3978.16 3978.42 SPEAKER_01  Anyway.
+3978.68 3980.44 SPEAKER_01  I wouldn't worry about that.
+3980.54 3981.50 SPEAKER_01  Anyway, we've gone long.
+3981.62 3985.74 SPEAKER_01  So I want to thank once again, thank November and Hussein for being on here with me.
+3985.80 3986.70 SPEAKER_01  Thank Molly for coming on.
+3986.76 3987.46 SPEAKER_01  Thank you for listening.
+3987.62 3989.60 SPEAKER_01  And we will see you on the free episode in a few days.
+3989.80 3990.16 SPEAKER_01  Bye, everyone.
+3990.26 3990.42 SPEAKER_01  Bye.
+3990.42 3990.80 SPEAKER_01  Bye.
+3992.40 3992.90 None  Bye.

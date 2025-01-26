@@ -1,0 +1,463 @@
+0.00 3.70 SPEAKER_00  Hello and welcome to the first Left on Red of 2024.
+4.78 11.24 SPEAKER_00  We're back in the reading room, in the library, and joined by Riley, as always.
+11.68 11.88 SPEAKER_00  Hello.
+12.24 16.98 SPEAKER_00  And what we've picked out this time, I don't even remember whose choice this was, might have been mine.
+17.76 18.32 SPEAKER_01  It was yours.
+18.32 24.60 SPEAKER_00  Yeah, it was Benjamin Labattus' When We Cease to Understand the World, which I came upon by pure chance.
+24.80 29.40 SPEAKER_00  It's sort of, if I had to describe this, I would say this is a kind of scientific horror.
+30.00 30.18 SPEAKER_00  Right?
+30.38 34.42 SPEAKER_00  But not in the way that that sort of immediately suggests.
+34.76 34.84 SPEAKER_00  Right?
+34.94 35.70 SPEAKER_00  It's about...
+35.70 36.70 SPEAKER_00  It's not Blindsight.
+36.82 37.22 SPEAKER_00  Right.
+37.32 37.56 SPEAKER_00  No.
+37.80 38.72 SPEAKER_00  I mean, this is the thing.
+38.78 41.58 SPEAKER_00  You compare all books to Blindsight by Peter Watts.
+42.36 47.46 SPEAKER_00  And on the scale of how this is Blindsight, this is sort of...
+47.46 52.16 SPEAKER_00  It's closer than I would say the average book is, but it still has a significant gulf.
+52.42 52.54 SPEAKER_00  Yeah.
+52.54 53.14 SPEAKER_00  Yeah.
+53.14 53.30 SPEAKER_01  Yeah.
+53.54 62.14 SPEAKER_01  If Blindsight is one Blindsight, and Echopraxia is 0.8 Blindsight, then...
+62.14 64.00 SPEAKER_01  This is like 0.6, you know?
+64.56 65.54 SPEAKER_01  This is even less.
+65.60 67.16 SPEAKER_01  This is like 0.3 Blindsight.
+67.34 69.00 SPEAKER_01  Most books are 0.1 or less.
+69.00 69.58 SPEAKER_01  I see.
+69.78 69.96 SPEAKER_01  Yeah.
+69.98 70.92 SPEAKER_01  It's a bad scale.
+71.08 71.58 SPEAKER_00  And this is the thing.
+71.58 72.86 SPEAKER_01  It describes very little.
+72.86 85.30 SPEAKER_00  What you've done is you've insisted on a sort of a schema that, you know, and a series of sort of like rigid laws in order to explain your observations of what stuff is and isn't like Blindsight.
+85.70 95.04 SPEAKER_00  Whereas what I'm doing is suggesting to you that things can be like and unlike Blindsight at the same time, that they contain different possibilities.
+95.60 97.58 SPEAKER_00  If this wasn't obvious...
+97.58 99.64 SPEAKER_00  And then upon realizing that, you became horrified.
+99.64 100.14 SPEAKER_00  Yeah, exactly.
+100.24 104.38 SPEAKER_00  Because this is a book about quantum mechanics and the invention of quantum mechanics in large part.
+104.98 110.14 SPEAKER_01  Also, I'd like to note, it's also another book by a South American author.
+110.20 112.24 SPEAKER_01  I will not stop doing this, is the thing.
+112.30 128.34 SPEAKER_00  I made this joke when we did a Kill James Bond episode about an OSS Saint-Dix-et movie set in Brazil, where I'm like, for some reason, the continent of South America fills me with a strange sense of yearning and almost loss.
+129.22 136.24 SPEAKER_00  Unfortunately, none of the nations in South America have developed a word for this feeling, so I cannot interrogate it further.
+137.44 140.10 SPEAKER_00  Yeah, more Chileans, I'm afraid.
+140.20 143.02 SPEAKER_00  And there is a little bit of Chile in this book at the end, particularly.
+143.02 160.66 SPEAKER_00  But mostly what it is, is a series of profiles of European male scientists from Fritz Haber at the turn of the 20th century through to Schrodinger at its midpoint.
+161.46 174.80 SPEAKER_00  As they grapple with knowing too much and finding out too much and sort of unbalancing the world by doing that, the original Spanish title of this translates to a terrible verdure.
+175.30 179.00 SPEAKER_00  A verdure here is like greenness, right?
+179.12 182.74 SPEAKER_00  Like abundance, like a sort of garden being overrun.
+183.14 187.86 SPEAKER_00  And that's going to be a sort of theme that we'll dig into, because there's a lot of climate in this book as well.
+188.48 201.52 SPEAKER_01  Well, the way I see, I sort of thought about it as we were reading it, is it's, especially as we get beyond the chemistry of the early pages, which is sort of the relationship between chemistry and industrial slaughter.
+201.72 201.80 SPEAKER_01  Yes.
+202.10 210.36 SPEAKER_01  And how many of the chemicals used in the industrial slaughter of people in either World War I or World War II were just originally intended as like dyes.
+210.54 210.80 SPEAKER_00  Yeah.
+211.56 212.34 SPEAKER_01  Prussian blue.
+212.84 213.18 SPEAKER_01  Indeed.
+213.18 230.36 SPEAKER_01  But, you know, much of the meat of the book is about quantum mechanics and specifically about coming to terms with the fact, I think, that that wiggish assumption that many scientists have that the world is completely understandable given enough time, right?
+230.44 233.72 SPEAKER_01  Give me a long enough lever and I will understand the sun.
+233.72 238.20 SPEAKER_00  Well, the sort of biggest proponents of this in the book is Albert Einstein.
+239.58 239.84 SPEAKER_00  Indeed.
+240.44 244.90 SPEAKER_00  And so he's, you may remember sort of a dictum of his, right?
+244.92 246.98 SPEAKER_00  Which is that God does not play dice with the universe.
+246.98 253.42 SPEAKER_00  And that's often kind of cited in an imagined tone of relaxation, right?
+253.60 257.30 SPEAKER_00  That he's sort of just stating this.
+257.52 258.32 SPEAKER_00  Yeah, exactly.
+258.84 273.64 SPEAKER_00  And what it actually is, in context, is the end of a multi-day conference in physics in which Einstein's entire worldview has been dismantled by the Copenhagen interpretation of quantum mechanics.
+273.64 277.22 SPEAKER_00  And he sort of, he throws this in Niels Bohr's face.
+277.38 283.34 SPEAKER_00  It's like sort of spiteful and defensive and baffled where he says, God doesn't play dice with the universe.
+283.64 291.64 SPEAKER_00  And what is much less well remembered is Niels Bohr's sort of answer to him, which is, it's not our place to tell him how to run the universe.
+291.64 304.76 SPEAKER_00  Which is funny, but it's, it also sort of like, this is a story about how quantum mechanics sort of exploded a bunch of old world certainties.
+305.32 305.44 SPEAKER_01  Yeah.
+305.50 313.46 SPEAKER_01  The way I saw it is, as I say, like there is, there is this old world certainty that with enough, with a long enough lever, you can understand anything, so to speak.
+313.46 320.68 SPEAKER_01  And that comes up against the actual maximum observable data.
+321.18 326.04 SPEAKER_01  And we know there's more out there, but there is simply, the universe has a resolution.
+326.26 326.54 SPEAKER_01  Yes.
+326.68 327.10 SPEAKER_01  Basically.
+327.36 328.94 SPEAKER_01  And it's approximately the Planck length.
+329.06 330.14 SPEAKER_01  That is the pixel length.
+330.42 332.20 SPEAKER_01  That is the pixel of the universe.
+332.20 336.64 SPEAKER_00  For me, the most interesting part of the book is the chapter about Karl Schwarzschild, right?
+337.32 348.62 SPEAKER_00  Sort of Austrian physicist and astronomer, found himself as a commanding an artillery unit in the First World War and his sort of like strange, obsessive passions.
+349.74 354.20 SPEAKER_00  Because he was like, you know, like all of these men, he was sort of possessed by genius.
+354.98 358.82 SPEAKER_00  And he has these sort of wide ranging scientific interests.
+358.82 363.18 SPEAKER_00  But there's a great detail here, which I'm going to read.
+363.50 368.86 SPEAKER_00  When he left Gürtingen to oversee the observatory in Potsdam, his replacement nearly quit before his appointment had begun.
+369.30 383.28 SPEAKER_00  Upon taking an inventory in order to determine how badly the facilities had suffered under Schwarzschild, he found a transparency of the Venus de Milo inside the focal plane of the largest telescope, arranged in such a way that the stars of Cassiopeia outlined the goddess's arms.
+383.82 385.64 SPEAKER_00  An interesting man, right?
+385.64 395.92 SPEAKER_00  He is ultimately destroyed by the First World War, but he's also destroyed by the sort of realization that he has.
+395.96 397.96 SPEAKER_00  He theorizes the black hole, right?
+399.30 414.58 SPEAKER_00  And he realizes that there is this thing that can exist in the universe that, you know, from which no light can escape, which absolutely fucks our conceptions of like space and time.
+415.88 422.86 SPEAKER_00  And there is a radius, a Schwarzschild radius from which like nothing can escape.
+422.86 431.82 SPEAKER_00  As he is sort of like lying in a field hospital, dying of the effects of having been subjected to poison gas.
+431.82 465.72 SPEAKER_00  He says, possible trajectories led irrevocably to the singularity.
+466.46 478.90 SPEAKER_01  And I think that the parallels, there are lots of parallels drawn in this book between the scientific discovery and like the political developments of the age.
+479.00 480.70 SPEAKER_01  I think that's obvious, that's a writerly stroke.
+480.70 491.38 SPEAKER_00  Well, he says as much there because he says afterwards, If matter were prone to birthing monsters of this kind, Schwarzschild asked with a trembling voice, were there correlations with the human psyche?
+492.04 502.48 SPEAKER_00  Could a sufficient concentration of human will, millions of people exploited for a single end with their minds compressed into the same psychic space, unleash something comparable to the singularity?
+502.48 504.72 SPEAKER_00  And this is sort of one of the key things of the book.
+504.82 523.14 SPEAKER_00  It alludes, of course, to fascism and the First World War, which Schwarzschild is dying in at that moment as being this kind of tipping point into a place in which things come apart, in which sort of the natural laws that we've observed cease making sense.
+523.14 532.76 SPEAKER_00  And our certainties become contradictory and strange and unusual.
+533.10 534.18 SPEAKER_01  Quite literally contradictory.
+534.64 536.72 SPEAKER_01  Space becomes time, time becomes space.
+538.72 544.06 SPEAKER_01  Nothing becomes, quite literally nothing, becomes bendable.
+544.64 550.68 SPEAKER_01  It is described in the book as this great inverting.
+550.68 550.86 SPEAKER_01  Yeah.
+551.42 559.26 SPEAKER_01  You know, and if you want to talk, if you like, if you want to talk about fascism as a kind of, um, black hole, a black sun.
+559.64 559.84 SPEAKER_01  Yeah.
+560.30 560.94 SPEAKER_01  Yeah, indeed.
+561.16 569.08 SPEAKER_01  But a black hole that consumes everything it touches, um, then, you know, I think it's the black hole is actually a great metaphor for it.
+569.26 569.54 SPEAKER_00  Absolutely.
+570.12 575.30 SPEAKER_00  Um, and the thing is, we can, we can also talk about the beginning of the book, which is the least fictionalized bit.
+575.78 588.48 SPEAKER_00  Um, which is, this is the chemistry bit and, you know, it talks in large part about, not Prussian blue and prussic acid, uh, which is, don't quote me on this because I'm not sure if it's the right first part of that compound, but hydrogen cyanide specifically.
+589.10 600.68 SPEAKER_00  Um, and yeah, this being invented as a dye and then sort of making its way into a, into a pesticide, um, it's described as an elegant pesticide.
+600.68 605.12 SPEAKER_00  Uh, and then it's, it's a use for sort of mass slaughter in the Holocaust and for genocide.
+605.12 614.80 SPEAKER_01  But, um, but equally, uh, of how that, that same process, um, enabled how many billions more people to live by creating nitrogen fertilizers.
+614.80 614.84 SPEAKER_00  Yeah.
+614.90 616.02 SPEAKER_00  So this is, this is a profile.
+616.02 626.58 SPEAKER_01  These, this is, these things are always put in, you know, what, what Labatha does is he always, he takes these sort of opposed concepts and loves putting them together again and again.
+626.58 626.66 SPEAKER_00  Yeah.
+626.80 634.94 SPEAKER_00  So this is in large part a profile of Fritz Haber, uh, Fritz Haber who was the, if World War I was the chemist's war, Fritz Haber was the chemist, right?
+634.96 637.04 SPEAKER_00  He was responsible for the first chemical warfare.
+637.54 644.68 SPEAKER_00  Um, but he was also responsible for, uh, the Haber-Bosch process, which is what allows us to synthesize nitrogen.
+645.14 650.96 SPEAKER_00  Um, and it's something that Labatha associates directly with the population boom after the war.
+650.96 664.10 SPEAKER_00  Um, he says it's the most important chemical discovery of the 20th century by doubling the amount of disposable nitrogen provoked the demographic explosion that took the human population from 1.6 to 7 billion in fewer than a hundred years.
+664.74 670.96 SPEAKER_00  It's, uh, you know, as, as he says, nearly 50% of the nitrogen atoms in our body are artificially created today.
+670.96 676.02 SPEAKER_00  More than half the world's population depends on foodstuffs fertilized thanks to Haber's invention.
+676.02 680.78 SPEAKER_00  Uh, the modern world could not exist without the man who pulled bread from air.
+681.22 691.54 SPEAKER_00  Um, and he did it because, uh, Germany was blockaded from accessing Chilean nitrates, uh, which it needed to, uh, to make explosives, to make gunpowder.
+691.82 696.66 SPEAKER_00  He, he sort of like, he provoked, uh, this agricultural revolution.
+696.92 698.50 SPEAKER_00  He prolonged the first world war.
+698.58 700.32 SPEAKER_00  He made it significantly worse and bloody.
+700.32 708.78 SPEAKER_00  And we, we, we see that his, uh, his wife, uh, sort of kills herself to remonstrate with him.
+709.22 715.60 SPEAKER_00  He, you know, he, he directs this gas attack on French troops, which is, you know, uh, horrible with chlorine gas.
+716.10 728.32 SPEAKER_00  Um, and he, uh, his wife, uh, shoots herself with his, his service revolver and he's left, you know, he, he sort of buries himself in, in, in work of both chemical warfare and then agricultural.
+728.88 769.36 SPEAKER_00  And as the end of the chapter, uh, says among the few possessions Fritz Haber had with him when he died was a letter written to his wife in it, he confessed that he felt an unbearable guilt, not for the part he had played directly or indirectly in the death of untold human beings, but because his method of extracting nitrogen from the air had so altered the natural equilibrium of the planet that he feared the world's future belonged not to mankind, but to plants as all that was needed was a drop in population to pre-modern levels for just a few decades to allow them to grow without limit, taking advantage of the excess nutrients humanity had bestowed upon them, spread out across the earth and cover it completely, suffocating all forms of life beneath a terrible verdure.
+769.70 773.48 SPEAKER_00  And so this is the sort of Malthusian horror of the book.
+773.50 784.24 SPEAKER_00  And we come back to this at the end is that like chemistry has destabilized the world to the point that, uh, we have overpopulated and overnourished and oversaturated the world.
+784.24 796.76 SPEAKER_00  Um, and one of the consequences of this is, uh, the sort of uncertainties of quantum mechanics and of like, uh, certain developments in mathematics.
+797.54 814.98 SPEAKER_01  Well, this is, this is in fact one of the reasons why the, um, especially for, uh, Grotendijk, one of the other, um, mathematicians talked about in the book, why they become, they become scared of their own discoveries because they know they've seen the atomic bomb, right?
+815.38 842.90 SPEAKER_01  You know, Oppenheimer is kind of a character mentioned, but not really profiled, um, in the book, but you know, they, that they begin to see, oh, this, um, my, the doing of theoretical physics, the coming to understand the universe of the atom, uh, or the, the coming to understand how to pull nitrogen from the air, whether or not you're going to be a Malthusian, the person doing it was scared by it because it says, oh, we have given too much, uh, humans will become unbalanced in some way.
+842.90 843.04 SPEAKER_00  Yeah.
+843.16 856.50 SPEAKER_00  I mean, they mentioned in part, uh, in the chapter about also the last of us on HBO about Grotendijk, the, um, catastrophe theory, um, the ways in which a dynamic system loses its equilibrium and collapses, right?
+856.50 876.90 SPEAKER_00  Um, and sort of humanity, earth, civilization, whatever is sort of like strongly implied to be one of these, um, because, uh, Grotendijk was one of these geniuses, someone who is like, and all of the scientists in this book are described this way as someone who does not resemble a human being, right?
+876.90 883.52 SPEAKER_00  Someone who is sort of like quite alien is, uh, has sort of like discovered too much.
+883.52 907.62 SPEAKER_00  And it's usually, you know, discovered through sort of like searing, like agonizing process of like sort of, uh, mental exertion, um, which they themselves don't fully understand, but they're sort of like carried forward through this sort of revelatory process that then fundamentally they realize is something that is extremely dangerous.
+907.76 925.74 SPEAKER_00  And Grotendijk, the mathematician, uh, sort of not only does he abandon his work and sort of lose all interest in, in mathematics, but, uh, you know, one of his contemporaries tries to burn his papers on the basis that this is something that is too dangerous, um, that people should not know, uh, about this.
+925.90 942.72 SPEAKER_00  And that, uh, you know, it, it sort of, uh, he, he says that they should, his student should renounce the violent, dangerous practice of mathematics in light of the hazards humanity was facing because it was not politicians who would destroy the planet, but scientists who are marching like sleepwalkers towards the apocalypse.
+943.38 953.56 SPEAKER_01  And I mean, if you want to talk about scientists marching like sleepwalkers toward the apocalypse, just think about whether or not you believe this about AI, what computer scientists believe about themselves.
+954.06 954.98 SPEAKER_01  Yeah, absolutely.
+955.74 959.02 SPEAKER_01  They're saying scientists are sleepwalking earth towards the apocalypse.
+959.50 959.96 SPEAKER_01  Thumbs up.
+959.96 961.00 SPEAKER_01  Cool.
+961.36 961.64 SPEAKER_00  Yeah.
+961.76 963.06 SPEAKER_00  I mean, we're going to keep doing it.
+963.14 963.34 SPEAKER_00  Yes.
+963.60 971.98 SPEAKER_00  Um, because AI is another one of those things where we make the thing less clear and less accountable and less subjectable to a, to a schema, right?
+972.02 972.86 SPEAKER_00  To, to laws.
+973.50 975.90 SPEAKER_00  Um, and okay.
+976.14 979.34 SPEAKER_01  It's, it's, it's the computer that, that contains emergent property.
+979.36 979.70 SPEAKER_01  Exactly.
+979.86 1004.08 SPEAKER_01  And we, we, we, in the episode we talked about most recently, even, I think it's worth coming back to the difference between complex versus complicated and how this is the story of, looking close enough of wanting a complex thing to be, to be merely complicated of wanting a, I, I, I have a, uh, that the metaphor I usually use or the simile I usually use to discern these two things as a carvers, the human brain.
+1004.08 1019.52 SPEAKER_01  So apologize if you have also just heard me talk about this in the episode, but it just, I'll go back to it briefly, which is just that, uh, that, and even the map of the atom that sort of, you know, from, you know, GCSEs or, or, or grade 11, depending on where you're from, grade 10, whatever it is.
+1019.94 1024.40 SPEAKER_01  Um, the map of the atom that, you know, a little planet with a littler moon orbiting it.
+1024.44 1025.28 SPEAKER_01  It's like, ah, that's the proton.
+1025.40 1025.94 SPEAKER_01  That's the electron.
+1026.06 1026.54 SPEAKER_01  It's there.
+1026.64 1027.64 SPEAKER_01  It orbits, et cetera.
+1028.20 1028.46 SPEAKER_01  Right.
+1028.86 1031.84 SPEAKER_01  That is something that you can imagine, right?
+1031.88 1037.50 SPEAKER_01  That is something that, that if you can model it well enough, you can predict where it's going to be, what it is.
+1037.74 1039.32 SPEAKER_01  In fact, it even is an it.
+1039.32 1044.40 SPEAKER_01  It's a nice little ball surround that's, that's orbiting another ball and you can picture it in your mind.
+1045.02 1049.58 SPEAKER_01  It's very difficult to picture things that are outside the realm of human experience entirely.
+1050.18 1055.46 SPEAKER_01  It's very difficult to picture something that's so small, it doesn't generate information in the same way that you're used to.
+1055.66 1056.82 SPEAKER_01  And it's very difficult.
+1056.98 1061.66 SPEAKER_01  And it's, it's also very difficult to imagine things interacting in unpredictable ways.
+1061.76 1068.60 SPEAKER_01  It's difficult to imagine that you could throw something and then its velocity would end up across the room, but its spin would stay near you.
+1069.02 1069.66 SPEAKER_01  That's weird.
+1069.66 1077.48 SPEAKER_01  And that's also very, very complex because the things that will cause those, those things to change are not even.
+1077.80 1077.86 SPEAKER_01  Yeah.
+1077.92 1078.68 SPEAKER_01  It's not that.
+1079.18 1088.98 SPEAKER_01  And so, and so that's the same thing with AI is, you know, we have allowed, again, we have allowed, created a way for the computer to behave in emergent ways.
+1089.22 1089.36 SPEAKER_00  Yeah.
+1089.50 1099.38 SPEAKER_00  And so the treatment of quantum mechanics in this book is sort of the history of how the atom became complex rather than complicated, right?
+1099.42 1106.66 SPEAKER_00  How it became something that was increasingly unknowable the more it was studied.
+1106.88 1115.26 SPEAKER_00  And the more it was theorized, we went from this kind of like, what Schrodinger described as like this sort of, this hateful model of the atom, right?
+1115.26 1133.66 SPEAKER_00  We have a nucleus and the electrons sort of spin around the outside to something whose properties we can only sort of get through some very complicated modeling or through a sort of acceptance of our own lack of knowledge.
+1133.66 1146.94 SPEAKER_00  And this is the sort of divide in the book is between, in large part, Schrodinger and Heisenberg, right, is Schrodinger is trying to derive sort of like wave functions.
+1147.18 1163.84 SPEAKER_00  He is trying to, it's described as like deriving all of the rules of Wimbledon, including the like length of sets and the color of like uniforms worn by the players from the like handful of tennis balls that are hit out of the stadium, right?
+1163.92 1164.84 SPEAKER_00  He's trying to.
+1164.98 1165.18 SPEAKER_00  Yeah.
+1165.18 1167.98 SPEAKER_00  That was a very fun description.
+1167.98 1168.14 SPEAKER_00  Yeah.
+1168.14 1168.32 SPEAKER_00  Yeah.
+1168.32 1168.42 SPEAKER_00  Yeah.
+1168.42 1168.48 SPEAKER_00  Yeah.
+1168.48 1179.44 SPEAKER_00  So he's trying to sort of like understand the function of the atom and this in sort of like in mathematical terms.
+1180.16 1193.98 SPEAKER_00  And Heisenberg is sort of like, meanwhile, undergoing a quite Oppenheimer-like kind of like feverish Eastern mysticism where he's imagining like, he's imagining Hafiz and Goethe like sucking each other off.
+1193.98 1199.16 SPEAKER_00  And in his room is he's like sweating out this fever on Heligoland, the sort of like North German island.
+1200.58 1210.98 SPEAKER_00  And he sort of like has these rigid mathematical matrices that he's trying to apply and trying to.
+1210.98 1218.78 SPEAKER_00  And this is another recurring theme is that so often this process of genius, it like allows for a result.
+1218.94 1220.04 SPEAKER_00  It allows for an equation.
+1220.04 1222.06 SPEAKER_00  It allows for like a waveform, whatever.
+1222.06 1224.84 SPEAKER_00  And then you have no idea how you got to it.
+1224.84 1230.20 SPEAKER_00  And you have to like work backwards and you are baffled at this sort of like strange result that you have.
+1230.26 1231.62 SPEAKER_00  And you have no idea how you got there.
+1232.26 1238.94 SPEAKER_01  Well, it's again, it's the process, just as the process of the thing that you are knowing is hard to understand.
+1239.08 1241.48 SPEAKER_01  So too is the process by which you came to know it.
+1241.74 1243.48 SPEAKER_01  It seems intuitively right.
+1243.48 1244.64 SPEAKER_01  And then it all works.
+1244.64 1247.58 SPEAKER_01  But you cannot show your work because you don't know what it was.
+1247.58 1248.40 SPEAKER_00  Yeah, absolutely.
+1249.02 1260.10 SPEAKER_00  But yeah, so as Schrodinger is saying here, if one followed its line of thinking to the ultimate consequences, darkness would infect the soul of physics.
+1260.32 1273.22 SPEAKER_00  If Heisenberg triumphed, a fundamental aspect of the laws that govern the physical world would remain forever obscure, as if chance had somehow nested in the heart of matter and become inextricably bound to its most fundamental constituents.
+1273.96 1275.88 SPEAKER_00  Someone had to stop him.
+1276.32 1280.18 SPEAKER_00  Someone had to smash the box in which Heisenberg had trapped the atom.
+1282.40 1293.44 SPEAKER_01  It's, um, the passage I had for this was when he, when Schrodinger was at the sanatorium, it says he tried to put them in order, but even this proved overwhelming.
+1293.84 1294.52 SPEAKER_01  His papers.
+1295.00 1297.72 SPEAKER_01  He was incapable of untangling which argument led to which conclusion.
+1297.72 1302.88 SPEAKER_01  All that was clear was the equation on the final page, which seemed to capture perfectly the movement of an electron inside the atom.
+1302.88 1305.88 SPEAKER_01  There's no evident connection between it and what he had written before.
+1305.88 1315.82 SPEAKER_01  But in both cases, it's, um, he, so Schrodinger through, um, basically a kind of, um, heterastic fugue state.
+1315.82 1316.14 SPEAKER_01  Yeah.
+1317.22 1317.74 SPEAKER_01  Yeah.
+1317.74 1326.26 SPEAKER_00  He does spend a large part of this book, uh, dreaming about, and then, like, molesting a teenage girl.
+1326.38 1326.66 SPEAKER_00  Yes.
+1327.16 1339.44 SPEAKER_00  Uh, but a teenage girl who is extremely precocious intellectually and scientifically, um, and who is, like, uh, it's ripping the magic mountain quite a lot, in that they are both, uh, sufferers of tuberculosis.
+1339.60 1342.10 SPEAKER_00  They're in this sanatorium that is, like, snowed up in the Alps.
+1342.10 1349.58 SPEAKER_00  Um, and he is trying to, sort of, derive this equation, um, at the same time.
+1349.92 1358.72 SPEAKER_00  She's, sort of, like, more accepting of her own imminent death and of mysticism and of, sort of, of contradiction.
+1358.72 1367.46 SPEAKER_00  And he has this, kind of, like, vision as she dies, this, sort of, like, horrible misogynist terror of her as the goddess Kali.
+1368.06 1377.90 SPEAKER_00  Um, and it's, again, the, sort of, the, the Eastern mysticism in this book is reflective of a real trend amongst, you know, uh, physicists of the 20th century.
+1377.90 1382.94 SPEAKER_00  Uh, Oppenheimer was not at all the worst, um, if you can say worst on this.
+1382.94 1390.34 SPEAKER_00  Um, and, yeah, he, he, sort of, uh, the, the last thing she says to him.
+1390.70 1392.66 SPEAKER_00  I no longer feel things as I did before.
+1392.96 1394.40 SPEAKER_00  No ties bind me to others.
+1394.54 1395.64 SPEAKER_00  I treasure no memories.
+1395.78 1397.04 SPEAKER_00  No desires drive me onwards.
+1397.70 1405.78 SPEAKER_00  My father, the sanatorium, this country, the mountain, the wind, the words that come from my mouth, all seem to me things as distant as the dream of a woman long dead.
+1406.24 1411.00 SPEAKER_00  This body you see eats, grows, walks, talks, and smiles, but there is nothing left inside it but ashes.
+1411.00 1415.66 SPEAKER_00  I have lost my fear of the night, Herr Schrodinger, and you should do the same.
+1416.66 1434.50 SPEAKER_01  So this is, and sort of moving beyond, um, again, I think the, the relationship between the two of, I guess the, what is, what I wanted to know and I, what I sort of didn't really grasp is what is, is Labatou trying to, trying to say with the relationship between the two of them?
+1434.56 1444.12 SPEAKER_01  Is it, is it a kind of seeing quantum mechanics as an expression of the death drive because it is effectively giving up on what can be known for sure?
+1444.22 1444.34 SPEAKER_00  Yes.
+1444.34 1445.78 SPEAKER_01  And so it takes a dying person.
+1445.84 1446.72 SPEAKER_00  Yes, absolutely.
+1446.88 1446.90 SPEAKER_00  Oh, okay.
+1446.90 1447.54 SPEAKER_00  So I did understand it.
+1447.54 1448.04 SPEAKER_00  Yeah, you did.
+1448.16 1448.34 SPEAKER_00  Okay.
+1448.34 1460.26 SPEAKER_00  It's fully, it's, it's fully a question of like acceptance of ambiguity, um, and acceptance of complexity and of not knowing, uh, of, of ceasing to understand the world, but of ceasing to need to, right?
+1460.26 1478.62 SPEAKER_01  And the, or, or understanding the, understanding the, understanding the world as it can be understood, which has hard limits and beyond those limits is our PR information, but information that we cannot perceive of, or we cannot perceive or really even call him the Moksha nonce.
+1478.62 1485.38 SPEAKER_00  Um, and yeah, we accidentally, we accidentally achieved enlightenment.
+1485.86 1490.04 SPEAKER_00  Uh, this, this nonce has achieved enlightenment while sort of like groping a teenage girl.
+1490.46 1491.92 SPEAKER_00  Um, and.
+1492.88 1493.36 SPEAKER_00  That's right.
+1493.44 1494.78 SPEAKER_00  That's, that's, that's very Chris Morris.
+1495.00 1496.80 SPEAKER_00  This nonce has achieved enlightenment.
+1496.80 1498.66 SPEAKER_00  This is the one person we didn't want to do it.
+1498.94 1505.32 SPEAKER_01  Um, well, to be fair, you know, if you're going to get off the cycle of death and rebirth,
+1505.42 1507.72 SPEAKER_00  I mean, that's someone we don't want being. That's, that's true.
+1508.00 1518.58 SPEAKER_00  Uh, but so contrast this with Heisenberg who was in Copenhagen being sort of like psychologically tortured by Niels Bohr, his, his professor, uh, who is like, keeps, who he lives in the
+1518.58 1518.70 SPEAKER_01  attic of.
+1518.70 1523.24 SPEAKER_00  Yeah, he lives in his attic and every so often Niels Bohr just goes up and he goes, how's the quantum mechanics coming?
+1523.46 1526.26 SPEAKER_00  By the way, I found a new thing that makes your idea stupid.
+1526.88 1546.26 SPEAKER_00  Um, and he, he sort of has this, and this is, I think fictional and imagined, uh, he has this interaction in a bar with a sort of a frightening man, uh, who, who makes him drink and says, um, did you know that the first symptom of a psychological disturbance is the inability to contend with the future?
+1546.26 1553.16 SPEAKER_00  Um, and, and sort of like accuses him of having destroyed the world, right?
+1553.20 1557.26 SPEAKER_00  Of having, uh, he calls it a magnificent inferno that we have now ceased to understand.
+1557.76 1565.86 SPEAKER_00  Um, and, um, the, what was beyond our grasp, he says, was neither the future nor the past, but the present itself.
+1565.86 1570.30 SPEAKER_00  Not even the state of one miserable particle could be perfectly apprehended.
+1570.72 1581.86 SPEAKER_00  However much we scrutinize the fundamentals, there would always be something vague, undetermined, uncertain, as if reality allowed us to perceive the world with crystalline clarity with one eye at a time, but never both.
+1581.98 1585.38 SPEAKER_00  And that thing about, uh, like being monocular is a recurring thing.
+1585.80 1599.64 SPEAKER_00  Um, Schwarzschild had like lost the sight in one eye, um, you know, as, as, as an astronomer looking at an eclipse, and he used to joke that he had, like Odin, he had sacrificed the sight in one eye to see further with the other.
+1600.02 1602.12 SPEAKER_00  Uh, and this is a sort of recurring metaphor.
+1602.96 1616.20 SPEAKER_01  Yeah, it's, um, I, I had, uh, we have some, some more passages from the, uh, from the, because this is sometimes, again, I, I'm always sort of happy to admit when I sort of read a passage of the book and I'm like, ah, well written, but what was it?
+1616.40 1616.84 SPEAKER_01  Yeah.
+1616.92 1626.56 SPEAKER_01  Um, was this, uh, the man in the bar seems to not just be making him drink alcohol, but there seems to be heavily implied that he's being given some kind of a hallucinogen?
+1626.76 1626.94 SPEAKER_01  Yes.
+1627.18 1627.82 SPEAKER_01  Yeah, absolutely.
+1628.08 1635.16 SPEAKER_00  Which, I mean, plenty of mathematicians, plenty of physicists have used to, to, to better understand, uh, these things.
+1635.80 1649.62 SPEAKER_00  Um, but he, he has this kind of, he has this trip where he goes out in the park afterwards, sort of reeling, uh, and he, he sort of, he sees particles and waves, uh, and sort of, he sees the transit of electrons.
+1650.18 1656.38 SPEAKER_00  Um, and he has this kind of vision, although it's not actually like explicitly so of the atomic bomb, right?
+1656.40 1661.74 SPEAKER_00  Of, of, uh, figures trying to like warn him and just being vaporized by light.
+1662.32 1667.90 SPEAKER_01  Um, but also he has a vision of the, um, the forest sort of pulsing and growing.
+1668.00 1668.26 SPEAKER_01  Yes.
+1668.56 1669.24 SPEAKER_00  Verger again.
+1669.70 1670.70 SPEAKER_01  Yeah, exactly.
+1670.70 1672.08 SPEAKER_01  The terrible Verger is back.
+1672.08 1675.18 SPEAKER_01  Um, me when I'm a Church of England vicar.
+1675.84 1691.28 SPEAKER_00  Um, but yeah, so, so, I mean, this is, he, he's imagining subconsciously or he's, he's sort of hallucinating, uh, nuclear annihilation, right?
+1691.36 1695.84 SPEAKER_00  And, uh, sort of humanity being exterminated or exterminated itself that way.
+1695.84 1702.72 SPEAKER_00  Um, and in so doing, he realizes the, like, the Copenhagen interpretation, the many worlds interpretation.
+1703.06 1709.74 SPEAKER_00  Uh, he synthesizes, uh, his own sort of matrices and, um, and Schrodinger's.
+1710.12 1715.48 SPEAKER_00  Uh, and, and what you're left with is this uncertainty principle, right?
+1715.50 1720.16 SPEAKER_00  That you can sort of, you have one eye with which to perceive things.
+1720.16 1727.60 SPEAKER_00  And as soon as you, like, observe them, you, you fix them so you know the, like, speed of something but not its location or vice versa.
+1728.26 1738.24 SPEAKER_00  Ultimately, this, this culminates in this conference where Einstein finds his entire, like, deterministic view of the universe just dynamited because all of a sudden there is no thing.
+1738.56 1746.16 SPEAKER_00  There isn't, like, uh, an electron, um, it, it, it is not something that exists independently of observation anymore.
+1746.16 1750.16 SPEAKER_00  It's something that you can't even conceive of without observation anymore.
+1750.56 1759.96 SPEAKER_00  Uh, it is, all an electron is, is the detection of something in a specific manner by a specific instrument.
+1760.52 1768.00 SPEAKER_00  And there is, like, uh, it says between one measurement and the next, there's no point asking how it moves, what it is, or where it's located.
+1768.26 1770.84 SPEAKER_00  Like the moon in Buddhism, a particle does not exist.
+1771.06 1773.90 SPEAKER_00  It is the act of measuring that makes it a real object.
+1773.90 1774.34 SPEAKER_00  Yeah.
+1775.08 1780.32 SPEAKER_00  And, and, and imagine, like, having to just, imagine figuring that out.
+1780.32 1793.16 SPEAKER_00  It's, this is the thing, the, the sense, again, it's the, the Svartschild thing of having a kind of existential crisis because your idea of what reality is, like, no longer makes sense.
+1793.30 1793.78 SPEAKER_00  Right.
+1793.86 1798.44 SPEAKER_00  And there's, I think, one of the things, I read this book in, in two sittings.
+1798.44 1800.80 SPEAKER_00  The first sitting, I was in quite an anxious state of mind.
+1800.80 1801.28 SPEAKER_00  Right.
+1801.32 1809.22 SPEAKER_00  And that's where I read the, the Svartschild, but that's where it really struck me was because it, it's sort of trafficking, trafficking in this idea of like a cognitohazard.
+1809.36 1809.64 SPEAKER_00  Right.
+1809.66 1820.50 SPEAKER_00  Of like, if you think too hard, if you are aware of this thing, this will have like negative implications on you as a person, on your health, on your psyche.
+1820.70 1821.18 SPEAKER_00  Right.
+1821.18 1843.76 SPEAKER_00  Um, and this sort of, the second half of the book is about broadening that, about going that extra step further of saying, well, okay, if there is this kind of like singularity, if there is this radius at which knowledge starts to break down and we are societally within it and things are breaking down progressively, what, what then?
+1843.76 1844.32 SPEAKER_00  Right.
+1844.70 1851.50 SPEAKER_00  Um, and the, the answer that quantum mechanics has is, uh, this is fine.
+1851.64 1856.46 SPEAKER_00  You know, this is sort of, uh, a many armed goddess playing dice with the world.
+1856.54 1856.72 SPEAKER_00  Right.
+1856.82 1867.24 SPEAKER_00  Uh, and, and what physics is doing is describing, uh, not sort of like things that exist objectively, but it's describing the act of observing those things.
+1867.24 1870.38 SPEAKER_01  Well, I think it's actually also worth pointing out as well.
+1870.50 1886.32 SPEAKER_01  Like we've sort of talked about the fact, the one, the one of the, one of the things that's not talked about in the book is how keen Nazis, Nazis were, how keen fascism was to squash this form of interpreting the world.
+1886.40 1887.76 SPEAKER_01  They called it Jewish science.
+1887.96 1888.38 SPEAKER_00  Yeah, absolutely.
+1888.48 1896.26 SPEAKER_00  Because it's comfortable with the kind of ambiguity that is absolutely hostile to, uh, sort of fascist thinking, fascist principles.
+1896.26 1896.90 SPEAKER_00  Yeah.
+1897.18 1908.20 SPEAKER_01  It says, no, we are going back to the little orbit and the little planet and all of the stuff is, and all of the stuff is real again, by the way, has anybody found the spear of destiny?
+1909.20 1909.64 SPEAKER_00  Yeah.
+1909.84 1917.30 SPEAKER_00  And I mean, it's interesting too, because Schrodinger, uh, there's another thing in here about people being remembered, not as, not as they choose to be.
+1917.30 1917.70 SPEAKER_00  Right.
+1917.74 1924.96 SPEAKER_00  So like, uh, God playing dice with the universe is sort of like, uh, it's remembered of Einstein quite falsely in the same way.
+1925.20 1926.24 SPEAKER_00  If I, it's, it's, it's, it's, it's, it's, it's, it's, it's, it's,
+1926.24 1928.18 SPEAKER_01  it's remembered as like a Churchillian quip. Yeah.
+1928.18 1928.26 SPEAKER_00  Yeah.
+1928.26 1928.42 SPEAKER_00  Yeah.
+1928.42 1928.56 SPEAKER_00  Yeah.
+1928.56 1929.08 SPEAKER_00  Being ugly.
+1929.16 1929.40 SPEAKER_01  Exactly.
+1929.48 1934.26 SPEAKER_01  As opposed to something said defensively and in retreat and in sort of.
+1934.34 1946.60 SPEAKER_00  Said after hearing the kind of death sentence for deterministic science that they ended the Copenhagen interpretations presentation with, which is we consider quantum mechanics to be a closed theory.
+1946.92 1950.68 SPEAKER_00  It's underlying physics and mathematics are no longer amenable to modification.
+1950.68 1960.16 SPEAKER_00  And Einstein tried and tried and tried over the course of these, these days of this conference to make this a thing that like, he could, he could criticize and he could find nothing there.
+1960.26 1961.84 SPEAKER_00  There was no inconsistency in the reasoning.
+1961.84 1966.06 SPEAKER_00  And so it's this kind of like, uh, horror and contempt.
+1966.06 1966.50 SPEAKER_00  Right.
+1966.86 1974.44 SPEAKER_00  Um, but by the same token, Evan Schrodinger, if I, if I say that name to you, you're going to say, Oh, the, the guy with the cat, right?
+1974.52 1975.14 SPEAKER_00  Schrodinger's cat.
+1975.14 1979.68 SPEAKER_00  Um, the cat that is both dead and alive until you open the box and determine which one it is.
+1980.24 1987.26 SPEAKER_00  That's also intended to be like a sarcastic criticism of the uncertainty principle, right?
+1987.28 1992.36 SPEAKER_00  It's intended to be like, this is such a stupid idea because there is a real cat, right?
+1992.38 1994.16 SPEAKER_00  And you can infer it from like other means.
+1994.54 2011.72 SPEAKER_00  Um, and the Copenhagen interpretation, Bohr and, uh, and Heisenberg sort of popularized Schrodinger's cat as like, yes, this is a perfect metaphor for what is happening physically, uh, at a, like a subatomic level is, uh, yeah, it's paradoxical.
+2011.72 2012.72 SPEAKER_00  It's ridiculous.
+2013.18 2014.50 SPEAKER_00  And, and it's true.
+2014.74 2019.98 SPEAKER_00  You, you, you measure the thing and that then creates the sort of, uh, result in the meaning, right?
+2020.42 2025.58 SPEAKER_00  Um, and until you have measured it in some way, it is, it's in this quantum superposition.
+2025.72 2026.48 SPEAKER_00  It's alive and it's dead.
+2027.08 2029.54 SPEAKER_01  Um, well, again, it's because it's ultimately right.
+2029.54 2036.74 SPEAKER_01  When you think about the classical sort of closed down little, little planets interpretation of, of, um, of, of physics.
+2036.74 2047.96 SPEAKER_01  I mean, what this book sort of strongly suggests is that that assumes that, that something that is very human, the concept of meaning itself is germane to an atom.
+2048.18 2048.42 SPEAKER_00  Yes.
+2048.76 2048.96 SPEAKER_01  Right.
+2049.34 2052.64 SPEAKER_01  That atom has meaning independently of us assigning it meaning.
+2052.76 2056.30 SPEAKER_01  And it's like, well, no, and that's not because we have the power to assign meaning.
+2056.42 2057.82 SPEAKER_01  It's because meaning is a human concept.
+2057.94 2058.72 SPEAKER_01  Yes, absolutely.
+2058.72 2066.72 SPEAKER_01  You know, um, meaning and being and things like this are, there's not just human concepts, it's specifically embodied concepts.
+2066.72 2078.26 SPEAKER_01  And it's in fact, going back to AI, I think it's one of the reasons why artificial general intelligence, something that is self-aware in roughly the same way we are, is kind of a red herring.
+2078.26 2091.38 SPEAKER_01  If only because how many of the things that constitute awareness are related to being embodied realistically, of coming into the world and understanding it through the, through the medium of a body.
+2091.38 2105.68 SPEAKER_01  Um, how many of those things about volition, about choice, about time, about boredom, about, about the assigning of meaning to things, about a conception of you as one individual relating to other individuals, of me as separate from this microphone.
+2105.68 2112.02 SPEAKER_01  How much of that is related to me and my perception of myself as a person in a body?
+2112.02 2127.38 SPEAKER_01  And it's the same thing with these kinds of, with the understanding of quantum mechanics that's put forward in this book as saying, well, hang on a second, we want to think of atoms as atoms, not atoms as kind of like also bodies like us, right?
+2127.44 2130.92 SPEAKER_01  It's, it's, it's about stopping projecting humanness onto the world.
+2131.38 2131.94 SPEAKER_01  That's why it's horrifying.
+2131.94 2133.78 SPEAKER_00  Yeah, to smash the box in which he's put the atom.
+2133.86 2136.76 SPEAKER_00  And we're back again to, to Schwarzschild's nightmare, right?
+2137.12 2139.70 SPEAKER_00  Um, and I'm, I'm just going to read this here.
+2139.98 2144.38 SPEAKER_00  Schwarzschild felt overcome by a sense of imminent disaster as the First World War approached.
+2144.80 2153.54 SPEAKER_00  In him, this took the peculiar form of a fear that physics would be incapable of explaining the movement of the stars or of finding an order in the universe.
+2154.30 2165.30 SPEAKER_00  Is there anything that is truly at rest, something stationary around which the universe revolves, or is there nothing at all to hold onto amid this endless chain of movements in which every single thing seems bound?
+2165.66 2176.20 SPEAKER_00  Just imagine how far we have fallen into uncertainty if the human imagination cannot find a single place to lay its anchor, if not a single stone in the world has the right to be considered immobile.
+2177.02 2191.28 SPEAKER_00  It was unbearable that there was nothing more than lifeless spheres in the throes of random chance, like the molecules of a gas that float from one place to the other in a completely irregular manner, so much so that their very chaos is being enthroned as principle.
+2192.56 2193.70 SPEAKER_01  But that's the, right?
+2193.76 2194.64 SPEAKER_01  But that is the problem.
+2194.84 2196.06 SPEAKER_01  The chaos is the principle.
+2196.20 2196.54 SPEAKER_00  That's what happens.
+2196.54 2196.96 SPEAKER_00  Yeah, exactly.
+2196.96 2197.22 SPEAKER_00  Yeah.
+2198.22 2202.64 SPEAKER_00  And this kind of like, this inability to, to comprehend, right?
+2202.70 2206.02 SPEAKER_00  To, when you, as you say, when you cease to understand the world, right?
+2206.26 2211.04 SPEAKER_00  Uh, is a terrifying, terrible thing, right?
+2211.04 2214.36 SPEAKER_00  And it, it's one that the book suggests is one that will doom us, right?
+2214.36 2218.42 SPEAKER_00  It's, it's in the end, this is something that, you know, Harbor will be proven, right?
+2218.74 2221.82 SPEAKER_00  Uh, we will succumb to this verger because we will destroy ourselves.
+2221.82 2223.88 SPEAKER_00  I don't, I don't agree, right?
+2224.26 2231.86 SPEAKER_00  Um, I, I think it is one of a couple of very pointed criticisms I have of the book that I think it is fundamentally like Neo-Malthusian.
+2231.86 2241.80 SPEAKER_00  Um, but I think it's very valuable as a sort of like fictionalized explanation of why science is weird now.
+2241.86 2253.42 SPEAKER_00  And I think there's a, there are so many applications to this because the way in which we teach science and the way in which we learn science and what science is, um, you know, is, is necessarily abstracted.
+2253.42 2254.58 SPEAKER_00  And you see this a lot.
+2254.64 2259.66 SPEAKER_00  You see this, for instance, with TERFs who are like, well, you can't change your sex because it's basic biology, right?
+2259.98 2265.62 SPEAKER_00  And advanced biology is some sort of like unknowable, possibly woke thing.
+2265.94 2282.54 SPEAKER_00  Uh, and you know, if, if an actual biologist is going to explain to me about sex, I'm kind of not going to listen because I'm going to, I'm going to like cleave to the reassuring deterministic view that, you know, sex is some immutable inherent biological characteristic, uh, at least in humans.
+2282.54 2286.90 SPEAKER_00  And therefore I'm just going to, I'm just going to live in that kind of ignorance.
+2287.52 2290.28 SPEAKER_01  Um, and there's girls wear pink boys wear blue.
+2290.40 2294.90 SPEAKER_01  And that is the stone that everything that's the immobile stone, everything orbits exactly.
+2295.06 2302.92 SPEAKER_00  And, and what quantum mechanics does is for like, uh, for the atom is that stone melts through your fingers.
+2302.92 2303.44 SPEAKER_00  Right.
+2303.62 2306.32 SPEAKER_00  And I think this is true of more.
+2306.32 2317.98 SPEAKER_00  I might even say all science is that like, as science has developed, as it has progressed, it has always been this case of part of what the scientific method is for, right?
+2318.08 2320.34 SPEAKER_00  Is raising more questions, right?
+2320.40 2322.52 SPEAKER_00  Testing more claims and then breaking those claims.
+2322.80 2329.32 SPEAKER_00  Uh, and this kind of like this lack of understanding, I think you can let it overtake you.
+2329.32 2334.14 SPEAKER_00  And I think when it overtakes your worldview, right, that that's the kind of the terror.
+2334.26 2336.66 SPEAKER_00  That's the thing that, you know, it gives Harbor nightmares.
+2336.78 2344.10 SPEAKER_00  It's the thing that lets Svartschild die, uh, in his field hospital bed is like, I no longer have a context in which I can place this.
+2344.20 2345.96 SPEAKER_00  And I, I feel completely unmoored.
+2346.04 2349.56 SPEAKER_00  And the sort of your response to that is, yeah.
+2349.60 2349.80 SPEAKER_00  Okay.
+2349.80 2352.30 SPEAKER_00  You can take a sort of like Buddhist view and be like, this is good.
+2352.38 2355.96 SPEAKER_00  This is like liberatory to not have any context whatsoever.
+2355.96 2361.92 SPEAKER_00  And I sort of like enter into the realm of the, you know, the dark and the subatomic with perfect sort of like acquiescence.
+2362.48 2371.08 SPEAKER_00  Or you can take a kind of futurist view that appeals to me of being like, well, this is how people develop new contexts and new values.
+2371.24 2379.78 SPEAKER_00  And the context that like, uh, someone like Svartschild lived in would have been completely foreign to someone earlier than him, probably.
+2380.28 2381.86 SPEAKER_00  Uh, and this is like, absolutely.
+2381.94 2384.14 SPEAKER_01  I mean, the context is complexity.
+2384.14 2384.42 SPEAKER_01  Yes.
+2384.42 2385.92 SPEAKER_01  It is more complexity.
+2386.46 2388.88 SPEAKER_01  And that's just, that's because the world is more complex.
+2389.10 2393.72 SPEAKER_01  It is better to have more complex models if we're going to understand a more complex world.
+2393.90 2401.78 SPEAKER_01  So I want to talk for the last little sort of portion of this about the final pages of this book, which I found to be quite confusing.
+2401.80 2402.54 SPEAKER_00  The Night Gardener.
+2402.80 2403.14 SPEAKER_00  Yes.
+2403.62 2440.54 SPEAKER_00  Uh, so, so if you kind of think of the first four fifths of the book as kind of theory, this is like applied, uh, you know, the applied science of this, um, which is a little bit more experimental, uh, short fiction where an unnamed narrator is living in a kind of like, uh, rural part of Chile, which is kind of like, at least alludes to Colonia Dignidad and the kind of like ex Nazis who fled to Chile and to, you know, tortured dissidents there on behalf of, uh, of the regime.
+2440.54 2459.12 SPEAKER_00  Um, this narrator sort of exists in a world, which is being battered by the sort of like ambiguities and horrors of modern science, you know, like, uh, going back to, to prasic acid again, they find, for instance, like dead dogs in the street poisoned.
+2459.86 2465.36 SPEAKER_00  Um, uh, and they're trying to garden, but they're gardening on top of like a rubbish heap.
+2465.36 2467.06 SPEAKER_00  So all the trees are stunted.
+2467.06 2488.96 SPEAKER_01  Yeah. And so it was my, my, my sense that I got from the night gardener, right, is coming back to this terrible verdure, you know, of actually when you try to create the garden in your design, you will fail, unpredictable things will happen. And in fact, the worst, uh, excesses of human nature, the poisonings of the dogs and so on are enabled.
+2488.96 2541.24 SPEAKER_00  Yes. And there's, there's a particular passage, which is, uh, sort of the key part to me and is the real like linchpin of the, as I say, like Neo Malthusian bit of this. Um, the night gardener once asked me if I knew how citrus trees died when they reach old age, if they are not cut down and they managed to survive drought disease and innumerable attacks of pests, fungi, and plagues, they succumb from overabundance. When they come to the end of their life cycle, they put out a final massive crop of lemons in their last spring, their flowers bud and blossom in enormous bunches and fill the air with a smell so sweet that it stings your nostrils from two blocks away. Then their fruits ripen all at once, whole limbs break off due to their excessive weight. And after a few weeks, the ground is covered with rotting lemons. It is a strange sight, he said, to see such exuberance before death.
+2541.34 2578.70 SPEAKER_01  Uh, see, I interpreted this differently. Uh, and that's why I wondered if I, as per usual, I wondered if I sort of missed something. Because my, I sort of saw the visual of the lemon tree at the end as being the kind of flowering of knowledge and the flower and the understanding as going more towards oblivion and death. Is that, and that the great, the great unshackling of knowledge from the sort of classical paradigm of just nice little discrete things orbiting one another in predictable ways that, that yes, that was a flowering of knowledge, but it was also the
+2578.70 2582.48 SPEAKER_00  death of certain. So you have like a, you have like a liberatory reading of it then.
+2582.80 2599.06 SPEAKER_01  Yeah. That's interesting. Yes. That, that, that, that, that's, that was the sense that I was given when I was reading the part about the gardener is that, is that to fought, is that you think that you are building this tower, but what you don't understand is that the whole time you've building, you've actually been digging, but you are digging towards the truth.
+2599.06 2610.18 SPEAKER_00  I, I think it's, I think this is much more nightmarish for me. This is, this is the kind of, yes, it's, it's a kind of like Svartschild nightmare of like the death of objectivity.
+2610.56 2651.40 SPEAKER_00  It's also kind of Heisenberg's nightmare of people being atomized. It's Harbour's nightmare of, you know, people being gassed and then sort of this, this verger sort of like overtaking everything after we're all gone. And I think the reason why I think that rather than your interpretation is because the way the narrator responds to this about this kind of like exuberance, this abundance before death, which is, you know, one thing you could suggest about our society, right? Is that we're like engaged in this kind of like unsustainable luxury. It's, it's, you know, you can get this at the end of like David Attenborough documentaries now, if you want.
+2652.52 2657.84 SPEAKER_00  But specifically the narrator says, I asked him how long my own citrus had to live.
+2658.28 2667.80 SPEAKER_00  He told me that there was no way to know, at least not without cutting it down and looking inside its trunk, but really who would want to do that? And those are the last words of the novel.
+2667.88 2718.62 SPEAKER_00  And I think that's the acceptance of ambiguity and complexity. That's the sort of the scientific comfort there is that we may be doomed, that we may have crossed this like event horizon into a kind of like, uh, you know, age of, of, of contradiction and terror and obliteration. And we may be kind of like flowering in abundance as we're doing that, but it's, it's better not to know, you know, that it's, it's, it's more comfortable to appreciate the system as it is as a whole to sort of like, uh, you know, to approach the atom through poetry as, as Heisenberg says at one point, um, rather than, you know, cut it open and look right. Um, because you won't necessarily like the answer you find, it won't bring you any comfort. Um, and what you were, what you're sort of robbing yourself of
+2718.62 2757.92 SPEAKER_01  is the present still. Yeah. Yeah. I see that. I get the reason I sort of thought about the, you know, what it was that, that caused me to have the interpretation that I did was the evocation of, um, uh, throughout the novel. One of the, not the, one of the things that is a consistent theme is that the closer you are to certainty, the closer you are to death, but the closer you are to death, the further you are from caring about it in the sense that like, and this is, so I was thinking more about how, you know, it's, uh, in their moments of enlightenment, they find atomic bombs, they see Kali, you know, the various scientists as, as they successfully look into the atom, so to speak,
+2757.92 2794.88 SPEAKER_00  you know, that they are confronted with death. I, I, I think in the novel death for the most part is, is sort of a thing of uncertainty. Um, and I, I, I think, uh, like Svartschild dies, uh, sort of like confounded, terrified, imagining like the rings of Saturn coming apart. Uh, you know, this, this thing that like cannot hold anymore in this kind of like, uh, complete, lack of knowledge. Um, whereas, uh, Miss Hervig, the, the girl that Schrodinger is molesting is, is kind of like embracing that uncertainty is, uh, like has lost her fear of the dark,
+2794.92 2810.14 SPEAKER_01  as she says. Well, I guess, and I think that's, I suppose that's what the book is about. And I guess that's where the Malthusian bit comes in. It's saying, Hey, we need some of this dark because we can't be dependent. Yeah. Well, it's, it's sort of, I think the thing is, uh, this is
+2810.14 2858.56 SPEAKER_00  a very timely book in that it is mournful for the human race. Um, I think it takes as read that, uh, humanity is not going to make it right. Um, I, I think its premise for doing that is, is flawed. Um, but at the same time, like now that people are talking about things like climate grief, for instance, um, I, I think that, uh, there's an interesting thing or set of things to explore in here, regardless of what my, my thoughts on that are sort of scientifically. Um, and I think what this does, uh, is, you know, one of the things that I appreciate about it, one of the things that I think makes it good fiction is that it does make you confront a kind of like existential uncertainty.
+2858.56 2882.96 SPEAKER_00  Um, and it does force you to sort of develop your own response to that, which could plausibly be terror. Uh, it, it could be, uh, your sort of like liberate review of it. It could be me like wanting to argue with it. Um, but it's, it's all sort of like, it's all germane to the point that it's making. I think it's making that point quite well. I just disagree with it.
+2882.96 2929.90 SPEAKER_01  Well, I, I, you said you did this book in two sittings. I did it. I intended to do it in two, but did it in one. Um, because I found it so like usual, I think like one of my problems with reading is that I get so interested in the, the thrust of what is being said that I so frequently forget, um, how it's being said and the imagery around it. I tried not to do that this time, but I still found myself like pacefully going through the books. I wanted to know what happened next to Heisenberg. He moved to Arizona. Um, and, and so, you know, I, but I found that like the, in so many, so throughout this book that the, the imagery was so forward that it actually, that style of re I didn't have to discipline myself while reading because it became sort of
+2929.90 2946.10 SPEAKER_00  impossible to miss. Yeah. I think it changes throughout the book. Like the, the first chapter in particular, the Harbor chapter is, uh, the least fictional and the most kind of like it flits, you know, it goes from like one point to another point, tying them together with like chemicals.
+2946.78 2959.44 SPEAKER_00  Um, and I think that like that intrigued me, but I've also like, it reminded me of other things I've read better and worse. Um, and I, I was glad when it kind of settled into this more lyrical,
+2959.44 2983.30 SPEAKER_01  more fictionalized rhythm later on. Absolutely. And I, we were thinking about what to read next and you know what? I want to suggest we do blindsight next. All right. Yeah. It's a 1.0 on the blindsight scale. Yeah, exactly. Cause it's a different, um, it's, it's a different way of arguing quite a few of the same things about the limits of what humans can understand. Sure. And
+2983.30 2986.46 SPEAKER_00  it's got vampires in it, which this one doesn't. So it clears it effortlessly.
+2986.46 2999.42 SPEAKER_01  That's right. Number of that's, well, that's a crucial element of the blindsight scale is how many vampire, how many scientifically derived vampires are in it. Particularly like this,
+2999.48 3031.26 SPEAKER_00  this alludes to, uh, linguistics, right. And to language. Um, it, it, but only through the lens of what mathematics or what physics are, right? Like, um, it, what physics is, is, is, uh, you know, potentially descriptive, um, uh, Heisenberg says at one point, the physicist, like the poet should not describe the facts of the world, but rather generate metaphors and mental connections. Um, and I think that's something that in my understanding, blindsight leans into much more.
+3031.74 3034.90 SPEAKER_00  Yes. Yes. Well, you're going to find out cause you're going to read blindsight.
+3034.90 3082.54 SPEAKER_00  You finally got me to after years, years of friendship and working together, you finally got me to read blindsight. I'm finally going to get you anyway. Anyway. Um, so that was when we cease to understand the world. It's pretty good. It's interesting is, is my contention. And after we do blindsight, it's a page turner and you wouldn't expect it to be a page turner, but it is. That's kind of like Richard and Judy, like book club thing is like, yeah, you know, I could, I couldn't put it down. Um, I think after blindsight, I do want to get you to read something that's like, I guess, meaningful and personal to me on the same way. So I'd like us to read, uh, the man who was Thursday. Okay. Let's do it. Fantastic. Well, thank you so much for, for listening to left on red. Thank you so much for your money as well. Uh, which enables us to buy the books. Um, we love it.
+3082.54 3095.98 SPEAKER_00  We do. Um, and, uh, yeah, we, we hope you'll enjoy the rest of the year with us cause we're going to have some, some interesting stuff lined up. I'd like to do the thing that we did where, you know, getting authors back on and interviewing them. Yes. I enjoy that.
+3095.98 3107.30 SPEAKER_00  We can, well, let's, you know, let's, let's you and I put our heads together and find some, find some authors, lots of people who are, they hang out in North London. I'm pretty sure, you know, I was walking around, I was grabbing off the street.
+3107.76 3114.74 SPEAKER_00  No, we have, we have to make a blind out of, um, I'm doing my like author call. It's like a duck call,
+3114.90 3129.46 SPEAKER_01  you know, thank you everybody for listening. Don't forget. There's another $10 left on red coming out soon and it's going to be blindsight too. So if you like blindsight one, to want to hear Alice talking about blindsight. Yeah. Number of times we've talked about
+3129.46 3136.72 SPEAKER_00  blindsight going up, up, up. Yeah. And if these trends continue. All right. All right. All right. Bye everybody.

@@ -1,0 +1,2689 @@
+Hello and welcome?
+Welcome to the second part of this episode about stealth.
+I'm confused as to what to do right now, we've never done this before.
+We used a tactic of misdirection, where you thought there would only be one part to this
+bonus episode, but in fact there's a second one.
+There's a second part.
+A second part you didn't know about.
+You could say the second part was stealthy.
+Mmm.
+And, as much as we disclaimed the first one, we're gonna have to disclaim this one even
+more because we're gonna get into some more politics.
+Yes.
+Okay, so first, one moment of errata.
+I mistakenly identified the lens, that was my favorite lens, on a Fuji XS20 camera as
+a Sairui lens.
+It is the Laowa 50mm 1.5-space anamorphic.
+I don't want to be accused of having bad taste in optics.
+Mmm, of course.
+Given what we're gonna talk about in this podcast, you'll come to that conclusion on
+your own, without a third-party accusation.
+Speaking of optics.
+Yeah.
+To disclaim, this is an informative comedy podcast.
+The views I express are for the purpose of education and humor and should not be assumed
+to reflect my personal views.
+As a subject matter knowledge holder, I will be extensively referencing Wikipedia so that
+I do not share things that are not public knowledge.
+That said, I want to welcome our new viewers from the US counterintelligence community and
+other nations' intelligence services.
+I hope you enjoy part two of stealth.
+Perfect.
+I suddenly got a really, really huge boost in viewership from Pakistan for some reason.
+Ah, yes, the ISI.
+Long time support.
+Hi, it's the ISI.
+Long time first time, yeah.
+Yeah.
+People didn't know this, but they were secretly hosting a podcast studio five minutes down the
+road from Pakistan's West Point.
+Long time viewer, first time supporters, welcome.
+Don't they?
+Yeah.
+That's how we allegedly make CIA money, right?
+As they launder it through Patreon.
+Oh yeah.
+I really enjoy the idea of like a state sponsor of podcasting.
+Which I guess was an actual thing with the Russians and Tim Pool, right?
+They did do state sponsored podcasting, so if we can get in on that...
+Radio Free Europe, but yeah, that works too.
+Yeah.
+I'm not willing to like sell out to the Russians, but like, if there's somebody relatively
+uninvolved I can sell out, like I'd sell out to like, I don't know, like the Dutch,
+or something.
+What if it was like...
+No, I don't wanna sell out to the Dutch, I hate the Dutch.
+What if it was like the St. Petersburg tourism office?
+St. Pete, Florida, or St. Pete, Russia?
+St. Pete, Russia.
+I would have as much trouble travelling to either, so to be honest...
+I would rather travel to Russia, and I live in the US.
+Yeah, but we could go see the Phil's do spring ball at Clearwater, though.
+The upshot of this disclaimer is don't get mad at us, please don't get mad at us.
+If you do get mad at us, get mad at us, rather than our guests.
+Use us as the kind of ablative heat shield here.
+Yes, and, or get mad at our sponsor, visit beautiful Novosibirsk.
+But hands off by snooze.com.
+They are good boys that haven't done anything wrong.
+Mmm.
+By snooze.com, please answer my emails.
+I guess I'd sell out to Ukraine, but I'm basically already doing that for free, just
+cause I think it's the right thing to do.
+Yeah, that's a good point.
+That's a good point.
+That's why I'm here to moderate things and tell you about all the wonderful attractions
+in Volga Grad.
+I just, I should've, like, instead of thinking like, oh, you know, everybody has the right
+to self-determination and to resist invasion, I should've held out for an honorary colonelcy,
+you know?
+Yeah, that's a good point.
+I mean, the Motherland calls does go hard.
+I hope you out.
+And maybe one of the finest examples of metaphor happening, the big Ukrainian trident
+they put on the, like, sort of big Motherland monument in Kyiv, is about to fall off because
+it was done very cheaply and very corruptly.
+Oh, that's okay.
+The only one had like, stayed up there for like 50 years.
+Yeah, that tracks.
+Well, I mean, you try getting a good general contractor in a war, I guess.
+This is a good point.
+Oh yes, our statue, sponsored by Blackwater.
+We're mercenaries and...
+That was their mistake, is they put up a military-grade trident.
+Also Britain's mistake.
+I think that's enough heat shielding that we've done, you know?
+Yeah.
+Alright, so that's everything everyone can get mad at, those are the sacrificial opinions.
+Then we'll get into the rare ones later on.
+Go visit Petr Pevlov's Kamchatka.
+Um...
+Okay.
+Uh, do we go straight to 35, or do we go to 36?
+Uh, go to 36.
+Go to 36.
+I don't think we need to do a recap.
+What I do need to do is a plug up front really quickly, while everyone's still mad at me,
+for all the stuff I just said.
+Because I have a new podcast.
+I love starting podcasts, one of my favourite things to do.
+Um, and so I now have a...
+F...
+F...
+Fourth one?
+Um, it's called...
+Well done.
+Thank you.
+It's called No Gods, No Mayors.
+It's me...
+I'm excited for this.
+Me too.
+It's me, Riley Quinn from Trash Future, and Matty Lubchansky, and we're going to talk
+about, not specifically American, but a lot of them will be American, uh, like, mayors,
+heads of municipal government, because I have a theory, we have a theory collectively, that
+it's kind of the playpen for the really oppositional personalities in politics.
+Like, there's a kind of...
+Oh yeah, absolutely.
+There's a kind of limit to how high you can get.
+If you're really, really...
+If you have something strange going on, then you might never be president, but you can
+have a kind of, like, reasonably high but dead-end career as mayor of somewhere, and so we just
+put out...
+Hey, Ed Rendell became governor.
+What?
+We just put out the first two episodes.
+Ed Rendell wasn't weird.
+Nah, that's true.
+We will get you guys on for Frank Rizzo, I promise.
+Oh hell yeah.
+Hell yeah.
+But we did the first two episodes about Rudy Giuliani, and the...
+The next one, which is Rob Ford, is coming very soon.
+Oh hell yeah.
+We love Rob Ford.
+We're starting out with the heavy hoses.
+We love a good cocaine mayor.
+Rob Ford, Marion Barry, who else?
+Absolutely.
+Like I said, it's one of the sort of positions that you can get to if you have an active coke
+problem, right?
+Yes.
+You need to, like, kick that stuff before you make senator, usually, but like...
+Mayor, whatever.
+In the case of Marion Barry, it was probably performance enhancing.
+Honestly.
+Not so much for Rob Ford, but, you know, we'll get there.
+Anyway, usual thing, we have a Patreon, if you go to NoGodsNoMayors.com, you'll find it,
+and everything else.
+Listen to it on whatever app you're listening to this on, and thanks.
+And Marion Barry was good, actually.
+Oh, Bob.
+Yeah.
+I don't know, I haven't done enough of the research yet to answer that, but sure,
+I'll take your word for it.
+As a person who lived near Washington, DC for a good portion of his life, there's
+nothing people love to do than rag on Marion Barry, and I've grown older and wiser and realized,
+no, Marion Barry was the greatest mayor of Washington, DC.
+Your apology must be as loud as your disrespect, you know?
+You are an amazing human being.
+I'm proud to be your best friend.
+Cool.
+Listen to NoGodsNoMayors, and let's talk about more stealth.
+Ooh, B2 Spirit.
+Oh, hello.
+This airframe is the B2 Spirit.
+It is a beautiful aircraft, and out of steel, at the cost of only $2.5 billion per airframe,
+you can get four airframes for the price of ending homelessness in the US for an entire
+year.
+How many podcasts would I have to start to buy a B2 Spirit?
+Always, at least one more.
+Well, what's the cost of a used one?
+That's the real question.
+Certified pre-owned B2 Stealth.
+I do like that if you look on the bottom left by the landing here, they've labeled
+these two guys Spirits of Pennsylvania on the right, and on the left you have Ed.
+Ed, yes.
+Ed.
+Well, that's Ed Rendell.
+Obviously.
+Look at trim, Ed.
+Yeah.
+Demonstrating the Spirits of Pennsylvania.
+Yeah.
+What is the Spirit of Pennsylvania, if you had to put like a sort of vibe on it?
+Uh, what is...
+Oh, uh, getting to...
+Probably Rittenhouse Rye.
+Yeah, yeah, well, they don't make it in Pennsylvania, but...
+Oh, damn.
+For a while you couldn't even buy it in Pennsylvania, you had to SLO it from the liquor store, but
+that's beyond the point.
+The Spirit of Pennsylvania is walking into his sheets.
+It is 1230 in the morning.
+You are already drunk.
+You have...
+You have walked there.
+This podcast does not condone drunk driving.
+Mm-hmm.
+You walk to the sheets on Queen Street like I used to do.
+You go in there, and you buy a rollercoaster, and then at some point someone from a rival
+school says something mean that hurts your feelings, and you start throwing hands at a
+sheet parking lot, sheets parking lot, and at some point your hoodie comes off, and you're
+just shirtless in a sheets parking lot.
+It's 1245 AM.
+You've got a wad of COVID.
+You don't know where you are.
+It's...
+That's the Spirit of Pennsylvania.
+Beautiful.
+You were wearing basketball shorts this entire time.
+Yeah.
+I just rewrote this, for those of you listening on audio only, to say, fine wine and good spirits
+of Pennsylvania.
+Thank you.
+Yeah.
+Can you get it in...
+All right, I'm gonna do some live on-air research, everybody.
+Hang tight.
+Oh, shut up.
+Can you order a B2 through the State Store?
+Can you imagine, man?
+That would be awesome.
+I once had...
+Cause, like, Chris really likes Rittenhouse Rye.
+Yeah, you can get it in store now.
+Yeah.
+Yeah, it's really good.
+I had a bottle of it, and I had someone ask me, is this named for Kyle Rittenhouse?
+It is not.
+And the idea that someone had put out, like, a kind of bottled-in-bond rye whiskey, named
+after the, like, sort of doughy, fascist murderer kid?
+And started producing and bottling it well before the incident occurred.
+Yeah.
+It's a four-year-old rye.
+Strange sort of tenet, you know?
+A little bit of a...
+I'd have some conspiracy theories about that.
+What did they know?
+Well, it's owned in a...
+It's owned by Heaven Hill.
+Who's that?
+I believe it is distilled by Heaven Hill, yeah.
+I...
+So...
+I don't know.
+I believe it is named for Rittenhouse Square, or David Rittenhouse, the early American astronomer.
+Okay.
+The Spirit of Pennsylvania, I can't tell you where I first saw this bird, but I knew that
+it existed, and I wanted to throw it in the other two hours.
+You know, mission fulfilled.
+They have now done several minutes of, like, authentic Pennsylvania nonsense.
+Like, I...
+I mean, as at...
+The best modern medical technology turned me into a Philly girl.
+So...
+I'm gonna leave that there.
+If you want to go stealth, go to Philadelphia.
+Good point.
+Good point.
+Yeah, hoot hoot, motherfucker.
+We can either talk about this particular plane some more, we can go around the next slide
+where we are going to pick up about the changes to modern stealth technology after the F-111.
+Sorry, after the F-117.
+I can mention one thing really quickly about the B-2 Spirit, which is that, um...
+It's crazy how much there's still a bomber mafia in the US Air Force.
+Like, um...
+In a way that there isn't in the RAF, really, because just...
+There wasn't the numbers or the budget for it, but like, still having air-delivered nuclear
+weapons, um, which is one of the things that the B-2 is meant to do, right?
+It's like, you know...
+It was intended as air-defense penetration, yes.
+Hmm.
+There was a very, very stupid book out, um, about, like, how a hypothetical war, like,
+nuclear exchange between, like, the US and North Korea might go down.
+And in that book, just now, I forget the author's name, in that book, one of the dumber
+things that directly precipitates World War III, right, is the US retaliating to a North
+Korean nuclear strike with ICBMs overflying Russia, which, you know, precipitates a Russian
+retaliation, et cetera, et cetera.
+I'm sure we have war games to prevent this exact problem.
+Yeah, you would hope.
+Yes.
+But one of the things you also have, besides submarines, is these things.
+Like, if anybody is gonna be, like, penetrating North Korean air defense to, like, try and kill
+Kim Jong-un, it's gonna be these things.
+Um, so...
+And they're kind of, like, you know, that's gonna be a fun time for everyone concerned,
+and we hope it never happens.
+But it's what it's for amongst other things, right?
+It's like very, very, kind of, contested, defended airspace.
+I am not saying anything for very good reasons.
+Hmm.
+Nuking North Korea almost sounds unfair.
+I mean...
+I mean, I think nuking anyone is kind of unfair, right?
+Yeah, that's not...
+I mean, that's why we have the BF2s, right?
+Yeah, it's unfair at a kind of, like, atomic level, if you like.
+Yeah, it's like, oh my god, they lob their one nuke at us, and I don't know...
+That's literally what happens in the book, it's so fucking dumb.
+I swear to god, they do a decapitation strike on Washington, D.C., and then the U.S. tries
+to nuke North Korea and starts World War 3 with Russia.
+It's the dumbest fucking book ever.
+I don't understand why we wouldn't just park a submarine and say, okay.
+You want ICBMs to launch from continental U.S. anyway, you do one of our...
+This is speculation warning.
+You do one of our unmanned drone submarines armed with nuclear weapons to launch them from,
+say, the Bering Strait.
+Hmm.
+So long of time.
+North Korean ICBMs have that kind of range.
+I'm imagining more of a situation where they take out the cannery in American Samoa.
+I mean, basically, like...
+On our cannery!
+It's, you know, the kind of thing where you might start sweating a bit more if you're
+on Guam, but like...
+I don't know.
+We'll see.
+We'll see.
+Um.
+I have a slide, and this is slide 47.
+They actually take out the ocean about 60 miles offshore of the cannery in American Samoa.
+Slide 47 is where I'm going to do all my rampant speculation.
+If we go to the next slide, we can talk more about the B2.
+Disrupt some fishing grounds for a few weeks.
+Oh, we're going to do Operation Paul Bunyan 2.
+Operation Harder.
+Yeah.
+Changes in modern stealth technology.
+You'll notice that the B2 does not look like the F117.
+Which, correcting an additional, not in errata, but we didn't...
+I didn't have the number for you off the top of my head of the picture.
+If you go back to the previous episode, just rewatch it for the YouTube metrics.
+Go back to the previous episode and look when we're talking about satellite imagery of Edwards Air Force Base.
+There was a white plane on the tarmac with swing wings.
+That was the F117...
+Sorry, F111.
+That was the precursor swing wing to the F14 Tomcat, which you know from Top Gun.
+Back to this slide.
+The changes to stealth technology were less of the angles, because angles are bad for air.
+We went to very smooth top and bottom surfaces and tried to minimize the back reflections by having sharper, but not sharp themselves, leading edges.
+And we can have sharp trailing edges.
+Air is fine with that.
+Because of those design constraints, it actually opened up a lot of aerodynamic performance.
+And we'll see this design persist into the modern era with the next slide, which we're not going to yet.
+Which we're not going to yet.
+I reacted too quick.
+We solved it.
+This is the shape that it is.
+This is the shape that carries heavy things and is reasonably stealthy.
+You get these zigzaggy back edges because you kind of want to make a triangle, but you don't want to create new angles.
+We only have...
+I'm going to say two angles.
+Technically it's four.
+But you only have two diagonals you're worried about.
+And those two diagonals make a cross.
+Those two diagonals are about 35 degrees away from the side, not the front.
+So that's how they're measuring them.
+I don't agree with the way they measured them on this chart, but I did not have time to make my own.
+So you get something measured from the right-hand side angle, not the nose of the aircraft.
+From the nose of the aircraft to the side, it's a 55 degree angle, which is what I'm used to referencing when I was doing things I can't tell you about.
+Shhh.
+This particular design is really good.
+We'll see it again in the future.
+It allows for war crimes to be done without anybody knowing about them.
+Next slide, please.
+I don't like the aesthetic of this one.
+It looks too much like the cartoon ghost.
+I was thinking, what if America bomber, but spook here.
+This is the B-21.
+It is a thing that exists.
+It should not.
+When the US military acquisitions department gave the F-35 away to a different group than the group that created the B-2, after killing my darling doll, my baby, my F-23,
+they then got into trouble for not giving an aircraft to the makers of the B-2 stealth bomber.
+And so they created a new bomber program.
+This, my friends, is a B-21.
+This is modern day.
+It is, to my knowledge, redacted.
+But the B-21 is a very expensive bird.
+The...
+Bomber Mafia.
+Again and again.
+They're like...
+They called this the B-21 Raider and they got the last surviving Doolittle Raider to, like,
+come to the ribbon cutting.
+And it's like...
+That's a hell of a military tradition to still be dining out on in hopes that one day you get
+to, like, glass Pyongyang, you know?
+Yeah.
+Well, we do know at least...
+Yeah, A-10 Mafia, man.
+It's just me.
+It's not just you.
+It is not just you.
+I was about to say, it's a lot of people, yeah.
+What we gotta do is, you've heard of depleted uranium munitions, now we're gonna get the
+active uranium munitions.
+So I'm gonna find...
+I'm gonna make Davy Crockett bullets and...
+But meanwhile...
+We spent like...
+Angling for another laser pig response video.
+Jesus.
+But yeah, like...
+Hey buddy, how's it going?
+You spend like, you know, 11 kajillion dollars to create Casper the Friendly Ghost who thinks
+only of the Three Gorges Dam, and you're like...
+Cool.
+Thanks for this.
+What we do know at least is that this is 19 better than the B-2.
+It's a full 20 better than the B-1.
+Even the B-1 with the upgraded engines...
+That's a good point.
+Which, hilariously, is genuinely named the B-1R, or Boner.
+Wow.
+I have a proposal for this, right.
+This is a holy joke in 2008 in the barracks.
+If the B-2s are all spirit of state, I propose that the B-21s are named Vibes of State, because
+if something gets to blow up the Three Gorges Dam and drown a bunch of people for next to
+no reason, and make it so that, like, you know, World War 3 starts and, you know, everything
+downstream of that, it should be called Vibes of Pennsylvania.
+Can't argue with that logic.
+We like dams here.
+Hmm.
+Just like the plane that takes its shirt off before it starts dropping ordnance.
+Okay.
+Well, you know what, I would like to do so.
+The first munition that comes out of this has, like, you're lucky I'm on parole painted
+on it.
+Like we discussed on 10,000 Losses, the Intercontinental Ballistic Hoagie, or multiple hoagie reentry
+vehicles.
+This can also deliver hoagies in bomb form.
+To your friends.
+Yeah.
+For National Wednesday.
+And it can deliver them without them knowing who the sender was.
+Hmm.
+And to their unsuspecting heads, I'm assuming.
+That's Secret Santa.
+Looking at the place where North Korea was and being like, I wonder who could have done
+this.
+So this particular airframe has the optimistic, if you wanted to drop hoagies on your friends,
+this airframe has the optimistic price of only $700 million per airframe.
+I'm going to go out and I'm going to say that we just simply haven't yet heard of the
+cost overruns and the budget thing.
+So this is an active self aircraft development project.
+And that if we get out the door for five times that I will consider that a steal.
+I will also consider it a complete waste of money.
+I love bureaucracy.
+But like, you know, you get what you pay for.
+And if you're paying for genocide, that's what you get.
+So this, the program is budgeted for $203 billion over the next 30 years.
+And that is the budget.
+And as we all know, the US never goes over budget on large defense spending projects.
+That would be silly and that would be slander.
+And I couldn't say that in my professional role, even though I am attending as a private
+citizen in this moment.
+Public procurement is the one thing the United States has down pat.
+We are great at it in all sectors.
+So good dude.
+Including the fans of course.
+Really enjoying this idea that the first podcast to really start racking up the Hatch
+Act violations, you know?
+So this particular airframe program could basically end homelessness for the entire duration of
+its existence that's budgeted for.
+Instead of doing that, we're going to have bombers that are never going to see combat.
+I think you'd have a hard time landing munitions on every homeless person.
+Jesus Christ.
+You know, distributed targets are not a stealth bomber's best target option.
+Mm-hmm.
+If you want to avoid one of these things, just go and stand in a field on your own and make
+all of your friends stand in adjacent fields.
+Just make it not worth the cost of the bomb.
+The US will drop it anyway, but they will only get like one out of the ten of you, of
+your friends standing out in that forty acre field.
+So.
+Yeah, and now Afghanistan is an Islamic Emirates, so you know, the shit works out, sort of.
+Exactly.
+We do what we must because we can.
+Mm.
+Next slide please.
+Oh, now we're into the really goofy stuff.
+This is what I put in there.
+This was for personal pleasure.
+We thought we were doing this in one shot.
+Wasn't going to happen.
+But just in case I was getting pretty wound up at this point, this was to calm me down.
+This is a private project by Boeing, not funded by any, as far as I'm aware, not funded by
+any federal funds.
+This was just Boeing saying.
+Oh, so they can do it.
+This airframe only cost.
+I think it was sixty seven million dollars from like the first time a pencil hit paper
+to this thing flying around.
+It is a really interesting aerodynamic concept.
+Speaking to the proper nerds in the audience.
+If you look at those sharp forward corners on the left and right sides of where the cockpit
+bubble is.
+Mm hmm.
+Those sharp corners are called chines.
+And what they do is the front front of the fuselage acts kind of like a delta wing and
+creates two very strong vortices that are then kind of guided by the side chines, the
+sharp edges on the side of the fuselage into that kind of along the top surface of the
+fuselage providing lift kind of like a canard would.
+And then you have the rear wing, which access your elevons and provides the majority of your
+lift.
+But the stability is in the when you increase angle of attack, you are increasing the strength
+of the vortices and those vortices would have their center of pressure for those two vortice
+chambers.
+Visualizing this like there's two cylinders along the top edge surfaces of the fuselage.
+The center pressure that would be behind the center of mass of the aircraft.
+You also notice it has a unique inlet design that we haven't seen in a stealth aircraft since
+have blue where you have the inlet centered on the fuselage above the fuselage.
+And in this case, directly behind the rounded cockpit, which helps prevent inlet blanking at
+higher angles of attack.
+This wasn't a particularly maneuverable bird, but for the budget of $67 million, you could get
+10 of these for the price of one B2, sorry, B21.
+And they fly without meeting a fly by wire system.
+These are hydraulically flown, which is pretty cool.
+They are dynamically stable.
+They might not be no, sorry, they're statically stable.
+They might not be dynamically stable.
+They might have like some fugoid modes or something that like are kind of very long time scale.
+You correct for them without really, really, really realizing it.
+But they are just a gorgeous example.
+I think there's only one made.
+But if I ever have a zombie plan, it's going to be to steal this bird and I could probably
+wrench it back into shape.
+I say with unearned confidence.
+It's a real like, sort of certified bowing moment to be like, yeah, you know, sort of
+Carol Shelby and his fucking stats and being like, I don't need any wires in my experimental
+stealth aircraft.
+I mean, they couldn't trust people installing them, honestly.
+After they stripped the budget from the people installing the doors to put them into this
+project, you never know.
+Yeah.
+Oh, yeah.
+This is cool though.
+It looks like a, like a sort of like lawn dart, you know?
+I've always felt that it was like the bird of, like it's called the bird of prey.
+Cause I think it's got kind of like those clean on droopy wings.
+Just, it's just a sick design.
+It's so good.
+I like, I like a droopy wing.
+They always look cool.
+Yeah.
+Me too.
+Now putting one of those on like a paper airplane.
+So like, you know, it's like 50% cooler.
+Oh yeah.
+Unfortunately, its legacy isn't great.
+It did contribute to the development of the X 45, which I think is the one of the most
+try hard aircrafts ever created.
+We will talk about it eventually.
+The kind of like nine line t-shirts.
+No, it just wasn't very good, but they tried to make it sound cool and look cool.
+Ah, I see.
+There's a thing I want to say that I wait so that the viewer can have the joke at the
+appropriate moment, but you'll, you'll, you'll get there.
+It's in the notes.
+We've, we've never had a like properly timed joke on this podcast.
+And like five years of doing this.
+Joke will be revealed to you at the appropriate time.
+I'm too autistic to get the timing exactly right so I won't ruin your streak.
+But at least I'll have it closer to right now.
+We will have a flashing thing go up on screen telling you to open the envelope with your
+sealed orders.
+One of which is the punchline to the joke.
+We can go on to the next slide, please.
+Okay.
+This is the YF 23, the most beautiful aircraft ever designed Apollo's own favored child,
+a victim of corrupt political processes of a decaying late Imperial early senescence
+capitalist nation.
+Oh, it's such a beautiful burn.
+So sit here and look at it from.
+Is it, is it, is it single?
+I want to marry it at like, you understand why I made that image.
+Again, if you, or you should go back for the YouTube metrics and rewatch stealth one,
+when you're watching this one, exactly.
+I don't know how it works on unlisted videos, but who gives a shit?
+There's a slide there that has the, um, anime YF 23 girls, but you understand why I put
+the, uh, the blushy cheek marks on the actual aircraft in flight, right?
+This plane is gorgeous.
+Um, this was an aircraft where the actual like primary goal was stealth and combat performance
+was second.
+And it worked out really well with this design.
+Um, you can see that it kind of went with the two angle design from the B2, the B2 and
+the B21.
+Um, if you're looking at that trapezoidal wing, you'll notice that all of the major
+leading and trailing edges of the wing, the big ones that create those diffraction spikes
+are at opposite and opposing symmetric angles.
+You only have the big four main spikes, and then you've got some smaller, potentially smaller
+spikes off of the nose.
+And, um, and that's kind of it really.
+Um, it's well designed plane.
+It was one of the few planes.
+Uh, we talked about IR stealth also on the URI slide with the side winder intensely growling
+into a microphone.
+Um, this is one of the few stealth aircraft also like tacit blue shout out to my girl, um,
+to use a IR to use methods to avoid IR detection.
+You'll notice on the top surface of the airframe, the thrust, the exhausts buried way up in the
+thrust gutters, if you will, they are, they, the engine has a variable outlet.
+And if you look at the lower left hand corner, you can kind of see that it's pretty closed
+up and you can see the bottom of the engine exhaust can close up or open up to change the
+throat of the exhaust bell.
+Um, and then the exhaust exits there having created thrust equal and opposite reaction.
+And then it has a relatively long channel to mix with outside air.
+The hottest part of a jet plume is like right behind the exhaust nozzle.
+So if we let the air mix in before it exits the, from the, from the ground, the visual bottom
+of the aircraft, you will have much less hot air to visualize visually see and lock onto from
+the ground than if you hadn't done that.
+You're like growling fruitlessly.
+Yes, exactly.
+I mean, I am.
+This is, I think I have COVID like.
+And as you can see the red hourglass on the bottom surface of the upper left hand corner,
+YF-23 is on the belly of the aircraft, not above the tailbone.
+They gave it, they gave it a black widow.
+They did.
+This was the YF-23 black widow.
+And there was also the gray ghost.
+There were two airframes created.
+One was painted in a darker color and was painted in a lighter color.
+It was, it was faster than the YF-22.
+It had a better super cruise.
+It had a longer range.
+It had a higher service ceiling.
+It had lighter wing loading.
+Um, and it nominally had better thrust to weight.
+It was a better bird than the YF-22.
+Um, but the reason it was also, also looks like the future.
+It really does.
+You would think that air force people would like the Raptor.
+Sure.
+It looks, it looks like a gamer's vision of an aircraft.
+The YF-23 looks like something from the next generation after the F-22.
+Um, but given that the F-22 hasn't seen combat, it would probably have broken my heart to have seen this aircraft produced and then just sit as a hangar queen.
+Does that balloon mean nothing to you?
+It really doesn't mean much.
+No, I'm sorry.
+No, that was a, that was a distraction from the East Palestine derailment.
+Yeah.
+Yeah.
+But so, so this was, um,
+um, the, like the attempt to incorporate some stealthy features into like a sort of a multi-role aircraft.
+This was the attempt to take a stealth aircraft in a multi-role capacity.
+Um, and not really multi-role as we think of multi-role today with the F-35's existence, but multi-role in that it could, uh, theoretically launch, uh, missiles at other aircraft and or drop a couple of bombs.
+All of its weapons, hard points were internal.
+Um, I have some sneaking suspicion that the F-22 won in part, they never disclose the process for it.
+Like there's all kinds of rumors.
+Um, in part because the F-22 could be more easily after fit with external hard points for heavier bombing runs.
+Um, but all the munitions in the YF-23 are internal and internal bays that are in the belly between where the engine nocells are.
+And, uh,
+I assume that's what these, uh, these, these various like slight, uh, markings here are.
+That is correct.
+Yes.
+Okay.
+Yeah.
+I was like, where are the bays on there?
+Oh, wow.
+They got really, really tight panel gaps on there.
+I don't remember seeing the armament listed on Wikipedia, so I'm going to refrain from talking about that, but it could carry at least a few missiles or a few bombs to drop, um, in its stealth capacity.
+Meanwhile, the sort of like, Air Force guy who actually has to deploy these is thinking like, how do I, like, sort of like ratchet strap four JDAMs to the bottom of these?
+And it did, it crucially was a combat aircraft that did not have a gun on board.
+A-10 Mafia, uh, has something to like complain about, you know?
+Yeah!
+If you are flying a stealth aircraft and you are in a gun range dogfight, you have failed your mission so spectacularly, and failed at your secondary objective of getting the fuck out of there,
+that you should not have been given a pilot's license in the first place.
+Like, you cannot imagine a stealth aircraft in a close dogfighting situation.
+Let's just go to the next slide.
+Looking at one of these.
+Okay, let's just do it.
+Looking at one of these and being like, where do you put the bayonet?
+Yeah, where's the ball gunner?
+I need a flame gun.
+Where does the ball gunner sit?
+Alright, I gotta say this.
+I've thought this ever since, like, the, like, electronic warfare aircraft, is it the Prowler?
+Gold cockpit?
+Looks cool.
+You can't take that away from it.
+I'm sorry, but it does.
+Yeah.
+This is not the YF-23, this is the full on F-20, this is not the YF-22, this is the full
+on F-22.
+And they've had a little bit of time to work on their image by the time this photo was taken.
+They also brought up the color a little bit.
+It still looks like it has damp.
+And they didn't really, that looks like a Photoshop induced vignette, given the oval nature of the vignette on this photo.
+I'm just gonna say that this is heavily processed to amplify the plane's appearance.
+And yes, it looks like it has damp.
+Yeah, yeah, it does look like they didn't give it enough time to dry out.
+It really does.
+It really does.
+Would one of the hosts please count for me the number of angles you see on the outer outline of the aircraft, the things that could cause diffraction spikes on radar?
+Ooh, many.
+One, two, three, four.
+Don't forget the vertical tails.
+Five, six, seven, eight, nine, ten, eleven, twelve.
+Will this be on the test?
+Thirteen.
+I'm just making a point.
+Okay, this is not stealth first as an aircraft design.
+This has a steel vectored thrust nozzle visible from the ground.
+You have like glowing hot steel visible from on the ground in front of the aircraft.
+The AM9 Sidewinder chick can find this.
+This aircraft couldn't fly as high due to the lower wing loading.
+It couldn't fly as fast and super cruise because of its terrible aerodynamics.
+It has vertical tails which love to get blanked at high angles of attack, which is why it requires thrust vectoring for high angle of attack maneuverability.
+It has just a lot of fun things happening here, none of which are good.
+This looks like something that should have been taken back to the drawing board and then be like, okay, come back with a modern aircraft.
+Don't just take the F-15 and like file the edges and give it some facets.
+I was going to say this is what happens when you promote F-15 drivers who love the F-15 and therefore want the F-15 to be the F-15 forever.
+Yeah, like if you took an F-15 model, put it into SolidWorks and click the shrink wrap button to remove all of the gaps.
+And then just like, did some like really basic trimming around the edges with like some chamfer tools.
+You'd end up with the YF-23.
+Sorry, you'd end up with the YF-22.
+It is not very good.
+It was a very expensive project.
+We don't sell it to any of our nominal allies.
+I have my theories about that going back to the split ring resonator concept of stealth technology where we can design aircraft, but they will have very small gaps in their radar absorbance.
+And if we gave these to a ally, all you need is one body panel and someone with like a delicate touch and a piece of sandpaper.
+And you could figure out just by first principles of electrodynamics what the gaps in the radar that this plane is visible to.
+And then you this plane would not be stealthy anymore.
+I think this plane relies far too heavily upon advanced radar absorb materials and not nearly enough upon the strength of its design in terms of radar deflection.
+It's fine.
+There's no like there's never been any successful technological espionage within or against the US.
+So no one has ever accidentally stumbled against one of this thing with a paint scraper.
+Yeah, that couldn't happen.
+Nobody has had like the pocket knife carefully sharpened like that outer clip of your pocket knife carefully sharpened and then just like, you know, bumped into one of the landing gear covers with their hip and scraped off just enough.
+You only need about a square centimeter to figure out what they what the split ring absorbers look like.
+Yeah, that would.
+So it's definitely not a situation where there's an internet forum where, you know, classified documents are regularly linked.
+To my current on shift FBI listener person, I'm not telling someone how to do espionage.
+I'm saying this has never happened.
+I'm saying the US is good at preventing this kind of thing.
+Of course.
+Yeah, but this kind of like extremely- the story I think about a lot from the like Bricksmiths, like British military observers in East Germany thing, is how defense intelligence was able to determine the caliber and like, you know, technical characteristics of the main gun on a T-80.
+What was a guy hopped a fence and stuck an apple that he had brought for lunch into the, like, mouth of the gun barrel to get an impression and then took that home.
+Well done.
+Yes.
+I think if we can do it to a Soviet tank in the Cold War, entirely eminently possible that someone more motivated from less of a comedy nation than Britain can do it to, you know, your very well-guarded plane.
+What do I know?
+Sometimes someone just can hop a fence and do something.
+I mean...
+Yeah.
+They parked it in an insecure lot.
+You know?
+I am being quiet intentionally.
+There are things about this bird and things that this bird has done that I am not going to talk about because I don't want to say, hey, go look at this person who might have seen something they shouldn't have.
+But, you know, if you look at the average airman and realize that the average airman is an average person, and you think about how dumb the average person is, realize half of US Air Force airmen are dumber than that.
+Yes.
+Yeah.
+I remember when they put that on the recruiting ads.
+How bad could it be?
+Fly high, US Air Force.
+And it can always be worse, you know, maybe that airman is in a kind of, like, Nazi discord
+he runs, full of teenagers he's trying to impress.
+Honestly, the smartest airmen have the worst jobs.
+If you want job stability and job security and, like, good performance evaluations, you don't want to do the fancy jobs.
+You want to be piping, pumping sewage out of airplanes in Tool, Greenland.
+You want that posting because no one is going to write you up as anything but firewall fives if you're doing that job.
+It's also the safest way to steal valor if that's what you're into.
+I promise you no one on earth is ever going to, like, doubt your story of I drove a truck around for a while and it sucked.
+You know?
+Yeah.
+I was the guy with the two, like, lights that you hold to direct the airplane.
+That's too cool of a job.
+No one will believe you.
+No, you gotta pick something.
+When they ask you for a story about your time in the service, you need to say something to, like,
+so there was this one time at 3am in Greenland where the sewage pump disconnected, but because
+of a freeze in the line there was a lot of stored up pressure.
+When I went to break it free with my hands...
+They also serve who only stand and pump.
+I had a...
+There was a deacon at the church that I went to growing up, Deacon Corpy, who always claimed,
+oh yeah, I, I, you know, before I, you know, joined the church I was a chaplain at the secret military base under the ice.
+And, uh, you know, we were always like, Deacon Corpy, like, that sounds like a bunch of bullshit, come on.
+Yeah, bullshit, come on.
+Then I watched a documentary about, um, fuckin', uh, uh, what is it called, Operation Century, or whatever it is?
+Yeah, yeah, because YouTube documentaries hadn't been invented yet, so you weren't watching like eight minute, like, half as interesting videos.
+So you were just like, this is bullshit, this is clearly insane, like...
+Yeah, and it was like, oh, okay, so there was a secret military base under the ice, and then they show a shot of the chaplain, and I was like, holy shit, that's Deacon Corpy!
+Oh my god!
+Did you write him an apology letter and send, like, a postcard or something?
+And you were like, I am so sorry to doubt you?
+I think he's dead, unfortunately.
+Wow, that's gonna stick with you for the rest of your life.
+You can never find a closure!
+Yeah, so, F-22, fantastic idea to have your, like, sort of multi-role fighter fleet made up of two models, one of which is stealthier than the other.
+This is gonna be... this is gonna be cool.
+An airplane that we are too afraid to deploy for fear of losing its, like, it being espionage?
+And...
+What's the point there?
+Ooh, I refer you again to slide 47, which is coming up, of, um, how is the US,
+both militarily and as a nation gonna deal with a high-casualty conflict?
+Okay, let's go on to the next slide, please.
+Let's talk about the airplane that we are shipping to our nominal allies.
+Hey, that's us!
+This is the US-35, because we hate them.
+It is a flying pig that has been designed by committee, and it is not stealthy by modern standards.
+It doesn't even pretend to be stealthy.
+Okay, it does.
+It has, like, angles and stuff.
+They don't do anything.
+Mm.
+You see the, like, if you look at the right-hand side on the bottom, you see that really big, rounded bump on top of the fuselage?
+Not the one where the pilot sits, the one to the right of back.
+Oh my god, she's pregnant!
+It's got, like, something going on there.
+Like, a doctor should look at that.
+Mm.
+It looks like it's made of unfinished drywall.
+Grover plane!
+It does.
+It does.
+It does.
+It does.
+For the low, low price of $2 trillion.
+Mm.
+If the YF, sorry, if the F-22 relied too heavily on stealth, uh, radar-absorbed materials for its stealth, um, the F-35 kind of nods vaguely in the direction of stealth while just trying to clad itself in radar-absorbed material to do anything.
+Um, but what you end up with is this aircraft, so any airplane, any airplane at all is a back-room deal to beat the shit out of Isaac Newton with the help of Bernoulli, right?
+Like, that's all you're doing.
+Right.
+Because you're exchanging air pressure for gravity and back and forth.
+It is a compromise from the very concept of making a rock fly.
+Um, and so we have every additional compromise you have to make between flying and doing anything other than fly.
+Okay.
+You are reducing the capacity for it to both fly and do the thing you are trying to do.
+The F-35 is in no particular order expected to be stealthy and fly and have a gun built into the airframe and take off and land vertically.
+A-10 mafia.
+Okay.
+And take off and land in a traditional manner on aircraft carriers.
+Okay.
+In the time it's taken you to say those two sentences, the fleet air arms have switched configurations of F-35 eight times.
+This is true.
+So they kept for a while they went trying, they kept trying to stuff it all into one aircraft.
+And then eventually designers threw their hands in the air and said, we're going to make three nearly completely different aircraft that have the same rough outer look to it.
+And then we're just going to call them the F-35 A, B, C, and a secret one for later after a slide of demonetization warning.
+Is it going to be called the F-35 D?
+No, shut up.
+Spoilers.
+Wow.
+Professionalism.
+This feels like just a badge engineering on a fighter plane.
+I guessed.
+I guessed that one.
+In addition to all the things it could do, including landing on carriers, it also had to have its wings fold so that it could fit into the storage bays underneath the surface of the carrier.
+It feels pretty highly unlikely.
+It is a bad design, and I apologize if you are proud of your work on the F-35 projects, you shouldn't be.
+Again, this is a comedy podcast, don't come to my work.
+I just, I really like, as a certified Royal Navy enjoyer, that they sat down and went, we're going to configure the entire future of our service around whatever the fuck this is.
+And incidentally, we're going to change our mind about which variant of it we want.
+And the US isn't going to let you repair your own shit.
+I mean, what else is new, right?
+Because we don't want you to be futzing around with our stealth panels, because the stealth technology is the only thing that's going to be.
+The stealth technology is the only thing keeping this bird even vaguely relevant in any modern warfighting context.
+Just like jailbreaking my F-35B.
+Oh my god.
+I'm so excited.
+Before I talk about the upper left hand corner of this slide, could you go back one slide for me and highlight the contrails coming off of the wingtips, the vortices there?
+All right.
+Yes.
+Oh, those are the things telling the frogs go.
+Well, kind of.
+It depends on whether or not you count like higher levels of estrogen in trans women excrement to be causing the frogs going gay or not.
+Because I guarantee you at least one of the women who designed this or worked on this aircraft found out that she was a woman sometime after her military service.
+Not naming names.
+Mm-hmm.
+Mm-hmm.
+But you can notice nice tight wingtip vortices showing that, you know, while the air is being spilled off of those sides in a very tight way and losing some energy, the narrowness and tightness of that vortice tells you that the airframe is at least relatively efficient at this angle of attack and speed.
+Right?
+We're not wasting too much energy spinning the air into a circle because most of the energy is being used to create that pressure difference that allows us to defy as a mutant.
+Next slide, please.
+Meanwhile, someone is vaping.
+Meanwhile, if you look at the left hand side, which is probably closer to sea level, it has slightly more moisture in the air.
+It's green.
+It's green.
+You don't see any vortices.
+It created a rainbow.
+There's air going everywhere, and it's just really messy up there.
+And this aircraft, to my knowledge, did not have much, if any, thrust vectoring.
+I believe they talked about it once or twice.
+I don't know if they actually implemented it in any of the final four versions of the airframe.
+But it does not have a very good, you know, aerodynamic efficiency at high angles of attack or low angles of attack or no angles of attack.
+You can actually see the condensation caused by the disordered vorticity of the air impinging upon the leading edge of the upright vertical stabilizer on the left hand side of that image.
+Like, you can see that being blanked right now.
+Like, it should not be happening.
+If you have the opportunity to create chines, you should be creating chines that create a controlled vortice that will create, that will hit the vertical stabilizer and energize the air near the vertical stabilizer.
+And you're not doing that.
+Why not?
+Adrian Nui would have a field day with this.
+But on the other hand, right, everyone's very down on the F-35 just because it's a bad design.
+But at least they came in on time and under budget.
+Yeah.
+Right?
+Right?
+Sure.
+And it makes these nice rainbows.
+Under budget, what is the program cost of the F-35?
+Was it $2 trillion?
+That's too much money.
+I could do almost anything and come under a $2 trillion budget.
+Like, I could end homelessness for the entire duration of the United States as a functioning nation from its inception to the modern day for well under $2 trillion.
+I bet I could do a high-speed rail system that would cost more than $2 trillion.
+Yeah, I bet you could.
+I'm going to be honest with you.
+I would never attempt a high-speed rail system.
+It would be easier for me to, like, emigrate to Japan as, like, an investor visa or something and just use theirs.
+That's a good point.
+Now you've got to go to Italy.
+They have the good one.
+Mmm.
+It's faster, too.
+Yeah, but I'm excited for the Eclipse in 35 when I can ride the Maglev Shinkansen out to, like, the path of the eclipse.
+That's going to feel like the future.
+Ooh.
+Well, that's a good point, yeah.
+A mere 11 years from now, so we're going to make it that long in this nation.
+Shinkansen.
+Mmm.
+Shinkansen.
+It's from Wisconsin.
+Yeah.
+So there are three versions.
+We can talk about them after the demonetization warning if you want to.
+Yeah.
+Sure.
+All right.
+We're at the demonetization warning.
+Yes.
+There's no notes on this slide, just that, like, you know, if you have delicate ears or
+a child with delicate ears or you share a wall with a neighbor with delicate ears, just
+big foot on headphones.
+Maybe turn it down.
+I'm fully prepared to yell in my sort of closely packed apartment block at 18 minutes
+past midnight.
+If you haven't asked what you're watching when you're doing this, just say porn.
+Like, come on.
+No, it's...
+I will.
+Well, there's your porn...
+Pornblum?
+Yeah.
+I fucked it up.
+I fucked it up.
+I will...
+I will also add a disclaimer here.
+The channel's not monetized in the first place.
+So we can say anything we want.
+Don't fucking...
+I know we can.
+I...
+This isn't about YouTube ad money demonetization.
+This is like viewers leaving the podcast to demonetization.
+No, they're not giving us their money.
+Fuck them.
+Yeah, exactly.
+Eat your slop and like your hogs.
+If you got this far, if you got this far...
+If you do decide to unsubscribe from the, well, there's your problem Patreon over this,
+you can always support my nonprofit that helps find housing and provide housing for
+homeless trans women fleeing dangerous states.
+Yeah, because I'm going to fucking need it.
+Anyway, so now that we're, you know, we're through the demonetization warning, we're going
+to talk about how Israel is good, actually.
+Next slide, please.
+I should mention that two of us while recording, I can't see you guys, but two of us are wearing
+keffias while we're recording this, so I think that's a relatively unlikely position
+for us to take, but you never know.
+Maybe I'll surprise myself.
+Maybe there's some like, nascent Zionism deep inside me that I'm about to uncover here,
+I don't know.
+Get it out bud.
+Going on 33 year old birthright.
+So I copied my notes onto this slide, so like I can, no matter how ragey I get, I can
+just look at the slide, I don't have to look down to the notes.
+You can also see that I colored my notes to try and defer the shaking bad notes.
+Yeah, it doesn't actually, it doesn't show up entirely because it cuts off.
+Oh no.
+You can grab them and move them down maybe?
+It's fine.
+They're in a pattern.
+I don't know.
+It doesn't matter.
+They're in a pattern.
+They're in a pattern that has a red triangle on the left, a black bar on top, a white bar
+in the middle, in this case light grey so it's visible, and then a green bar at the bottom.
+Hmm.
+What could this signify?
+We could not possibly say.
+Probably like the people being assaulted by a genocidal apartheid state, but to say that
+out loud about Israel, yeah, is exactly what I want to do in this case.
+Fucking hell.
+Yep.
+Yep.
+Okay.
+So the F-35 came in three flavors.
+If you look from upper right to lower left, you can see our F-35A.
+You may circle it for me.
+This is an F-35A.
+I really enjoyed that you may.
+This is the Air Force F-35.
+This F-35 has a gun for some reason, probably because it's not very stealthy, but it doesn't
+have sufficient threat to do shit about it.
+It doesn't have enough control authority.
+It's not a good bird.
+But what it can do is carry up to six Mark 84 900 kilogram JDAMs.
+JDAMs are joint assault munitions, joint directed assault.
+Sorry.
+I'm forgetting the acronym because I'm losing it to range and it's been a-
+It's, it's the, you duct tape a GPS.
+You duct tape a fucking Tom Tom sat nav onto a big bomb and it works really well.
+You put some fins on the back.
+It works really well.
+You strap a sensor suite onto the front of the bomb.
+You strap a tail fin assembly on the back of the bomb.
+The two talk to each other and it can hit anywhere within.
+And the reported accuracy is five meters of circular air.
+Now that is the reported accuracy from US military munition on Wikipedia.
+It is probably much, much finer than that.
+They would never report that.
+It only took the Russians like what, 15 years of watching you guys use them before they decided
+to copy the idea.
+They're just very, the JDAM accessory to the Mark 84 bomb is very expensive at roughly $20,000
+per each.
+At least that's the cost that I saw quoted.
+I don't have a like source that isn't Wikipedia for that.
+I'm not in defense procurement.
+But because, and so now we're going to circle the F-35B, which is the center aircraft.
+This is the one.
+It's the Navy one.
+This is not the Navy one, this is the Marine one.
+Why do the Marines have a-
+I say it's the Navy one because we switched back and forth between B and C several times.
+Because the Marines are special boys.
+Yes.
+The wet troops.
+The wet troops.
+Yeah, the wet soldiers.
+They're the soggy army.
+The Marines wanted an aircraft to replace their aging, I think a few of them, Harriers and
+other VTOL.
+That's my A-10.
+Why replace it?
+It was perfect.
+The Marines have a hard on for the V-22 Osprey.
+And honestly, when I was in the Air Force, I wanted to fly that thing so bad.
+I picked a Navy base for my pilot training just so I would have a higher chance of getting
+a helicopter slot, which would let me train into the V-22 Osprey.
+Was so excited for that.
+I mean, at the time I had a death wish and the V-22 Osprey was the choice for people
+with death wishes.
+So like, I addressed that medically.
+Don't worry about it.
+The Marines wanted an aircraft that could hover and land vertically.
+And that's what they got.
+They tried to shoehorn this into the whole thing, but they realized that the big fan that
+they needed to put in the center of the fuselage to support the thing could not fit with the
+gun installed.
+So the Marines wanted an airplane that could hover but not fire a gun, which for a service
+where every member is a rifleman first is an odd choice.
+It's fine.
+Listen, you just keep an M4 in the cockpit.
+Just like pop the canopy.
+You just hover there and intimidate.
+It's a lot of, it's a lot of mass.
+It's a lot of internal volume that you're using up.
+It reduces the ability to carry weapons.
+It reduces the ability to use weapons.
+It reduces just about every metric that makes this a flyable aircraft.
+And they do that in the name of going even slower and doing so in a way that is very radar
+visible.
+If you go up one or two slides, please, you can look at the lower left-hand corner.
+No, that's the wrong direction.
+That is the wrong direction.
+That is spoilers.
+Oh, all right.
+I see.
+Hold on.
+I got to turn off steam here for a second.
+It's showing a notification.
+Oh my God.
+God damn it.
+Well, now everyone knows your steam details.
+Don't, don't, don't put that in the podcast.
+I don't want people to see how much.
+Like we can play ball, there's gate three or something.
+I don't want to see.
+I don't want people to see how much time I have in that game.
+All right.
+It's a lot.
+Yeah.
+Just, you can, you can add me on steam and you can see that I've spent a lot of time
+staring at the menu and not playing out.
+So the lower left-hand corner here is where you have the F 35 B hovering.
+Yes.
+You see the really big white thing that looks, and my girlfriend pointed this out, like a disappointed
+lion.
+Like it's got the little eyeballs, the nose, the little mouth going, ooh.
+You can, you can paint a little like mascot on it for morale.
+Yeah.
+Like Simba or scar.
+Yeah.
+It's got kind of like, yeah.
+Anyway, that disappointed face that it's making at you is really radar reflective.
+So if you decide to hover to close supports and Marines, you just said, Hey, I'm here to
+literally any, any installation with radar capability within the AOR, much less like your same continent.
+Um, it's yeah, we can go back forward again.
+I don't think actually while we're still in the mind.
+Okay.
+I do have, I do have one F 35 B story, which is solely to say that, um, I did see a documentary,
+uh, where on one of the, I think it was HMS Queen Elizabeth, uh, one of the Marines, uh,
+flying F 35 B had the call sign cat boy.
+Uh, modernity comes for us all, you know, that's what it does.
+Yes.
+I mean, that Marine is going to grow up to find out that, that she loves herself once
+she, uh, I don't, I don't think any Marine Corps major has ever grown up to find out that
+they've loved themselves.
+She might say fine.
+She hates herself less as she's realized who she is.
+Um, in the upper right-hand corner, would you circle one of those broken wings for me?
+Uh, either side.
+Yeah.
+These guys.
+So that's the F 35 C it's wings.
+Navy brackets.
+Real.
+I like to wear brown shoes to work and it makes me special.
+Yeah.
+35 flew too fast to be caught by carrier arresting hooks and couldn't, uh, get take off at the
+speeds that it could be launched at with even some of the best aircraft launching catapults
+that the world has ever seen.
+And so they needed to make the wings bigger.
+Well, they made the wings bigger.
+And then suddenly these aircraft carriers that had like helped with the sizing of the airframe
+in the first place.
+Well, now the F 35 couldn't fit.
+So you had to put a hinge in the middle of a wing.
+Now a wing is a delicate dance of servo mechanisms to drive your ailerons, your flaps.
+It has all kinds of fuel tanks in it usually because that's like good internal volume directly
+over the air.
+That's supporting the mass.
+It's a great place to put fuel.
+Like there's a lot that goes on inside of a wing.
+So obviously the decision to cut a wing in half and just add a door hinge to it is kind
+of awkward when it comes to like, you know, fuel volume, the reliability of the system,
+the fact that the pilot's always wondering when his wingtip's just gonna come flying off
+when he's pulling a high G maneuver.
+The list goes on.
+Boeing moment.
+Yeah, you're Boeing to die.
+By the shark in the storm.
+This is the Lockheed Bird though, keep that in mind.
+Our once and future president told me this is because they switched to digital catapults
+instead of steam ones, right?
+What the fuck are you talking about?
+What?
+He just says some things.
+I think he meant about someone like that, but the US Navy does have electromagnetic
+catapults, which are really cool and really bad for any person on deck with a pacemaker.
+Wow.
+Just microwaving my lunch behind it.
+If you don't want to have piercings, if you have like magnetic body mods, you know, maybe
+don't join the Navy, or just don't join the Navy at all anyway.
+Don't get on an aircraft carrier.
+It's just a bad time.
+I can't hear you, I'm joining the Navy and having a horrible time.
+Yeah, that sounds about right.
+Yeah.
+In the Navy.
+They're trying to make it look cool, but there's a reason they have powdered soap.
+It takes longer to pick up.
+Two slides ahead, please.
+Run Sodom in the Lash, baby.
+Yeah, so I put this in because having – oh sorry, we're a slide behind.
+We can continue to talk about the thing of like dual classing the F-35 and the F-22,
+which is like a great policy, we'll never let anyone down.
+Okay, so the F-35C is the lower left hand corner, it has bigger wings, it looks kind
+of awkward, although not much more awkward than its siblings.
+And then we tried to sell them and we sold a lot of the first three models to various
+nations around the world.
+Australia has reportedly been very upset about the fact that we don't allow them to repair
+the shit they buy from us.
+They buy submarines, they buy aircraft, because Australia doesn't spend a lot on defense.
+So they buy U.S. stuff, which is fine for both English speaking countries and their dollars
+worth almost the three quarters of ours.
+All good.
+But we don't let them repair it because like we're not going to let them look at what's
+in our stealth panels, right?
+They might learn something.
+Yes.
+I mean obviously they can, but like we're not supposed to.
+So if there's like any major repairs that need to be made or a panel that needs to be
+replaced, and again with split ring resonators, you cannot replace – you can't just like
+respray paint iron ball paint over a scratch.
+You have to take the panel off, bring it down to bare metal, and then rebuild up your dielectric,
+your resonator layer with a stencil, and then paint over the top of everything.
+Like you have to do it that way, otherwise you do not have actually a stealthy panel and
+you have to replace that panel back on the aircraft.
+So basically you have to have an aircraft lying around for spare parts that you can just
+swap off the parts for, that will never fly because it never has all of its parts.
+And then while you're waiting for that airplane to get its parts back, you just strip them off
+the spare plane and put them on the planes that are actually flying.
+F-35 up on cinder blocks.
+Effectively yes.
+Yeah.
+Missing panels, wiring, whatever, because you have to send it to the US to get repaired.
+Can't have shit in Melbourne.
+So you cannibalize an aircraft until it runs out of parts, send the aircraft back,
+they reassemble it for you, they ship it back and they charge you way more than they should.
+But one nation in particular didn't want to buy any of these three boats.
+One of our allies in the Middle East wanted to support the US congressional, how do we say,
+pocket money fund, the defense industry lobbyists and the like, where they wanted to give money
+to the US defense industry because, you know, reasons, maybe look the other way, maybe send
+us some JDAMs, why not?
+And so they wanted to buy one of America's big, like, if you want to be our ally by our
+birds kind of programs, but they didn't like it because it's bad.
+So the US, as it has in the past, kind of bent over backwards a little bit and said, hey,
+what if we let you modify it in a lot of ways?
+And so we came up with the F-35.
+You didn't think I was going to say D, did you?
+Wrong.
+It is the F-35I.
+The I stands for, I don't think Israel should be doing a genocide, but they are.
+It's actually F-35 Iran, because that's what it's going to find.
+Of course, yeah.
+Sure.
+Yeah, so the F-35I is basically an F-35A.
+That is the one that can drop the bombs.
+And we're going to get to where I'm going with that in a minute.
+It's the one that can drop the bombs, except that the Israelis wanted to replace the electronic
+systems in the aircraft with their homebrew designs.
+If you are familiar with things like Palantir, you'll know that Israel is pretty heavily invested
+in, I hate the word cyber.
+It's a terrible word.
+It makes me think of like really bad eighties, like fiction, but like cyber warfare is the term.
+They also have, I believe, a couple of Intel fabs in their country.
+Yeah.
+So they are, they are really.
+Yeah.
+We want to put the part on this that lets us like hone in on individual Twitter accounts.
+Yeah, Israel is really invested in thinking rocks.
+Exactly.
+Which is good because that's about all they're going to have left after their entire country
+is a barren wasteland after bombing all of the orchards in Palestine.
+So the F-35I carries up to six JDAM bombs.
+It has been used in combat in Gaza.
+It has killed civilians and it has killed civilians intentionally.
+You do not accidentally chop a JDAM on people.
+It has a five meter accuracy.
+You didn't miss.
+Yeah, it's also like, as we've seen time and time again, it's like a deliberate policy
+of not caring.
+Right.
+There was a Hamas guy exactly five meters away every single time.
+Yeah, huge coincidence.
+On the edge of accuracy, you know.
+Yeah, yeah, yeah.
+The incredibly unlucky people, the Israelis.
+They're terrible at aiming some of their like custom made by them that they understand
+from the ground up electronic warfare systems and targeting systems.
+Yes, they are anyway.
+Taking personal offence that they chose to name it The Awesome.
+Yeah, I wouldn't say it's awesome.
+I think it sucks.
+The epic.
+The epic bacon, well not bacon.
+I mean, they also translate a mighty one, which is about as close as you can get to naming
+an aircraft god and still be Jewish.
+It's like, just firing off a tweet that's like, I actually consider you're playing cringe
+and then being killed by a JDAM through the roof.
+Just instantly, just you and you and all your neighbors.
+Um, and coincidentally, like five journalists.
+Yeah.
+Um.
+Oh, speaking of killing people.
+Um, this summer, July 2024.
+Uh, the F-35I flown by an Israeli pilot was involved in Israeli airstrikes in Yemen.
+Um, does anyone have an Atlas handy?
+Oh yeah.
+Can you tell me the difference between the distance between Israel and Yemen?
+It's a minute, it's a hot minute.
+Yeah, it's a good amount.
+You gotta go across the whole thing, you know?
+Go all the way down the Gulf.
+One thousand seven hundred kilometers away, they're using a, I'm gonna say nominally stealth
+aircraft, to drop JDAMs on people.
+Um, we love to give like our, you know, the US's worst ally, I say ours, one of Britain's
+worst allies too, uh, there's like more capacity for power projection.
+That's, that's great.
+We love that.
+Yeah, yeah.
+I mean, having ground attack capability was a big thing for them, and now we see why.
+Hmm, I just, I, the Yemeni people having the kind of constant experience of, uh, being
+bombed from extremely expensive high maintenance aircraft from the worst countries in the world,
+assisted by whichever superpower is handy, um, just is really, uh, it's a grim thing to
+think about.
+We haven't talked about the classification of enemy combatant in the US military doctrine
+yet, but I will go out on, not go out on a limb to say, but I will just say that anytime
+you are dropping bombs from multiple tens of thousands of feet on a claimed hostile force,
+whose highest possible level of technological development is the AK 47, you are committing
+a war crime.
+Hmm.
+With that level of technological difference, you don't have to engage in warfare with that
+group.
+But I digress.
+Uh, you should donate to, is it Devin that runs the, um, GoFundMe for the Palestinian
+family at the border?
+Yeah.
+Well not runs it, but like certainly their, uh, like best point of contact, I think.
+Okay.
+Yeah.
+And you should just cover up these ugly ass birds with like a blurb for your, uh, the
+family you're helping just like, so people know where they can go to help because we
+are going to be talking about some horrible things as podcast.
+When I soften your hearts, if I soften your hearts, if you want to send money to Devin's
+family, this would be really a good time to do it.
+Hmm.
+Okay.
+Before I lose my shit, let's just keep moving on, we'll talk about more war crimes later.
+Okay, good.
+Sure we will.
+Speaking of war crimes, because, strange as it may seem, the United States is not the
+only evil superpower in the world, which means we've got to talk about the other guys.
+Um, so...
+Ooh.
+The capitalist version of the USSR.
+Russia!
+Yeah!
+What are the Russian Federation up to with stealth aircraft technology?
+Nothing good I can assume?
+Well, it actually...
+Oh boy.
+So this here is the Sukhoi SU-57.
+I would not pronounce that right.
+It's very, very pretty.
+It looks like every other SU bird ever created.
+A big, flat, triangular wing with two massive engines kind of built on us and apple dot at
+the bottom.
+I like this digital kit, whatever the fuck we're gonna call this.
+Yeah, yeah, I mean, cause it looks cool.
+As best I can tell, this mostly exists to do a bunch of epic airshow stuff, because...
+I mean, that teal and tan really pops against the red star, gotta say.
+Graphic design on fleek.
+It doesn't look mildly moist like the F-22 does.
+Yeah.
+Unfortunately for the Russian Federation, it doesn't tally very well with the war that
+they decided to start.
+In that, like, this entered service in 2020.
+And then...
+You can see the deeply inspired by F-35 tails here on this bird.
+Mmhmm.
+Also inspired by the F-22 to some extent, but the angles are more reminiscent of the
+35, given that they are not symmetric.
+Yeah.
+And these have been used in Russian war crimes in Syria and in Ukraine.
+And, yeah, you can...
+Essentially what these are doing is driving up and down, popping cruise missiles into Western
+Ukraine, right?
+Sure.
+It doesn't really necessitate stealth.
+There are things that you could end up using, like, stealth technology for...
+To be fair, this one's not terribly stealthy.
+You can see a bunch of exposed metal on the upper backside.
+Hmm.
+I mean, like, Ukraine now has a bunch of, like, pretty well defended airspace that would
+be valuable to penetrate.
+But that's not something that, like, the Russians really have the ability to do with an aircraft
+like this.
+This is very Russian in the sense of, we make aircraft with fancy radar absorbent
+paint and two big low bypass turbo fans.
+Well, the cool thing about the engines...
+It's made of tin can I get from Yvgen.
+I was gonna say.
+Both thrust buckets on those engines, they 3D vector.
+Hmm.
+So if you look at them, they're kind of round and you can kind of see a shiny section where
+you can see where the pivot is.
+About one diameter in on the engine exhaust, you can see a shiny silver ring.
+I'm not sure it's visible.
+Oh, yeah.
+Yeah.
+Okay.
+That shiny little ring is where the engine would pivot.
+It can vector both laterally and vertically, which means that it can seesaw back and forth
+at high angles of attack and it can use the engines for yaw without just doing thrust
+delta between the two engines.
+It can do some really cool things.
+You notice that kind of stinger tail between the two engines, a staple of the SU designs
+for a while now.
+That stinger between the two engines isn't just for really cool looks.
+They actually have a second radar.
+You'll see it has the same grey paint as the nose cone there.
+So it has really good rearward looking radar.
+This-
+The please do not shoot me down radar.
+This is the radar of I can send a missile backwards radar.
+Hmm.
+But so, yeah, the thing that the Russians really had been investing in a lot is like stealthy
+missiles, like stealth cruise missiles, which is one of the things these things have been
+firing, right?
+And that's been somewhat more successful for them, regretfully.
+In the meantime, what this seems to be doing is like, you know, doing back clips at airshows
+and stuff.
+And it's still in like kind of early stages with them.
+I will say that the Ukrainians did claim with some justification to have at least damaged
+two of these on the ground with a drone strike, like with a suicide drone.
+That seemed pretty plausible to me.
+Thus putting this in the big leaderboard of stealth aircraft that have gotten l'mowed.
+Yeah.
+So...
+And if you need drink, hydraulic fluid is pure Russian standard vodka.
+They've been mulling selling these to both India and Vietnam, I believe.
+I've never been so disappointed.
+I thought you said they've been mulling the vodka.
+And I was like, yes, that sounds amazing.
+Please, thank you.
+Definitely.
+Aren't there, like, haven't there been some Russian aircraft where like, you know, some
+crucial fluid in the plane is pure grain alcohol?
+I would not be surprised.
+There were rumors of World War II aircraft having that unique feature.
+Hmm.
+This isn't the only one.
+There is also the SU-75, the Checkmate, which was going to be kind of like another big export
+thing.
+And then, you know, they, again, they started the war.
+And it was like stuck in development where it still is.
+But that's kind of, this is kind of the state of the art with like Russian stealth technology
+for planes.
+It is still roughly half a generation behind the F-22.
+Skill issue.
+Still should have built the F-23.
+Skill issue.
+Yeah.
+Skill issue.
+Listen, I don't...
+I'm not going to do Ukraine discourse again.
+Next slide, next slide.
+I'm going to do some other discourse.
+You'll know what I don't know.
+South China Sea discourse?
+I'm here for it.
+Oh, fuck.
+I'm going to do some...
+All people have the right of self-determination to resist invasion.
+This includes Taiwan.
+So...
+Oh boy.
+They're not going to like that one, Nova.
+And Hong Kong.
+Absolutely.
+What about the other, other guys?
+Right?
+These are...
+So, China investing a great deal in like combat aviation, naval aviation...
+J-20 multi-role strength.
+I low-key love the J-20 on the left.
+Yeah.
+I do too.
+It's really pretty.
+It's not pretty, and that makes it kind of cute.
+I hear ya.
+Did you just call an airplane blocky?
+It's called kind of cute, yeah.
+It's like...
+Yeah, I mean, you're not wrong.
+It looks like anime as hell.
+It's got like the outlining, it's got like the pseudo-grey camo...
+It's got canards, everyone loves canards.
+This is what the protag flies, right?
+Hmm.
+So, the thing with China is that like, anyone who can give you an answer on how well...
+Like, even a speculative answer, but like an informally speculative answer on how well
+these are going to perform, or how they're going to use them, can't tell you it because
+of like, clearance issues, right?
+So, everybody who is into thinking about this stuff, and talking about it in public, is
+left with, I guess we'll find out, right?
+So, the best we can say is that there are a bunch of different projects, some of which
+are funded by the Chinese state as the J-20 was, some of which were developed by Chinese
+Lockheed Martin and then sort of like, thrown at the state like the J-31 on the right was.
+There's a lot of kind of troublingly racist discourse about these.
+There's a lot of complacency about them.
+And I say this having just been extremely arrogant about the Russian one, but I think for good
+reason.
+I think a lot of people think the same way about China, about the PLAAF and the PLAN, to be
+like, oh, you know, it's just, it's a sort of an off-brand copy.
+There's no kind of like, even doctrinal innovation here.
+And, yeah, they're gonna try some shit and they're gonna get owned.
+I think, do not count your chickens on that one.
+Oh, good bet.
+And it is very, very difficult to say.
+If you want me to do the Tom Clancy uninformed speculation about what happens when China tries
+to take Taiwan, my answer is that they probably lose in such a way that destroys the Chinese,
+American, and European economies.
+And also means that even if everything goes perfectly for the US, you still won't be able
+to get a new computer for 10 years.
+And at that point, why live?
+Well, I'm gonna get into retro computing.
+Hello, Maya on Twitter.
+Please do send me that PC.
+I mean, I would be fine with that.
+I'm rocking the iPhone 6s Plus.
+Wow.
+Which is, you know, they just released the iPhone 16.
+Well done.
+So, no new phone for 10 years, I gotcha.
+I gotcha.
+I gotcha unlocked.
+I'm hoping that my Galaxy Note 9 goes in other form.
+Yeah, that's the wrong thing I was gonna say.
+Yeah, I mean, listen, maybe Joe Biden's plan to, like, elevate Arizonans to Sapiens by having
+them, like, build fabs there is gonna, like, be successful, I don't know.
+But, yeah, all I can say is that, like...
+Yeah, we need to put more industrial processes in states that already have water issues.
+Yeah, right.
+It's genius, isn't it?
+We should also encourage them to grow almonds or something.
+Hmm, yeah.
+On the other hand, slightly better than putting them in the most, like, about-to-get-invaded
+place in the world, maybe.
+Perhaps.
+But, so...
+I think we've got a while before China goes through anything, just because...
+I think that's why we were able to run with the Israeli intel chip fabs in Israel.
+Mmm, absolutely.
+If we were trying to find another place with low cost of labour and an apartheid population
+that would work for pennies on the dollar, well, why don't we just make one?
+I am just begging Hasan Nasrallah to please spare the fabs because I need a new computer.
+I also need a new computer.
+Would you please circle on the left-hand aircraft, the J-20, would you please circle, like, the
+front empennage?
+The nose, cockpit, and the two inlets?
+Oh, yes.
+I heard empenada.
+Oh, God, I would go for one of those right now.
+Oh, yeah, buddy.
+So that front of the aircraft there, to my eye, and it's a relatively educated eye,
+does look eerily similar to that of the F-35.
+Mmm.
+The forward shrouded inlets, the placement of everything, it just, it has F-35E5s.
+This might be a case of convergent evolution where they ran the same numerical models against
+radar reflectivity, or it could just be like, hey, that's a good idea, let's start there,
+and work from there toward the back of the aircraft.
+Hmm.
+Or, you know, potentially even, you know, someone has given us some plans for this.
+The other thing, right?
+The espionage thing.
+Yeah, the espionage thing.
+It's possible.
+In all of these cases, I think you underestimate the stuff at your peril, right?
+We have seen, like, a few times recently that you kind of, like, sort of think, you know,
+these guys aren't going to be trouble, and then find out otherwise.
+I would never think that I've seen them long.
+Yeah, exactly.
+So, yeah...
+I'd hazard a guess that Zhe is, like, looking at the shit going down in Ukraine right
+now, and I was like, I don't know if I want to deal with this.
+Oh, man.
+Well, he's probably looking at this shit in Ukraine and going, hey, maybe people are
+distracted.
+Yeah, and lessons being learned on all sides there, it's just a question of who's learning
+them fast enough and who's applying them.
+And I think all you can say about Chinese aircraft production more generally, and a lot
+of this defense stuff, is that it's being done by serious people who are thinking about
+this very hard, and in the time it's taken me to do this slide, a nominally civilian fishing
+boat has dumped a shitload of reclaimed earth around one of the Spratly Shoal islands, and
+now there's another 500 marines on it.
+None of these countries can do a civilian airliner is the thing.
+Um...
+There is...
+The greatest country.
+The CAC have been trying...
+It doesn't count until you build a wide body.
+Yeah.
+A Soviet Union could do a wide body, but Russia can't.
+Lost technology, you know?
+Exactly.
+I mean, the US can't do them anymore either, so we don't have a leg to stand on.
+Yeah, it's just...
+The last two wide bodies we built have been, I don't know, thrown doors at people and dropped
+their tires on cockpars and shit?
+Okay, now in fairness, that's a narrow body.
+That's a narrow body.
+The old Morgan Wallen approach to plane building.
+Yeah.
+Mmm.
+But yeah, that's all I had for China, so, you know...
+We'll go on to...
+Sorry, go ahead.
+No, no, no, no.
+I was trying to go on to the next slide.
+Okay.
+Ooh, Comanche.
+This is a Boeing.
+This is a Boeing that actually flies using aerodynamic principles, and unlike other
+helicopters, it does so by actually convincing the air to do what it wants instead of being
+so ugly that the ground doesn't want it back.
+Which is the operating principle for the Huey and all of the other ones.
+I had the video game they made in anticipation of this coming out.
+Same!
+I flew that so much as a kid.
+Yeah, and I was like, man, can't wait for these to come out, and then they didn't.
+I spent years in deep denial thinking that they just made it a black project.
+Like, oh, we definitely cancelled it, trust us?
+Mm-hmm.
+Just like the F-117, they took it out of commission, and 20 years later we find that they're still
+flying the things.
+No one's seen them.
+Like, no one's...
+No one's seen them.
+Yeah.
+But it took 20 years for the F-117 to be visible.
+I'm holding out hope, but you know, it's a child's dream is that I'm holding onto here.
+Oh, there's another air...
+Sorry, I misspoke.
+There is one other helicopter that flies using aerodynamic principles, and that is the Chinook.
+The Chinook flies by beating the air into submission.
+Yeah.
+And if you forget to activate windows, it just plows into an island and kills everyone on
+board.
+That's a sort of joke at the RAF's expense, which I apologize for.
+Alright, next slide.
+Not the worst time anyone has had with a stealth helicopter.
+Yeah, but this one didn't cost $7 billion, probably.
+We don't know what this one cost.
+It's an adaptation of a Blackhawk, because the Blackhawk loves being adapted into things.
+Which, fair enough to, you know, more power to...
+I can't see enough of this to know what it is.
+When you told me that this was a helicopter, I thought it was some sort of like unmanned drone-y thing.
+This is the tail rotor of a, like, as yet undisclosed Blackhawk variant.
+And this is the wall of Osama Bin Laden's house behind it.
+Oops.
+Because...
+So a stealth Blackhawk thing...
+Yes.
+...with like a weird...
+It looks like a tail rotor cap, and then like some sort of faucet on the other side.
+Yeah, so they had...
+That thing must have flown like absolute dog poo.
+And that's what happened.
+That's exactly what happened.
+Yeah, that's why it's looking like that.
+Yeah, Neptune Spear, an operation that has generated like almost as many books as it has
+like human casualties at this point.
+Surely it all had shot him.
+Is that the one where they pretended to kill Bin Laden but they didn't, and they just brought
+him to Gitmo?
+Yeah, that's the one where they pretended they killed Bin Laden, and then they brought
+him to Gitmo.
+Yeah.
+Was, yeah, the Bin Laden kill capture mission, which like went in in two of these stealthified
+Blackhawks.
+We don't even have like a name for them, or even a cover name for them.
+Because they weren't supposed to be disclosed, except what happened was because these things
+fly like ass, and because you were flying them next to a compound with a low wall, you
+got a kind of like ground effect thing that dumped it like vertically about 12 feet out
+of the air, snapped the tail.
+That'll do it.
+And so...
+Oh, that really helped that recirculation vortice happen?
+Yeah, I love it.
+Love that hurt.
+And so the seals had to like go home in a Chinook and blow up this with plastic explosives,
+which...
+Well they did a bang up job of it, they still left an entire intact tail rotor section with
+the surfaces completely unmarred.
+Listen, I mean, it's hard to affix plastic explosives in the right place when you're
+busy kind of drafting your novelization of what you're currently doing.
+Right, unfortunately...
+Thinking about what new racist tattoo you're going to get.
+Yeah, exactly.
+So I haven't looked into Operation Neptune Spear, but I wonder if the person who nominally
+killed Bin Laden got an award for doing that, or like a medal, or if they were like really
+pissed that they lost the intelligence opportunity of interrogating this person.
+Or just the vengeance opportunity of torturing him for like two decades.
+Three seals have publicly claimed to be the one to kill Bin Laden.
+And I think two of them have written books about it.
+It's just, it's something that happens to you when you pass like Special Forces selection
+as you just become a kind of aspiring novelist.
+Actually, all of them killed him all at once in like sort of a barbershop quartet fashion.
+Right, right, right.
+Someone blew in the little tone pipe and then they all kind of hummed for a little minute.
+Yeah, exactly.
+Yeah, yeah.
+They all shot him at once.
+Yeah.
+That's fair.
+And then Obama refused to release the photos of like dead Osama Bin Laden.
+Yeah, the whole burial at sea thing was kind of sus.
+Yeah, it's kind of sus.
+You asked Navy for the record, like all you had to do was find one of the civilians it
+killed, dress him up with like a little bit of Hollywood magic, couple of photos, it's
+all you'd need.
+Yeah.
+Impossible to say.
+Absolutely impossible to say.
+Getting that level of quality makeup would probably involve hiring a woman or a queer person,
+so it might have been impossible for you at the time, but like you could have tried.
+What if Osama was recruited into the barbershop quartet?
+I mean, if there was only three of them, like Nova suggested, then possibly they were
+looking for a baritone.
+That's the point, yeah.
+Yeah.
+But yeah, so the seals blew up whatever this was, apart from the tail, and of course the
+Pakistani army and ISI being staunch allies of the US immediately returned this and didn't
+like, you know, let anybody take a look at it or sell it to anyone or anything like that.
+Any of the fragments of the surface of this skin, more than a centimeter square, were
+probably more than enough to reverse engineer whatever stealth coding they were using on the
+stealth Blackhawk.
+Cool.
+Yep.
+Oh, they're good now.
+Yeah, I mean, not much apparently.
+Next slide please.
+Folks, we're going to have to repaint it.
+Okay, we're going to talk about boats.
+Boat.
+Boat.
+I only know of one boat, and I'll explain why on the next slide.
+Boat.
+This is the only boat I'm aware of.
+It is the only boat sufficiently like an airplane that I was aware of its existence
+prior to making the rest of these slides.
+I've seen James Bond fight a guy on one of these.
+Was it Tomorrow Never Dies?
+Yes, Tomorrow Never Dies.
+They did a fictionalized version of this.
+It looks like a big house Santa Fe.
+I mean, this is a fictionalized version of this.
+This is so hecking cool.
+Honestly, if they hadn't dismantled this thing, I would be like, I would fly out to
+go see it.
+They made the movie version like 20 times the size.
+You know, it's having boats dock inside it and stuff.
+Apparently this boat was incredibly dangerous, this one underneath.
+If you swam down the center of it, you would die.
+Yeah.
+Yeah, the thumb shot ones.
+Oh, yeah.
+Fair enough.
+You did that joke in the last one too.
+I know.
+I mean, I know my timing was good, right?
+I told you my timing was bad.
+Goddammit.
+But I still got you.
+You did.
+You did.
+Okay.
+This was...
+One of the fun stories about this particular boat is that this was like they made the F117,
+and they're just like, well, now the Navy wants stealth stuff, and they're like...
+I want a cool angular boat.
+Can you get this cool angular boat?
+You already have the stealthiest possible vessel in the US Navy.
+More!
+You just don't want to get on a submarine, so you're like, yeah, give me a stealthy,
+like, supermarine.
+You know?
+I need something stealthy, but I want the kitchen to be bigger.
+If you want a stealthy boat, you just buy a mayor's cargo vessel and replace all of the
+cargo pods with, like, cargo pod-looking shells for your ICBM silos.
+Yeah.
+It would be crazy if anyone had done that.
+I definitely didn't see that in, like, a library I was certain of somewhere, but, like,
+honestly, if you're gonna have, like, nuclear missile trains, why on earth don't you have
+nuclear missile cargo vessels?
+Well, come on.
+I mean, okay, so Tahir Inshat apparently only sells to Russia.
+Also have never actually produced anything other than 3D renderings.
+The, like, prologue to Metal Gear Solid 2 clearly demonstrated this was possible.
+Yes.
+In any case, this boat was initially conceived by basically putting a piece of bent tin in
+a, literally in a kiddie pool at Edwards Air Force Base, out in the sand, and they just,
+they hung a radar array above it by about 20 or 30 feet on wires.
+And then they just tested to see if they could see the deflect, the angled metal in, on top
+of the surface of the water.
+And when they couldn't, they said, well, that's a boat design.
+Let's go build it.
+Ha ha ha.
+The boat design did have some other interesting features that they were exploring at the time,
+such as a low wetted surface area hole.
+Um, or sorry, low, what's the word I'm looking for?
+I don't know my boat terms.
+The part of the boat where it touches the water, like on the surface, that's what they
+were trying to reduce the area of.
+And the theory that that would reduce the weight.
+Stuff can.
+Yeah.
+Cause like you could have the pressure, uh, as a boat moves along the pressure wave coming
+from the, like the big buoyant pods underneath each side.
+Um, if that was deep enough below the surface, it wouldn't create a surface wave that would
+be perceived as a wake or create white caps.
+I'm just, I'm struggling to envision what you could possibly use this for that you couldn't
+use a submarine for.
+Mm.
+Uh, if you want to just like drop your James Bond sub through the air into the water for
+a nice cinematic splash, but for swimming away in your, in your like little like underwater
+Lotus thing.
+Yeah.
+You could do that from this with style.
+I suppose so.
+If it's already has a submerged hole, you don't get that like cool splash as if you're
+like a villain escaping.
+Right.
+Mm.
+Yeah.
+Right.
+Like this, this is cool.
+Imagine like having a, um, a hot tub with a clear bottom in the center of this, where
+you just have like the water rushing by underneath as you cross the Atlantic in style.
+Yeah.
+Oh yeah.
+Yeah.
+But there's all kinds of good options here.
+In fact, if you wanted to like, um, contact or repair or refuel or exchange crew with a stealth
+submarine and you wanted to drive over the top of the conning tower, have the submarine surface
+by a few feet, exchange people through the hatch without the submarine ever being visible
+outside of, you know, the very low front or back ankles of the arching boat that could
+in theory be a thing that was done.
+Hmm.
+Um, but given that I am an aerospace engineer and not someone, uh, who knows these kinds
+of things, I can speculate wildly to my heart's content.
+Stealth submarine tender.
+It's an interesting idea.
+I mean, I can't think of what, like, there's no weapon systems on this.
+There's no obvious, like, uh, you can, you can, you can keep bin Laden in one of these
+other than like using it to do something for something else.
+Cargo van.
+You just sort of, you go over there and look at something and then you, you run away.
+Like, sure.
+It might have a low radar profile, but if you, if you, why be sneaky if you're not doing
+anything?
+The only reason to be sneaky would be to like do something with other sneaky stuff you
+don't want to see.
+This doesn't have weapons.
+It doesn't have anything like that.
+And like, unless they have like torpedoes and the like, honestly, the kind of submarine
+shaped pontoons underneath the water at the bottom of each side.
+Yeah.
+You know?
+Cause the only other thing I can think of is like, oh, you can like dump a bunch of like
+seals out onto a, onto a shore with this, but like you can already do that with a submarine.
+Like.
+Right.
+You can, but this could in theory lower them at the bottom.
+Hmm.
+And a submarine would have to surface, which means that a submarine is traveling through
+different waterways.
+That's not necessarily true.
+Which might.
+There's swimmer delivery vehicles.
+Weird shit like that.
+Like, yeah.
+Uh, just, uh, join the seals, do infinity pushups while getting screamed at and then get shot
+out of a torpedo tube.
+Just to really like make your career.
+Don't forget the sand lice.
+Hmm.
+What's getting me here is that of course this thing has no gunnels, which means it's really
+easy to fall off.
+Just slide down the thing.
+Is that a bad thing or a good thing?
+It sounds like it'd be a lot of fun to slide down.
+Tony Hawk's pro skater.
+Yeah, but then they have to circle around and pick you up.
+A little rope bridge.
+I mean, you park it in like a bay and you do rope bridges on the side and just slide down
+and climb up and slide down again.
+Doing this like team building exercises to get like an assault course scaling the side
+of this thing.
+They get to go on outward bound.
+Um, we can keep going.
+I didn't have anything for this other than that this is cool and that I knew about it.
+This is also cool.
+I appreciate the Norwegian...
+Disagree, but sure.
+I appreciate the Norwegian commitment to pointy triangle camouflage.
+Mm-hmm.
+I mean, the whole thing, I like how the angle of the side continues onto the angle of the
+thing that supports the...
+I meant to say Scandinavian.
+I said Norwegian.
+My bad.
+Yeah.
+Oh, it's the pointy ship of my people.
+Hmm.
+This is a Swedish ship, right?
+Mm-hmm.
+Loaded down with snooze.
+Do we have a picture with the barcode on it?
+For when you need to deliver a bunch of meatballs really close into an enemy shore.
+It's amazing you can fix the whole thing with an Allen wrench.
+That's also true, but I was thinking that when it gets back into port, they'd want a Scandinavian.
+Oh!
+Thank God!
+Thank God!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah!
+Ah! Ah!
+Uh!
+P. Uh-A respuesta that is like a headset by like a horse, and not a reconocer than a
+horse-or-boy-a voice, you know what I've forgotten about, the Especially
+Ah!
+What happened to Ihoo, the car seem like that!
+advanced radar material which probably wouldn't withstand like salt water spray uh typically
+having very sensitive lithographed parts directly in contact with like a 30-foot wave carrying fish
+and fish-related activities against the side of your hole um like it's probably this is probably
+not stealth with much ram like this isn't going to be aircraft level stealth where you're looking
+up and trying to see a thing with a high-powered radar this is below the horizon for most threats
+anyway this is a low observability more than stealth i would say i would argue now this one i can think
+of a lot of use cases for particularly given the big swedish flag on it uh there's there's a lot
+of stealthy stuff that you might want to do in the baltic there's you know there's pipelines to blow
+up uh there's like russians to surveil um any number of things row row ferries to uh yeah salvage
+potentially illicit cargo from yeah yeah the the baltic are kind of like haunted sea i think we
+can be clear about that um and and one heavily associated with like secretive things i can't
+help with boats i don't know anything about boats they they look like expensive holes in the water
+that you pour money into that is what they are yes although i did drive a motorcycle that had a boat
+village pump motor as its engine oh wow the honda cx 500
+uh
+grand and key model it was excellent more more secret scandinavians they love doing it what if we
+had a kind of inland like literal um sort of like stealth capability that could be fun to drive
+i think anything yeah anything fast got a big gun i um i got to ride on a a rib a rapid uh a
+fucking a rigid hold inflatable boat um one time as a reward for not drowning and um that was a great
+time like if you floor it on one of those uh you were like yeah yeah it's it's incredible like
+i've heard that they're fine for five minutes but if you go over that it starts to really hurt
+oh no i i i'd like was uh like sore all over my body but i've had lots of good times i've been
+sore all over my body so like it's it was fine like we just had a safety third come in about
+something like that i i gotta get back on the my my like rigid hold inflatable boat shit you know so
+um royal navy reserve application i'll do that later anyway uh yeah i was gonna say well nova's
+busy hey devon how's it going um but yeah i i like again the kind of like pointy triangle situation
+um and the camouflage that's a good color scheme honestly i don't think it blends with the water so
+much but like if you're like in a river estuary or something you could definitely
+because it's being both practical and cool that it's got a fjord gun as well it's like um that's
+really fun uh next slide sure oh these ones i know about so the fucking zomwalt class um this thing this
+thing has a hell of a face you know what this face says hmm is this the crusty crab no this is patrick
+just exhausting yeah so uh you know how i said the royal navy was like oh we're just gonna like
+put uh all the like stuff that sounds futuristic we're gonna pin that on the f-35 the u.s navy
+doesn't have to do that right because they have too much money so instead of that we're like all the
+stuff that's like futuristic all the stuff that we want to be doing like you know like rail guns or
+like directed energy weapons um or like you know the fucking ice cream maker that's got ai in it
+whatever it is we're gonna like gonna try it on a test bed platform that's also gonna be stealthy
+which is what this is right it was the the like uh the ddx class um guided missile destroyer and
+again why would the navy make a boat with the abbreviation dex
+uh once again no gunnels um it has these weird windows in indents here or maybe those are weapons
+it looks like something bjarke ingles would design um yeah and this is the the idea is that you're
+doing like naval gunfire support essentially like you're you're driving this stealthily off
+up to like the coast of you know enemy country and firing a lot inland i hate looking out into
+the ocean and seeing flat surface for hundreds of miles from like my cliffside dwelling and not
+noticing the massive u.s destroyer yes it does not appear as though it would be especially uh subtle
+just well it's it's it's smaller than it looks actually and this is one of the problems with it
+um so aside from the fact that like every five minutes some very senior navy officer says put a
+rail gun on this or uh put a laser on this how would they power those this doesn't have to draft for
+like that kind of power generation that's a great question and one that the u.s navy was unable to
+answer satisfactorily um or going put a hypersonic missile battery on this um so aside from that
+what you have is a like a kind of a test bed platform that is not very good as a boat um
+these are there have been a number of exposés about this in the defense press about how
+fucking miserable these are to work on even by navy standards and like those are low standards
+so i do have to ask how stable and heavy seas was this whole design that tumblehome design looks like
+it would wobble like you would not believe yeah um again funny you should mention remarkably poor
+sea keeping um and sometimes that's fine like sometimes that's a situation where like i mean
+you think about like uh like frigates and corvettes through history which are like absolutely terrible
+to be on because everybody's seasick even the people who aren't uh but they're also going at like
+stupid number of knots um and that's fine um and because they're you know effective for what
+they're trying to do which is submarine hunting but that bow angle would just dig into any wave that it
+wouldn't it wouldn't clip off the top of it so you're just you're not even if you get up to speed
+you're not even clipping the waves to smooth out the ride yeah miserable absolutely absolutely
+miserable by all accounts terrible sea keeping press the deck and hits that big flat front of the
+what do you call the thing that people stand in the deck oh it's that in yeah like the the big
+tower in the middle the bridge i mean yeah the conning tower exactly there we go when the wave
+hits the conning tower you're just going to have a deceleration in addition to all of your
+other pitching moments that'll be fun definitely definitely can't do the romantic titanic thing
+you're just looking at you're just looking at uh sliding down the razor blade of life here
+apparently these were also these were held to maintain well are held to maintain um lots and lots
+of like electrical problems uh leaks um and just kind of general quality of life issues um and i guess
+the thing is that like maybe this will be elaborated into something like more useful and more livable with
+time uh but you know my main feeling is experimental stealth ship sounds cool in mass effect where they
+give you a separate cabin for all your romantic interests um in this one and not so much i don't
+think you know why would you need more than one talia is everyone that everyone needs
+anyone other than talia they're wrong i mean i'm listen i'm i'm happy to be wrong with my blue wife
+next slide please oh speaking of oh boy oh mass effect yep this is the normandy class um sr vessel uh it is
+stealth and it retains heat in coils that have to eventually be vented so it can only remain
+stealth for a short period of time this is commonly on spacefaring vessels that are still uh waste
+heat has always been a huge problem absolutely and i will say that this this kind of like had to
+withstand in mass effect one a hostile inspection from a senior like um uh systems alliance and navy
+officer where you could take the like paragon uh like press officer pack of being like well you know
+it's uh sort of like it's it's designed this way because we want to foster diplomacy or you could take
+the renegade james mattis option of being like uh i it's built this way for like warfighter-iness
+um i haven't thought about these games in a minute but i might need to to reinstall and replay these every
+time i think of that i remember how in mass effect three at the very end prior to the corrective
+patch which i never played finished the game having done all three with one character and i get to the
+end and it gives me a choice of color but your character at that in that moment has a pistol that
+pistol unlike the last two games in the series which had ammunition mechanics that pistol did not i must have
+spent most of the day most of my evening at least several hours shooting that um god a child in the
+head yeah i also had the experience like can this really be the ending like the game was over they
+gave me a choice of color none of the work that i did to recruit all of the races and save the turians
+and all of the shit did anything for me other than what color do you want rgb and i'm like rgb baby are
+you are you serious right now because this is not what i thought to save the galaxy for
+i will say if you replay it since then they added one dlc which is just you hang out in a house party
+with your your friends and that kind of makes it worth it um next slide please the stealthiest boat
+the stealthiest boat of all um the hunter sea boat yes uh this is the only one that actually well besides
+the um the skilled class ones that you can call a boat and not offend whoever's driving it um what
+what if submarine um what if submarine all right so all submarines boats they're built by general
+dynamics so that's a boat like i would argue that a boat that stays on top of the water and if a
+submarine doesn't stay on top of the water its entire service life it cannot be classified as a boat
+because a good boat doesn't sink submariners insist on boat rather than ship i'm not sure why they just
+do i would compromise on vessel because it is a closed container but i would actually draw the line
+a boat you know i think i would not call it a boat some things with someone who wears dolphins for a
+living you know it's like how on the great lakes they're all boats they're not ships they're all but
+yeah for the purposes of this podcast and for parasocial relationships consider me single
+if you're if you're a cute submariner who's like you know got healthy habits let me know
+yeah a cute or a submariner who's got healthy habits yeah all right bud i think all right how to
+steal submarine valor um mara i am so sorry yeah so as you're saying all submarines stealthy like in
+that they're using water to be stealthy uh however one of the things is uh you know uh besides the
+submarine and the hunt for red october um we also invented putting um anechoactiles on submarines um
+which uh looks very cool um and um again weird things because like again with technical
+intelligence right like um some of this stuff it's like very very compromising if you even
+see like a submarine below the waterline um i remember there was this kind of like um sort of
+desperate crisis anytime uh like a british submarine like runs into a shoal or reef or whatever and
+beaches itself and people might see what like the sort of like what it actually looks like yeah
+exactly because the shape of it is like yeah exactly um so like this again very very carefully
+designed lots of thought put into like angles and materials and all the rest of it um for for
+both genders of submarine the one that like hangs around waiting to end the world and the one that
+tries to kill that um yeah okay so we're gonna now if viewers uh listeners take a moment to pause
+the podcast use the restroom take a bio break drink some water get some food we're about to talk about
+every submarine ever because they are all stealth vehicles from this point onward um this is going
+to be the first of a 15 part series is your bomb collar tightening
+has it always been this itchy okay i mean if you want to call her me nova you know next thing
+uh what's the radar signature of a cyber truck
+it's it's it's it's um shoot down now i i particularly enjoy that you've got a picture of
+ramzan kaderov's um like sort of pkm mounted uh cyber truck people come to this podcast to hear about
+pickup trucks with guns on them i am giving the people what they came here for absolutely i mean
+it it's shaped like it should be stealthy it's clearly aping the design cues um i i i'm
+just looking at this like okay you can shoot any direction that's forward over the horrible hump
+in the cyber truck uh you can't shoot at anything backwards the concussion from the the exhaust
+gases of the machine gun are prop on that big flat roof it's not even a big drum over the driver's
+head you're you're putting like 12.7 millimeter rounds out of that that's um deafening anyone in
+that enclosed cabin i i'm i'm remembering one of the funniest things you know the war in ukraine
+not funny but one of the funniest things i've seen to come out of it is a sticker placed on the
+dashboard of a pickup truck with a little diagram warning the driver that he has a gunner in the bed
+and not to turn lest he too fast lest he throw the gunner out of it um this is not an issue with the
+cyber truck however because like it will immediately die standing completely still this this probably
+should get elon musk sent to guantanamo right next to osama bin laden because ramzan kaderoff is a
+like sanctioned yeah he's a sanctioned individual he's a fucking uh like like named person not to
+mention a defense contractor yes they're gonna have to they're gonna have to pick them up before either
+the uh chiefs offensive line or the uh or me or the swifties get to him first yeah it's gonna be me
+man again since we're behind the paywall i'm gonna i'm gonna enjoy flintzing the flesh from his bones
+absolutely um yeah no i'm gonna make it look like some of the worst magic the gathering art you've ever
+seen kataroff i guess i'm gonna get turned into ground bower yeah boer was um yeah the cutter office is
+like elon musk gave me a cyber truck and it's like okay well elon musk should go to federal prison
+is it illegal to give or just to sell to a named person it's it's basically like sanctions law is
+not my strong point but basically anything to do with like this is the reason why you just have to
+drop on a named person that'd be a donation
+no they'd probably give you five dollars yeah it may it may actually count as being in u.s
+interest because the vehicle is defective oh that's true thank you very likely to injure its
+driver driver theoretically i'm not producing libel for the podcast that's not my my job description um
+it would be a great vehicle to give to someone you didn't want to live very long something that's
+false steering bad suspension components and no crumple zone me and me and my unintentional
+acceleration uh screaming ahmad sila as i drive this thing directly into a ditch
+pedal like i wouldn't normally point people at like whistling diesel but it was hilarious
+next slide oh yeah so um remember how i how i mentioned the the sort of um thing of having a like
+partly f-22 partly f-35 um sort of like uh fleet well they do different things they can complement
+each other what if one of the things you could do with that is like partner an aircraft with like
+a drone or a bunch of drones um and i think i would just say before we get into this when uh things pop
+off in taiwan and it becomes impossible for you to get a new computer that is one of the things you
+should look for is um uh like sort of various autonomous wing men and such this thing looks like
+a monkey it kind of does yeah you like yeah i have to say that that flight suit is not being worn in
+regulation manner i'll tell it they're not usually quite so carefully tailored ah stealth for the
+movie yeah it's not being worn in regulation manner it doesn't have 16 patches on it you know
+this was formative for me as a child um no further comment yeah we're all better off not
+wherever i guess movie no have you covered this uh no i haven't i haven't watched it um when i do
+um hello do you want to come on kill james bond we'll talk about stealth please please please
+but uh yeah no i i haven't seen this but i i get the gist right um
+it's bad it's really bad it's it's poorly written it's a horrible fucking movie cgi is terrible
+the plotting is it plods but it has jessica biel in a tight flight suit and cool airplanes so it's a
+win there you go a critical failure though it lost like so much money one of the worst losses
+not the worst but like the 53rd worst that's still one of the worst i think it's on the top 100 list
+which is pretty good in terms of losses is this a project of 135 oh boy um again that's a downside
+to like us military uh like cooperation is you make the movies that the military wants you to make
+and the movies the military wants you to make are often bad um this is why you have to do some francis
+ford coppola shit and go to the philippines get some like you know i want to watch megalobiles that were
+being used for like counter insurgency moments before to be fair this was i mean aside from
+family pressure was one of the reasons that my transsexual ass tried to join the u.s air force
+um but yeah i don't think it holds up to the modern era and the level of misogyny in this movie
+like you would have to invent a new scale despite the pre-established levels that you've already experienced
+like it is bad but um as i understand it though it does prefigure some stuff that like even before
+anyone was talking about ai which now is all anyone can talk about right is how do i fucking
+get ai into a drone swarm that like an f-22 driver can like sort of like set loose yeah yeah
+um yeah what if we took some workload away from humans generation air dominance so yes it did come
+out before it was like publicly widely known that the us was looking into drone swarm aircraft i don't
+want to consider the fact that this might have influenced the next generation air dominance program
+uh-huh just like the movies i were a defense contractor wanting to influence political opinion
+in the next 20 years i would make stealth for the movie still i would put jessica beale in a tight flight
+suit and have the like the systems i want to develop in this in the movie to try and like create the
+next generation of congressional staffers with some weird erotic fixation right like that would be a
+good strategy if one was amoral and had money and i know just the guys to do it the 135 million
+dollar sizzle reel that you have outsourced to hollywood uh we can we can move on um robots are
+being brought into combat roles oh hey look at that we got the same guys from before we got ed rendell
+and uh spirit of pennsylvania here exactly and spirit of pennsylvania who you see on the right the 10
+out of 10 baddie in bdus yeah that was me back in the day i'm way hotter now but like back when i was
+still like developing into my current current state uh yeah woman denying to put a like pre-transition
+photo and and like the thing is i have i have erased every pre-transition photo of me from the
+internet but this one is hosted on the dfaf ds a dfas.af.mil archive and when you search my last name
+it pops up anyway so i might as well just be like yo even when i was a boy i was a nine out of ten like
+i've been a nine out of ten in both genders and i'm doing it backwards and it heals now you're welcome
+i like the guy in the striped shirt top right uh oh yeah just the the awkward guy climbing
+the back of the hangar yeah there he goes mr russian navy back here that's grover that's
+that's like whatever civilian contractor is busy posting on something awful all right so this photo
+was taken by afo tech and attachment five edwards air force base california
+in a year that was a year um i i posted this photo just to show like when i'm talking about
+u.s military war crimes i might know what i'm talking about when i'm talking about drone programs
+i might know what i'm talking about um and i won't try to prove that you can request my records with a
+freedom of information act request have plenty of black ink on hand it will be around 150 pages about
+100 of which will be pure black about 50 of which will be mostly black and you might have a cover page
+that doesn't use too much ink as of 2023 it is now possible for uh people separated people who are
+gay who are separated under don't ask don't tell to appeal for the correction of board of military records
+to have your under honorable conditions um discharge converted to an honorable which opens up
+educational opportunities if you serve for three years and six months you get full gi bill
+so it's worth putting in the effort to try and get that done i have not yet had success with that
+process but i'm not very far along in it it was started in 2023 um if your dd 214 bottom section
+on your extended version looks something like mine you should try to get that upgraded to an honorable
+even if you don't intend to use the educational benefit you can use it for your kids but if you're gay
+you might have a harder time getting kids but you can adopt or foster or you know yeah yeah
+or that may maybe maybe not no full-on stealing kids hold on i'm looking at the notes here what is
+dod directive 1304.26 some call it don't ask don't tell oh i see okay okay okay um a band from serving in the military
+anyone with the i believe the term was predilection which is stay classy cmj yeah
+yeah predilection for engaging in homosexual activities yeah good time that like you didn't
+have to do anything gay you just had to be inherently so we consider your vibes directly
+you cannot be gay as possible not like you can't do things that would ick us out it was like no
+if you happen to be and you know we even suspect you i was in show choir so like it wasn't a hard
+guess i listen i know i i knew a guy who went into the navy in high school and like uh i should if
+that's the standard he should have been discharged a long time ago he also showed choir ross okay like
+i was doing just fine three years roughly when i got a new commanding officer a green zipper suited sun
+god whose name i will not name um and he just he decided he didn't want me in his air force my
+previous commanding officer came to my show choir events and was a lovely woman that's very
+frustrating i'm sorry you know um i learned a lot and i became the one i am today so boom we can go
+on to the next slide we don't have to we can look at my pretty face some more if you want to but like
+i could send you an updated picture if you want to do that you literally are looking at your pretty face
+yeah uh viewers i have my video on so they can see me emoting um since i'm not part of the report
+as much as i as the other hosts are it helps me bond and they can see how i'm reacting back
+i had mine i had mine on for a bit and then i i couldn't face it i don't know you don't own a webcam
+nope i would need a third monitor no i do have a webcam it's just not saying you see the conditions
+i have to work under i have a laptop with a webcam if it comes to that any phone is a webcam if you're
+brave yeah also like that's the thing i had to take our call with a company redacted uh on my phone and
+i have a screenshot of me with like this australian woman trying to be like why did they send me to you
+instead of the americans like i don't fucking know lady i when we the first time we had victoria on
+she her webcam she had hooked up her dsor so we were getting like 8k video yeah of her beautifully
+lit and she paid for like the paid version of obs because i can't get obs to stream anything higher
+than 4k with my it might just have been like native in zancaster i don't even know but like
+okay meanwhile i just have the fucking like 1080p logitech um and i i i felt like you know the
+like lower than skeletons in that moment and you know it's it's nice to revisit that feeling um i see
+i see uh uh i refuse to buy a webcam they can't wait i was gonna say this is one of ours the fin flash
+that's us yes that is that is this is a british rq9 reaper drone i wasn't gonna leave you out of the
+war crimes no yeah i would never do that we've done a few of them we're still doing some we're assisting
+with others uh not gonna comment on operational matters at the dispatch box um yeah no um i was
+trying to collect numbers for number of civilian casualties like acknowledged by the military dropping
+the weapons that were non-combatant deaths uh and then i just got depressed and dropped the links in
+because i stopped counting and i started crying um yeah because i have a nice hard heart having been
+in the military and survived abuse and it just was really really fun to read about all of that so i
+just dropped the links in and we'll talk about them in a general sense but there's no reason to talk
+exact numbers because even to give the outrageously high numbers that are provided by legit sources
+would be to do a disservice because that is still propaganda and it is inaccurate and it is a
+problem absolutely so we are going to talk about i am sorry i have to apply power to my computer
+i have a desktop you can tell i've been talking to spacecraft all day if i say apply power to my
+computer tc pot please apply power to the alia kutz computer instrument
+it'll be really funny you know those 8k webcams they sell yeah yeah i think i'm gonna put one of
+those on the other corporate card i'm just alerting you now oh it is not about the resolution is about
+the sensor size i know what it's about god damn all right i'm i'm i'm getting you to both full frame
+dslrs and uh yeah yeah you can you can just and tripods for them and you can i need better lighting
+and i need to clean up this office yeah why do you think i have this
+fucking backdrop so you can't see my shame can i get a d780 please yeah go on um how much all right
+i can afford the d850 fuck off let's talk about let's talk about drone strikes yeah let's talk about
+drone strikes the first thing i want to point out in this drone though aside from the flash that says
+this is nova's country doing it this time not us um capitalized in not us um you can see um i want
+to call it like a stealth cosplay along the fuselage of the rq9 reaper drone you see that like sharp little
+line that you see on like the outer perimeter of like the b2 the b21 the yf23 the f22 the f34
+etc that little sharp line says this is supposed to be sneaky and it's not you have externally mounted
+hardpoint munitions you have big reflective spheres filled with explosives strapped to the underside of
+these wings you have a propeller out the back it's noisy it does the same thing the f117 was like almost
+going to do with the harmonica right like there's a lot of like narratives from people who have like
+lived in places where these are being deployed being like yeah of course you can hear them
+right like not just noisy but like the propellers like this big spinning reflector for radar like you
+you try to shoot this thing with a radar gun and it will blind you it isn't stealthy it is the opposite
+of stealthy yeah for anyone here looking infrared camera on the bottom it's a big round sphere again
+so yeah for anyone here listening uh audio only just imagine um the sound effect they use during
+the exterior shots of the airplane in the movie airplane oh we gotta talk about that movie we do
+we do but yeah um it's it's it's it's stealth to to like sell it to again like you know decision makers
+right um it's stealth as a stylistic concept which could be investigated further like there are cool
+elements of stealth that like you know like cars that don't go off-road like your neighbors
+cross track right it has never seen a gravel road it will never see dirt but it has like the big plastic
+cladding you see on like the off-road commercials yeah of course this is that but for planes
+it's literally dead weight it does nothing aerodynamically it does nothing in a low
+observability sense it's just there to look cool and to sell war crimes to people who would be like
+slightly more hesitant to buy war crimes yeah i mean for instance like it's it's all the like you know
+markings on it a very low visibility right which is funny given how visible it is like you could
+plausibly paint this thing bright purple and attach a pair of symbols to the front of it it wouldn't change
+anything about how it worked the tail flash is the low observability tail flash but you have
+munitions with big bright yellow wrappers on them like of course yes this is sneaky with external hard
+points yes no um anyway these things have killed at least tens of thousands of civilians over the last
+decade or two um they have been used to indiscriminately bomb things such as weddings
+school yards children playing with goats you know life yeah they have just been generally deleterious
+to impoverished nations along the gulf coasts and just kind of like in in undeclared wars i mean
+in sort of like broadly in an arc from say you know uh pakistan down to like somalia but
+the region that creates the co the the fuels that we burn to create the co2 to kill the planet desperate to
+sell things that kill the planet that they live on yeah don't give them a choice in capitalism we
+spend another uh two to three million dollars killing another goat herder yeah i don't know
+what the value of a human life is but it is simultaneously far more and far less than the
+cost of whatever munitions those are attached to the hard points fema puts it at one million dollars
+so we're still overspending by two to three times
+um
+this is where we talk about the definition of an enemy combatant
+it's whatever your mind wants it to be and anyone who runs as vc anyone who stands as well
+disciplined vc it's not a new thing the definition used by the us air force for drone strikes is any
+military aged male over the age of and it has varied but the most recent one i could find was over the
+age of 16 and they are trying to identify whether someone who has been blown up by a bomb is a
+military aged male by the appearance of their burned and scorched carcass laying out in the open
+when their surveillance drone comes to take a picture of the strike and judge its effect you can't
+count a casualty until you've made it now i don't know about you but i cannot tell the gender of
+someone that has been blown to smithereens and smeared in dirt and char from several thousand
+feet of altitude with nothing but a single camera i couldn't tell my own gender for 32 years and i
+lived in the fucking meat suit i i i would like to be able to say i haven't seen enough burned and
+charred and exploded bodies to to to answer that but i grew up on the internet so i can and i can't so
+yeah so basically they say if we see a body that is large a body fragment let's put it that way what
+is left the remains of a human being that is large enough to conceivably have come from someone 16 years
+old or older they're going to count that as a military combatant only when a on the ground
+verification of who the person was who was killed has been done have they ever reported them as
+civilian casualties and they have still reported over 10 000 yeah those those being the kind of
+like vanishingly small minority like edge cases um reminded of one of the nastier images i've seen
+out of palestine so far of the uh the remains of various children being collected into various clear
+garbage bags um yeah i have enough blood on my hands and enough nightmares that i had that that
+was what got me off twitter for the most part yeah it was smart to do like i i couldn't look away and i
+couldn't look at it and i didn't know what else to do um with my own history with the us military
+and the programs i worked on and the tasks that i did i wish i was far enough away from the act of
+violence to not feel like my hands are dripping even when they are dry but i can't say that i do
+and i wish i could i'd love to sleep sorry yeah it's okay you want to take a break i'll be fine
+if i had to live it they get to hear it the shit's real it's not for humor it is a comedy podcast i'm
+sorry i'm making you cry we try to make light of it but it's a comedy podcast about social murder
+to be yeah i mean this is ultimately a social murder situation this is not this is this is bigger than
+any of us right um right let's get my i'm a bitch what that okay so you argue for global hawk it's
+purpose was war crimes it was used for war crimes it continues to be used for war crimes there is no
+real way to judge how much human suffering it has created or how many lives it has taken but it's a lot
+not useful for anything else incidentally it yeah could not be used in any context other than fighting
+unarmed populations it is slow it is low it is loud anyone with a look out can avoid them
+i mean the lookup might have to have binoculars but we're not talking a high level of technological
+sophistication to avoid these things the very first method of detecting aircraft we talked about on
+slide one of part one listening to the fucking air would be sufficient to defend yourself against an rq9
+reaper drone this was not used to fight enemy combatants yeah weapon that only kills the defenseless is
+uh it's uh it's definitely a sort of like statement of intent yes invented by the only nation to drop
+nuclear bombs on civilian populations twice okay i think we've imparted upon the listener the severity of
+what allowing someone to remove themselves from the direct act of violence does to the opposing
+populations i think murder should be an intimate behavior between you and a close one it should be
+visceral you should have the blood on your actual hands removing that distance when killing a person
+is pressing a button in a box on an air bay in an airfield or air air force base in the us and then
+driving home to your enlisted barracks to hug your wife and kids is not how we should value the decision
+to take a human life to take someone's mother or father or brother or sister or daughter or son that
+shouldn't be done ever by anyone at any point it should definitely not be done from a remote
+location by a machine armed with explosives yeah i mean it's 9 11 at least the hijackers had the good
+sense to wow that's what susan suntag wrote about at the time which is that you know you could call them
+a lot of things but not cowards right yes yeah and that is true i mean um also muhammad adha uh
+consummated this architectural uh uh engineering thesis um but that's that yeah i mean give me the
+choice uh the obama presidential library is like a glass cube with one of these in it filled with blood
+um yeah that sounds about right hmm what if um well i mean this is an ocean sunfish
+that's a swimming aquariums they're gorgeous a molar molar um they're very funny looking uh star of a
+good iphone yeah um so as we mentioned little stars it's really cute oh the reaper obviously
+as we've mentioned like not uh useful for anything but anyone might try and interdict it now if you want
+to do uh things that require a uav in airspace that is even slightly contested um and you don't want
+to like lose your uav your option here is was at one time the rq3 dark star which is the most annoyingly
+named thing i've ever encountered lochie martin insists on the camel case capital d capital s dark
+star which does separate it nicely from top gun mavericks dark star which was the name of the plane
+that tom cruise was flying at when he surprisingly survived an ejection at hypersonic velocities
+that was interesting um so yeah i i guess one benefit of a highly classified program is when the
+the shit does not work nobody knows and to be sure this one did not work we know about it
+yeah and you can look by the shape of it that it didn't work well sorry for interrupting you over
+no no no not at all um but yeah if and if it does not work at least you can always be like i can
+neither confirm nor deny that now shit does not work um would you believe that this doesn't fly very
+well would you believe that it's not very stealthy despite the the stealth uh affect of it these are the
+voyages of the uss enterprise immediately after it swallowed a roofing plank um it's like very very
+much like the sunfish which is not very good at being a fish yeah yeah as as far as i know this was
+only ever used on a sort of like trial basis um and the trials were not successful um it doesn't
+surprise me we talked about wing angle and like leading edge angle for diffraction spikes on stealth
+aircraft uh could someone illustrate what the orthogonal angle to the leading edge of the wing
+looks like 90 degrees all right dead ahead yes how many orthogonal angles are there on the big nice
+smooth arcing front uh of the i'm going to call it the drone body the fishelage infinite amount
+we have a big round arc and the two reflectors pointing forward if this thing is flying toward
+you it is visible if it is flying sideways to you it is visible this thing i can only imagine was a
+stability demonstrator for something that was more triangular and we will see some changes later yeah
+so i ultimately what they did instead of the the dark star was this much more conventional kind of
+flying wing looking thing um called the x44 which was scaled up until they got to next slide please
+oh it's the toyota hilux yeah yeah the toyota hilux um this is this is really evolving huh yeah yeah
+yeah well funny you should mention it was nice of the cover of the uh logo a1 plumbing um this is this is
+an rq 170 sentinel um and it's you may recognize this shape from earlier it's the same shape that a
+b21 is um and you know it's it's slightly bigger and rounded because instead of bombs it swallowed a
+lot of surveillance equipment but um this is no comment about what the b21 secondary mission or the
+b2 secondary mission are um but this is this is for your like again your sort of like um penetration of
+like very well defended very well surveilled airspace um if you want to like go and photograph like iranian
+centrifuges um or uh you know kim jong-un's pool or whatever the fuck you might possibly my house
+whatever you could want to be looking at right yeah you you fly one of these over nobody knows a thing
+about it um remember to detach the truck before flight um and yeah uh these were these were operated by
+the cia and friends um still are probably um however you must add them to the list of stealth
+aircraft that have gotten lamoud next slide please and mercifully like there's no one it's a surveillance
+platform and it's unmanned so when this got lamoud like there was no like shellfish toxin silver dollar
+going on here like either just on its own or because it was like hacked successfully one of these
+companies operating from afghanistan um just nose dived into iran the iranians picked it up dusted it
+off um and went this is a huge victory against the west we were immediately set about reverse
+engineering all of this technology um man hey the azadi tower what a great looking building
+you may also notice a like a disparity in scale between uh this and the one that was bolted to the
+top of the truck uh this is because this is a replica made for propaganda purposes um i was
+looking at the shadows on the wing surface and it did not look like those were very smooth surfaces
+this is made out of like wonky shadows going on out of like papier-mache or something yeah um to prove a
+point right um and this was like a useful propaganda coup both because it like proves that the earth is like
+spying on iran which huge surprise there um but also that like the irgc could then claim i don't know
+with what degree of truth that they could like successfully do cyber warfare to these things um
+i probably just as likely that it just decided it wanted to have a lie down on its own um these things
+like sort of copies iranian copies of these things have been cropping up um in israel and also i believe
+don't quote me on this ukraine um the israelis shot down a uh a shaheed 171 uh like seven years later
+that was basically like one of these um and yeah uh besides that as far as i know these are still
+operating um and still being like you know detached from various toyota hiluxes around the world um so
+yeah uh this is this is the shape that is stealthy at least at the moment um next slide i want to know
+it says americ american can do and then something is blocked and then it says wrong
+american american can do no wrong question mark oh i guess so yeah i guess they're pro-american now
+we just we just misunderstanding them yeah well it's because you gave iran a cool aircraft
+after the f-14 uh so like you they like re-upped on thinking americans were cool oh i see i see
+there it's a joke okay oh it's like okay yeah it's ironic okay yeah okay yeah i like racing on
+the level of like irony posting yeah no no this is uh this is sometimes this is one of the problems
+when you you you lose something in translation apparently they just have a dry sense of humor
+over there i believe i like the kind of darth vader grill on the front you know it's cool yeah it's like
+kendo mask situation uh yeah next slide please yeah foreshadowing when we talked about the bowing
+bird of prey we were also mentioned the x45 i talked about the chines as an aerodynamic feature
+and as you look at the wing plan of this you can see the similarities in the um aerodynamic like design
+of the outside of the craft this is the x45a it was i believe the only one created for darpa's jucas
+project i want uh could you circle the boeing phantom works logo on the lower right hand side
+come on man like lockheed has skunk works right which is like right on the side of the building
+that's cool like deliberately underselling yourself or calling yourself stinky that's that's legitly cool
+now and used to be too but like they saw a boeing skunk works and they're like you know what we need
+to do be the phantom of the opera yeah i'm gonna i'm gonna make andrew lloyd webber paper is crying
+in the blood i i watched the first star wars episode one the phantom menace and decided to name my
+like boeing research division boeing phantom works so much cooler than skunk works
+like you are boeing to be surveilled i'm not for but i'm not probably the right target audience for um
+for that type of branding it's a little bit too self unaware and unironically trying hard
+like yeah i can appreciate some tactical things being sold that's fine google adsense you know sense
+more stuff that of that my way like boeing needed like another cute like uh woodland creature to name
+it after um should be like a boeing uh a very very stealthy woodland creature yeah it could be the
+boeing possum works that would be cool north america's only marsupial it's a very like it's a
+native north american native no not north american i think it also there's also south american possums
+but the american possum is the only endemic marsupial it has 13 nipples who doesn't want 13 nipples
+if you want to have like a swarming drone it carries a bunch of babies on its back perfect
+like yeah exactly it uh it's it it it's immune to rabies and cannot spread it's got a belly pouch
+for bombs i mean babies yeah this is uh it's perfect and i mean as far as like stuff that's
+tactical and cool like it's on a spectrum right between i i'm i'm on a spectrum it's on a spectrum
+between like the the like cry g4 female fit pants life-changing down to boeing phantom works which is
+trying and failing you know yeah i think i mean maybe phantom works could work if like it was like
+a halloween themed thing black and orange stealth yeah like oh like like the sr 71 was like black
+with just the really bright red stripes like black with the orange phantom works could work the hanger
+is disguised as a spirit halloween storm but like i don't know putting phantom work something bright red
+and navy sorry bright white and navy blue with like airbrushed you cav program logos i don't know
+it just it feels this is the sort of thing you roll your eyes at at like a trade show
+yeah you've gone to like some you're a sorcery or something um you're yeah you go to some like
+science conference and you're presenting or you're not presenting you just go like to the like just
+pick up swag from the booths right and you cross this place you're just like you roll your eyes like
+all the way around the back of your head until they come out the front again and then you just
+like you go they're gonna have the good loot there because nobody's gonna be seen that uncool and not
+have loot i had nothing to say about this this was a technology demonstrator that you could make an
+unmanned aircraft which we've known for a while um it was intended to demonstrate i think some stealth-ish
+things i see a stealth bay underneath uh on the upper left hand corner complete with american flag jesus christ
+does have stealth angles um i'm not a huge fan of this lateral side angles but it does have nice
+sharp corners it does only have three major diffraction spikes so it's fine it's fine it could
+it probably doesn't and didn't uh next slide please so silhouette of a space invader heckin shapes yeah
+yes this one this one looks cool i like shapes this is the shape right here this is the first one i've
+seen to make any of the low visibility stuff look good since an f15 like the x47a specifically was a
+very pretty little drone um it kind of looks like an arrowhead like you can see where the shaft of the
+arrow goes in um call me uh i i was still reeling from very pretty little drone i i've got some friends
+yeah yeah anyway okay and then the navy i would you please circle the big navy uh logo on the x47b go
+navy and as we learned from the f35 when the navy gets involved the wings get bigger so they took this
+sharp little arrowhead drone and they're like we need more power and more wing so they made a bigger
+engine therefore a bigger hump in the middle and they just tacked on these diagonal wings which
+do not work for stealth you've just added like two whole brand new diffraction angles to your aircraft
+yay um and you've increased the inlet size which means you're getting potentially a broader area of
+back reflection off of turbine blades if you're not doing a very serpentine inlet um it's i don't think
+it has ever seen service but it was painted in a way that's a little bit more combatty i don't have
+a really word for that sort of like operational damp gray that the air force seems to love
+so like it was rained on earlier today kind of hasn't finished drying yeah the damp the damp again
+the damp again kind of moldy um if it was jk rowling i think it was causing the planes to be transphobic
+the plane's just transphobic anyway yeah probably other than that i don't have a whole lot to say
+about these drones um they were primarily for research purposes they established that these are the
+weapons that are going to be used to commit future atrocities so they are going to do things in the future
+the way of the future the way of the future but there's a major problem with drones and they're
+smaller typically than most manned aircraft therefore they have less volume for fuel and since air and
+friction are unforgiving you need energy to create the conditions for flight so next slide please what if
+we had a drone to refuel the drones this one's cool sorry i like this one um i i i have a great
+great deal of sympathy for the the like combat support aircraft whether that's we we got a sort
+of airliner and put a big radar dish on the top of it all the way through to this is a fuel truck uh
+please like big bumper sticker on it it's like please do not shoot down um i mean i'm looking at
+it and it's not actually that well aside from the big ginormous externally mounted on a hardpoint
+fuel container isn't that bad of a airframe design from a stealth perspective um its angles are good
+it doesn't have obvious inlets um it does have forward wings but they're not like flat to the
+front it doesn't have a lot of curvy angles and i kind of dig the like ender's game dragon army
+orange and gray color scheme yeah unfortunately it is a boeing so i have to have two points for that
+right fuel caster falls off in flight i don't know if i trust this i would rather rather uh
+get refueled by kc-135 yeah you would rather have a kind of like uh you know airline pilot doing
+air national guard service yeah i need i need uh i need a guy from lincoln nebraska uh refueling my
+plane i'm sorry you need a reassuringly corn fed uh like voice on the radio yes exactly with ai we can
+synthesize this now oh god
+next slide please start talking to me about ethanol blending
+the navy again not to be left out wanted drones
+is this is a drone they call it an autonomous unmanned surface vehicle shut up it's a boat
+it's a usv it's a it's it's an unmanned uh sea sea vehicle vessel um an unmanned surface vehicle
+also known as a barge yes technically the word you're looking for is barge
+is it cultural appropriation for the polynesians to have those kinds of outriggers
+yeah i mean i will say as far as usv stuff goes working really well in uh in ukraine um like a bad
+time to be in the russian navy bad time to be in um you know uh in in crimea um so it might be a
+scout this to me looks like a sensor platform yeah i don't see anything that looks like capacity for
+armaments it rides very high in the water um and that big corrugated electronics box in the middle
+of the hole suggests that this thing is intended to have very strong um signal yeah it's it's very
+secret and anytime i walk near it i can feel it in my fillings you know it's remarkably ugly i'm yeah
+i'm a big fan it's not not not a pretty looking thing it doesn't work for me something about that
+like is that a cabin conning tower thing at the front there's a something where that's a shot
+there's a shack there's a four leaning shed that looks top heavy there's a horrible non-standard
+10-foot container here with two forklift uh what the goddamn okay because it looks like when you're
+like playing with a cad model and you turn it off from isomorphic view to like perspective view
+and then all of a sudden it's just horribly distorted yeah yeah it feels like someone did that but then
+just like that was the isometric view like they thought they were designing in a distorted perspective
+i mean what is it navy like bureau of ships you know probably that made stranger decisions before
+that's fair nice axe bow though that's that's kind of a nifty arky curvy thing
+we just love shapes here you know yeah exactly well those are all the types of vehicles you can apply
+stealth to i'm afraid there's nothing left to talk about no you know this podcast we're going to talk
+about trains yeah rallying at like when you made that slide i was like how how are there stealth
+like these are large vehicles made out of mostly metal and steel that roll along mostly metal and
+steel tracks in like a linear way where you know where they're gonna be in a much earlier slide you
+mentioned fly low very difficult to go lower than the ground
+submarine subway the london underground the paris metro all would want work trains can go in tunnels
+even well that's true so a lot a lot of uh stealth train designs are related to armored trains right
+uh primarily you know trains previous episode yeah previous episode very funny episode it's one of my
+favorites we ever did um you know the idea but you know these are usually usually they were mostly used
+in like uh they were used in the civil war they were used in world war one world war two they were used in
+various interstitial con there were also a few being used in ukraine right now um but back when
+the main motive power for armored trains was steam locomotives and you also had air power there was a
+big problem which is steam locomotives produce huge clouds of steam and smoke it seems like an issue
+right yes so some kind of biplane's gonna come along and like drop an anvil on you exactly so how do
+you solve this problem how do you make a steam locomotive stealthy i would answer that question
+but i'm just going to pretend like i'm recusing myself for being too much of a subject matter expert
+hide the steam real good entire blacked out page of the dd2 one for all that's like except for the word
+train in the middle of it the answer is we gotta hide the smoke guys i
+fucking said that wasn't steam yeah yeah it's not smoke it's steam uh valve you sons of whores
+all all three of these uh pictures are from uh this very old site uh the douglas self site he has a page
+on there called loco locomotives um i'll link it if i remember uh it's great web 1.0 site it's really
+easy to navigate yeah your browser will load it instantly it's fantastic it's still being updated
+incredible um so essentially uh usually these are on armored trains that means you usually have a
+fairly small locomotive like this chinese uh this really is one oh six two it looks like um this is
+probably american built and then they added armor to it um and essentially the idea was okay we're going
+to take the smoke from the uh from the chimney and then we're going to redirect it back down to the
+track sure now it's hidden no one can see it okay you have this like meerschaun kind of famously smoke
+never rises yeah um you can also sort of see okay the the smokestack here is set up so that if you're
+not in a combat situation you can just open that vent and then you can uh presumably have the performance
+afforded to you by having much better draft because that was the big thing with this is that uh in order
+to keep the fire up in the steam locomotive you need draft and if you're redirecting the smoke to
+the ground you're fucking that up pretty bad so when you were using stealth you had much less power
+again stealth is a compromise with the basic function of the intended uh with the basic function of the
+object yes um over here this is a world war ii engine from poland i am not a hundred i don't know what
+the underlying locomotive here is these are again just because armored trains are like six heavy cars
+versus a regular train that's like 50 light cars um usually they use a fairly small switcher locomotive
+for these um oh no this is the pp1 uh pp17 sapr i don't know anything about it this was used in world
+war one excuse me i need to read my notes but you can see here okay it's heavily up armored and this one
+just has sort of sheet metal ducting that redirects all the smoke forward which i'm sure was fantastic
+for performance but again a lot of times these are ram air backdraft on your uh
+inverted chimney a lot of times what these would be used for is basically okay we're going to have a
+big massive gun platform that we sit in a tunnel with and then you know when opportunity arises
+you go out of the tunnel and you shoot at stuff and then you go back in the tunnel
+no one would ever think to look for trains in a tunnel no well i've never seen thomas a tank
+engine hard to bomb one especially when you're in the era of like you know doped canvas and firing
+a pistol out of the cockpit yeah exactly it's uh difficult for air power to get in a tunnel uh at
+this point in time well i think it still is yeah um this is a fancier one this is also from world war one
+this is an austro-hungarian uh mav 377 tank locomotive uh which has been particularly heavily up armored
+you can see it's got this sort of retractable uh pipe here also redirecting everything to the ground
+um is that not the polish one given that it has a polish eagle on it and is named fiel sudshik
+that's a good question i'm just going from uh i good question i'm just going from what the website's
+like maybe it's just like an austro-hungarian guy who was like a big weeb for poland maybe it might
+have gotten captured it might have gotten yeah i don't know it might have gotten uh it might be
+you know there's only a couple locomotive manufacturers you know they might it's got a
+it's got a got an ass on it the shape of the like back end is quite like um like you know my
+my curvy locomotive yeah maybe we gotta three hours and i'm insane there's like completely disconnected
+from reality oh yeah you're right this one is definitely polish maybe i wrote the notes wrong
+um anyway it's all the same concept in world war uh one world war two there was another attempt in
+britain uh yeah it's a southern railway uh 460 king arthur class the idea was okay what if we disperse
+the smoke more quickly so they put three counter three chimneys on the front oh it looks like
+shit what yeah why should we do this so if you have more chimneys that's going to increase the
+area in which the smoke is it'll disperse it'll disperse more quickly right um and no it didn't
+and it sucks shit famously smoke is not visible if you diffuse it just a little bit yeah smoke i've never
+seen forest fire smoke from like oregon prevent me from paragliding in boulder colorado not yet i i mean
+ultimately you know the solution here is if you're really trying to disperse the smoke you got to run
+the locomotive clean in the first place um which okay if you're an experienced locomotive engineer
+you can do fairly easily starting and stopping though you're always going to be producing a lot of
+smoke regardless um you know and especially if i don't know you're being strafed by an aircraft you
+might start panicking and do shit with the throttle and then that'll be easier to see yeah but
+so making steam look what a selfie it was not not a very successful project but that didn't deter us
+for the cold war oh boy so speaking of putting uh like weapons in like you know containers yeah the
+united states had this uh idea for the peacekeeper rail garrison right um the idea was you have nuclear
+missiles they're big and heavy and they're in silos these silos are in fixed location well
+those are obvious targets for the soviets what if we could move them around you can put them on like
+uh like road tels like the soviets did um or soviets also had one of these which i should have put a
+picture of yeah i remember that from the movie goldeneye yeah no that was a tiny british switcher engine
+uh that was dressed up to look like i was gonna put that in too that would have been smart
+um anyway so the idea was okay we just disguise a big box car and put a nuclear weapon in there a
+nuclear missile silo in there and we'll just run these randomly throughout the rail network and uh at
+any point if we need to launch the nukes oh boy we stop the train and uh the nuclear missile comes out
+uh uh and launches boom there's a lot of famously uh rails never trains never derail and uh we would
+never have to worry about something worse than east palestine yes oh yeah there were a lot of problems
+with this um number one being okay eventually they figured out actually we can't just put the
+nuclear missiles in regular freight trains we have to run dedicated trains with department of defense
+personnel in them because otherwise you would lose one of these a week right you just end up god yeah it
+would just sit it would sit in fucking conway yard for like four months we had a sighting in like
+south of michigan for like 15 years because the precision scheduled railroader just hasn't sent the
+engineer out yet we don't know that hasn't happened we do not know that hasn't happened
+mexico may yet be an undeclared nuclear power and not know it winds up in monterey
+because they were big box cars they look like auto parts box cars guess where they make a lot of autos
+boom monterey send it that way call this podcast talking about a rail
+uh car carrying boat yes okay just pointing that out as an option interesting do you want to
+like turn your nuclear triad into like something like a nuclear something else
+well the big issue is if they if they put it on there they accidentally put it on the lower deck
+then you're screwed that's a two deck boat
+watching the freight cars and then somebody in like all black flashes an idea and says this
+needs to go on the top car the person says why and the person says because i guess the other problem
+was trying to run this on like any kind of rail network is uh autism uh yes turns out that the
+the american american railroads as with all railroads are very heavily surveilled on a volunteer
+basis by fans of this podcast and their friends um and these cars would be easy to detect because
+they are very dangerous to try to tag with graffiti um you will die yeah yeah absolutely these cars are
+very easy to detect because they have 16 wheels
+16 wheels and a bunch of guys wearing sunglasses just hanging around no doors on the sides um
+they they're um you know in this case this is the one peacekeeper rail garrison car that was built
+and i think they never even tested it um you can still go see it it's in like a museum but it's on a
+military base somewhere um you know eventually they were like okay we got to run these in dedicated
+trains they're gonna go around the rail network randomly um which obviously yeah the foamers are
+gonna find those instantly um so this was sort of this turned out to be a non-starter because folks
+realized oh people understand how there's a lot of rail fans out there there's a lot of foamers
+there's addition there's an additional problem if you look at the car in the lower right the rails just end
+they can't go anywhere yes yes fundamental failure of planning there the other thing they had was
+of course the white train um which was the train for moving around nuclear warheads
+safeguard transport yes uh because nobody has yet become as autistic about um like tractor trailers yeah
+yeah the white train was uh very easy to spot and it was largely disrupted it was so is so is the
+safeguard transporter why why is this uh why is this totally normal truck being escorted yeah yeah
+like a bunch of uh like very low riding suburbans well it turns out it's a lot easier to stop the train
+by blocking the tracks with your anti-nuclear protest than it is to stop the truck which they can just
+i don't know run down some narrow residential street adjacent to it hope that don't fall off
+i love having my radon mitigation system warning just go off really really loudly
+when a really suspicious truck is parked at a stoplight that's always fun i'm pretty sure they let
+them go through the stoplights they probably do um that's that's the extent of train stealth in the
+united states but uh then we have to look at of course russia hmm i've heard of this place yes
+so this is vladimir putin's train it's looking stealthy and secretive well it's it's in the uh
+electric engine two diesel yes uh presumably it runs on electric power when it can and then
+if there's some kind of emergency this is all set up with multiple unit controls so you can switch
+the diesel uh but still control it from the electric locomotive i would not have pinned the leader of
+this uh post soviet russia that russian federation as driving a hybrid oh i mean their whole network's
+electrified must be nice uh functional country so the uh the the whole train is in normal uh rgd colors uh
+russian national railways um you know and it's kind of like it looks like a normal passenger train
+unless of course you're a russian foamer in which case you notice all the communication equipment on
+top if you notice of it just counting the wheels you know yeah exactly you notice well here's one car
+right here which for whatever reason is european loading gauge um you notice uh you know this is uh such
+much stealth much clandestine but hey you're not picking this up on radar um yeah true
+you know i i this is this is this was purgosian's mistake purgosian i'm trying to decide this is
+stealth or camouflage honestly because like you would detect it i i will say that recognize it my my
+my colleague milo on uh trash feature has a story about uh putin's approach to personal security um which is
+uh so a russian comedian friend of his was was doing a show and putin was gonna show up and be in like
+the presidential box and they couldn't start without him um and so the fso like russian like secret
+service uh guys are like their advanced team is there um and and my my friend's friend's like about
+to start the show and he's like waiting putin doesn't show up so they wait five minutes putin doesn't
+show up 15 minutes doesn't show up he asks the fso guy uh can you tell me like when the president's
+gonna be here it's like i i i cannot give you this information um half an hour goes past people are
+like visibly uncomfortable uh he asks him again like please like come on i know i know it's like secret
+or whatever but like you gotta give me something here and the guy completely like stone wars just like
+i can't tell you that um two hours late putin nowhere to be seen finally this guy is like almost
+begging the secret service guy he's like please just give me give me something i need to i need to
+tell these people something you'd be any idea when the president is going to be here and the guy goes
+no no you don't understand i have no idea when pussin is going to be here so oh yeah this thing has
+got to be wreaking havoc on the russian railway network every single day that putin was already there
+with the fsb guy was too scared of the version of his location to get the show started and just been
+sitting there like it would be a better story yeah i don't know what to tell you man have you seen this
+fucking train i i hope the members of the counterintelligence community listening to this enjoyed
+that one um but uh yeah no uh doing precision scheduled railroading and putin's train comes to
+it worse for that is kim jong-un uh kim jong-un has uh yeah kim jong-un also has a private train
+uh he has an issue where it has to be dual gauge um yeah because it's um um god yeah um because the
+reason why he does by the way is because his dad kim jong-il has like had like a pathological fear of
+flying um and also being assassinated so he had this like very assassination resistant private train um
+which somebody maybe tried to assassinate him on or it could have been an accident we don't know
+that one is also painted in standard uh north korean uh railway colors um he supposedly has a 90 car
+private train fleet which puts him at about the same amount of private cars as a pennsylvania
+railroad's division superintendent in 1916. do you think that countries with autocratic government
+officials who have their own private trains when they do national branding for their railway service
+if they have to like run it by the autocrat to make sure the autocrat likes the colors on their
+personal train have you seen the the british royal train it's it's just like what if we had the same
+shitty diesel locomotive but like in silver just awful yeah i mean i i i personally i i like uh the the
+the rgd livery uh the north korean one is actually basically a more traditional
+like russian railways libraries like yes like you know the sort of green with a yellow stripe yellow
+stripe yeah um yeah i think i think kim jong-un actually if he travels out of the country he
+doesn't use the full train it just gets he has one car that gets attached to the back of the beijing
+the moscow sleeper train look look i'm don't knock one car i've done one private car and it's fine
+you had your kim jong-un experience you were for a few days the american kim jong-un well no i was
+catering for kim jong-un um by choice though i just was like oh my god what if i can cook on the train
+anyway so you know uh yeah uh this is this is how they do it in the east is to to move executives is
+use you know private trains uh you know they're in undetectable to radar very detectable to foamers
+there's enough of language barrier not a lot of people are going on you know the the the i what's
+the russian facebook bk or something yeah the contact i i i should have put in foamers as an
+extra method of detection in the first episode yeah no one's going on there to uh look up uh the the
+group that's like spotting putin's train you know having an interesting meeting with several fsb
+officers yeah exactly i'd be like you know i could go out i could go out and you know look and identify
+putin's train instantly uh but i'm no help to the open source intelligence community until putin or kim jong-un
+and takes their train out of the northeast corridor um this is how we will build peace
+exactly exactly you know um and then of course the united states they absolutely will not let joe
+biden on a train which i'm sure he hates uh because the secret services has a pathological hatred
+of that one time obama took a train and they had to put in a lot of effort to secure things that
+probably didn't need to be secured um in case somebody 3d printed some derailleurs oh my god
+i mean i mean there's a lot of liability associated uh with riding a train in the united states that's
+entirely made up by the freight railroads um it was good enough for fdr you know exactly and uh well
+i think the last time they used the ferdinand magellan was like lbj or someone like that um
+like georgia 300 has been used even more i i don't know um train force one yeah train force one bring
+it back if putin can have one why can't we yeah exactly and kim jong-un and the king and yeah yeah
+so anyway stealth we have successfully stealthed we made it through all six 72 slides
+71 so far we have one more to go you did no one watches this episode that means we were successful
+yeah imagine having the stealthiest podcast oh my logo does not work on why does it okay it doesn't
+matter hello um if you want to support my non-profit i would welcome it um if you haven't already supported
+devin's palestinian family he's helping please do that instead for at least for this episode um
+but if you have enough money to donate to both causes i host homeless trans women who are escaping
+dangerous situations in the us um i think here it says i have two currently i only have one right now
+last week i sent one to a good place to live um she managed to take the resources i provided
+and went on and continue on with her life so that was a success story and the resources that are provided
+are really really helpful because they go straight to people who need it most who have left most of
+everything behind and have to start over at any age um usually late 20s early 30s kind of the most
+vulnerable age financially and that is really hard thing to see but a really easy thing to help
+i do so by providing rooms in my house to people who need it my current guest um she was a friend of a
+friend of a friend who knew me and who is currently in iceland and i got a discord message saying hey
+you should go look for insert name here at the library she's unhoused and she's struggling because
+we don't have a safe shelter here in boulder colorado for trans women and so i walked to the
+library and said hey this is your vibe check looks like you're not going to murder me in my sleep
+come to my house right now i have a bed for you um being able to do that to do that kind of help for
+the community is an immense privilege it does use a lot of my resources and i don't have a lot of
+buffer more now that i'm only supporting one person um but donations are directly invested into the
+community um the community needs more help than just um food money there's a lot of medical costs
+associated with transition and we are hard to employ in a lot of circumstances um so any money that
+doesn't go to directly feeding a homeless trans woman will go toward medical costs for an entire
+community of us a network if you will but before you donate to my cause donate to the palestinian
+cause first this episode more than any other should remind you that that is where the need is
+that's all i have thank you all so much for having me on thank you so much for coming on thank you so
+much for coming on this is a real fun episode yeah genuine i think you've been a fantastic guest it's
+been an absolute pleasure all right thank you thank you all for having me have me back some time i
+really want to turn as a new one absolutely hell yeah we will talk about pencils and zero gravity pens
+and why they exist and we will still make fun of them fantastic all right uh they're already subscribed
+to our patreon i've already plugged my podcast i think that's everything thank you so much yeah uh goodbye
+bye bye bye everyone bye

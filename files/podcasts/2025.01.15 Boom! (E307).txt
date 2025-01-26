@@ -1,0 +1,1094 @@
+0.00 35.92 None  unlock the notes what you need If you're hearing this, well done. You've found a way to connect to the internet.
+36.58 40.68 SPEAKER_04  Welcome to the QAA Podcast, episode 307. Boom!
+41.24 46.18 SPEAKER_04  As always, we are your hosts, Jake Rakitansky, Julian Field, Mike Preissner, and Travis View.
+46.84 51.78 SPEAKER_07  The blinding light fills the screen for an instant, then multiplies into pirouettes of smoke.
+52.40 57.02 SPEAKER_07  A split second prior, it had been a cyber truck parked in front of the Las Vegas Trump Hotel.
+57.02 64.36 SPEAKER_07  Bands of light modeled by tree shade, a set of gold-plated revolving doors, a vehicle built of angles and reflections.
+65.04 74.78 SPEAKER_07  Inside the truck, the dead body of a 37-year-old man with a self-inflicted gunshot wound to the head, along with gas canisters and firework mortars cobbled into a makeshift bomb.
+75.20 79.20 SPEAKER_07  A green beret with five bronze stars in a rental vehicle that made him feel like...
+79.20 80.76 SPEAKER_07  Batman. Or Halo.
+81.42 84.94 SPEAKER_07  Footage shows a moment of stillness followed by a festive explosion.
+84.94 89.22 SPEAKER_07  A pyrotechnic show reaching for an audience through the lenses of security cameras.
+90.02 94.66 SPEAKER_07  We aspire in death to be a single pixel in the spectacle's high-definition jumbotron.
+94.94 100.82 SPEAKER_07  We hope to graduate from viral short-form video to Netflix-style, securing our place in the American pantheon.
+101.04 104.46 SPEAKER_07  But without the screens, we end up just another bird hitting a windowpane.
+105.06 105.58 SPEAKER_07  Unnoticed.
+105.58 107.58 SPEAKER_07  Beautiful.
+107.66 112.48 SPEAKER_07  Welcome to the first QAA main episode of 2025.
+113.24 115.86 SPEAKER_07  Shut up, Jake. Do not interrupt me again.
+116.16 117.72 SPEAKER_04  I was saying that. That was beautiful.
+117.82 118.04 SPEAKER_04  I love you so much.
+118.04 119.54 SPEAKER_04  I thought it was such a beautiful...
+119.54 120.42 SPEAKER_07  Don't do it again.
+120.90 125.08 SPEAKER_07  We hope you are well-rested listeners because we're coming in swinging.
+125.08 129.40 SPEAKER_07  I'm furious at a variety of things and I'm taking it out on Jake immediately.
+129.60 132.46 SPEAKER_07  Even though he didn't predict this because I was so nice to him when he came over.
+132.64 133.72 SPEAKER_04  Yeah, that was really...
+133.72 135.50 SPEAKER_04  Man, he really pulled a bait and switch on me.
+135.58 137.62 SPEAKER_04  Two hugs, a coffee, made me a coffee.
+138.14 139.08 SPEAKER_04  Told me I looked...
+139.08 140.44 SPEAKER_04  Told me my hair looked good.
+140.72 141.62 SPEAKER_04  All of these things.
+141.62 141.86 SPEAKER_07  I didn't...
+141.86 142.88 SPEAKER_07  That last one was a...
+142.88 143.48 SPEAKER_07  Shh, shh, shh.
+143.58 144.84 SPEAKER_04  Told me it looked real thick.
+144.84 145.62 SPEAKER_04  You made that shit up.
+145.64 148.20 SPEAKER_04  Much more filled in than the last time you saw me.
+148.20 152.02 SPEAKER_07  Oh, we've got quite a program for you.
+152.28 159.82 SPEAKER_07  Our guest is Mike Preissner of The Empire Files, Eyes Left, and the fantastic documentary Gaza Fights for Freedom.
+160.10 166.14 SPEAKER_07  Of course, also upcoming documentary, Earth's Greatest Enemy, which is coming out this year.
+166.46 177.66 SPEAKER_07  You may also remember him as the writer of our two-parter on Tulsi Gabbard, or perhaps for his multiple guest appearances on this show, or maybe even for his powerful and committed friendship with Julian Field.
+177.66 182.04 SPEAKER_07  Mike's also a veteran of the U.S. military, and we thank him for his service.
+182.36 185.04 SPEAKER_07  Mike, I love the troops, and welcome back on the show.
+185.18 186.50 SPEAKER_07  You are welcome, you're welcome.
+186.78 189.06 SPEAKER_07  We all, of course, fought for your right to have a podcast.
+189.46 191.46 SPEAKER_07  That's specifically...
+191.46 195.18 SPEAKER_07  I think more men of age should be sent to defend podcasters' rights.
+195.46 204.70 SPEAKER_07  Something tells me that the podcasts they're defending are like the Joe Rogans of this world, and ours is like, not as well-liked, especially after this one.
+204.82 207.38 SPEAKER_04  You have like one guy with like a half-loaded magazine.
+207.66 208.10 None  Like...
+208.10 215.78 SPEAKER_04  Our guy is like Tom Hanks, like as he's dying, shooting at the tank as it's, you know, coming at him.
+215.78 218.48 SPEAKER_07  If there are people actively serving, listening, quit.
+218.84 221.86 SPEAKER_07  You should quit, and you should leave, and Mike can help you.
+222.14 223.38 SPEAKER_01  Call the GI Rights Hotline.
+223.46 224.58 SPEAKER_01  It's there 24-7.
+225.12 227.64 SPEAKER_01  Confidential, professional advice on how to get out quick.
+227.64 234.94 SPEAKER_07  Yes, that's what we're here to do, is promote exit from a military that will make you one day fight for Joe Rogan.
+235.24 247.40 SPEAKER_07  And we'll also be exploring the Las Vegas Cybertruck explosion, the New Orleans mass murder, and the trend of domestic terrorist attacks carried out by people with U.S. military training.
+247.58 250.94 SPEAKER_07  I'm not sure why I said all of that with like a semi-laughing voice.
+251.22 252.64 SPEAKER_07  I'm disturbed by my own tone.
+253.00 254.38 SPEAKER_07  Mike, how are you doing, though, in general?
+254.66 255.12 SPEAKER_07  How's it going?
+255.12 255.56 SPEAKER_07  Good.
+255.78 258.60 SPEAKER_01  I mean, just, of course, worried about all you guys down there in L.A.
+258.62 268.90 SPEAKER_01  I mean, I, you know, just moved from there about a year ago, and it was the fires in 2020 that kind of made me sketched out having a newborn at that time and couldn't go outside for months because of the air quality and all that.
+268.96 274.34 SPEAKER_01  So I left because I knew that's not the place I wanted to be when the inevitable climate crisis hits, but it's hitting.
+274.66 275.30 SPEAKER_01  And we're here.
+275.58 276.06 SPEAKER_01  We stayed.
+276.30 276.52 SPEAKER_01  Yeah.
+276.66 278.94 SPEAKER_07  Well, we left briefly and then came back.
+278.94 281.72 SPEAKER_04  Yeah, left briefly, came back, and still here.
+281.86 282.16 SPEAKER_04  Yeah.
+282.46 283.28 SPEAKER_07  We'll be getting into that.
+283.28 284.32 SPEAKER_07  Yeah, we'll talk about that.
+284.32 285.82 SPEAKER_07  In a little news hit.
+286.44 290.64 SPEAKER_07  But before all that, Pizzagate News.
+292.02 292.54 SPEAKER_02  All right.
+292.66 297.24 SPEAKER_02  So here's how we're going to start off this parade of grim, absurd violence.
+297.48 307.62 SPEAKER_02  The story of Edgar Madison Welch, better known as the Pizzagate shooter, was fatally shot by police in Kannapolis, North Carolina on January 4th, 2025.
+307.62 318.38 SPEAKER_02  So you may remember in December of 2016, Welch drove from North Carolina to Washington, D.C., armed with a rifle to investigate the Pizzagate conspiracy theory.
+318.58 325.18 SPEAKER_02  He specifically was operating on the false idea that the pizzeria Comet Ping Pong contained enslaved and abused children.
+325.18 331.08 SPEAKER_02  He fired inside the restaurant but surrendered peacefully after finding no evidence to support his claims.
+331.24 335.66 SPEAKER_02  He later commented, quote, the intel on this wasn't 100%.
+335.66 337.46 SPEAKER_07  Oh, you trusted Jack Posobiec?
+337.82 338.06 SPEAKER_07  Yeah.
+338.36 338.78 SPEAKER_07  Really?
+338.88 339.06 SPEAKER_02  Yeah.
+339.06 340.44 SPEAKER_07  That didn't come through for you?
+340.66 341.20 SPEAKER_02  No, yeah.
+341.38 341.56 SPEAKER_02  Yeah.
+341.60 345.46 SPEAKER_02  It turns out that that Cernovich intel wasn't as good as he had hoped.
+346.08 348.46 SPEAKER_02  Now, no one was injured during the incident.
+348.92 351.22 SPEAKER_02  Welch pleaded guilty to related charges.
+351.22 354.44 SPEAKER_02  And in 2017, was sentenced to four years in prison.
+354.76 359.46 SPEAKER_02  Now, it tragically seems like Welch was not able to get his life back on track after his release.
+359.78 368.80 SPEAKER_02  During a traffic stop earlier this month, officers recognized Welch as a passenger in a car with an outstanding felony probation violation warrant.
+369.04 374.74 SPEAKER_02  According to police, when they attempted to arrest him, Welch drew a handgun and pointed at the officers.
+375.04 380.12 SPEAKER_02  Despite commands to drop the weapon, he did not comply, prompting two officers to open fire.
+380.12 382.90 SPEAKER_02  This is the initial report on what happened.
+383.08 387.56 SPEAKER_02  So Welch was transported to a hospital where he succumbed to his injuries two days later.
+387.66 391.66 SPEAKER_02  So a tragic end to a already very tragic and absurd story.
+392.14 392.60 SPEAKER_07  Jesus Christ.
+392.70 403.38 SPEAKER_07  And like the conspiracy theory I've seen floating around online, started by an online jokester, of course, is that he is related to Hawk to a girl, Hayley Welsh.
+403.74 404.48 SPEAKER_07  Yeah, yeah.
+404.72 405.16 SPEAKER_02  I saw that.
+405.48 407.36 SPEAKER_07  That sucks.
+407.96 408.40 SPEAKER_07  God.
+408.56 409.44 SPEAKER_07  That sucks, man.
+409.44 411.78 SPEAKER_07  They're like, let's just combine creatures.
+412.00 412.30 SPEAKER_07  Why not?
+412.38 414.58 SPEAKER_04  Like, let's just combine things that we've heard about.
+414.82 416.72 SPEAKER_07  Everything is, you know, equivalent.
+417.10 418.40 SPEAKER_07  I think I'm losing my voice.
+419.04 419.88 SPEAKER_07  The fires.
+420.26 420.44 SPEAKER_04  Yeah.
+420.60 425.84 SPEAKER_07  Speaking of which, breaking news, Mel Gibson's home has burned to the ground.
+425.92 433.36 SPEAKER_07  And as a result, Jake Rokitansky's home has burnt to the ground as we discovered that he is living in Mel Gibson's basement.
+433.68 434.36 SPEAKER_07  I'm actually.
+434.54 434.82 SPEAKER_07  Jake.
+434.82 436.90 SPEAKER_07  Living in Mel Gibson's brain.
+437.86 438.30 SPEAKER_07  Jake.
+438.38 439.94 SPEAKER_07  More like he's living in mine.
+439.94 447.40 SPEAKER_07  Mel Gibson, by the way, on his recent appearances looks like a structure that was like burned.
+447.64 447.80 SPEAKER_07  Yeah.
+447.80 451.12 SPEAKER_07  And like only the kind of framework of it is left up.
+451.28 451.62 SPEAKER_07  Yeah.
+452.02 452.34 SPEAKER_04  Yeah.
+452.50 452.94 SPEAKER_04  He's.
+452.94 458.80 SPEAKER_04  I can't believe that he's still around and part of the conversation and getting work.
+458.86 461.24 SPEAKER_04  I imagine he's getting phased out of that.
+461.38 461.60 SPEAKER_04  I think.
+461.60 466.18 SPEAKER_07  No, he's right now on the media tour for the second Jesus movie, the resurrection or whatever.
+466.36 467.06 SPEAKER_04  Ah, man.
+467.10 472.58 SPEAKER_04  I can't believe that they're keeping this guy around after all of the horrible things that he's on record.
+472.58 472.86 SPEAKER_04  Yeah.
+472.86 476.52 SPEAKER_07  Hollywood would never allow a horrible person to stick around for.
+476.62 477.92 SPEAKER_04  Well, but like Mel Gibson's.
+478.00 478.44 SPEAKER_07  Decades.
+478.50 479.86 SPEAKER_07  He's not even that good.
+480.14 480.54 SPEAKER_07  And he's.
+480.66 483.56 SPEAKER_07  But he's also not as bad as other people they've covered up for.
+483.70 483.86 SPEAKER_07  True.
+483.86 484.12 SPEAKER_04  True.
+484.12 488.78 SPEAKER_07  I don't believe Mel Gibson is just like a mass rapist like Weinstein.
+489.00 489.72 SPEAKER_07  I don't know.
+489.80 491.22 SPEAKER_07  Hard to say with some of these guys.
+491.82 492.20 SPEAKER_07  Okay.
+492.28 492.72 SPEAKER_07  Well, let's.
+492.84 494.12 SPEAKER_07  We're not claiming that about Mel Gibson.
+494.26 495.54 SPEAKER_07  We are claiming his house burned down.
+495.72 499.34 SPEAKER_07  And I'm going to take back, obviously, my my jocular mannerisms.
+499.34 500.30 SPEAKER_07  Not funny.
+500.50 503.72 SPEAKER_07  A lot of people we know have lost their homes.
+504.02 509.74 SPEAKER_07  People we know have lost sometimes like their community places of work and stuff like that.
+509.78 510.30 SPEAKER_07  It sucks.
+510.48 512.82 SPEAKER_07  It's it's truly apocalyptic.
+513.18 514.82 SPEAKER_07  My my throat does hurt.
+514.98 517.36 SPEAKER_07  And for once, it's not from sucking dick.
+517.88 518.22 SPEAKER_04  Yeah.
+518.38 519.84 SPEAKER_07  No, it's hard to laugh.
+519.96 520.58 SPEAKER_04  I mean, it's really.
+520.70 522.00 SPEAKER_04  Yeah, it's it's it's hard to laugh.
+522.04 522.84 SPEAKER_04  It's very scary.
+522.84 531.62 SPEAKER_04  I live, you know, up up in the valley and we were pretty close to other areas, parts of our neighborhood that we're having to evacuate.
+532.04 534.72 SPEAKER_04  And like Julian said, yeah, we we know a bunch of people.
+534.90 538.02 SPEAKER_04  A friend of the show, Mike Rothschild, his house burned down.
+538.16 542.74 SPEAKER_04  And I don't know, Travis, you're also still we're all still in fire danger, by the way.
+543.08 543.22 SPEAKER_02  Yeah.
+543.32 543.56 SPEAKER_02  Yeah.
+543.56 543.88 SPEAKER_02  Yeah.
+544.10 544.34 SPEAKER_02  Yeah.
+544.42 544.58 SPEAKER_02  Yeah.
+544.58 546.20 SPEAKER_02  Fire season is not over yet.
+546.38 557.40 SPEAKER_02  Like in my region, the National Weather Service issued a red flag warning for the next couple of days, which basically means it's the kind of hot and windy condition that fires love.
+557.40 558.08 SPEAKER_02  So, yeah.
+558.26 563.70 SPEAKER_02  So like I am prepared to to take off if if that is required of me.
+563.78 567.52 SPEAKER_02  I have to say I have a feeling that I would be a good evacuee.
+567.60 568.38 SPEAKER_02  I'd be prepared.
+568.96 569.96 SPEAKER_02  I'd be poised.
+570.38 571.72 SPEAKER_02  You know, very well.
+571.94 573.26 SPEAKER_04  That's what I thought.
+573.40 577.42 SPEAKER_04  You know, it's funny because I play a lot of survival simulators.
+577.82 580.62 SPEAKER_04  And you would be a good evacuator as in you have diarrhea often.
+580.62 581.88 SPEAKER_04  It really doesn't.
+582.04 583.14 SPEAKER_04  It really doesn't.
+583.28 586.40 SPEAKER_04  You know, because for us, it was like it started slow.
+586.40 586.74 SPEAKER_04  Right.
+586.78 589.36 SPEAKER_04  It was like, OK, there's going to be really bad winds.
+589.58 591.62 SPEAKER_04  And so that was what we were worried about.
+591.74 593.70 SPEAKER_04  So we were, you know, they were wild.
+593.80 596.42 SPEAKER_07  They were shaking like the building was kind of swaying.
+596.42 599.68 SPEAKER_07  And my windows were being forced open like slowly.
+599.82 603.94 SPEAKER_07  Like, yeah, I thought the glass on one of my windows was just going to break because
+603.94 606.28 SPEAKER_04  it's like thin. Like it started with the wind.
+606.32 613.40 SPEAKER_04  And so we like kind of put away stuff in the backyard, you know, like chairs and plants and stuff that could easily blow over and break all this stuff.
+613.46 617.82 SPEAKER_04  And we were like, OK, well, it's like all that stuff is, you know, locked down.
+617.90 618.74 SPEAKER_04  Like, all right, we're OK.
+618.84 626.66 SPEAKER_04  Then it was a terrifying night where, like Julian was saying, the wind was just we thought that the glass was was going to shatter because the winds were so.
+626.90 627.02 SPEAKER_04  Yeah.
+627.20 627.80 SPEAKER_04  So bad.
+627.90 629.38 SPEAKER_07  So the images already coming out.
+629.50 629.72 SPEAKER_07  Yeah.
+629.92 632.52 SPEAKER_07  We're insane from like the Palisades and all that.
+632.58 634.74 SPEAKER_07  I mean, just looked so, so bad.
+634.74 642.58 SPEAKER_07  I mean, people have probably seen that image of like the McDonald's sign with like the embers just being like shot, you know, resembling tracers.
+642.58 645.64 SPEAKER_07  Like just it looked it looks it looked crazy.
+645.64 651.54 SPEAKER_07  And yeah, I was like, well, fuck, like tomorrow I'll probably go down to Torrance and spend some time with my brother.
+651.54 659.18 SPEAKER_07  I mean, now even coming back, I've taped up all my windows with like painting tape so that there's no like air coming through.
+659.26 664.84 SPEAKER_07  And I'm trying to like, you know, keep the air somewhat purified through like a variety of different machines.
+665.04 666.52 SPEAKER_07  But it's yeah, it's not great.
+666.60 671.20 SPEAKER_07  There was like ash pooling at the base of all of my windows because they're not sealed properly.
+671.72 671.86 SPEAKER_04  Yeah.
+672.10 675.30 SPEAKER_04  Power out like we had our power out for like more than 24 hours.
+675.30 686.18 SPEAKER_04  And that morning, like the Wednesday morning, really, when the fires were starting to just kind of starting to break out was we were like running around the street because like all the garbage bins were flying everywhere.
+686.18 692.04 SPEAKER_04  And we were like, oh, my God, the garbage bins have become projectiles like in the middle of the road.
+692.24 698.34 SPEAKER_04  And all of this, there was a screen door in my yard, like not mine, somebody else's screen door.
+698.54 699.02 SPEAKER_04  Free screen door.
+699.24 704.26 SPEAKER_04  And so we I'm going to put it out like after this all blows over, I'm going to put it back out and put a sign on it.
+704.28 704.88 SPEAKER_04  Be like yours.
+705.24 706.22 SPEAKER_04  Anybody's screen door.
+706.28 708.30 SPEAKER_07  Put a little price on it.
+708.30 715.22 SPEAKER_04  But my my wife and I, we had just gotten like a new used car, but new new for us.
+715.26 721.24 SPEAKER_04  And we were like, OK, well, let's park that like under the awning in the driveway so that the debris won't hit it.
+721.30 726.26 SPEAKER_04  We can have my old piece of shit like 2010 car kind of exposed to the elements.
+726.88 732.56 SPEAKER_04  Well, when it came time that we were like, OK, they're evacuating like other areas close to us.
+732.70 735.46 SPEAKER_04  Let's like get out of here and like beat the panic.
+735.46 740.84 SPEAKER_04  I get into my 2010 car to like start it and it's fucking dead.
+740.92 744.42 SPEAKER_04  It won't start because I haven't driven it in like three weeks.
+744.42 755.68 SPEAKER_04  So we end up having to like put the car in neutral, like push it ourselves, like just out enough so that we can back our car that we want to escape in, drive over our lawn.
+755.68 760.64 SPEAKER_04  It was it felt like I was in my own mini like Tom Cruise action scene.
+760.64 766.48 SPEAKER_04  But like all these things like, you know, these moments you're like, OK, well, what do I take?
+766.50 774.42 SPEAKER_04  And I'm like looking at my like proton pack and I'm like, oh, I've got three proton packs, like my prize possession, all my Ghostbusters stuff.
+774.46 777.38 SPEAKER_04  And I'm like, eh, like I can leave that like I can leave that.
+777.38 788.08 SPEAKER_04  And like the stuff we ended up taking were like photo albums, like birth certificates, social security cards, passports for some reason, as if we're going to be doing any international travel anytime soon.
+788.08 788.58 SPEAKER_04  What are you going to do?
+788.66 791.06 SPEAKER_07  Leave them to burn because you don't like to travel that much?
+791.06 791.62 SPEAKER_07  Yeah, it's like.
+791.78 792.40 SPEAKER_07  What are you talking about?
+792.58 796.90 SPEAKER_04  Well, it's just like the things you take are just like these very like, I don't know, just it's interesting.
+796.90 807.36 SPEAKER_04  Like all the stuff that we acquire over time that we love, like our favorite things, our favorite little things, you know, when it comes down to it, you're kind of like, eh, I can replace I can replace that.
+807.36 816.30 SPEAKER_07  It's just objects, you know, but if it has like sentimental value or something irreplaceable, like photos, physical photos or writing.
+816.78 825.68 SPEAKER_04  I actually have this one thing that I didn't grab that like I've now since packed in our car just just just in case things get bad again this week because the winds are supposed to pick up again today.
+825.68 831.58 SPEAKER_04  One thing that I forgot, though, is my grandmother's like collection of Morgan silver dollars.
+831.74 837.62 SPEAKER_04  She has like the silver dollar collection that goes back that goes back to like 1870.
+837.86 839.50 SPEAKER_07  Oh, did you forget to pack your coins?
+839.68 844.22 SPEAKER_04  I forgot to pack like these like family heirloom coins.
+844.22 847.44 SPEAKER_04  It was like probably the most valuable thing I have.
+847.50 848.52 SPEAKER_04  I just left it.
+848.66 850.10 SPEAKER_07  We're moving on from Jake.
+850.10 852.14 SPEAKER_07  I no longer feel sorry for you.
+852.48 852.88 None  Why?
+853.00 853.20 SPEAKER_07  Why?
+853.20 853.72 SPEAKER_07  I don't know.
+853.72 856.64 SPEAKER_07  Some people lost their home and you're talking about your damn silver dollars.
+856.78 860.70 SPEAKER_07  Well, those will retain value after the economy collapses.
+861.08 861.66 SPEAKER_02  So I know.
+861.66 862.60 SPEAKER_07  I'm talking to fucking Travis.
+863.48 865.58 SPEAKER_07  Libertarian extraordinaire who lives out in the woods.
+865.72 867.46 SPEAKER_07  Of course he would support you on the silver coins.
+867.74 869.18 SPEAKER_07  Mike, what's your take on the silver coins?
+869.36 870.42 SPEAKER_01  I think they're fireproof.
+870.66 872.16 SPEAKER_04  So you didn't really have to worry about them.
+872.78 874.46 SPEAKER_07  Well, not the books that they're in.
+874.58 875.26 SPEAKER_07  Not the books.
+875.66 875.90 SPEAKER_07  Oh, yeah.
+876.04 876.74 SPEAKER_06  Oh, the value.
+877.10 877.92 SPEAKER_07  Oh, no, it's fine.
+877.92 879.02 SPEAKER_07  You got to save yourself her dollars.
+879.18 884.02 SPEAKER_07  You did attach your grandma to the story so it makes it seem slightly more touching.
+884.22 884.92 SPEAKER_07  Well, she's dead.
+885.16 885.60 SPEAKER_07  Well, that's.
+886.06 886.96 SPEAKER_07  Jesus Christ.
+887.12 887.66 SPEAKER_07  She's dead.
+887.88 889.48 SPEAKER_07  She's so dead.
+889.72 890.42 SPEAKER_07  I know, man.
+890.88 891.38 SPEAKER_07  Don't even.
+891.44 892.64 SPEAKER_07  You're using this against me.
+892.70 893.72 SPEAKER_07  Why are you semi-smiling?
+893.94 894.24 SPEAKER_07  You want to hear something fun?
+894.24 894.98 SPEAKER_07  Like you've caught me.
+895.04 896.22 SPEAKER_04  You want to hear something really funny?
+896.22 896.76 SPEAKER_04  Like you got me on this one.
+896.76 898.80 SPEAKER_04  Funny really quick about my dead grandmother?
+898.90 899.14 SPEAKER_07  No.
+899.30 900.70 SPEAKER_07  Why would you say it that way?
+900.84 900.98 SPEAKER_04  Okay.
+901.06 901.62 SPEAKER_04  Go ahead.
+901.72 911.14 SPEAKER_04  She loved smoking cigarettes so much that when we buried her, when we buried her, my cousin took out a cig and threw it into the grave.
+911.26 915.76 SPEAKER_04  And my dad turned to me and he goes, I half expected a hand to come out and crap.
+916.30 918.08 SPEAKER_04  She liked smoking so much.
+918.08 920.40 SPEAKER_04  Dude, I hope someone fucking throws a little ciggy into my head.
+920.40 921.32 SPEAKER_04  I hope so, too.
+921.40 921.90 SPEAKER_04  You know what?
+922.00 922.96 SPEAKER_04  Throw one into mine.
+923.14 923.38 SPEAKER_04  Yeah.
+925.06 926.08 SPEAKER_04  I'm off nicotine.
+926.16 928.10 SPEAKER_04  I'm off nicotine now, but it's very tough.
+928.10 930.32 SPEAKER_04  Nicotine, hardest thing to quit, I think, for me.
+930.32 932.28 SPEAKER_07  Anyways, we are so far off.
+932.48 933.78 SPEAKER_07  We're so far off.
+933.90 936.46 SPEAKER_04  This is what happens when Julian and I are in the studio together.
+936.58 939.42 SPEAKER_04  We forget that there are two other people on the other end of the Skype.
+939.64 941.56 SPEAKER_04  I actually have my hand on his thigh.
+941.76 942.30 SPEAKER_04  No, he doesn't.
+942.32 945.80 SPEAKER_04  He's got his hands on a little tin of nicotine that I'm also eyeing.
+948.32 954.74 SPEAKER_07  Listen, I'm just going to pack as many of these into my gums because if I walk outside, the air is toxic.
+955.72 957.30 SPEAKER_07  But I still do for smokes.
+957.30 958.50 SPEAKER_07  But I smoke less.
+958.68 964.30 SPEAKER_07  So now I have these little evil things that give me horrible heartburn if I allow the juice to trickle into the back of my throat.
+964.32 964.68 SPEAKER_04  Oh, yeah, yeah, yeah.
+964.90 965.40 SPEAKER_07  But whatever.
+965.52 966.40 SPEAKER_07  It's doing something.
+966.56 967.46 SPEAKER_07  It's got to do something.
+967.58 969.24 SPEAKER_04  You got to do fucking something.
+970.00 971.14 SPEAKER_04  Well, for me, that's...
+971.14 972.14 SPEAKER_04  You got to do just fucking something.
+972.14 973.42 SPEAKER_04  I got to limit that something.
+973.84 976.54 SPEAKER_04  2025, we're not even like two weeks in.
+976.68 978.28 SPEAKER_04  Like, basically two weeks in.
+978.52 979.30 SPEAKER_04  It's absolute fucking chaos.
+979.30 980.04 SPEAKER_04  Already shit.
+980.10 980.78 SPEAKER_04  It's chaos.
+981.04 981.84 SPEAKER_04  It's chaos.
+982.14 984.34 SPEAKER_04  People are fucking blowing themselves up.
+984.48 986.14 SPEAKER_04  The city is fucking burning.
+986.14 987.28 SPEAKER_04  Oh, God.
+987.52 987.80 SPEAKER_04  Ah!
+988.02 991.96 SPEAKER_04  Travis admitted in group chat that he wasn't as prepared as he thought he was.
+992.04 994.08 SPEAKER_04  That his generator didn't quite work the way...
+994.08 995.48 SPEAKER_04  Like, everything's falling apart.
+995.64 996.36 SPEAKER_07  He doesn't...
+996.36 997.48 SPEAKER_07  Like, his generators...
+997.48 998.26 SPEAKER_07  He doesn't need that.
+998.32 1000.96 SPEAKER_07  What he needs is a neighbor with a better generator.
+1000.96 1002.70 SPEAKER_07  And then he needs his Glock.
+1003.32 1007.66 SPEAKER_02  So, Roy says, I have a solar and battery system.
+1007.86 1010.58 SPEAKER_02  Like, yeah, the battery, for some reason, it didn't...
+1010.58 1012.48 SPEAKER_02  It worked for like a day and a half.
+1012.64 1017.82 SPEAKER_02  But, yeah, I'm going to have to dig in there and make sure that it works next time.
+1017.98 1018.16 SPEAKER_02  But, yeah.
+1018.32 1019.42 SPEAKER_02  Day and a half is good.
+1019.54 1026.96 SPEAKER_07  How is the illegal silencer that you installed on your Glock as well as the clip that's too long for California law that you told me also that you put on your Glock?
+1026.96 1028.58 SPEAKER_07  Julian, it's called a magazine, man.
+1028.70 1029.02 SPEAKER_07  Come on.
+1029.08 1029.48 SPEAKER_07  Mike's here.
+1029.48 1030.04 SPEAKER_07  Shut the fuck up.
+1031.00 1032.76 SPEAKER_07  Tell me about...
+1032.76 1033.84 SPEAKER_07  Does it work now?
+1034.10 1034.42 SPEAKER_02  No.
+1035.86 1037.54 SPEAKER_02  All of that is untrue.
+1037.54 1037.86 SPEAKER_02  No.
+1038.62 1043.84 SPEAKER_02  I am perfectly compliant with California firearms law.
+1043.98 1044.48 SPEAKER_02  I'll say that.
+1044.68 1046.04 SPEAKER_07  Or so he claims.
+1046.10 1048.32 SPEAKER_07  We can only know by investigating him further.
+1048.82 1050.78 SPEAKER_07  And or door knocking him, honestly.
+1050.78 1051.14 SPEAKER_07  Okay.
+1053.30 1055.36 SPEAKER_07  We got to get back on track.
+1055.68 1056.66 SPEAKER_07  Travis, actually, I do.
+1056.76 1061.88 SPEAKER_07  I will need you for the next part in which you've done the work on the, yeah, Cybertruck.
+1062.16 1062.52 SPEAKER_02  Yeah.
+1062.68 1064.70 SPEAKER_02  I mean, like, New Year's Day.
+1065.04 1068.62 SPEAKER_02  Like, you know, I woke up a little late and checked the news.
+1068.86 1071.98 SPEAKER_02  And Jesus Christ is already a nightmare.
+1072.22 1073.04 SPEAKER_02  Day one.
+1073.12 1074.68 SPEAKER_02  Like, the morning of day one.
+1074.68 1083.18 SPEAKER_02  So, yeah, the new year started with not one, but two high-profile violent incidents committed by current or former U.S. soldiers.
+1083.34 1086.80 SPEAKER_02  First, there was the multiple casualty terror attack in New Orleans.
+1087.02 1089.78 SPEAKER_02  And then there was the Cybertruck bombing in Las Vegas.
+1090.26 1095.68 SPEAKER_02  Now, there's no evidence that these incidents are connected to each other, besides maybe conceptually.
+1095.68 1100.58 SPEAKER_02  So, both men served in Afghanistan in 2009.
+1100.96 1108.42 SPEAKER_02  Both previously served at the largest U.S. Army base, Fort Liberty, formerly called Fort Bragg, in Fayetteville, North Carolina.
+1108.60 1114.34 SPEAKER_02  And both incidents involved an electric truck that the men rented from the car-sharing app Turo.
+1114.64 1115.02 SPEAKER_02  Okay.
+1115.20 1117.54 SPEAKER_02  That's the most, like, damning thing.
+1117.64 1119.22 SPEAKER_01  Who the fuck knows about this app?
+1119.68 1120.94 SPEAKER_01  Well, you know, I did test it.
+1120.94 1128.36 SPEAKER_01  I Googled rent Cybertruck and then separately rent pickup truck, and Turo was the top search result for those searches.
+1128.72 1129.18 SPEAKER_01  So, you know.
+1129.32 1132.18 SPEAKER_02  They have the best SEO, apparently, for this right now.
+1132.32 1134.60 SPEAKER_02  Their SEO game is top tier.
+1134.70 1137.56 SPEAKER_02  Yeah, for guys who want to commit murder with their vehicles.
+1137.56 1143.58 SPEAKER_07  If you type in, I want to kill myself by exploding a Cybertruck, Turo is number one.
+1144.06 1146.46 SPEAKER_02  You know, I'm really curious about how Turo's doing.
+1146.54 1149.92 SPEAKER_02  This is a real test of, like, all publicity is good publicity story.
+1149.92 1151.16 SPEAKER_02  You think people, like, saw that?
+1151.28 1152.18 SPEAKER_02  Turo, let me check that.
+1152.26 1152.68 SPEAKER_02  Hey, you know what?
+1152.70 1156.90 SPEAKER_02  It actually is quite convenient to rent this truck that these terrorists rented a truck from.
+1156.98 1161.86 SPEAKER_07  If you want to feel like Batman or Halo, Turo is number one.
+1162.12 1162.38 SPEAKER_02  Yeah.
+1162.70 1166.94 SPEAKER_02  So, let's start with the deadlier and more tragic of the two incidents.
+1166.94 1175.06 SPEAKER_02  So, that is the, yes, the mass casualty terrorist attack committed by Shamsuddin Jabbar, a 42-year-old Texas man.
+1175.06 1182.00 SPEAKER_02  Over the evening of New Year's, Jabbar drove a Ford F-150 Lightning truck from Houston to New Orleans.
+1182.26 1188.62 SPEAKER_02  During the journey, he recorded and posted videos to Facebook declaring his allegiance to the Salafi jihadist group ISIS.
+1189.12 1200.56 SPEAKER_02  In one of the clips, Jabbar said that he initially intended to harm his family, but decided against it, believing it would not have illustrated the, quote, war between the believers and the disbelievers.
+1200.56 1207.34 SPEAKER_02  Once he arrived at Bourbon Street, he planted two improvised explosive devices packed in coolers.
+1207.60 1217.00 SPEAKER_02  And at about 3.15 a.m. on New Year's Day, he got back in the car and proceeded to plow through New Year's revelers, killing 14 and injuring dozens more.
+1217.34 1224.80 SPEAKER_02  Shortly afterwards, he exited the car wearing a ballistic vest and helmet and began firing at responding police officers, injuring two.
+1225.12 1228.20 SPEAKER_02  He subsequently died in a shootout with those officers.
+1228.20 1233.02 SPEAKER_02  Police recovered an ISIS flag in Jabbar's truck and at least three cell phones.
+1233.22 1236.92 SPEAKER_02  He was not a very good bomb maker, evidently.
+1237.04 1254.04 SPEAKER_02  The vehicle also contained a transmitter that was supposed to detonate the IEDs, but the bombs did not go off because, according to investigators, Jabbar did not have access to a detonator and instead tried to use an electric match, which is apparently commonly used for, like, fireworks or household rocketry.
+1254.38 1255.22 SPEAKER_02  That did not work.
+1255.22 1260.90 SPEAKER_07  So, Travis, just to kind of, you know, split hairs here, which ISIS are we talking about?
+1260.96 1265.70 SPEAKER_07  Was he part of the good ISIS that is now in charge of Syria or the bad ISIS that we used to be fighting?
+1265.90 1266.26 SPEAKER_07  Yeah, well, you know.
+1266.26 1269.08 SPEAKER_07  Because I'm getting a little confused with the different ISISes now.
+1269.20 1271.18 SPEAKER_07  There seems to be a bizarro world splitting.
+1271.52 1275.58 SPEAKER_02  Yeah, well, you know, I think the investigation, I guess, is still preliminary.
+1275.74 1278.92 SPEAKER_02  Based on the information so far, he was, you know, freelancing.
+1278.92 1284.00 SPEAKER_02  You know, I don't know if there's any evidence he had contact with any other self-described members of ISIS.
+1284.46 1285.94 SPEAKER_07  What do you make of that, Mike?
+1286.16 1292.36 SPEAKER_07  You know, this kind of, like, ISIS sheen on what is kind of an all-American guy otherwise?
+1292.56 1296.92 SPEAKER_07  You know, except if you're just, like, one of those people who's like, well, his name's Jabbar.
+1297.30 1298.62 SPEAKER_01  Right, which wasn't his given name.
+1298.66 1300.32 SPEAKER_01  You know, it's a name he adopted.
+1300.32 1305.68 SPEAKER_01  And, you know, what we know about this guy is he had, like, three divorces or going through his third divorce.
+1305.82 1307.32 SPEAKER_01  He had a lot of failed businesses.
+1307.32 1314.72 SPEAKER_01  So his time after the army was just one of repeated failure and debt and being, you know, his house possibly getting foreclosed and all this stuff.
+1314.78 1320.64 SPEAKER_01  You know, this whole idea of, like, oh, I was going to murder my wife and kids, but then I decided to do an ISIS attack instead.
+1320.90 1325.24 SPEAKER_01  And, like, oh, the reason I didn't murder my wife and kids is because it wouldn't demonstrate my loyalty to ISIS.
+1325.24 1333.22 SPEAKER_01  And it's like, it had nothing to do with the fact that I'm jealous that my ex-wife is sleeping with another guy or I'm mad that I got, you know, that my wife left me or anything like that.
+1333.24 1338.00 SPEAKER_01  It's just such a weird, you know, the fact that he's trying to be like, oh, it has nothing to do with me being mad about this relationship.
+1338.00 1340.12 SPEAKER_01  This is just about my religious devotion.
+1340.36 1342.36 SPEAKER_01  You know, this is obviously just like a cop-out.
+1342.56 1352.34 SPEAKER_01  And then it's just like, you know, the classic person who has failed and has extreme antisocial behaviors that then does the most extreme antisocial thing you can do, which is just murder a bunch of innocent people.
+1352.34 1354.28 SPEAKER_02  Yeah, there was, yeah, you're right.
+1354.28 1364.40 SPEAKER_02  There was a court records that some reporters dug up about his divorce that indicated that his monthly expenses, partly due to, like, child support payments, exceeded his income by thousands of dollars.
+1364.56 1367.04 SPEAKER_02  So he was not in a good place financially.
+1367.04 1367.98 SPEAKER_02  He was drowning.
+1368.20 1370.36 SPEAKER_02  He was not in a good place in his relationships.
+1370.62 1374.68 SPEAKER_02  Every part of his life was not going in a good direction.
+1374.68 1378.68 SPEAKER_02  And that almost certainly contributed to his violent radicalization.
+1378.68 1387.76 SPEAKER_07  I mean, do you think that ISIS for him was just kind of like a symbol of like, fuck this country and fuck this military that I served under?
+1388.02 1389.02 SPEAKER_07  Look where I'm at now.
+1389.10 1392.10 SPEAKER_07  I thought I thought I was, you know, kind of risking my life for something better.
+1392.42 1393.90 SPEAKER_01  Yeah, I mean, clearly that could be it.
+1393.94 1397.56 SPEAKER_01  It's like he had just become a totally insane person, you know.
+1397.56 1404.86 SPEAKER_01  And it's like the idea of I think the appeal of ISIS to people like that is that ISIS is just known for being the most brutal killers.
+1405.14 1411.44 SPEAKER_01  You know, I mean, when that, you know, when that they arose as a phenomenon, it was just like, this is the most brutal shit anyone's ever imagined.
+1411.44 1412.64 SPEAKER_01  And all of the videos come in.
+1412.70 1416.94 SPEAKER_01  So I think that's the attraction to people like that who just hate humanity and society.
+1416.94 1422.82 SPEAKER_01  I mean, ISIS is a natural thing to gravitate towards because they're kind of this caricature of evil that exists in real life.
+1423.08 1429.04 SPEAKER_04  Yeah, for people my age, this was like when we first got to college and got our Dells, you know, dude, you got a Dell.
+1429.16 1434.92 SPEAKER_04  The videos that were circulating in that like very early time on like rotten.com or whatever.
+1435.02 1442.30 SPEAKER_04  I can't even remember the names of these like horrible sites were like these like horrible decapitation videos that were like going around.
+1442.30 1446.80 SPEAKER_04  And it was kind of like, you know, it was like a new era of faces of death.
+1446.88 1453.44 SPEAKER_04  I don't know if anybody's old enough to remember those old like VHS movies, but it was like, oh, did you see the, you know, did you see that video?
+1453.54 1458.42 SPEAKER_04  The guy, you know, oh, have you seen the unknown soldier video where the guy's throat gets?
+1458.42 1465.18 SPEAKER_04  There was like a time when that stuff was kind of, you know, where this like these snuff films were kind of like circulating.
+1465.18 1477.46 SPEAKER_04  You know, I, you know, I can't watch violence anymore because I watched enough of those videos when I was like 19 or 20 that I felt like a piece of me like died with the people in the video.
+1477.46 1482.40 SPEAKER_04  Like I still am hung over from like some of that like horrible content.
+1482.40 1496.24 SPEAKER_07  Yeah. And I mean, others have covered this more in depth and it's probably not our area of specialty, but like the links between the foundation of ISIS and like all the intervention in the Middle East is pretty, it's a pretty straight line.
+1496.38 1501.56 SPEAKER_07  A lot of the times it's like, you know, disaffected young men who were serving in armed forces abroad.
+1502.04 1509.44 SPEAKER_07  They're just like from one day to the next disbanded and told, well, yeah, you don't have like a source of income anymore and you can't go back to fighting.
+1509.44 1520.44 SPEAKER_01  And so they're like, well, yeah, no, absolutely. I mean, that's the kind of the tragic irony of the thing is that inspired by ISIS, which would not exist were it not for the U.S. occupation and division of Iraq, really.
+1520.54 1529.46 SPEAKER_01  I mean, it's a direct outgrowth of that war. This guy who joined the army during that time, you know, ends up using that as his motivation to carry out this attack.
+1529.56 1536.96 SPEAKER_01  And so it's, you know, not to say that he wouldn't have done it if ISIS didn't exist, but it ended up being the thing he latched on to, which was a result of U.S. foreign policy, clearly.
+1536.96 1542.84 SPEAKER_07  OK, yeah, Travis, take us take us back into your soft hands.
+1543.70 1554.12 SPEAKER_02  So, yeah. Hours after this incident, at approximately 8.39 a.m., a Tesla Cybertruck parked outside of the Trump International Hotel in Las Vegas exploded very suddenly.
+1554.56 1557.44 SPEAKER_02  Seven bystanders suffered minor injuries.
+1557.70 1562.42 SPEAKER_02  The explosion also sent off fireworks that went off in several directions.
+1562.42 1568.74 SPEAKER_02  It was soon reported that there was a man in the vehicle, well, a dead man, and he was the one who set off the explosion.
+1568.98 1573.78 SPEAKER_02  That was Matthew Livelsberger, a 37-year-old U.S. Army Green Beret.
+1573.96 1576.12 SPEAKER_02  Now, the explosion is not what killed him, though.
+1576.20 1579.72 SPEAKER_02  He evidently fatally shot himself moments before the explosion.
+1580.16 1585.32 SPEAKER_07  He shot himself with a desert eagle, the, like, cartoon gun.
+1585.32 1585.72 SPEAKER_07  Yeah.
+1585.80 1592.86 SPEAKER_07  Like, the most unwieldy kind of, like, it's kind of the Cybertruck of guns, honestly.
+1593.38 1599.90 SPEAKER_07  Like, very aesthetic, way too high caliber, and, like, kind of known for being crummy and unreliable, actually.
+1600.04 1602.34 SPEAKER_07  Like, if you were to use it in a combat situation.
+1602.48 1604.12 SPEAKER_07  I don't know. Am I wrong about this, Mike?
+1604.12 1609.16 SPEAKER_01  No, I mean, it kind of matches the other elements of the suicide, you know?
+1609.22 1613.98 SPEAKER_01  It's like, you got the Desert Eagle, you got the Cybertruck, you got Trump Tower, and you got the fireworks, you know?
+1614.00 1617.58 SPEAKER_01  And you know that he was, like, he was a big fan of fireworks.
+1617.92 1622.62 SPEAKER_01  And so, like, my initial thought of this, and this may still even be, like, what really was behind it all.
+1622.66 1630.66 SPEAKER_01  It was, like, you know, army suicides, especially among guys who have been in combat, which Livelsberger was quite a bit, are just, like, extremely common.
+1630.66 1640.54 SPEAKER_01  And so, you know, this guy, my thought was, oh, this guy, instead of just being another guy who just shoots himself, which happens, like, every day in the military, in fact, at a rate of, like, 1.5 per day.
+1640.64 1643.64 SPEAKER_01  You know, he went out with a bang, surrounded by all the things he loved.
+1643.70 1646.88 SPEAKER_01  You know, he loved Trump, he loved Musk in the Cybertruck, he loved fireworks.
+1646.96 1649.74 SPEAKER_01  So he's like, I'm not just going to be another one of these guys that shoots himself.
+1649.88 1654.66 SPEAKER_01  I want to shoot myself, but I want to do it with all these cool things and make it look really cool when I got out.
+1654.72 1656.16 SPEAKER_01  And so that was kind of my initial thought.
+1656.16 1660.14 SPEAKER_01  And then, you know, of course, there's more information now that could mean there's other motivations.
+1660.14 1664.84 SPEAKER_01  But, you know, it just seemed pretty straightforward, you know, went out with a real bang, like, in a very literal way.
+1665.60 1672.14 SPEAKER_02  Yeah, you know, it's interesting that Jabbar's terrorist attack, it had the highest casualty count.
+1672.24 1678.90 SPEAKER_02  But in his service, he was, he didn't serve in a combat role, though he was deployed to Afghanistan.
+1679.26 1682.88 SPEAKER_02  Livelsberger, however, was, you know, he was kind of more of a hardcore operator.
+1682.88 1685.90 SPEAKER_02  He enlisted in the Army in 2006.
+1686.12 1691.58 SPEAKER_02  He served in various capacities, including communications, intelligence, and operations with the Special Forces.
+1691.88 1698.08 SPEAKER_02  He deployed actually twice to Afghanistan and served in Ukraine, Tajikistan, Georgia, and the Congo.
+1698.60 1703.58 SPEAKER_02  So at the time of the incident, he was stationed at Fort Carson, Colorado, and in Germany.
+1703.58 1708.82 SPEAKER_02  And he was awarded, yeah, highly decorated, like Julian mentioned at the top of the episode.
+1708.94 1717.80 SPEAKER_02  He's awarded two bronze stars, including one with a Valor device for courage under fire, a combat infantry badge, and an Army commendation medal with Valor.
+1718.22 1725.58 SPEAKER_02  The show Inside Edition uncovered that Livelsberger appeared in a 2013 episode of History Channel's Ultimate Soldier Challenge.
+1725.58 1728.44 SPEAKER_02  Jesus fucking Christ.
+1729.08 1729.52 SPEAKER_06  Oh!
+1730.48 1732.58 SPEAKER_06  Everything is just television!
+1733.18 1734.14 SPEAKER_06  It's just screens!
+1734.88 1737.38 SPEAKER_04  And we've got a clip of those screens.
+1737.66 1738.10 SPEAKER_03  Mm-hmm.
+1738.34 1744.02 SPEAKER_03  It's a reality show that pits teams of elite soldiers from around the world against each other.
+1744.12 1750.58 SPEAKER_05  Matt and Tim, from the U.S. Army Special Forces, better known as the Green Berets.
+1750.58 1760.56 SPEAKER_03  Matthew Livelsberger and his partner Tim Kennedy, both Green Berets, appeared on the Ultimate Soldier Challenge 12 years ago on the History Channel.
+1760.90 1767.02 SPEAKER_05  While the other guys are still setting up, the Americans take their first shot at the sniper on the top of the tower.
+1767.36 1770.26 SPEAKER_03  They not only won, it wasn't even close.
+1771.72 1772.20 SPEAKER_04  Wow.
+1772.82 1774.54 SPEAKER_04  A little recruitment video for the Army there.
+1774.86 1775.26 SPEAKER_04  I know.
+1775.26 1776.22 SPEAKER_04  Yeah, it worked on me.
+1776.32 1779.58 SPEAKER_04  I'm like, well, yeah, these guys look, they know, driving and shooting?
+1779.84 1781.26 SPEAKER_04  They look like they know what they're doing.
+1781.40 1782.82 SPEAKER_04  Unlike those loser countries.
+1783.08 1786.66 SPEAKER_04  Yeah, those loser countries still setting up their fucking binoculars.
+1786.98 1787.24 SPEAKER_04  Yeah.
+1787.44 1792.82 SPEAKER_04  It's like, what, you don't remember the button commands to pull out your knocks?
+1793.68 1795.02 SPEAKER_07  The button commands!
+1795.76 1798.76 SPEAKER_07  Sir, we are not enrolling you into a video game.
+1798.80 1799.76 SPEAKER_04  Are you aware of this?
+1799.76 1806.76 SPEAKER_04  Guy who understands combat, like, only through, like, ARMA simulators and, like, complicated control schemes.
+1806.92 1813.28 SPEAKER_07  While these Danish assholes were respecting rules of engagement, we had already blown the head off the target.
+1815.22 1819.44 SPEAKER_01  Yeah, like how they're also riding around in a golf cart shooting stuff.
+1819.72 1820.92 SPEAKER_01  It's a great scene.
+1821.00 1824.52 SPEAKER_07  Well, that's kind of what they gave them in fucking Rock, right?
+1824.84 1828.94 SPEAKER_01  No, yeah, they really do use vehicles like that, but it's just funny to see it on TV.
+1828.94 1830.02 SPEAKER_07  Yeah, it is.
+1830.26 1834.00 SPEAKER_07  Yes, the golf course of the world, also known as every country outside of America.
+1834.44 1836.10 SPEAKER_04  On the History Channel, no less.
+1836.28 1837.98 SPEAKER_04  You'd think they would do a little bit better.
+1838.10 1840.78 SPEAKER_07  Yeah, they're great in general, so don't know what happened here.
+1840.88 1846.36 SPEAKER_04  They're like, we have two of these highly trained Green Beret soldiers hunting down ancient aliens.
+1848.46 1854.00 SPEAKER_01  I mean, it's actually not a bad show concept where you have just teams from different militaries that actually, like, fight each other.
+1854.18 1855.32 SPEAKER_01  You know, like, deathmatch style?
+1855.54 1857.40 SPEAKER_04  No, it looks like an awesome show, Mike.
+1857.40 1859.20 SPEAKER_04  Yeah, I know, you're saying what I'm thinking.
+1860.06 1860.34 None  Okay.
+1860.90 1864.80 SPEAKER_04  Looks like a really fun—I was watching that, I was like, how did I never, like, see this?
+1864.86 1865.60 SPEAKER_04  Like a competition show.
+1865.60 1866.58 SPEAKER_04  Could be an Olympic sport.
+1866.68 1869.02 SPEAKER_04  Yeah, like a competition show with real guns?
+1869.26 1871.80 SPEAKER_07  Okay, Travis, please take us back to the story of the dead man.
+1871.80 1873.76 SPEAKER_02  So, here's an interesting detail.
+1873.94 1881.44 SPEAKER_02  So, Matthew Libelsberger used artificial intelligence, specifically chat GPT, to plan the explosion.
+1881.46 1882.36 SPEAKER_06  Oh, my God!
+1882.48 1888.66 SPEAKER_02  Now, it's been called the first recorded use of generative AI in planning an attack on U.S. soil.
+1888.66 1893.86 SPEAKER_02  So, he queried the AI for information on explosives, firearms, and legal regulations.
+1894.06 1910.04 SPEAKER_02  For example, he asked about the legal limit for purchasing Tannerite, which is a kind of brand of explosive targets in Colorado, and the equivalence of Tannerite to TNT, and whether a .50 caliber Desert Eagle pistol could detonate it.
+1910.04 1916.86 SPEAKER_07  People are not talking enough about the jobs, the FBI jobs that will be lost because chat GPT can do the incitement themselves.
+1918.18 1926.38 SPEAKER_02  He also asked the AI about the largest gun store in Denver and the legality of fireworks in Arizona.
+1926.78 1931.12 SPEAKER_02  So, you know, a lot of it seemed like stuff you could Google, but he just happened to use AI.
+1931.60 1932.72 SPEAKER_02  That's awesome.
+1932.84 1938.04 SPEAKER_01  For all his research, did you see that he perhaps drove to the wrong Las Vegas first?
+1938.40 1938.64 SPEAKER_01  Yes.
+1938.64 1939.32 SPEAKER_01  Or if you look at his—
+1939.32 1939.82 SPEAKER_07  Yeah.
+1940.04 1944.20 SPEAKER_01  His map is he went to Las Vegas, New Mexico first. Yeah, yeah.
+1944.24 1945.74 SPEAKER_07  And then drove to Las Vegas, Nevada.
+1945.96 1950.82 SPEAKER_07  That does check out, though, that chat GPT would just be like, well, we don't—you want to go to Paris?
+1950.94 1952.14 SPEAKER_07  We're sending you to Paris, Texas.
+1953.06 1962.16 SPEAKER_04  Well, and so many people nowadays, I mean, you know, use chat GPT or whatever AI assistant comes with their browser as a search engine now.
+1962.16 1968.80 SPEAKER_04  Instead of going to Google, they just ask chat GPT because, you know, it'll give you a more focused sort of answer, I guess.
+1968.80 1969.64 SPEAKER_04  So, it doesn't make sense.
+1969.64 1970.20 SPEAKER_04  Do you do this?
+1970.20 1972.72 SPEAKER_04  Because it seems like you're saying— No, not me.
+1973.24 1977.00 SPEAKER_04  He uses way too much water and power to ask chat GPT to do things.
+1977.12 1978.82 SPEAKER_04  But why do you have a twinkle in your eye?
+1979.46 1980.82 SPEAKER_04  You're adding the twinkle.
+1980.98 1982.96 SPEAKER_04  I'm not—I have no twinkle.
+1983.14 1983.36 SPEAKER_07  Okay.
+1983.36 1988.44 SPEAKER_02  Livisberger drove all the way to Vegas from his home in Colorado Springs to commit this act.
+1988.44 1998.16 SPEAKER_02  According to the New York Post, this odyssey started on December 26th, the day after Christmas, when he reportedly broke up with his wife over his alleged infidelity.
+1998.50 2010.90 SPEAKER_02  However, I should also mention on January 12th, Livisberger's widow, Jennifer Davis, issued a statement denying that part of the reporting, saying that the couple did not have plans or intentions of breaking up or separating.
+2010.90 2011.50 SPEAKER_07  Okay.
+2011.50 2011.62 SPEAKER_07  Okay.
+2011.62 2027.06 SPEAKER_02  On December 28th, he rented the Cybertruck, and as first reported by the Denver Gazette that same day, he hit up his girlfriend, Alicia Errett, who he hadn't spoke to since 2022, with a message, I'm up in Denver, are you single?
+2027.06 2028.62 SPEAKER_07  Jesus fucking Christ.
+2028.80 2029.06 SPEAKER_07  Okay.
+2029.16 2035.30 SPEAKER_07  Well, even if his wife steps out, like, clearly Matt's not exactly a fucking angel here.
+2035.40 2039.22 SPEAKER_07  That is such a good line, immediately saying, are you single?
+2039.36 2040.08 SPEAKER_07  What a romantic.
+2040.38 2040.84 SPEAKER_02  I know.
+2041.18 2042.12 SPEAKER_02  What a romantic.
+2042.34 2045.92 SPEAKER_02  I mean, he was in the midst of a suicidal mania, I think.
+2046.08 2047.30 SPEAKER_02  Explain some of his behavior.
+2047.46 2047.66 SPEAKER_07  Wow.
+2047.70 2048.02 SPEAKER_07  Okay.
+2048.22 2049.98 SPEAKER_07  Well, that's not funny anymore.
+2050.18 2053.14 SPEAKER_07  This episode really is just trying to take my joy from me.
+2053.92 2055.24 SPEAKER_02  And all of us.
+2055.24 2073.80 SPEAKER_02  They exchanged a few text messages over the next few days, and on the morning of New Year's Eve, he sent pictures and videos showing off the Cybertruck, and this is when he sent the widely reported, you know, boasting about how much he liked about the Cybertruck.
+2073.90 2074.92 SPEAKER_02  He said, it's the shit.
+2075.04 2076.38 SPEAKER_02  I feel like Batman or Halo.
+2076.74 2078.04 None  Ah, man.
+2078.04 2086.64 SPEAKER_07  To think that somebody who is an operator has this brain is, like, so, it just shows you, like, we're so fucking cooked.
+2086.64 2088.70 SPEAKER_02  I mean, it's like, you are, yeah, exactly.
+2088.86 2090.68 SPEAKER_02  You are a real special ops guy.
+2090.84 2096.76 SPEAKER_02  Why do you feel the need to be like, oh, man, but man, when I get in the warthog from Halo, that's the fantasy.
+2096.96 2101.22 SPEAKER_02  Like, even real special operators fantasize about being in, like, video games.
+2101.22 2104.24 SPEAKER_02  Yeah, it doesn't make too much sense to me.
+2104.82 2111.78 SPEAKER_02  These text messages that he sent to his ex-girlfriend gave no indication about how he intended to use the car.
+2112.04 2117.28 SPEAKER_02  Eric also told news outlets that Livelsberger was struggling with injuries he sustained in the military.
+2117.52 2125.82 SPEAKER_02  He had two back surgeries from his days as a paratrooper and also suffered brain injuries that she said that he hid from his superiors.
+2125.82 2135.42 SPEAKER_07  Is this, like, very common, by the way, Mike, like, people who just want to kind of stay working in the military just will hide something like brain injury?
+2135.64 2136.26 SPEAKER_01  Oh, for sure.
+2136.36 2139.64 SPEAKER_01  No, it's pretty on brand, you know, especially for someone in his line of work.
+2139.72 2140.18 SPEAKER_01  You know what I mean?
+2140.24 2148.68 SPEAKER_01  It's like because when you're deemed unfit, you know, physically, you know, you just get bumped down to doing, you know, what they consider lame jobs and things like that.
+2148.68 2156.68 SPEAKER_01  And so, yeah, there's definitely a lot of covering up what you're going through just so you can stay in that position as one of the cool guys instead of getting bumped down to the not cool guys.
+2157.00 2157.10 SPEAKER_02  Yeah.
+2157.36 2167.26 SPEAKER_02  Now, as for the motive for the incident, the Las Vegas Police Department shared two letters that were allegedly retrieved from one of his two phones that were found in the Cybertruck.
+2167.56 2174.74 SPEAKER_02  One of these letters called on service members and veterans to forcibly seize Washington, D.C. and purge the government of Democrats.
+2175.10 2175.58 SPEAKER_02  Okay.
+2175.58 2176.68 SPEAKER_02  It said this.
+2176.68 2179.58 SPEAKER_04  Military and vets move on D.C. starting now.
+2179.96 2182.36 SPEAKER_04  Militias facilitate and augment this activity.
+2182.84 2187.96 SPEAKER_04  Occupy every major road along Fed buildings and the campus of Fed buildings by the hundreds of thousands.
+2188.36 2191.96 SPEAKER_04  Lock the highways around down with semis right after everybody gets in.
+2192.22 2193.68 SPEAKER_04  Hold until the purge is complete.
+2193.80 2194.72 SPEAKER_06  The purge.
+2194.96 2201.98 SPEAKER_04  Try peaceful means first, but be prepared to fight to get the Dems out of the Fed government and military by any means necessary.
+2201.98 2206.58 SPEAKER_04  They all must go and a hard reset must occur for our country to avoid collapse.
+2206.68 2211.30 SPEAKER_01  I mean, it's a little spooky because that kind of is what's happening right now.
+2211.30 2226.62 SPEAKER_01  There are veterans and military mobilizing to go to demonstrate in D.C. to support the confirmation of Hegseth as Secretary of Defense because he's one of these, you know, extreme right military guys who's kind of from the same kind of ideology and background that it appears that Livalsberger is from.
+2226.62 2232.98 SPEAKER_01  But definitely a significant, you know, portion of people in the military and vets, you know, it's, you know, we can talk about it more later.
+2233.04 2238.24 SPEAKER_01  But, you know, we detailed it in that episode where we talked about the J6 detainees and how many of them were veterans and stuff like that.
+2238.38 2239.78 SPEAKER_01  That is a phenomenon in the military.
+2239.78 2246.50 SPEAKER_01  And they are mobilizing to D.C. right now to make sure Hegseth gets the confirmation so that he can take over and de-woke the military.
+2247.16 2248.44 SPEAKER_01  That sounds bad.
+2248.88 2249.42 SPEAKER_01  Might be fine.
+2249.42 2257.42 SPEAKER_02  The second letter that was retrieved condemned the cruelty of elites and the numbing effect of overconsumption.
+2258.32 2265.42 SPEAKER_02  So he seems to have been influenced by right-wing populist rhetoric, which by its nature also contains some sentiments that resonate with progressives.
+2266.22 2267.28 SPEAKER_02  So that one said this.
+2267.28 2272.40 SPEAKER_04  We are crumbling because of a lack of self-respect, morals, and respect for others.
+2272.80 2274.54 SPEAKER_04  Greed and gluttony has consumed us.
+2274.92 2279.20 SPEAKER_04  The top 1% decided long ago they weren't going to bring everyone else with them.
+2279.20 2280.48 SPEAKER_04  You are cattle to them.
+2280.80 2287.10 SPEAKER_04  We have strayed from family values and corrupted our minds, and I am a prime example of having it all but it never being enough.
+2287.44 2289.84 SPEAKER_04  A lot of us are just sitting around waiting to die.
+2290.08 2293.08 SPEAKER_04  No sunlight, no steps, no fresh air, no hope.
+2293.30 2296.04 SPEAKER_04  Our children are addicted to screens by the age of two.
+2296.38 2298.66 SPEAKER_04  We are filling our bodies with processed foods.
+2299.06 2302.54 SPEAKER_04  The income inequality in this country and cost of living is outrageous.
+2302.98 2305.88 SPEAKER_04  The number of homeless on our street is embarrassing and disgusting.
+2306.18 2308.04 SPEAKER_04  Have some pride and take care of this.
+2308.04 2308.54 SPEAKER_06  Yeah.
+2308.54 2315.60 SPEAKER_02  He goes on to condemn DEI, which is, of course, the organizational framework of diversity, equity, and inclusion.
+2315.60 2318.98 SPEAKER_02  He calls Kamala Harris the DEI candidate.
+2319.38 2324.74 SPEAKER_02  He also states, quote, our soldiers are done fighting wars without end states or clear objectives.
+2324.74 2328.62 SPEAKER_07  Yeah, it's like this thing of, like, things are run badly.
+2328.76 2332.50 SPEAKER_07  We need to do the right-wing stuff, but more clean and better.
+2332.80 2342.88 SPEAKER_07  And I don't know anything about how capitalism works, so no idea, you know, what to actually kind of target here in case of a violent uprising.
+2342.88 2348.32 SPEAKER_07  And also, you know, I think Trump, who's definitely not a top 1%, he doesn't believe we're cattle.
+2348.54 2349.56 SPEAKER_07  He's the good one.
+2349.84 2349.92 SPEAKER_01  Yeah.
+2349.92 2349.96 SPEAKER_01  Yeah.
+2349.96 2355.46 SPEAKER_01  And it's really, that's kind of like an emblematic, that last line is done fighting wars without end states or clear objectives.
+2355.46 2360.14 SPEAKER_01  You know, both Leifelsberger and Jabbar, you know, they're all like my generation of that, right?
+2360.24 2372.10 SPEAKER_01  I mean, the joining around or just right before or right after 9-11, where, you know, both the wars in Iraq and Afghanistan were just became known as the debacles where there is like, no, what are we doing here?
+2372.10 2382.22 SPEAKER_01  What's the actual point, which is, of course, ultimately revealed in the Afghanistan papers, which showed that the whole time the military command knew that the war was completely unwinnable and eventually we would have to retreat.
+2382.34 2385.84 SPEAKER_01  Yet they still were telling the public, like, oh, yeah, we're going to beat the Taliban and all this stuff.
+2385.92 2395.12 SPEAKER_01  And so, you know, from people on the inside, it's pretty obvious that every single mission you're doing has no point other than to go just walk around or drive around waiting to get blown up.
+2395.12 2409.84 SPEAKER_01  And even though this wasn't like a political formulation of why the war is wrong, but just, you know, the very basic kind of base level understanding of there's really no point to all of this, which, you know, people thrived in that environment, like Leifelsberger, who went into the special operations.
+2409.84 2419.78 SPEAKER_01  And, you know, even though there's this situation of there's no point to all this, we can still run around driving the golf carts and shooting out the windows and looking really cool and being the badass on base when we get home and everything.
+2419.96 2427.42 SPEAKER_01  But, you know, really that that line there, I think, is something that anyone from my generation, especially those who deployed, you know, really feels.
+2427.50 2431.50 SPEAKER_01  And so it's not surprising it was part of, you know, the communications that we've seen from him.
+2431.50 2443.40 SPEAKER_02  Yeah. The most confusing bit in that letter that was published from Leifelsberger was the line in which he denies that he was committing a terrorist attack with this explosion.
+2443.66 2445.06 SPEAKER_02  So that line says this.
+2445.34 2447.86 SPEAKER_04  This is not a terrorist attack. It was a wake up call.
+2448.40 2451.02 SPEAKER_04  Americans only pay attention to spectacles and violence.
+2451.26 2454.70 SPEAKER_04  What better way to get my point across than a stunt with fireworks and explosives?
+2454.70 2465.66 SPEAKER_02  So, yeah, this this really baffled me because an act of spectacular violence that has the ultimate goal of influencing observers in order to advance the political goal is what terrorism is.
+2465.76 2469.06 SPEAKER_07  Well, this is this is American, though. It's pro-American. So it's not terrorism.
+2469.42 2475.74 SPEAKER_07  OK, that otherwise you'd have to start saying that some of these things that the American military is doing is terrorism.
+2475.84 2476.80 SPEAKER_07  And we can't be having that.
+2476.80 2484.60 SPEAKER_02  Yeah, there's like there is obviously there's not it's not easy sometimes to like really nail down define terrorism in a consistent way.
+2484.70 2492.44 SPEAKER_02  And of course, it's politically influenced. And of course, there's like they try because has negative connotations, you know, as it is, as it's not always defined very cleanly.
+2492.44 2500.74 SPEAKER_02  And so I like this this line from this this 2023 International Center for Counterterrorism Report works on defining terrorism.
+2500.74 2513.94 SPEAKER_02  And it says, quote, for the terrorists, the victims of terrorism serve as generators of emotions of which terror is the most powerful in order to intimidate, coerce, impress, provoke or otherwise influence one or more third parties.
+2513.94 2518.42 SPEAKER_02  The production of fear is not the ultimate purpose is a means to an end.
+2518.62 2522.44 SPEAKER_02  The reaction of target audiences is what is primarily sought.
+2522.78 2531.58 SPEAKER_02  So when Liversberger essentially says, I'm not committing a terrorist attack, I'm just using spectacles and violence to get my point across to Americans like that's an incoherent expression.
+2531.58 2544.30 SPEAKER_02  I know, which means that despite the fact he was highly involved in prosecuting the war on terror in his deployments to Afghanistan, he died never actually understanding what terrorism is or why terrorists do it.
+2544.56 2553.46 SPEAKER_07  Mike, Mike, speak on this. I need to hear your opinion here, because I do think the word terror and terrorists are just, yeah, at this point misused.
+2553.46 2560.56 SPEAKER_01  Yeah, I mean, I don't know, man. I mean, I think that he clearly like, you know, this guy was really good at killing people, I'm sure.
+2560.66 2564.68 SPEAKER_01  And so if he wanted to, like, kill people in the attack, he obviously would have been able to do a better job.
+2564.76 2572.74 SPEAKER_01  It was kind of gross the way they turned it into like an ad for Cybertruck being like, oh, this was going to be this massive explosion that blew up the whole lobby of Trump Tower.
+2572.74 2580.80 SPEAKER_01  Or kind of, especially when they thought it was, you know, not a Trump supporter, but just the power of the Cybertruck, you know, prevented that and saved all these lives.
+2580.90 2581.18 SPEAKER_01  I know.
+2581.42 2588.48 SPEAKER_01  Versus, you know, his goal was just to have a huge, fancy, cool looking explosion to draw a lot of, draw a lot of attention to it.
+2588.52 2593.94 SPEAKER_01  But yeah, you know, whether or not it should be, you know, called terrorism, it fits that definition that Travis read for sure.
+2593.94 2598.58 SPEAKER_01  But and it's also just it's like this clearly just this guy was suicidal, right?
+2598.60 2603.00 SPEAKER_01  I mean, if his whole thing was, I need to expose this stuff and get my message out and all that stuff.
+2603.00 2606.04 SPEAKER_01  It's like you're an active duty green braid who's heavily decorated.
+2606.04 2610.16 SPEAKER_01  Like you could easily get your point out there, especially with right wing media.
+2610.16 2619.78 SPEAKER_01  The fact that operator influencers like special operators in general, like, you know, these brands that are like operator branded, like there's just such a huge ecosystem for that stuff.
+2619.78 2626.48 SPEAKER_01  He clearly could have gotten his points out and certain and created a wake up call for Americans as an active duty green beret speaking out.
+2626.60 2636.34 SPEAKER_01  And so, you know, like with Jabbar, I mean, there's so many similarities of just people being suicidal and self-destructive and then trying to come up for some bigger rationale for for why they're doing it.
+2636.46 2637.64 SPEAKER_04  That's a really good point.
+2638.00 2638.40 SPEAKER_04  Yeah.
+2638.44 2642.12 SPEAKER_04  If he had a channel, it would be advertised to me on YouTube shorts.
+2642.34 2642.50 SPEAKER_07  Yeah.
+2642.56 2649.20 SPEAKER_07  What is sad is that, like, somebody who gets to this point, like, that's the only time where they're going to be somewhat honest about what's going on.
+2649.20 2654.42 SPEAKER_07  Because of the repercussions of such of such a thing from the very military that employs you.
+2654.46 2654.66 SPEAKER_07  Right.
+2654.74 2671.22 SPEAKER_07  I mean, there's a reason why there's not more active duty green berets coming out, because it's like, yeah, like you're basically made to feel like you're betraying your country and your brothers just by becoming a whistleblower on things that are clearly both morally wrong, but also like illegal under various international laws.
+2671.22 2673.94 SPEAKER_07  And even sometimes under the codes of the military itself.
+2674.22 2674.76 SPEAKER_07  Yeah, exactly.
+2675.36 2677.48 SPEAKER_04  So he ends the letter this way.
+2677.48 2679.32 SPEAKER_04  Why did I personally do it now?
+2679.68 2685.06 SPEAKER_04  I needed to cleanse my mind of the brothers I've lost and relieve myself of the burden of the lives I took.
+2685.26 2691.54 SPEAKER_04  Consider this last sunset of 24 and my actions, the end of our sickness and a new chapter of health for our people.
+2691.82 2698.26 SPEAKER_04  Rally around the Trump, Musk, Kennedy, and ride this wave to the highest hegemony for all Americans.
+2698.62 2700.24 SPEAKER_04  We are second to no one.
+2700.42 2700.76 SPEAKER_07  Wow.
+2701.08 2702.44 SPEAKER_07  God bless the American empire.
+2702.44 2704.42 SPEAKER_07  That's what I fucking love about all of this.
+2704.50 2712.60 SPEAKER_07  It's like, it's just a debate over how effectively you can maintain your number one position as an empire and hegemony is even mentioned.
+2712.72 2714.98 SPEAKER_07  I mean, it could not be more absurd.
+2714.98 2728.12 SPEAKER_04  And I think what's really weird to me about this, what I have trouble understanding is he's like, I'm killing myself essentially on the eve of like a golden age of Trump and Musk and all of it.
+2728.12 2731.44 SPEAKER_04  Like, wouldn't you think like, oh man, something to live for.
+2731.52 2742.56 SPEAKER_04  Like the Democrats have lost and the guy who I love and the tech guru, quote unquote, who I love, they're coming together and they're going to save the world and we should rally around them.
+2742.72 2746.96 SPEAKER_04  But yet, like, I don't want to stay alive to see that is really, I don't know.
+2747.02 2750.54 SPEAKER_04  It just feels like there's like very conflicting ideologies there.
+2750.54 2750.98 SPEAKER_07  Yeah.
+2751.88 2752.10 SPEAKER_07  Yeah.
+2752.10 2761.90 SPEAKER_07  It's basically just, I want to do all these awful evil things that have oppressed people forever that have damaged me beyond repair, both physically and mentally.
+2761.90 2769.60 SPEAKER_07  But we need to do them without like this garbage DEI stuff and everything that's polluting the purity of empire.
+2769.80 2769.94 SPEAKER_01  Yeah.
+2769.94 2771.82 SPEAKER_01  And he was also in the military under Trump, too.
+2771.92 2776.88 SPEAKER_01  I mean, there was already a Trump term where all of this shit that he was complaining about, you know, still existed.
+2777.24 2777.48 SPEAKER_01  Yeah.
+2777.56 2779.82 SPEAKER_01  But rally around Trump, though, that was going to be different this time.
+2779.82 2780.14 SPEAKER_02  Yeah.
+2780.54 2794.64 SPEAKER_02  So it got stranger because we later learned that on New Year's Eve, Livelsberger sent an email to Sam Shoemate, a retired Army intel officer who runs an Instagram account that's popular with military veterans.
+2794.80 2797.04 SPEAKER_02  He also does like a blog, a video blog.
+2797.04 2805.70 SPEAKER_02  He wanted Shoemate to connect him to media outlets to broadcast concerns he had over drone technology and war crimes, he said, that he witnessed in Afghanistan.
+2805.70 2820.80 SPEAKER_02  So in that email, Livelsberger claims that the sightings of drones, which have, you know, been dismissed as sightings like commercial aircraft or sometimes stars are actually Chinese in origin in our, quote, gravitic propulsion systems powered aircraft.
+2820.80 2822.48 SPEAKER_02  Now, there's no evidence of this.
+2822.48 2824.56 SPEAKER_02  This appears to be like a paranoid illusion.
+2824.68 2826.10 SPEAKER_02  I'm not sure where he's getting this from.
+2826.24 2828.32 SPEAKER_02  But the next section of the email is like more interesting.
+2828.48 2837.14 SPEAKER_02  So he claims that he has knowledge about war crimes that were covered up during airstrikes in 2019 in the Nimruz province of Afghanistan.
+2837.14 2847.86 SPEAKER_02  He specifically says that he conducted targeting for strikes on buildings that killed hundreds of civilians and that U.S. forces continue these strikes after their intelligence identify these civilians.
+2847.98 2848.64 SPEAKER_02  So I looked into this.
+2848.70 2850.82 SPEAKER_02  So he's referring to a real incident that happened in Afghanistan.
+2850.82 2859.62 SPEAKER_02  So the Nimruz area strikes were a it was kind of a convergence between America's two main wars against abstract categories, the war on terrorism and the war on drugs.
+2859.62 2868.46 SPEAKER_02  And in November of 2017, the military announced the start of an air campaign against drug enterprises that were allegedly under Taliban control.
+2868.96 2878.00 SPEAKER_02  On May 9th, 2019, warplanes bombed 30 alleged drug labs in Nimruz province and neighboring Farah province, killing dozens of people.
+2878.00 2882.32 SPEAKER_02  The United Nations investigated this incident and released a report on it.
+2882.56 2894.34 SPEAKER_02  The report says that the investigation verified 39 civilian casualties, including 14 children and one woman, and they received credible information to substantiate an additional 37 casualties.
+2894.72 2904.34 SPEAKER_02  The report found, quote, while some of the sites may have been associated with illicit activity, they did not meet the definition of legitimate military objectives under international law.
+2904.34 2907.48 SPEAKER_02  The U.S. military, of course, investigated itself and found no wrongdoing.
+2907.48 2919.08 SPEAKER_02  The military also disputed the substance of the report and claimed that the labs were producing revenue for the Taliban and that people working in them were Taliban fighters and, quote, lawful military targets, according to them.
+2919.42 2933.06 SPEAKER_02  What I found interesting is that Littlesberger is essentially claiming that this incident is actually much more horrific than even what the United Nations claims, because like number one, he claims that there were hundreds of civilian casualties instead of the reported 30 to 76 range.
+2933.06 2937.86 SPEAKER_02  And number two, he claims that attacking forces had intelligence of the civilian presence.
+2937.86 2949.68 SPEAKER_02  But the official position from the U.S. military on this matter, as I learned from that U.N. report, is, quote, comprehensive intelligence confirmed that all personnel inside laboratories were Taliban combatants.
+2950.06 2953.64 SPEAKER_07  Of course. Yeah. You always want to put your best soldiers in the drug lab.
+2953.64 2964.38 SPEAKER_02  Yeah. Yeah. I mean, this is like this is one of those things where it's like I was reading this like, oh, come on, like, you know, Chinese, you know, gravity powered is like that silly.
+2964.46 2968.34 SPEAKER_02  But I read this and I was like, well, that's that's, you know, more interesting claim.
+2968.34 2972.72 SPEAKER_02  But I think is perhaps, again, not not a good way to deliver this message.
+2972.82 2977.84 SPEAKER_02  Now, if you're going to blow the whistle on war crimes, that is a brave, noble thing to do.
+2977.94 2980.30 SPEAKER_02  I highly encourage you. This is not a good way to do it.
+2980.48 2983.66 SPEAKER_02  We want you alive and we want you, you know, talking to reporters.
+2984.02 2986.78 SPEAKER_02  There are people you can contact to get this information out.
+2986.86 2991.58 SPEAKER_02  That's more effective than emailing your buddy with a podcast and then killing yourself.
+2991.58 2998.84 SPEAKER_01  Yeah. You know, when I saw the drone thing, I was like, oh, man, is this whole thing just a product of like the New Jersey drone sightings phenomenon, things like that?
+2998.96 3003.76 SPEAKER_01  And of course, him saying he has secret information about gravity propulsion and all that stuff.
+3003.88 3006.84 SPEAKER_01  You know, it's that could have just been totally concocted by him.
+3006.84 3008.88 SPEAKER_01  But, you know, there are a lot of rumors that fly around.
+3008.98 3013.88 SPEAKER_01  You know, someone like Leifelsberger would have probably a top secret security clearance being in the special operations.
+3013.88 3016.80 SPEAKER_01  But even within which sounds a lot cooler than it is.
+3016.80 3023.50 SPEAKER_01  And like even within that world, like, you know, as I remember it, there are a lot of rumors that fly of like, oh, I saw this piece of top secret intel.
+3023.50 3025.38 SPEAKER_01  And that says this is that's crazy.
+3025.38 3028.32 SPEAKER_01  And then it just gets passed around and telephoned and all that stuff.
+3028.32 3033.44 SPEAKER_01  And so it's possible that he was told by someone that we have this thing that is that is clearly fake.
+3033.44 3035.18 SPEAKER_01  And then, you know, that played into his other thing.
+3035.18 3043.22 SPEAKER_01  But, you know, this this idea that he, you know, had information or, you know, was involved in this atrocity that happened in Afghanistan, which, of course, is completely believable.
+3043.22 3047.58 SPEAKER_01  I mean, beyond the U.N. investigation, it's pretty par for the course for the U.S. and Iraq and Afghanistan.
+3047.58 3050.74 SPEAKER_01  And there's numerous, numerous incidents like that that we can point to.
+3050.80 3059.90 SPEAKER_01  But it does highlight, you know, if this guy was was genuinely having like a struggle over this and that being something that contributed to a suicide, it does kind of raise something that's a lesser known.
+3060.04 3062.08 SPEAKER_01  You know, everyone's kind of familiar with PTSD, right?
+3062.12 3063.24 SPEAKER_01  It's like, yeah, you're in combat.
+3063.46 3071.72 SPEAKER_01  You have like a physical stress response to noises or visual things or smells that kind of trigger how you were feeling in this situation where that was a combat situation.
+3071.72 3076.48 SPEAKER_01  I think that's the most understood thing among mental health issues facing veterans.
+3076.62 3081.86 SPEAKER_01  But there's this thing called moral injury that has a lot of weight as well that isn't PTSD at all.
+3081.92 3088.16 SPEAKER_01  It's something completely different where it's just the burden and the weight of having participated in things that conflict with your conscience.
+3088.44 3101.18 SPEAKER_01  And so that, you know, as as wild of a guy as it seems Livelsberger was, you know, it seems quite possible that he, you know, was suffering from moral injury in addition to PTSD and all the other shit that was and physical problems and all the other things that were going on in his life.
+3101.18 3107.32 SPEAKER_01  That obviously contributed to, you know, him taking this dramatic act, which, you know, at a base level was, you know, just another military suicide.
+3107.74 3123.32 SPEAKER_07  Not to mention attacks on drug labs, you know, in Afghanistan is a very funny thing to do considering like the entire like Afghanistan being converted to like a poppy Maine like export country was also at the hands of the U.S. military.
+3123.32 3124.16 SPEAKER_07  So, oh, yeah.
+3124.22 3128.74 SPEAKER_01  And the whole and the puppet president Karzai just being one of those big drug lords, you know.
+3128.92 3129.06 SPEAKER_01  Yeah.
+3129.38 3131.90 SPEAKER_01  The guys on the U.S. side were doing it also.
+3132.08 3135.56 SPEAKER_01  You know, they're getting rid of a certain kind of drug, the drugs that the Taliban were using for funding.
+3135.56 3136.20 SPEAKER_01  It's a drug turf war.
+3136.20 3137.14 SPEAKER_01  Not the drugs that the.
+3137.44 3142.56 SPEAKER_07  It's like a dealer taking out like the other dealer, the other dealer's operations.
+3142.56 3152.68 SPEAKER_07  So, Mike, during your recent appearance on Democracy Now!, you reference a study showing that service in the military has become the, quote, number one predictor of a mass casualty event.
+3152.80 3155.92 SPEAKER_07  So could you like could you explain the study a little bit for our audience?
+3156.16 3156.34 SPEAKER_01  Yeah.
+3156.34 3164.06 SPEAKER_01  So, you know, that fact comes from the National Consortium for the Study of Terrorism and Responses to Terrorism at the University of Maryland.
+3164.06 3168.02 SPEAKER_01  And so it's like the main grouping of academics that study terrorism.
+3168.02 3172.20 SPEAKER_01  You know, and they found that there's actually been quite an increase in this, too, since 2011.
+3172.64 3178.88 SPEAKER_01  But since 2011, there is about 45 incidents per year involving former members of the military.
+3178.88 3194.14 SPEAKER_01  And so between the years, they looked at the years between 1990 and 2022, 170 individuals with U.S. military backgrounds plotted 154 individual mass casualty terrorist attacks in the United States, which is, you know, more than five per year.
+3194.26 3201.62 SPEAKER_01  That is approximately 25 percent of all individuals who plotted mass casualty extremist acts during this span.
+3201.62 3211.40 SPEAKER_01  Veterans are only 6 percent of the U.S. population, yet 25 percent of mass casualty extremist attacks planned were, you know, people from the veterans community.
+3211.66 3215.54 SPEAKER_01  And 73 percent of those were associated with far right ideology.
+3215.84 3222.62 SPEAKER_01  You know, and this was reported by The Intercept, like the day after the attack, which gave data from their latest report that had previously been unreleased.
+3222.84 3227.30 SPEAKER_01  And so, yeah, I mean, that's the that's the fact is that, you know, more so than mental health.
+3227.30 3233.32 SPEAKER_01  You know, like people typically think of like, you know, mass shootings or mass casualty attacks, mental health being the number one identifier.
+3233.62 3236.56 SPEAKER_01  It's actually not. It's outpaced by having been in the military.
+3236.98 3240.76 SPEAKER_07  So why do you think military service is such a recurring factor in these incidents?
+3241.14 3244.08 SPEAKER_01  So, of course, there's a lot of different reasons for that.
+3244.16 3248.20 SPEAKER_01  You know, in the U.S., of course, we have a spectrum of social problems.
+3248.20 3256.68 SPEAKER_01  You know, we have epidemics of addiction, of suicide, of depression, of loneliness, of violence against women, of mass shootings and mass violence.
+3256.68 3262.20 SPEAKER_01  You know, like in 2024, there is an average of 11, you know, what are considered mass shootings per week.
+3262.36 3266.98 SPEAKER_01  You know, when it comes to mass casualty events by individuals like this, there is a lot of markers.
+3266.98 3270.64 SPEAKER_01  Right. I mean, America has a big gun culture with a lot of guns around.
+3270.80 3276.36 SPEAKER_01  We have a mental health crisis, which is, of course, rooted in despair and alienation and total lack of services.
+3276.36 3283.44 SPEAKER_01  And most of these perpetrators, you know, of mass violence in general are dudes or men who have like weird shit towards women.
+3283.56 3284.92 SPEAKER_01  So that's an element of it also.
+3284.92 3289.16 SPEAKER_01  So all of these things are really exacerbated in the U.S. military.
+3289.54 3297.62 SPEAKER_01  You know, there's, of course, many different consequences of having the biggest military empire the world has ever seen, which is kind of always at war on multiple fronts.
+3297.70 3305.54 SPEAKER_01  I mean, when you mentioned all the places that Leibelsberger had been in combat, most Americans wouldn't know that we were doing military operations in those countries.
+3305.54 3306.78 SPEAKER_01  And of course, there's many more.
+3306.88 3313.18 SPEAKER_01  And one of those consequences of having just a big military empire is the violence abroad coming back home.
+3313.18 3324.56 SPEAKER_01  In general, you know, America has a mass violence problem, which U.S. militarism, you know, plays into as just a dominant cultural future, you know, glorifying and exporting mass amounts of violence.
+3324.56 3334.56 SPEAKER_01  And also with a government that presides over this extreme level of social problems that refuses to do anything to address it, yet always continues to pour more and more money into the military industrial complex.
+3334.56 3338.56 SPEAKER_01  So we have a society now that's wracked with hopelessness and alienation.
+3339.36 3345.60 SPEAKER_01  Those consequences often manifest, as I mentioned, as like drug and alcohol addiction, homelessness, suicide, other diseases of despair.
+3345.74 3356.76 SPEAKER_01  But other times they manifest as destruction of others, not just self-destruction, be it domestic abuse, especially towards women, sexual assault, especially towards women, murder or other acts of violence.
+3356.76 3367.82 SPEAKER_01  So the U.S. military, which exists in this context of having a deeply disturbed and violent society, you know, targets people who in general are most impacted by those social problems.
+3368.04 3372.60 SPEAKER_01  You know, some number of them who already have mental health issues or a propensity for violence.
+3372.60 3382.00 SPEAKER_01  And, you know, I got to say that, especially during the peaks of the Iraq and Afghanistan war, there were people attracted to the military specifically because they had an attraction to violence or homicidal ideation.
+3382.00 3384.52 SPEAKER_01  And the military was a very welcoming place for those people.
+3384.52 3387.80 SPEAKER_01  Like if you wanted to go kill someone, there is a very easy way to do it.
+3387.84 3391.74 SPEAKER_01  You walk into the recruiter's office, sign up for infantry, and you're very likely going to be in Iraq.
+3391.84 3400.00 SPEAKER_01  And then, you know, there's sadly a lot of non-combatant Afghans and Iraqis who are dead because they had the misfortune of encountering people who joined for that reason.
+3400.00 3406.70 SPEAKER_01  So, you know, the U.S. military recruits about a quarter million people per year from this world, this country that we live in.
+3406.80 3412.04 SPEAKER_01  It takes these people into an institution that teaches you how to kill and actually makes killing seem very badass.
+3412.32 3417.96 SPEAKER_01  And, you know, that's kind of this hierarchy in the military is how close to direct killing are you, right?
+3418.02 3426.52 SPEAKER_01  So like Leifelsberger being at the top, being the special forces, you know, those are the guys that run into people's, do hard hits, you know, run into people's houses, shoot them in their beds and stuff like that.
+3426.52 3433.80 SPEAKER_01  And then there's just like a pyramid of how badass you are that really is connected to how much and what kind of killing that you do.
+3433.98 3440.24 SPEAKER_01  And so there's kind of this culture of violence in the military that's depicted in a different way, of course, internally.
+3440.72 3446.22 SPEAKER_01  You know, like, for example, when I was in, like, I can't tell you, like, how many times they made us watch the movie Black Hawk Down.
+3446.22 3456.28 SPEAKER_01  Like, especially when we were in training, it's like anytime there was downtime, it was like sit down and watch Black Hawk Down, which is a movie about a complete debacle where an idiot commander fucks up and gets a bunch of people killed.
+3456.42 3459.78 SPEAKER_01  But it's the military loves it because the guys do a lot of killing.
+3459.78 3460.48 SPEAKER_01  It's badass.
+3460.62 3463.42 SPEAKER_01  They're running around shooting people, like getting in crazy situations.
+3463.42 3469.00 SPEAKER_01  And so you're kind of indoctrinated with this, like, kind of fantasy world without actually seeing, you know, what really is happening.
+3469.00 3483.56 SPEAKER_01  So anyways, you take all these people from this already fucked up society, bring them into this world that's also fucked up and kind of probably compounds your problems if you have any mental health issues or propensities for this kind of stuff, and then spits them back out into a life that many find much harder than it was before they joined.
+3483.56 3485.14 SPEAKER_01  Jabbar being a great example.
+3485.36 3491.86 SPEAKER_01  Joined the military as a way to turn his life around, comes out of the military, and just all his failures are compounded in such a bigger way.
+3491.86 3500.18 SPEAKER_01  And so most people who deal with that, you know, don't go the route of Livelsberger and Jabbar, but some inevitably, some number of people are going to.
+3500.42 3504.36 SPEAKER_01  And that's why, you know, military service is, you know, just has become this top indicator.
+3504.76 3505.42 SPEAKER_04  I have a question.
+3505.68 3517.54 SPEAKER_04  Maybe you don't know the answer to, but a guy like Livelsberger, a Green Beret, top decorated, you know, special ops guy, how many people on average do you think he would, somebody like in his position would kill?
+3517.54 3519.16 SPEAKER_04  Are we dozens, hundreds?
+3519.40 3520.66 SPEAKER_04  I mean, I have no idea.
+3520.94 3521.72 SPEAKER_04  Impossible to tell.
+3521.86 3525.82 SPEAKER_07  Yeah, I mean, he's, I would say that like a- Are you asking for the KD ratio, you video game ass?
+3525.92 3532.98 SPEAKER_04  No, I just like want to know, like, are these guys coming back home with the conscience of like a hundred lives on, you know, on their conscience?
+3533.00 3533.54 SPEAKER_04  I don't know.
+3533.60 3534.44 SPEAKER_04  I have no idea.
+3534.44 3543.16 SPEAKER_04  The public has no idea what these guys do other than that, you know, I remember I had a friend who was, had like an older brother who was in the military.
+3543.38 3545.82 SPEAKER_04  He was not special forces or anything like that.
+3545.82 3550.52 SPEAKER_04  And it was like a big kind of like secret around the family that like he had killed six people.
+3550.52 3555.62 SPEAKER_04  And like he had told that in confidence to people and it kind of, and he was, you know, he had a couple screw loose.
+3555.70 3556.70 SPEAKER_04  So I'm just curious.
+3556.70 3565.92 SPEAKER_01  Well, you know, in special forces in particular, like, you know, your job is to command an army of locals that you kind of bring in as your fighters.
+3565.92 3573.96 SPEAKER_01  And so a lot of special forces guys, you know, they're in a lot of direct combat, but they're also commanding local forces to be kind of the front lines for them as well.
+3574.08 3578.54 SPEAKER_01  And so there's, of course, probably a lot of direct incidents Liversberger had where he's the one pulling the trigger.
+3578.54 3592.64 SPEAKER_01  But then you have all these, you know, indirect things where it's like you're commanding guys, a bunch of, you know, Afghan nationals that you have on your command that you're sending them into a village where you're knowing they're doing a bunch of fucked up stuff and acting way more outside the bounds of the rules of war that you are even abiding by.
+3592.64 3598.12 SPEAKER_01  And then, you know, in reference to his remorse about the bombings in Afghanistan, you also, you know, you're calling it indirect fire.
+3598.24 3600.44 SPEAKER_01  You're calling it airstrikes, especially in your special ops.
+3600.50 3603.14 SPEAKER_01  You have a lot of air support, which unleashes a huge amount of killing.
+3603.26 3609.44 SPEAKER_01  And so, you know, it's kind of impossible to tell for someone like Liversberger what, you know, what he would consider the number of people he killed.
+3609.58 3615.86 SPEAKER_01  I mean, of course, there's people he probably shot, but then there's also this, in general, what he was involved in was causing a lot of death as well.
+3615.86 3622.44 SPEAKER_02  He claimed in that letter he was involved in targeting for an operation that led to deaths of hundreds of civilians.
+3622.66 3626.44 SPEAKER_02  I, again, this, unfortunately, he was not a good state of mind when he wrote this letter.
+3626.58 3631.26 SPEAKER_02  So I'm not saying it's a very credible testimony, but he seemed to sincerely believe that.
+3631.34 3633.20 SPEAKER_02  And that, of course, that must have like weighed on him.
+3633.42 3634.30 SPEAKER_01  Yeah, it's pretty believable.
+3634.30 3644.04 SPEAKER_01  And, you know, we know from like the Iraq war logs released by WikiLeaks that, you know, and anytime there's these precision airstrikes happening, you're killing a lot of civilians with them.
+3644.04 3655.92 SPEAKER_07  So, you know, kind of taking a bit of a left turn here, I've seen a lot of conspiracy theories online about these kinds of violent incidents being coordinated or some sort of deep state plot.
+3656.14 3660.78 SPEAKER_07  I know people point a lot to, you know, Fort Liberty or formerly known as Fort Bragg, for instance.
+3660.98 3671.66 SPEAKER_07  I mean, what do you make of this specific claim that, you know, that this is some sort of coordinated thing, that it could be a type of strategy of tension to ratchet up support for the military?
+3671.66 3681.12 SPEAKER_01  Yeah, well, Jabbar, you know, people point to Jabbar and Livalsberger both having been at Fort Bragg, which, you know, if you know anything about the army, that is not unusual at all.
+3681.24 3683.10 SPEAKER_01  It's the biggest base by population.
+3683.44 3687.96 SPEAKER_01  You have about 100,000 soldiers there at any given time, but they're cycling in and out.
+3688.04 3696.90 SPEAKER_01  It's not like there's 100,000 soldiers and every four years a new batch of 100,000 comes in and people are constantly leaving, coming in there for training, there for duty stations and things like that.
+3696.90 3699.08 SPEAKER_01  And also they were not even there at the same time.
+3699.08 3704.86 SPEAKER_01  So if over a 20 year period, everyone has been in the army, you're gonna have a lot of people who are in the army who were at Fort Bragg.
+3704.88 3716.24 SPEAKER_01  But it's not even just that, you know, the kind of culture at Bragg is it's not just any military base, which I think is another reason why it's not suspicious that both these guys served at Bragg who went on to do obscene things, right?
+3716.38 3723.12 SPEAKER_01  It houses, you know, not just the army's core conventional units like the 82nd Airborne, but the U.S. Army Special Operations Command.
+3723.12 3731.44 SPEAKER_01  So Ranger Regiment, the Green Berets, the black ops component of the military, like the Navy, like Navy's SEAL Team 6, Army's Delta Force.
+3731.58 3742.78 SPEAKER_01  So all the really like dark shit that the army does, like people are going there to Bragg or now Fort Liberty to train to do that stuff, to receive the training and to be sent overseas to actually do it.
+3742.78 3747.08 SPEAKER_01  And so the culture at Bragg is one that is marked by that.
+3747.20 3756.50 SPEAKER_01  Even if you're not directly in those things, imagine that environment of being all of the black ops of the military are kind of housed there and sent around the world and then back to Bragg.
+3756.50 3761.08 SPEAKER_07  Yeah, and there's a huge culture there of, you know, lots of suicides.
+3761.46 3763.38 SPEAKER_07  There's like drug running rings.
+3763.68 3766.88 SPEAKER_07  There's tons of child abuse happening there.
+3767.02 3772.12 SPEAKER_07  You know, it is also just by the numbers a very dark place.
+3772.44 3772.78 SPEAKER_01  Absolutely.
+3773.08 3780.04 SPEAKER_01  I mean, there's actually a book coming out soon about this by a journalist named Seth Harp, who's also an Iraq war vet who became anti-war.
+3780.04 3790.60 SPEAKER_01  But he started investigating this in 2020 because in 2020 at then Fort Bragg, there were 44 soldiers on base who died that year that were kind of unsolved deaths.
+3790.84 3795.88 SPEAKER_01  And quite a number of them were clearly homicides, like execution type like homicides.
+3795.88 3805.66 SPEAKER_01  And so and what he's been able to uncover is that, you know, you have like Navy SEALs there who are not just doing a lot of cocaine and MDMA and heroin, but are also like trafficking it.
+3805.72 3810.62 SPEAKER_01  And there's almost like drug gang wars happening on the base between different soldiers and things like that.
+3810.68 3814.08 SPEAKER_01  You know, that's I don't know if that's the best description of it, but it's basically the gist.
+3814.16 3821.92 SPEAKER_01  I mean, so you have all of these issues of high levels of domestic abuse, of child sexual abuse, of sexual abuse in general, which is endemic to the military as it is.
+3821.92 3825.64 SPEAKER_01  But then, you know, this kind of mystique of special operators, right?
+3825.74 3833.78 SPEAKER_01  I mean, we're so kind of it's a kind of all around us in U.S. culture that special operators are just the coolest, most badass, professional silent killers.
+3834.08 3837.74 SPEAKER_01  But when you look at the kind of stuff they're engaged in, it kind of demystifies that.
+3837.86 3842.76 SPEAKER_01  It's that, you know, they're doing drugs, running drugs, killing each other, killing their wives, stuff like that.
+3842.84 3848.56 SPEAKER_01  You know, it reminds me of like, you know, when I got back from Iraq in 2004, you know, I was stationed at Fort Drum.
+3848.56 3855.90 SPEAKER_01  You know, there is all of these there is this kind of rash of killings of special forces guys coming home from Iraq and killing their wives.
+3855.90 3862.90 SPEAKER_01  And it ended up being spun into like this conspiracy theory rumor that it was because all of the drugs and vaccines that they gave us before we deployed.
+3862.90 3868.02 SPEAKER_01  Because, you know, they inject you with 20 different things, puts you on some weird malaria medication that gives you scary dreams.
+3868.02 3871.06 SPEAKER_01  And that that's why all these guys were coming back and killing their wives.
+3871.22 3875.10 SPEAKER_01  When kind of the obvious answer is these guys are just running around Iraq killing people for a year.
+3875.36 3881.20 SPEAKER_01  It had all this, you know, misogynist baggage as well, compounding it, come home and then are carrying out violence against women.
+3881.30 3882.54 SPEAKER_01  I mean, that's kind of the obvious answer.
+3882.64 3890.14 SPEAKER_01  But, you know, the the environment that these people exist in, it could kind of you can spin into something that there's some other explanation other than the obvious one.
+3890.22 3891.90 SPEAKER_01  But it's, you know, kind of the obvious one.
+3891.90 3898.80 SPEAKER_07  There's another conspiracy theory linking you to Chelsea Manning and Spencer Rapone because you all three served in Fort Drum.
+3898.86 3901.88 SPEAKER_07  So I'm going to give you one last chance to come clean, Mike.
+3902.14 3902.56 SPEAKER_01  Oh, yeah.
+3902.68 3911.14 SPEAKER_01  Well, you know, I mean, we are part of a PSYAP that, you know, we turn people against the military, but with a secret agenda to help the military.
+3912.98 3913.38 SPEAKER_04  Devious.
+3913.38 3926.10 SPEAKER_04  But like if you ask the conspiracy theorists like about Fort Bragg or now Fort Liberty, like everything you just listed about the drugs and the runnings and the homicide and the violence, like all of these are wildly fascinating phenomenon.
+3926.36 3928.28 SPEAKER_04  You know, bad stuff, but fascinating nonetheless.
+3928.50 3930.36 SPEAKER_04  And yet you ask the conspiracy theorists about it.
+3930.42 3932.06 SPEAKER_04  And it's like, oh, well, it's MK Ultra.
+3932.06 3942.04 SPEAKER_04  They're being they're being MK Ultra at the base and turned into human bombs, essentially, that can be triggered for political gains here, here and there.
+3942.04 3947.84 SPEAKER_04  It's just like it's once again, it's like there's all this real stuff that's very much worth being looked into.
+3948.12 3957.28 SPEAKER_04  And yet the conspiracy community, the first thing I saw when when people started linking these two terrorist attacks together, they both had been at Fort Bragg is they were like MK Ultra.
+3957.56 3958.44 SPEAKER_04  Definitely MK Ultra.
+3958.56 3959.92 SPEAKER_04  What's going on at Fort Bragg?
+3960.08 3961.42 SPEAKER_04  You know, it's it's it's crazy.
+3961.50 3962.76 SPEAKER_04  It's just like they rely on the hits.
+3962.96 3964.02 SPEAKER_07  It's not enough, man.
+3964.06 3965.22 SPEAKER_07  It's never enough, dude.
+3965.28 3967.36 SPEAKER_07  You got to have it be better, juicier.
+3967.46 3971.02 SPEAKER_07  The story's got to be somehow, you know, we all need a little something extra.
+3971.02 3973.24 SPEAKER_07  Because otherwise this is some pretty grim business.
+3973.48 3973.58 SPEAKER_04  Right.
+3973.68 3989.18 SPEAKER_04  It's like it's like there's there's this need for people, especially, you know, on the right wing to take some of the ownership out of like this violence, you know, and these like horrible acts, especially if they've spent a lot of their energy, you know, championing military and veterans.
+3989.18 3991.92 SPEAKER_04  And, you know, they might be vets themselves.
+3992.06 4002.90 SPEAKER_04  Nobody really wants to come to terms with the idea that this job essentially leaves people, you know, so wounded that they come back and they, you know, carry out these these horrible acts.
+4002.98 4004.26 SPEAKER_04  And so to say, oh, it's MK Ultra.
+4004.26 4006.00 SPEAKER_04  They were programmed to be like this.
+4006.06 4010.06 SPEAKER_04  And somebody gave them the code word and they went to the cyber truck and blew themselves up.
+4010.26 4012.40 SPEAKER_07  Like, I mean, yeah, it's the fantasy of competence.
+4012.40 4012.74 SPEAKER_07  Right.
+4012.76 4016.10 SPEAKER_07  It's like, no, it's not enough that like this is a giant evil enterprise.
+4016.42 4016.54 SPEAKER_05  Yeah.
+4016.54 4022.06 SPEAKER_07  They also have to be super intelligent and they have to have smart targeting and they have to know exactly what they're doing.
+4022.20 4024.28 SPEAKER_07  It's like, yeah, I don't know.
+4024.36 4025.54 SPEAKER_07  I mean, sometimes that's true.
+4025.86 4026.60 SPEAKER_07  Sometimes that's true.
+4026.60 4028.58 SPEAKER_07  But but in this case, I don't know.
+4028.68 4029.36 SPEAKER_07  What do you make of it, Mike?
+4029.68 4036.86 SPEAKER_01  Yeah, no, it's the same as like, you know, the the Trump attempted assassins and these people always want to try to make it into something else other than that.
+4036.94 4039.76 SPEAKER_01  This is just very American things that are happening.
+4040.08 4056.18 SPEAKER_01  You know, I know that I don't want people to just like be scared of veterans because like veterans have all these markers because, you know, most people who go into military come out, you know, whether or not they're dealing with their own personal struggles, you know, are not the type of people like Jabbar or Livalsberger and things like that and can go on to lead kind of normal and healthy lives.
+4056.18 4067.84 SPEAKER_01  But, you know, we do see we do have to explore like kind of the ecosystem that they are coming out of and why it is a phenomenon that there are people who are capable of committing mass violence who are being churned out of the military.
+4068.10 4072.56 SPEAKER_01  You know, there's the things that kind of link these two guys, like obviously mental health is like a big one.
+4072.84 4081.74 SPEAKER_01  And, you know, the the army in particular, you know, both of these guys being in the army, the army is a huge institution with a lot of resources and a lot of fucking money.
+4081.74 4087.94 SPEAKER_01  You know, it could be a place that sees people struggling with mental health issues and is able to actually help these people.
+4088.26 4090.28 SPEAKER_01  But really, you know, we see the opposite.
+4090.28 4098.82 SPEAKER_01  And I think going back to like what, you know, what really is the cause of this stuff, you know, you know, the suicide rate and the active duty military is on average like more than one per day.
+4098.82 4104.56 SPEAKER_01  And that doesn't include, you know, among veterans, it's like seven per day when you include people who, you know, go and get out of the military.
+4104.64 4106.74 SPEAKER_01  And among veterans, it's 60 percent higher than the general population.
+4106.74 4110.90 SPEAKER_01  So there's something about the military that makes you more likely to commit suicide.
+4110.90 4116.38 SPEAKER_01  But also it's higher if you have been in combat or in a combat role and exposed to this stuff.
+4116.46 4118.08 SPEAKER_01  But that doesn't mean that all of them are from that.
+4118.08 4133.24 SPEAKER_01  I mean, it just goes back to this idea that you are taking people who are already in a fucked up life position or have bad experiences or kind of have more propensity to this kind of thing or more likelihood of mental health issues, taking them into into an institution that just makes those things worse.
+4133.24 4138.06 SPEAKER_01  And so that's why you have a high number of suicides in the military that are people who never deployed at all.
+4138.28 4145.20 SPEAKER_01  And, you know, just just to give an example of why that is, it's like the military's goal is just to keep people to maintain the fighting force.
+4145.20 4154.52 SPEAKER_01  Right. If they let everyone out who's like, I'm suicidal or I'm struggling with depression or whatever, you know, they'd be losing hundreds of people all the time and having to give them benefits and things like that.
+4154.60 4159.90 SPEAKER_01  The goal of the military command is to keep people keep people fighting and to keep their numbers up and all that shit.
+4159.90 4172.50 SPEAKER_01  And so just one kind of personal anecdote of a case that I worked on, you know, this is back in 2010, 2011, where there was a soldier who was ordered to murder an injured combatant in Iraq in a really gruesome way.
+4172.62 4182.20 SPEAKER_01  He tried to commit suicide in Iraq, sent home, tried to commit suicide on his trip home, got to his base, tried to commit suicide a third time, was sent to Army Mental Health.
+4182.28 4185.10 SPEAKER_01  And they said, this guy is a low risk for suicide.
+4185.10 4189.22 SPEAKER_01  His command then ridiculed him and then put him in a barracks room by himself where he eventually hanged himself.
+4189.52 4193.32 SPEAKER_01  And, you know, working with soldiers in his unit, kind of everyone was going through the same thing.
+4193.40 4198.56 SPEAKER_01  You had guys coming back from a horrible deployment who were telling the mental health care on the base, I am suicidal.
+4198.74 4200.88 SPEAKER_01  I am going to kill myself or I have PTSD.
+4201.28 4205.26 SPEAKER_01  And the commander on the base, he ended up getting fired as a result of our organizing there.
+4205.36 4207.64 SPEAKER_01  He was just ordering the doctors, don't diagnose PTSD.
+4207.88 4210.14 SPEAKER_01  Say these are pre-existing conditions.
+4210.14 4213.70 SPEAKER_01  And then they were trying to deploy them all back to Iraq and to Afghanistan again.
+4213.86 4218.12 SPEAKER_01  And so that's just a little snapshot of what the kind of environment a lot of these people are existing.
+4218.26 4224.50 SPEAKER_01  And so someone like Leibelsberger, who, you know, there's a stigma around seeking help for mental health issues in general.
+4224.50 4226.02 SPEAKER_01  So it causes people to not.
+4226.20 4238.46 SPEAKER_01  And then even when people do, they're kind of put through this ringer where it kind of makes things worse, when the army could be serving a purpose of actually catching these people before they commit suicide and or going out and committing, you know, a terrorist attack or something like that.
+4238.46 4246.12 SPEAKER_01  Of course, there's other things that play into it, like the right wing aspect, you know, the data I gave at the beginning, the fact that almost 75 percent of these people have right wing ideologies.
+4246.26 4250.50 SPEAKER_01  I mean, that's a whole other can of worms, but that's something that is definitely relevant as well.
+4250.50 4251.08 SPEAKER_07  Well, yeah.
+4251.20 4256.72 SPEAKER_07  Thanks so much, Mike, for lending your expertise to a pretty fucking grim episode to kick off 2025.
+4257.18 4258.12 SPEAKER_07  What are you going to do, folks?
+4258.68 4260.56 SPEAKER_07  The fires made us do it.
+4260.68 4261.98 SPEAKER_04  I was going to say, yeah.
+4262.32 4265.72 SPEAKER_04  And I know we've been talking about suicide a lot on this.
+4265.72 4272.52 SPEAKER_04  And Mike, do you do you know offhand, are there resources for veterans who are struggling with with mental health?
+4272.88 4276.30 SPEAKER_04  Something that's that's worth plugging after talking about all this stuff?
+4276.50 4276.64 SPEAKER_01  Yeah.
+4276.68 4278.78 SPEAKER_01  You know, maybe I could we could add some to the description.
+4278.78 4287.52 SPEAKER_01  But, you know, any anyone who's been in the middle, like you call any time you try to call the V.A., the first thing you hear in the recording is if you are having thoughts of suicide, press this number, call this number.
+4287.68 4297.36 SPEAKER_01  And so, you know, the V.A., of course, is much better than the military of dealing with it because, you know, they're they're in the business of helping veterans where the military is in the business of keeping them fighting so they can send them somewhere.
+4297.58 4299.76 SPEAKER_01  And so, you know, it's once people get out, it's a lot easier.
+4299.76 4302.40 SPEAKER_01  But when people are still in, that's where it's really rough.
+4302.52 4314.54 SPEAKER_01  And really the best resource for those people who are in and in a bad situation is calling the GI Rights Hotline, which you could find at girightshotline.org, because there's absolutely ways for you to get out of that situation.
+4314.64 4319.62 SPEAKER_01  It seems really difficult, but you can get out of the military really fast through a variety of ways if that's what you need to do.
+4319.62 4321.24 SPEAKER_01  And those are the people to be able to help you.
+4321.24 4324.04 SPEAKER_07  Great. We'll we'll add links in the description.
+4324.62 4335.14 SPEAKER_07  And I guess we'll also add some links for people who want to help with supporting people who are displaced by the fires and dealing with with all of that.
+4335.32 4344.56 SPEAKER_07  So, yeah, fucking Micah, is there anything that you'd like to shamelessly plug other than obviously these very important resources?
+4344.56 4360.88 SPEAKER_01  Yeah. You know, I think as a way to maybe end on a high note and not just the dark downer note is that it's not like a lot of veterans go through a very opposite experience where they end up being transformed by what they participate in and move to try to turn those things into something positive.
+4360.88 4370.64 SPEAKER_01  And there are so many people historically throughout the history of the United States who have, you know, become part of movements for good, trying to right the wrongs that they are a part of in the military.
+4370.64 4379.52 SPEAKER_01  And so, you know, they're at Eyes Left, you know, the podcast that I do to, you know, we have a lot of those stories there where you can hear those transformation stories from people who were in.
+4379.64 4387.64 SPEAKER_01  And in fact, the most recent episode that we did on that is a guy who is a Green Beret, just like Leibelsberger, who was in Afghanistan, you know, close to the same time that Leibelsberger was.
+4387.64 4394.16 SPEAKER_01  And took those experiences in a very different direction and is now an anti-war activist and advocate and things like that.
+4394.24 4396.56 SPEAKER_01  And so there's, you know, there's other directions people go.
+4396.76 4407.30 SPEAKER_01  And I think that, you know, the more that we can try to bring those people into our world, right, because, you know, as I mentioned earlier, most of these incidents are people are veterans who have been attracted to right wing politics.
+4407.30 4414.56 SPEAKER_01  And there's a huge history there. People can go back and check out that episode on the J6, incarcerated J6 people for that full history.
+4414.86 4418.08 SPEAKER_01  But there is a the right wing is strategically trying to bring these people in.
+4418.20 4428.42 SPEAKER_01  The right wing from Identity Europa and Oath Keepers and Proud Boys, like all of these organizations seek out disaffected, struggling veterans to try to bring them into organizations.
+4428.42 4437.32 SPEAKER_01  And to say that the answer to your suffering is to be around a bunch of bros who want to go out and fight people and save our country and whatever shit that they use.
+4437.48 4439.22 SPEAKER_01  So that the right wing very much focuses on this.
+4439.30 4444.66 SPEAKER_01  And so it's very important for those who are not on the right wing to be able to counter that pull that exists.
+4444.82 4455.26 SPEAKER_01  And so that's, you know, I think learning as much as you can about it and knowing how to communicate and reach out to people in this community, if you're not a vet yourself, is an important task for those who consider themselves progressives.
+4455.26 4464.82 SPEAKER_07  Great. And definitely, you know, if you're a listener, watch out for the Earth's greatest enemy, which is coming out, you were saying, later this year?
+4465.10 4474.68 SPEAKER_01  Yeah. Another film about the consequences of empire, about how much the U.S. military is destroying the planet, which factors very much in to the crisis y'all are dealing with down there in Southern California.
+4475.10 4479.44 SPEAKER_07  That's right. OK. And then that's the end of our big comeback episode.
+4480.06 4481.58 SPEAKER_07  Jake, how are you feeling?
+4481.68 4482.70 SPEAKER_04  Sorry it wasn't happier.
+4482.70 4487.00 SPEAKER_07  Well, sometimes things can be a little bit like that.
+4487.06 4488.20 SPEAKER_04  There was some uplifting stuff at the end.
+4488.30 4492.64 SPEAKER_04  And, you know, it's important to remember that you don't hear about the good things.
+4492.72 4502.30 SPEAKER_04  You don't hear about the Green Beret who got out of the military and, you know, turned their life around or used that energy to try to spread good in the world.
+4502.42 4504.98 SPEAKER_04  We hear about these horrible things that happen on the news.
+4505.12 4509.54 SPEAKER_04  So I think it's a good reminder from Mike that good things do happen.
+4509.54 4511.82 SPEAKER_04  There are good things happening out in the world.
+4511.82 4514.38 SPEAKER_04  Los Angeles has been incredible, actually.
+4514.58 4520.18 SPEAKER_04  Don't you know, there are places that are turning away donations because people have brought the mutual aid has been really heartwarming.
+4520.44 4523.06 SPEAKER_04  So much people are getting involved in ways.
+4523.22 4531.36 SPEAKER_04  And, you know, L.A. has this reputation of kind of being selfish and standoffish and, you know, every every person for themselves.
+4531.36 4545.78 SPEAKER_04  But in the wake of this, it's been kind of incredible to see everybody that's in my, you know, immediate and extended circle doing whatever they can to provide help if they were lucky enough to not have their home destroyed in these fires.
+4545.78 4551.96 SPEAKER_07  And if you're a local looking to help or even outside of the city or state, you can go to Mutual Aid LA.
+4552.34 4554.48 SPEAKER_07  We'll put a link in the description as well.
+4554.62 4558.32 SPEAKER_07  There's plenty of different ways that you can find to be helpful.
+4558.58 4559.70 SPEAKER_07  We love you very much.
+4559.82 4568.46 SPEAKER_07  Thank you for, you know, being patient with us as we kind of displaced and undisplaced and shifted around with all of these evacuation warnings and stuff.
+4568.46 4574.28 SPEAKER_07  But we are back in the podcasting seat and we will have Liv back as well on the next premium.
+4574.70 4577.62 SPEAKER_07  Some sort of illness due to acid reflux.
+4577.88 4579.48 SPEAKER_07  Just blowing up her spot.
+4579.70 4580.02 SPEAKER_07  Yeah.
+4580.18 4580.74 SPEAKER_07  Sorry, Liv.
+4581.38 4582.82 SPEAKER_07  We got to give some reason.
+4582.94 4585.18 SPEAKER_07  Otherwise, it feels like we're just keeping her away.
+4585.28 4585.50 SPEAKER_07  Yeah.
+4585.60 4586.34 SPEAKER_07  Not a fact.
+4586.60 4587.96 SPEAKER_07  No, we want Liv.
+4588.14 4588.74 SPEAKER_07  Liv Agar.
+4589.08 4589.70 SPEAKER_07  Liv Agar.
+4590.06 4592.92 SPEAKER_07  This is just me imitating the comments below every episode.
+4593.06 4593.66 SPEAKER_07  Liv Agar.
+4594.00 4594.66 SPEAKER_07  That's you.
+4594.76 4595.10 SPEAKER_07  That's you.
+4595.16 4595.82 SPEAKER_07  That's all of you.
+4595.94 4597.38 SPEAKER_07  And we love you for it.
+4597.38 4598.38 SPEAKER_07  Thank you for listening.
+4598.46 4600.62 SPEAKER_07  To an episode of the QAA podcast.
+4601.06 4608.44 SPEAKER_07  If you want to sign up for more of our stuff, five bucks a month will get you access to a second episode for every main.
+4608.84 4613.52 SPEAKER_07  And you can find those at Patreon.com slash QAA.
+4614.72 4618.96 SPEAKER_07  Jake, any message of love?
+4619.40 4624.50 SPEAKER_04  Listeners, until next week, I know the deep dish will bless you and keep you.
+4624.50 4634.68 SPEAKER_06  We have auto-keyed content based on your preferences.
+4634.88 4641.44 SPEAKER_00  I was told that Donald Trump has been receiving regular updates on the situation on the ground in New Orleans.
+4641.44 4645.58 SPEAKER_00  He is being briefed on this by a source familiar with the matter.
+4645.64 4651.70 SPEAKER_00  But I want to read for you what Donald Trump posted this morning in reaction to everything that's unfolding down there in New Orleans.
+4651.70 4658.68 SPEAKER_00  He wrote, quote, Our hearts are with all of the innocent victims and their loved ones, including the brave officers of the New Orleans Police Department.
+4659.14 4666.64 SPEAKER_00  The Trump administration will fully support the city of New Orleans as they investigate and recover from this act of pure evil.
+4666.64 4673.14 SPEAKER_00  Now, as you mentioned, Phil, Donald Trump also kind of commented on the crime rate in the United States.
+4673.24 4676.10 SPEAKER_00  I'm going to read this for you, too, as well, and then explain a bit.
+4676.24 4707.32 SPEAKER_00  So he said, quote, Now, to be clear, we actually have some new reporting from our colleagues, Evan Perez and Priscilla Alvarez, and they are reporting that the suspect in Wednesday's deadly New Orleans crowd attack was a U.S. citizen, according to a source familiar with the matter as well, telling that to our colleagues.
+4707.52 4711.94 SPEAKER_00  So, look, I think, you know, there's still a lot of questions that need to be answered here.
+4712.08 4716.72 SPEAKER_00  Officials have not really released additional information on the suspect, but he is a U.S. citizen.
+4716.90 4723.10 SPEAKER_00  So that part of Donald Trump's statement kind of speculating about the suspect's identity, we're told is not true.
+4723.10 4730.68 SPEAKER_00  He is a U.S. citizen. But Donald Trump, of course, weighing in and saying that his incoming administration will do what they can to help with this investigation, Phil.

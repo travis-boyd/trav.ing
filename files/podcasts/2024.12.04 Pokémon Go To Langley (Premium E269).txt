@@ -1,0 +1,2339 @@
+T Sumters
+Ooh
+A
+O
+A
+O
+A
+O
+Oh
+If you're hearing this, well done.
+You have found a way to connect to the internet.
+Welcome to the QAA Podcast Premium Episode 269.
+Pokemon Go to Langley.
+As always, we are your hosts, Jake Rokotansky,
+Liv Aker,
+Julian Fields,
+and Travis View.
+Remember the summer of 2016?
+American gymnast Simone Biles made her Olympic debut in Rio de Janeiro,
+dazzling the world with her generational talent.
+The Netflix series Stranger Things made captivating television
+by combining horror, mystery, conspiracy theories, and 80s nostalgia.
+And the two major political parties hosted their national conventions,
+the Republican one showcasing a party bitterly divided over the nomination of Donald Trump,
+who was surely headed to a spectacular defeat in November.
+And on top of all that, a new gaming craze swept the nation and the world.
+Millions were engrossed with the innovative augmented reality game, Pokemon Go.
+Rather than being a game that is played on a user's phone,
+it's a game played in the real world through the phone.
+By using the smartphone's camera and GPS,
+users traveled through the physical world to track down and capture Pokemon.
+Getting the Pokemon means pointing the phone's camera in physical space,
+seeing a digital Pokemon superimposed on the screen and tapping it to throw a Pokeball.
+Finding better Pokemon requires users to leave their house and explore landmarks and parks where they typically spawn.
+Getting Pokeballs or potions means finding PokeStops at landmarks and public buildings.
+It was a smash hit and possibly proof that our smartphone addiction
+could be perfectly compatible with going outside, getting exercise, and socializing.
+I did play some of that game at the beginning.
+I was very fond of that.
+That was the summer before I went to university.
+I just went around Vancouver catching Pokemon.
+It was great.
+So you were like 12 as a precocious graduate?
+Yeah, yeah, yeah.
+I played it with my daughter.
+And I remember what I really liked about it is I drove down to Balboa Park in San Diego.
+I don't know if you've ever driven an adolescent girl somewhere she wasn't really excited to go.
+But they kind of go mentally limp.
+They're not really excited to go there.
+But then you give them Pokemon Go and they say, go find Pokemon.
+All of a sudden, they're in charge.
+I'm following her, figuring out where she wants to go.
+And they're a lot more engaged in the environment.
+And yeah, it was a lot of fun.
+Happy memories, which have been tainted by the strangeness around the game.
+I actually never played Pokemon Go.
+It's weird.
+Whoa, that is kind of weird.
+I just think video games belong in the video game world, not in my real world.
+The part that Jake didn't like was he had to leave his house.
+Well, I just didn't like it.
+I don't like digital characters superimposed over photorealistic real video capture.
+I don't know.
+It's just not my thing.
+It's like two worlds that shouldn't fly.
+They should be separate.
+What Jake is not telling you is that he captured a lot of low-level Pokemon directly in front of his toilet.
+And then he was done.
+Now, for a children's game about collecting fighting monsters, Pokemon Go sure has inspired a lot of paranoia over the past eight years.
+Privacy advocates expressed concern because playing the game requires allowing the developer to have extensive access to your mobile phone, including the camera, storage, GPS, Bluetooth, contacts, and pretty much everything else.
+What's more, governments around the world became concerned that the game is a front for a massive crowdsourced intelligence gathering system.
+And just last month, the company that developed Pokemon Go, Niantic, announced that they have, in fact, used location-based player data to build an artificial intelligence geospatial model.
+This is another huge W for China.
+They were like, nah.
+Nope.
+This is illegal.
+Now, the whole thing opens up questions about how much privacy we have to give up just to play a game on our phones, what our data is being used for, and the relationship between the tech industry and the security state.
+So today, we're going to explore those questions and hopefully arrive at just the right amount of paranoia.
+Not too crazy, not too naive, just right.
+The sweet spot.
+It's not like it's going to change anything I do about the world.
+It's just to not be owned, you know?
+Yeah.
+Well, you know, here's the thing.
+I think that being owned stings less when you know it's going to happen beforehand.
+Okay, I'm going to tell, you know, these massive corporations everything about my life, but I know it's happening.
+So I got you, really.
+It sounds like Travis was given a crash course on perception management by his handler.
+He's like, let me tell you how paranoid you should be.
+So, yeah, I did some research into how Pokemon came to be and the concerns surrounding it.
+And probably the most interesting thing I sort of put together is that Pokemon Go only exists because of 9-11.
+So it's a long chain of events.
+But, yeah, they're there.
+I'll get to that.
+What?
+Yeah.
+Now, the short version of the story of Pokemon Go is that back in 2001, entrepreneur John Hankey founded a company called Keyhole, which made interactive earth visualization software.
+It struggled for years before it was saved from bankruptcy by its use in television news reports.
+This gave it enough buzz to earn an investment from In-Q-Tel, a not-for-profit venture capital firm owned by the CIA.
+And once the company was back on its feet, it was acquired by Google.
+So and then John Hankey developed Google products like Google Maps.
+And then within Google, he founded the company Niantic, which went on to eventually create Pokemon Go.
+Now, you know, it sounds a little strange and spooky that the CIA is sort of like venture capital firm would be interested in this early company.
+But I should point out that this is this is not unusual that that there's some sort of relationship between defense and Intel and tech companies.
+So Google's relationship to defense and Intel goes back to its very conception.
+The search technology that would eventually be used by Google was developed in the 90s by founders Sergey Brin and Larry Page when they were a Ph.D.
+computer science students at Stanford.
+So this research was partially funded by the Defense Advanced Research Projects Agency or DARPA.
+I don't like any of this.
+I don't like DARPA and funding and companies nonprofit owned by the CIA.
+It just feels a little dark.
+This is such a conspiracy W because, you know, like this feels like a post you would find on r slash conspiracy in 2017.
+And we're like, you know, Niantic was bought by the CIA.
+And it's like, OK, dude, sure.
+And just remember, these are the ones we are finding out about.
+Yeah, yeah.
+This research for the technology that made Google.
+Yeah, it was funded by DARPA.
+This is the branch of the Pentagon develops new technology.
+And I do want to point out, like the DARPA involvement was never hidden.
+In fact, in the foundational 1998 paper by Sergey Brin and Larry Page that was titled The Anatomy of a Large-Scale Hypertextual Web Search Engine.
+And in that paper, they tip their hat in the acknowledgment section, which says this.
+Funding for this cooperative agreement is also provided by DARPA and NASA.
+So, yeah.
+Does this soothe you, Travis?
+Does this soothe you?
+Well, no.
+I mean.
+Oh, they're not hiding it.
+Oh, that's good.
+Hey, there's a visible part of an iceberg.
+I bet there's nothing underneath.
+Google, like many large tech companies, is also a government contractor.
+The relationship between Google and the NSA goes back to at least August of 2003 when the company entered into a $2.07 million contract with the agency.
+According to documents acquired through the Freedom of Information Act by the nonprofit organization Consumer Watchdog, the NSA paid Google for a search application capable of searching 15 million documents in four languages.
+John Hanke, founder of Niantic, actually had some experience working for the government in his youth.
+After graduating as an arts and science major from the University of Texas at Austin in 1989, he took a job in the U.S. Foreign Service in Washington, D.C.
+And then in the U.S. Embassy in Myanmar.
+Now, as far as I can tell, he's never really detailed the work that he did.
+In an interview with Wired, he said that it was, quote, just foreign affairs stuff.
+And in an interview with the Financial Times, he said, quote, I was third secretary and doing a bit of everything as one does.
+A bit of everything.
+As one does.
+Nothing to see here, folks.
+So Hanke actually started his career as a tech entrepreneur in gaming.
+Early in his career, he founded Archetype Interactive, where he helped develop a game called Meridian 59.
+This was one of the first commercial MMORPGs.
+But he really found this calling in 1999, when he was shown a new graphics technology being developed by a startup gaming company called Intrinsic Graphics.
+Now, the system could be used on a normal PC, but it displayed a globe textured with images and allowed the user to zoom in and out of cities.
+The demo gave the feeling of, like, traveling through space.
+Hanke thought the technology could be paired with high-resolution satellite imagery, which was just being commercially available,
+to create digital representations of Earth that a user could essentially move through.
+Intrinsic Graphics wanted to remain a games business, though, so John Hanke struck a deal that allowed him to use the technology for a new company called Keyhole Inc.
+The name was a reference to the Keyhole spy satellites that replaced the U-2 spy plane.
+It was also, according to him, a tongue-in-cheek reference to author Tom Clancy's habits,
+of calling any overhead intel gathering system Keyhole.
+Keyhole's main product was called EarthViewer.
+And what they did is they transformed these satellite images and aerial photography into an interactive, like, video game-like experience.
+It was originally marketed to businesses, which paid anywhere from $599 to thousands per year in order to access it.
+A major market was, they thought, commercial real estate people.
+The idea is that you could use these images, these overhead images, to measure plots of land.
+But there was also a consumer version, which cost just $49 per year.
+Keyhole had the misfortune of being incorporated in 2001, right when the dot-com bubble burst,
+and venture capitalists became much more selective in who they gave money to.
+Desperate to pay the bills, Keyhole tried a lot of strategies to make ends meet.
+You know, they tried to develop into the Japanese market.
+They cut their pay.
+They tried to pay their employees in equity.
+But in 2003, Keyhole caught a break that saved the business.
+In March of that year, the United States military invaded Iraq.
+The San Jose Mercury News put it this way.
+It wasn't long after the bombs began erupting in Iraq that all heck broke loose at a two-year-old Silicon Valley startup called Keyhole.
+As they say, war is heck.
+What changed is that the war allowed Keyhole to secure a long-negotiated deal with CNN.
+Specifically, CNN reporter Miles O'Brien used the technology to zoom into areas of interest in Iraq,
+while at the same time giving a shout-out to the company,
+while the URL earthviewer.com displayed at the top of the screen.
+Walk us through the strategy of Basra as we take a look at some satellite imagery from our friends at Keyhole Graphics Digital Globe.
+First of all, I want to highlight what we're talking about here.
+As you know, of course, U.S. forces are staged all along that border there.
+And right in this spot right here is Basra.
+Now, as we move in a little bit closer, let's talk about, well, let's give people the lay of the land, shall we?
+At the time, this stuff was mind-blowing.
+It had, like, this 3D map of Earth that allowed you into, like, real-time just, like, zoom in to any part of it.
+It was like flying on the computer.
+According to the book Never Lost Again by early Keyhole employee Bill Kilday,
+this caught the attention of the movers and shakers in Washington,
+because they all apparently watch a lot of TV.
+The entire State Department, every U.S. senator, every congressman, every ambassador,
+every foreign government, every military intelligence commander,
+secretary of defense, joint chiefs of staff,
+the entire military industrial complex was witnessing the 24-hour non-stop infomercial
+for Keyhole Earth Viewer software as demoed by Wolf Blitzer and Miles O'Brien.
+And many of them were asking the same critical question.
+Why the hell don't I have that on my desk?
+I mean, that's just a funny thing, because you kind of imagine, like,
+the joint chiefs of staff would have access to the best, I guess, graphics technology available.
+But no, they're watching CNN be like, hey, get me that.
+I want that.
+They're like, a digital globe where I can zoom in and see exactly where I want to invade next?
+Why isn't this on my desk right now?
+So this added attention also increased the interest of In-Q-Tel.
+Keyhole signed a deal worth $1.5 million with them, which was their largest contract to date.
+You know, that book also recounts an exchange between John Hankey and the In-Q-Tel partner,
+John Painter.
+Who is asking?
+John asked Painter.
+The whole team was, of course, curious about the final destination of our Keyhole Earth system.
+The team speculated that it was Secretary of Defense Donald Rumsfeld,
+Vice President Dick Cheney, or Secretary of State Colin Powell.
+You know I can't tell you that, Painter replied, knowing of John's past career in the Foreign Service.
+Honestly, it would be easier for me to tell you who is not asking.
+Okay.
+I mean, this is also a very strange situation.
+An investor comes and gives you lots of money to develop your product and like to make it better
+and to keep it going and ask, okay, well, who was really interested?
+Who asked?
+Who wanted this product?
+Oh, I can't tell you that.
+Not allowed.
+Just you're making a product that you don't know for who?
+Suddenly all the agencies were getting along.
+And the CIA immediately started working with Keyhole to assist with what they call geospatial intelligence.
+Again, this is not something that was secret.
+A page on the CIA's website describes how they use this high-tech service.
+CIA worked closely with other intelligence community organizations to tailor Keyhole's system to meet their needs.
+The finished product transformed the way intelligence officers interacted with geographic information and Earth imagery.
+Users could now easily combine complicated sets of data and imagery into clear, realistic visual representations.
+They didn't have to move army men on flat maps anymore.
+They were like, you know, they did a 3D model.
+Is this actually a functionally useful or is it like a cool thing they wanted?
+Like, ah, it's on the globe.
+That's a good question.
+Like, I guess we don't know exactly whether or not it would actually had any real benefit to what they were doing.
+It might be like, oh, this is bullshit.
+Like, Wolf Blitzer gets to play with this, but I don't.
+I want it.
+A software engineer for Keyhole, Wes Thierry, said, quote,
+The agency kept Keyhole in business, a kind of lifeline.
+On his blog, he described the challenges of developing software for a government agency that valued security.
+Keyhole was always scrambling to please our biggest customer, the agency,
+which used our cool interface to view their own top secret data.
+As a software engineer, we always were prepared to quickly change direction
+and help deal with whatever issues the agency may have had.
+This was sometimes problematic since the computers running the program
+and experiencing the issues were often in secure areas.
+This meant that they were contained in rooms with no outside telephone lines
+and shielded from cell phone signals.
+Tech trying to resolve their issues would have to leave the secure area,
+talk to one of our engineers or support people, and go back in and try something.
+Wow, that sounds awful.
+You can't even look at the thing while you're trying to troubleshoot it
+because it's in such a secure location because they're doing such bad shit with it.
+Yeah, this really inspires a lot of confidence.
+Bill Kilday explained how the Iraq war really saved the company.
+We spent the spring of 2003 trying to respond to the flood of demand.
+As perverse as it sounds, the invasion of Iraq proved to be a turning point for Keyhole.
+A huge cash injection when we needed it the most.
+Though I was adamantly opposed to the invasion,
+it actually helped the company I worked for financially.
+As I walked John through a recent sales report during our Monday morning staff meeting,
+he commented,
+Well, I guess we'll be able to make payroll.
+Why isn't the CIA, like, have their own developers making something like this?
+The fact that they're like,
+Oh, wait, these guys, these guys did something that we desperately want.
+Like, why wouldn't they just make their own version?
+They got to glom on to, like, somebody in the private sector.
+Well, because this is the whole American gambit, right?
+It's like, you can actually give financial incentive to a large amount of private corporations,
+and then they are going to be essentially an R&D for your nastiest required technologies.
+This is basically why the Cold War went the way of the Americans.
+Yeah, it's the most terrifically American story ever.
+Like, the Pokemon Go guys building a software for the CIA to help with the Iraq war invasion.
+Yeah.
+So, 9-11 happens.
+Bush administration uses this as a pretext for invading Iraq.
+The invasion of Iraq saves Keyhole.
+Keyhole purchased by Google.
+John Hankey at Google develops Niantic.
+Niantic makes Pokemon Go.
+9-11.
+Pokemon Go.
+Straight line.
+Mm-hmm.
+Amazing.
+Wow.
+So, yeah, the popularity of the app exploded,
+and this caught the attention of Google, who purchased it,
+and essentially made the products free in the form of Google Earth,
+which was a lot of fun to play with.
+And then John Hankey went on to develop more products for Google.
+At the company, John Hankey headed up the Geo division,
+which was responsible for anything involving geography.
+And it should be noted that while he ran that division,
+Google was responsible for one of the most massive privacy debacles ever committed by a tech company.
+And that's the title for which there is some serious competition.
+So this is the story of the so-called Why Spy scandal.
+Why spy?
+Just because, kids.
+Because we can.
+We're the CIA.
+So the crown jewel of Google's Geo division,
+you know, something that certainly changed my life,
+is Google Maps for mobile devices.
+So this used GPS and cell tower data
+to determine the location of your mobile device while you're driving.
+Allowed just real-time maps.
+Like, before this, there was like, remember MapQuest?
+Yeah, it sucked.
+It sucked.
+Yeah, yeah.
+And starting in 2007,
+that feature was enhanced with Google Street View,
+which provided interactive panorama images of city streets.
+This was made possible by Google employing drivers for fleets of cars
+equipped with 360 cameras,
+which over the years drove down virtually every public road on Earth.
+They did employ some technology to protect people's privacy,
+such as a feature that blurred images of faces or license plates or anything else that was sensitive.
+But the problem became that, for some reason,
+the cars also collected data from private Wi-Fi networks.
+Now, here's how that scandal was described.
+Using hidden internet receivers, Google Street View vehicles also collected a vast amount of data
+from users of private Wi-Fi networks in homes and businesses.
+Google collected MAC addresses, the unique device ID for Wi-Fi hotspots,
+network SSIDs, the user-assigned network ID name,
+tied to location information for private wireless networks,
+and Wi-Fi payload data, which included emails, passwords, usernames, and website URLs.
+So, I mean, this is fucking insane.
+So, Google controlled hundreds of cars,
+which drove millions of miles all over the world,
+and they collected, if your Wi-Fi wasn't secure,
+they collected information about, like, the accounts you use,
+the emails you receive, the websites you visit,
+stuff like this.
+Like, so you would reasonably assume that if you're just in your home,
+emailing people,
+there isn't a car owned by a tech giant outside reading it,
+collecting the information that you're sending.
+This is how America does it.
+Everyone's like,
+hey, it would suck to live in a totalitarian nation.
+Well, guess what, motherfucker?
+They recreated it,
+except it's decentralized,
+and it's all, like, through private incentive.
+But the result is the same,
+or worse!
+So, this data collection was first discovered in April of 2010 by German regulators.
+In response to inquiries,
+Google posted a blog post which said this,
+Google does not collect or store payload data.
+The German regulators weren't happy with that,
+so they asked to audit one of the Street View cars.
+That caused them to kind of, like, reverse course,
+Google the reverse course.
+So, nine days after this request was made,
+Google made a new blog post saying,
+okay, yeah, actually, they did collect fragments of data,
+and then they tried to blame it on, like, a rogue engineer.
+So, here's what that post said.
+But it's now clear that we have been mistakenly collecting samples of payload data from open,
+i.e. non-password-protected Wi-Fi networks,
+even though we never used that data in any Google products.
+However, we will typically have collected only fragments of payload data.
+So, how did this happen?
+Quite simply, it was a mistake.
+In 2006, an engineer working on an experimental Wi-Fi project
+wrote a piece of code that sampled all categories of publicly broadcast Wi-Fi data.
+A year later, when our mobile team started a project to collect basic Wi-Fi network data
+using Google's Street View cars,
+they included that code in their software,
+although the project leaders did not want and had no intention of using payload data.
+Dude, we're all looking for the person responsible.
+Yeah.
+So, wait, so let me get this straight.
+So, when those little self-driving cars were going around with the big cameras on top,
+they were also pulling all of the data if you were connected to a public Wi-Fi network,
+like at Starbucks, or, you know, you forgot to set up a password on your home Wi-Fi or whatever.
+Like, it was just collecting data.
+Yeah, and again, I want to emphasize, this Google streetcar fleet,
+250 vehicles at its peak, driving all over the world, everywhere,
+collecting, you know, just data from, yeah, from just the homes and businesses they pass by.
+And humans are so dumb.
+We're so fucking, we're so cooked,
+because we look up, we look up our street,
+we see the picture, we're like,
+oh, the car took a picture of my car parked out front.
+Dude, you know, it's like...
+It's so awesome.
+It's so, there's, it couldn't be more perfect.
+The company that was like,
+don't be evil,
+was being the most evil,
+and working with the government.
+Of course!
+Of course, you morons!
+Oh, we're so different over here!
+I mean, I mean...
+Oh, carpet bomb us, please!
+Shit!
+I mean, this is like James Bond villain kind of plan.
+I'm going to unleash a massive fleet of vehicles all over the world
+to collect information from every home on Earth.
+Man, and the way they write it,
+it's like, it's this fucking,
+it's straight up like Marvel movie soy talk.
+It's like, so how did this happen?
+Oh, I fucking wonder!
+Oh, yeah, someone accidentally...
+It's just a, you know,
+there's a collection of strangely aligned bad apples among us,
+and somehow they represent the exact needs
+of the national security state.
+I just want to just emphasize that
+basically everything in that blog post that Julian read
+was all lies,
+and this was uncovered by FCC investigation.
+We did an oopsie!
+They didn't collect snippets of data,
+they collected over 200 gigabytes of complete data
+over a two-year period,
+and it was not done by a rogue engineer.
+Multiple people were aware of the project,
+and no one stopped it,
+and they did have intentions to use the data.
+An internal design document for the project
+said that the data was to be, quote,
+analyzed offline for use in other initiatives.
+I love that, like, this surveillance,
+the draconian surveillance state
+is using, like, company speak
+in their internal, like, discussions.
+Well, yeah, this is...
+Guess what?
+AI is just going to be a way for them
+to further wash their hands.
+Oh, it's not even a rogue employee now.
+It's a rogue AI.
+There's literally nobody to blame.
+So this caused a worldwide scandal,
+but, you know, I mean,
+Google is there.
+They have a lot of money to burn,
+and they can afford an army of the best lawyers on Earth,
+so really nothing came of it.
+So data protection authorities in France,
+South Korea, New Zealand,
+the United Kingdom, Canada, and Spain
+found that Google's Wi-Fi interception
+violated data protection laws.
+The Privacy Commissioner of Canada
+determined that Google violated
+Canadian data protection law
+by secretly intercepting, quote,
+full names, telephone numbers,
+complete email addresses,
+and instant messages of many Canadians.
+Google, like, intercepted a cryptic message
+between me and my high school friend
+talking about weed.
+We didn't want to actually say
+what we were doing.
+So there were fines,
+but compared to the Google money,
+it was literally nothing.
+So the French Data Protection Authority
+fined Google 100,000 euros
+for the interception of private data.
+Germany wound up fining them
+close to the maximum that they could
+for that law,
+which was about 150,000 euros.
+But again, this is like a nickel
+from their couch cushions.
+Nothing.
+It's insane because a poor person
+who overdraws their account,
+relatively speaking,
+is paying more than these companies do
+for doing the fucking wildest crimes.
+Crimes that basically,
+if you look in the fucking mirror,
+would show the true colors of this country.
+And it's just like,
+well, I guess it's time to sacrifice
+0.2% of our profits this year,
+and this year only.
+Yeah, I mean, they probably do this shit
+knowing full well
+that even if the maximum penalty is applied,
+that it's like a drop in the hat.
+Like, these big companies are like,
+so what?
+If we get caught, like, whatever,
+we'll fucking pay it.
+It doesn't matter.
+But, you know,
+Google is an American company,
+so one might hope
+that American regulators
+would, you know,
+take the tech giant to task
+and protect American consumers.
+Who the fuck is one in this case?
+Someone who's never read an article,
+studied history?
+Who is one?
+Who is one?
+This is, surely you're talking about
+some sort of bacteria
+or an insect.
+So, yeah, so.
+That is how Julian describes Democrats.
+No, no, Liv.
+I did not.
+Don't get me in trouble.
+That's what, Liv said that, okay?
+So, the Federal Trade Commission
+investigated the matter,
+and according to a letter
+from the FTC,
+they stopped investigating
+after Google promised
+not to do anything bad
+with the data they collected.
+Here's what that letter said.
+Google has made assurances
+to the FTC
+that the company
+has not used
+and will not use
+any of the payload data
+collected
+in any Google product
+or service,
+now or in the future.
+This assurance is critical
+to mitigate the potential harm
+to consumers
+from the collection
+of payload data.
+Because of these commitments,
+we are ending our inquiry
+into this matter
+at this time.
+Oh, great.
+Cool, yeah.
+They gave us their word.
+Yeah, made assurances.
+Well...
+Assurances were made.
+If they said so.
+Fuck, man.
+I know.
+But, you know,
+Google wasn't out
+of the woods quite yet.
+So, the FCC
+did their own investigation,
+and this one
+was a little more serious.
+And to their credit,
+they did at least
+pester them.
+They used some subpoena power
+to uncover
+that the company
+was not being truthful
+in its public statements.
+But Google still thwarted
+this investigation
+by essentially
+not cooperating.
+It, for example,
+didn't comply
+with a letter
+of inquiry request
+to search for
+relevant employee emails
+because it, quote,
+would be a time-consuming
+and burdensome task.
+Which is...
+You're fucking Google.
+God forbid.
+God forbid some of your time
+gets taken up.
+Well, but no.
+You're Google.
+You have the best search
+and indexing technology
+on planet Earth.
+You do this faster
+and better than anyone.
+And it says you can't
+do a search
+through your employees'
+emails.
+It's, I mean,
+it's just ludicrous.
+This also does make
+Lib reactions to, like,
+Trump just not responding
+to subpoenas funny.
+Or at least, like,
+you know,
+unbalanced.
+It's like, yeah, wow,
+I can't believe
+he was just ignoring those.
+That's like a new thing
+for fucking rich people
+in America to do now.
+Yeah, this is great, Lib.
+Oh, it sounds like
+Julian's saying
+that Democrats are insects.
+I just think
+it's unbalanced.
+Good fucking one, man.
+Judo.
+They teach judo
+in Canada, don't they?
+Google was ultimately
+fined $25,000,
+again, less,
+like a penny,
+for impeding
+the FCC investigation.
+But they also determined
+that the data collection
+didn't break the law
+because the information
+wasn't encrypted.
+So John Hankey
+claimed no involvement
+in the scandal
+because it was done
+by the mobile division,
+not his geo division.
+However,
+the project was conducted
+via Street View cars
+operating on behalf
+of Hankey's division.
+And the other thing
+is that, like,
+because there was really
+no investigation
+into the matter,
+we can't really know
+how far it went,
+exactly who was responsible
+and who knew.
+In 2010,
+Hankey founded
+Niantic within Google.
+It was named after
+a Gold Rush era ship.
+Now, the first AR game
+that they produced
+was not Pokemon Go,
+but it was actually
+a game called Ingress,
+which was later revamped
+and renamed to Ingress Prime.
+The premise of the game
+is that Higgs boson research
+at CERN released
+a new kind of force
+called exotic matter.
+And all around the world,
+there are these portals
+surrounded by this exotic matter.
+And these portals
+happen to be,
+you know,
+local landmarks
+like post offices
+and businesses
+and coffee shops and stuff.
+Players choose between
+one of two factions,
+the Enlightened
+and the Resistance,
+and they fight
+for control
+of these portals.
+The game is designed
+to encourage cooperation
+with other members
+of your particular faction.
+The only way forward
+is to get out there,
+pick a side,
+and join the fight
+to control the portals.
+Download Ingress Prime now
+and start exploring
+the secret world around you.
+But stay alert.
+You'll have to outsmart
+and outplay
+the agents
+of the other faction.
+Cooperate and strategize
+with agents
+all around the world.
+Google didn't really consider
+Ingress to be
+a commercial success.
+You know why, Travis?
+Because they were
+targeting adults.
+That's what they fucking realized.
+These people are so fucking evil
+that they're like,
+okay, so we need
+intellectual property
+and the softest brains
+in our country.
+Children.
+Perfect.
+So the Niantic team
+looked elsewhere
+and perhaps to
+already established IP.
+And they found inspiration
+in a Google April Fool's Day joke
+which claimed that
+Google was looking
+for Pokemon Masters.
+Pokemon Masters
+are the world's
+greatest digital explorers
+and their passion
+for exploring
+will take our maps
+to the next dimension.
+It's always been important
+to us to have
+the most qualified
+employees of Google.
+Now, using the technology
+created by the Google Maps team,
+we've prepared
+the most rigorous test
+known to man
+to find the world's
+best Pokemon master.
+So it was literally like,
+hmm, we should use
+Pokemon collectors
+to like map out
+the world for us.
+Yeah, this is what
+they call a trial balloon.
+I wonder how people
+will react to this
+obviously evil thing.
+Oh, good.
+No reaction at all.
+Oh, they're excited for it.
+Go ahead.
+Yeah, perfect.
+In Pokemon Go's development,
+data from Ingress
+was used to populate
+the locations
+for the Pokestops
+and the gyms.
+And it was eventually
+released on July 6, 2016.
+And it became
+an instant smash hit.
+It destroyed the records
+for the most revenue
+grossed by a mobile game
+in its first month
+by earning $206.5 million.
+And also,
+it broke the record
+for the most downloaded
+mobile game
+in its first month
+by getting 130 million downloads.
+It was just,
+it was all of a sudden,
+it was just non-existent,
+just everywhere.
+News stations,
+both national and local,
+carried stories
+about the phenomena.
+We're back now
+with something
+that may explain
+any odd behavior
+you've seen
+on the streets recently.
+The smash hit
+mobile game app,
+Pokemon Go,
+has only been on
+for a few days.
+But it's already got millions
+following their smartphones
+to the most random places.
+And police fear
+possibly into harm's way.
+NBC's Jolene Kent
+has more.
+Gotcha!
+Pokemon fever
+is back
+and it's everywhere.
+Nostalgia hits in,
+like, I'm a kid,
+I need to play this again,
+it's real life.
+Well, he texted me,
+like, 30 minutes ago
+saying let's meet up
+in Hollywood
+to catch Pokemon.
+Trying to catch them all,
+you know?
+It's blanketing
+Los Angeles hotspots
+like Hollywood and Vine,
+attracting hordes
+of players to venture
+outside to Central Park
+in New York City
+to stare at their phones.
+We're so cooked.
+Mm-hmm.
+The context of all these crowds.
+I feel a deep sadness.
+I feel a deep sadness
+watching this.
+And, like,
+these people had no idea
+how bad things
+were going to get.
+They didn't know
+they were, like,
+literally spying for
+and collecting data
+for Google,
+or the CIA, I guess.
+Yes.
+Once again,
+organically,
+the mainstream news
+played along.
+Just a perfect system,
+very honestly.
+They developed
+a perfect system.
+Those culpability
+is kind of, like,
+spread out.
+I mean,
+it's a trend.
+I don't know.
+Sometimes,
+when it was reported
+that a rare Pokemon
+was spotted somewhere,
+it caused stampedes,
+like one that occurred
+in New York City's
+Central Park,
+which was discussed
+on Good Morning America.
+Finally,
+the quest to catch them all
+continues.
+Take a look at this crowd.
+This is unbelievable.
+Of Pokemon Go users
+mobilizing into action
+right here in New York City
+after reports
+that a Vaporeon,
+this is one of the characters,
+it's a very sought-after character,
+as you can see.
+Oh, my God.
+It's a special Pokemon.
+It's a special Pokemon.
+It can morph into, like,
+18 different Pokemon.
+Exactly.
+Well, it popped up
+in New York City's
+Central Park.
+One man,
+I'm talking a grown-up,
+even jumped out of his car,
+left the engine running
+in the middle of New York City
+in pursuit of that rare catch.
+Oh, I didn't realize
+that they can just, like,
+if they want data
+on a certain area,
+they just drop a rare Pokemon
+in the area.
+This is so awesome
+because basically
+the gambit is that
+Big Brother
+can work,
+not in the Orwellian sense,
+but if you make it
+an attractive enough product,
+if there's treats,
+then people will choose,
+they will choose
+to take Big Brother
+in their own hands
+and basically carry it out.
+They will do
+the surveillance themselves.
+They will carry the phones
+by choice.
+It's a dick.
+If Big Brother
+has a little treat
+and he's dangling it,
+it's like,
+see, if you don't think
+the bad,
+you know,
+you get this little treat,
+then people will do it.
+What if Big Brother
+had big rig haulers
+and the best pussy in town?
+Yeah, as long as you gamify
+the surveillance state,
+people will,
+they'll do exactly
+what you want
+and they'll spend money
+to do it more.
+Yeah, Orwell was wrong.
+They don't torture you
+until you love Big Brother.
+You love Big Brother
+by choice.
+You actively participate
+in it because
+it's got treats.
+Yes.
+But it's got to be
+a good IP
+and it's got to be,
+it's got to be clicky,
+you know,
+it's got to be sticky.
+We will beg for it.
+We will beg for it.
+After the game's release,
+it immediately inspired
+warnings about
+its possible security threats.
+A member of Egypt's
+Committee of Defense
+and National Security
+told the Egyptian
+Parliament this.
+Pokemon Go
+is the latest tool
+used by spy agencies
+in the Intel War,
+a cunning,
+despicable app
+that tries to
+infiltrate our communities
+in the most innocent way
+under the pretext
+of entertainment.
+But all they really want
+is to spy on people
+and the state.
+Another W.
+Yeah.
+Russian media quoted
+a retired FSB
+major general
+who expressed his worry
+that the app
+could be used
+to recruit
+unwitting spies.
+Imagine that the little creature
+in the question
+doesn't appear in some park,
+but on a secret site
+where a conscript
+or other soldier
+takes and photographs
+it with his camera.
+It's recruitment
+by one's own personal desire
+and without any coercion.
+This is the ideal way
+for secret services
+to gather information
+and no one takes any heed.
+Entertainment is fashion.
+Unrashable after all.
+Gotta hand it to him
+on this one.
+Yes!
+It's the FSB.
+Now, despite this,
+Russian authorities
+never banned
+playing the game.
+However, in 2022,
+Niantic did make the game
+no longer available
+for download
+in Russia and Belarus
+after the invasion
+of Ukraine.
+In Indonesia,
+the cabinet secretary
+revealed during
+a press conference
+that he was a fan
+of the game
+and in fact
+captured Pokemon
+at the presidential
+palace complex.
+He told reporters this.
+There are some
+in the palace.
+I have the application
+so I can see.
+At home,
+the Pokemon are lame.
+But around the national monument,
+the Pokemon are top class.
+Fuck me.
+Fuck me.
+Wow.
+Evidently,
+this cabinet secretary
+did not read
+an internal memo
+from the Indonesian military
+which later leaked
+and it warned
+about the issue.
+Pokemon Go
+is a game
+that searches
+for location-based Pokemon
+and is a data collection system
+for the National
+Geospatial Intelligence Agency
+which is similar
+to what the CIA
+has done to Facebook.
+There was another incident
+in Indonesia
+when a 27-year-old
+French man
+was arrested
+after following
+digital Pokemon
+onto a military base.
+He was detained
+for a few hours
+and released
+but a military spokesperson
+told reporters
+be wary of these
+Pokemon ruses.
+My lord,
+they might have sent him
+there on purpose.
+That's so fucked up.
+I mean,
+I am fucking speechless
+and I believe
+this is an evil nation
+but this truly,
+genuinely,
+is shocking
+even to me.
+They released a statement
+that said,
+it's possible
+there could be
+many strangers
+trying to enter
+private property
+to commit crimes
+but then pretend
+to be hunting
+Pokemons.
+Oh my god,
+so this is a whole
+different level
+is that you're not
+even going to
+accidentally stumble
+on a base
+looking for Pokemon.
+You're going to
+very directly
+stumble on a base
+claiming you were
+looking for Pokemon.
+It was just an accident.
+They underestimated
+how devious it is.
+The person wandering
+onto the base
+doesn't even realize
+what they are,
+what they are,
+what they're acting as.
+It's amazing.
+Genuinely the most
+insidious and evil shit
+I've heard in a long time
+and I assume
+that the stuff
+we don't know about
+is just like this.
+Among Chinese citizens,
+there was special concern
+about the fact
+that the game
+was made through
+a partnership
+between American
+and Japanese
+game developers.
+A message
+on the social media
+app Weibo
+said this,
+Don't play Pokemon Go.
+It's so the US
+and Japan
+can explore China's
+secret bases.
+Then,
+when war breaks out,
+Japan and the US
+can easily target
+their guided missiles
+and China will have
+been destroyed
+by the invasion
+of a Japanese-American game.
+Dubs.
+It's an interesting,
+yeah.
+I don't know
+if the Japanese
+component of this
+was a part of the...
+Well, that's the whole thing
+is they can only ever
+be approximately right,
+you know,
+because it's so fucking
+insidious
+and hidden underneath
+so many layers
+of lies
+and private,
+public entities
+and it's just...
+Yeah.
+So you can only ever
+be kind of directionally correct
+and another dub.
+Yeah.
+It's like I wouldn't
+discount it.
+That could be possible.
+Now,
+the CIA was also
+concerned about the issue.
+Through a Freedom of Information
+Act request,
+it was revealed that
+CIA employees
+received at least
+two memos
+warning about
+Pokemon Go
+in 2016.
+There was one in July
+right after the game's release
+and there was another
+in December
+when the Office of Security
+at the CIA
+warned agency employees
+about the security risks.
+So this is the title
+of that memo.
+Are you at an agency facility?
+Pokemon, no.
+I mean,
+that's the trick
+is like how do you
+warn people inside?
+Because you've devised
+such fucked up shit
+and it's so insidious
+that like you have to be like,
+hey, by the way, guys,
+if I were...
+It's like the fucking thing
+about 9-11.
+Like, just don't show up
+for work.
+Yeah.
+I'm just saying.
+That's real.
+I'm just saying
+you just might not want to.
+God.
+Now, here's the funny thing
+is that we don't actually know
+the full extent
+of what they were warned
+because it's partially redacted.
+There are like a couple sentences
+that are blacked out.
+So we don't know
+the full extent of the warning.
+But that memo
+does offer these general guidelines.
+Agency employees
+are not authorized
+to capture Pokemon
+quote-unquote characters
+while in or around
+agency-controlled facilities.
+Users should be mindful
+of potential security
+and counterintelligence concerns
+when using the application.
+That's awesome.
+They don't even trust
+their own private partners.
+Yeah, of course.
+They're like,
+no, we're doing something
+so evil,
+but also like...
+It's public private.
+It could easily leak
+because, you know,
+there's a part...
+Like, part of our disguise
+is the fact
+that there's a private arm
+of this.
+And the next Edward Snowden
+might tell people
+what we're doing
+with Pokemon.
+Right, because Edward Snowden
+was public-private as well.
+Like, that's how a lot
+of the leaks come out
+is like private people
+who become privy to stuff.
+Yes.
+Fucking Ash.
+Ash Ketchum was gonna
+leak it.
+Man, Travis,
+thank you so much for this.
+I mean, I just...
+I feel so relaxed and good.
+Great.
+This is worse than any episode
+I could write.
+You knew.
+You knew.
+You just want to discredit me.
+You want to fucking...
+You want to wreck me.
+You want to destroy my mind.
+This is a limited hangout.
+So, Pokemon Go was also causing problems
+at NSA headquarters at Fort Meade.
+This was according to a report
+in Foreign Policy.
+Now, this Foreign Policy report
+relied upon former intel sources,
+which, you know,
+it has its credibility issues.
+But I felt...
+I would feel it wouldn't be complete
+if I didn't at least
+include this information.
+So, here's what a former NSA official
+told Foreign Policy.
+People were doing dumb shit
+with Pokemon Go.
+Like playing in the parking lot
+at Fort Meade.
+Because there were apparently
+like some super rare,
+shiny Pokemons or something.
+So, people were wandering campus
+with their phones up.
+The Foreign Policy article goes on
+that U.S. counterintelligence officials
+got anxious about the spying potential
+of the game.
+If some malignant actor
+like a spy service
+were able to successfully nominate
+sites of intelligence interest
+as Pokestops
+or pay for Pokemon to appear near them
+or otherwise access user data
+from individuals playing the game
+at sensitive locations
+where Pokemon materialized
+or where Pokestops were placed,
+albeit even innocently,
+it could represent
+a new sort of espionage opportunity.
+Then, in theory,
+a bad actor like, say,
+a foreign spy service
+could collect geolocated intelligence
+from these services
+like audio or video data
+or even simply gather information
+on the phones themselves,
+thus identifying
+U.S. intelligence agency employees
+or the specific digital signatures
+of their phones
+to facilitate some later compromise.
+Good thing it was a good actor
+that did it.
+Their own intelligence services
+were like,
+actually, this seems like an evil plot.
+I bet if some evil foreigner
+was doing this,
+that would be bad.
+Not knowing that
+they were doing it.
+This is what compartmentalization
+is designed to do.
+You don't even know
+the extent of the full evil.
+You can't even see
+the limbs of the fucking
+many tentacled evil squid
+that is this fucking
+national security apparatus.
+There's one more paragraph
+if you feel like it.
+This was precisely the fear at NSA
+that enemy spy services
+might place Pokemon Go
+related infrastructure,
+quote,
+at targets of national interest
+to lure Pokemon Go
+playing intelligence officers
+to those places
+so they could collect
+on their devices,
+said a former NSA official.
+However, the official added
+this was completely
+not grounded in reality.
+I mean, this is interesting
+because this, I mean,
+this is essentially
+this NSA official
+is saying something
+that worldwide
+intelligence officials
+are saying,
+but they're adding,
+but it's also not realistic.
+Listen, we've designed
+a rat trap so tasty
+that our own people
+are going to be sucked into it.
+We can't control that, okay?
+It's just that fucking tasty.
+And the thing is just Pokemon.
+That's the rat trap.
+That's the thing
+that they're sticking their head
+and getting their neck snapped for.
+Yeah.
+It's just the virtual Pokemon.
+Yes, yes.
+This will be the face
+of our future.
+It will be fucking Mickey Mouse
+stamped on the darkest shit on earth.
+It's all treatlerism
+all the way down.
+That's why Trump kind of liked it.
+Treatlerism?
+Yeah.
+Treatlerism, yes.
+That was it.
+The dollar menu
+was cheaper
+under Trump in 2019.
+January 6th,
+whatever,
+who gives a shit?
+I want my treats cheaper.
+And I'll be the first
+to sign up
+for the Mickey Mouse
+surveillance state.
+I don't really have a choice
+in the matter anyways.
+I might as well
+live under the baddest guys.
+I'll be the last one.
+Yeah, you might as well enjoy it.
+I'll be the last one
+to perish.
+I'll enjoy my treats
+the longest.
+Sir, we've found
+the perfect customer.
+This man seems
+genetically predisposed.
+We must study his brain.
+Which IPs,
+which IPs
+are the stickiest
+for him?
+They're going to put
+a little bit of Jake
+in vaccines
+that they export abroad.
+Make sure you inoculate
+your whole population.
+It wouldn't be such
+a bad thing.
+I think I've got
+some pretty cool ideas.
+Everyone in China
+is now incredibly nice
+to fast food workers
+and also will buy
+any product
+and promote it
+for free.
+Ghostbusters
+makes three trillion dollars.
+Ghostbusters somehow
+is making an insane
+comeback in China.
+Cadillac.
+Cadillac is launching
+a new line of hearses
+to meet the demand
+for people
+wanting to drive
+Ghostbuster cars.
+Pretty soon,
+every car on the road
+will be...
+Just the idea of it
+sounds so great to me.
+Of course.
+I welcome this next phase.
+Don't cross streams,
+but it's like
+an electromagnetic weapon.
+It's like the proton packs
+are real, actually,
+but they won't work
+unless you aim them
+at a very specific
+type of person.
+God, imagine
+it would be such
+a fucking feat
+to convince people
+to wear something
+so heavy
+that apparently
+has no purpose.
+And yet...
+Obviously,
+what's spurring
+all this paranoia
+is that we know
+that they're collecting
+all of this data,
+we just don't know
+what for exactly.
+Uh-huh.
+But we recently
+got an idea
+of one use
+of that data.
+In a blog post,
+Niantic says that
+it's trading
+a new AI
+on millions
+of real-world images
+collected
+by Pokemon Go players.
+Specifically,
+they're building
+what they call
+a large geospatial model.
+And this is like,
+you know,
+how text artificial intelligence
+is what they call
+a large language model,
+and it works
+by being trained
+on a massive amount
+of real writing
+from humans,
+and from this,
+it can generate
+text responses
+that seem intelligent
+and natural.
+So,
+a large geospatial model
+is like the same concept,
+but applied
+to the physical world.
+Let's see,
+let's see.
+A perfect 3D model
+of an urban environment
+plus armed drones
+with auto-pathing
+and AI.
+I really,
+I just can't see the picture.
+It's not coming together
+for me.
+How is it explained
+in this blog post?
+So,
+it's like,
+it's trained on
+what real-world places
+look like,
+like a building
+or something,
+and they can use
+that data
+to produce information
+on places
+it hasn't seen yet,
+not entirely.
+So,
+Niantic claims
+that this could be useful
+for technology
+like AR glasses,
+robotics,
+content creation,
+and other things.
+But,
+yeah,
+I mean,
+when I read this,
+the first thing I thought
+was like,
+okay,
+well,
+yeah,
+drones.
+It's going to allow,
+it's going to allow a,
+it's going to allow a drone
+to very easily navigate
+anywhere on Earth
+like with,
+you know,
+perfect efficiency.
+Dude,
+with,
+oh my God,
+it's like,
+you are Abu Bakr
+and you're just,
+you're in your,
+in your house
+and you look out the window
+and there's fucking
+200 children
+trying to capture Pokemon
+on you
+and that's when you hear
+the sound of the approaching drones.
+Here's how that blog post put it.
+Imagine yourself
+standing behind a church.
+Let us assume
+the closest local model
+has seen only the front entrance
+of that church
+and thus,
+it will not be able
+to tell you
+where you are.
+The model has never seen
+the back of that building.
+But on a global scale,
+we have seen a lot of churches,
+thousands of them,
+all captured by their respective
+local models
+at other places worldwide.
+No church is the same,
+but many share
+common characteristics.
+An LGM,
+large geospatial model,
+is a way to access
+that distributed knowledge.
+Wow,
+so this,
+is this just a dress
+straight to the drones?
+Yeah.
+It's interesting,
+like they want to do
+the thing from,
+like Batman.
+Yes.
+That's able to see
+everywhere at all times.
+But like,
+in reality,
+what's going to happen
+is,
+you know,
+like that photo of,
+it's like a blurred photo
+of Obama
+and then AI is trying
+to like fill it in
+and they fill in
+like a white guy.
+Like it's going to be
+that essentially.
+Yeah.
+Imagine you see a church
+or let's say a mosque
+in,
+I don't know,
+Kabul.
+Yeah.
+And you know what I realized?
+I think what they're describing here
+is the technology
+in that scene
+in the movie
+Enemy of the State
+where the bad guys
+in the NSA
+are trying to figure out
+if someone slipped
+a tape of a murder
+into Will Smith's bag.
+But they only have like
+one angle on it
+from a security camera.
+And so in order
+to examine the bag
+more closely,
+they take that image
+and then use
+a computer program
+to virtually rotate it,
+allowing them
+to essentially see
+the, you know,
+the other side of it.
+Great comp, Travis.
+Great movie.
+Great comparison.
+Great scene.
+It's amazing to hear Jake
+get to like a very grim conclusion
+and then enter a fugue state
+at the reference of a movie.
+All right.
+Now just before the view's blocked,
+there's a shape change
+in Dean's bag.
+See the shadow variance?
+See?
+The shadow's wrong.
+Zavitz changed the configuration
+of Dean's packages.
+Is it a tape?
+It's hard to say for sure.
+These things are...
+Computer take us around
+on the other side?
+It can hypothesize, Chris.
+Yeah?
+Can you rotate us
+75 degrees
+around the vertical, please?
+I remember when this movie came out,
+like everyone who was like
+really tech literate
+is like, oh my God,
+this is just like
+Zoom enhance,
+Zoom enhance,
+like tech fantasy stuff.
+Not real.
+Not even possible.
+Ludicrous.
+But no,
+now they're saying
+not only is it possible,
+but it's enabled
+by everyone
+who played Pokemon Go.
+And they've been using
+that exact technology
+for sporting events
+for the last couple years
+where they put
+a little circle,
+like a little circle
+around the football player
+who has the ball
+just like in Madden,
+and then they'll actually
+rotate around
+during the replay.
+They've been...
+This technology
+they've been using
+right in front of our eyes
+for sporting events.
+And we all went,
+cool.
+We went,
+cool,
+the actual thing
+looks more like
+the video game
+as opposed to,
+oh,
+the video game
+is looking more
+like the real sport.
+Now it's like,
+no,
+we want it the other way.
+We actually want reality
+to look more like the game.
+There is 0% chance
+that sporting events
+at this point
+aren't just huge
+data collection
+engines
+that have captured
+every facial expression,
+the way you move
+your body,
+how you react
+to joy,
+to sorrow.
+Yeah,
+it's good.
+All feeding into
+a computer that has
+nothing but good intentions.
+What do you guys think
+NBA 2K
+has learned
+about me?
+Well,
+it's got a face scan.
+Yeah,
+it's got a face scan.
+It knows that I'm
+constantly trying
+to create
+the perfect Jordan.
+It knows that I'm
+willing to spend
+upwards of $300 a year.
+The result is that
+when you are finally
+put into that
+white interrogation room,
+the guy's just going
+to walk in
+and just look at you
+and say,
+all right,
+Jake,
+I know that you
+really care about
+Liv,
+Julian,
+and Travis,
+but how would you
+like to be black
+and extremely tall?
+I would be like,
+as me,
+like,
+as just a regular person
+or as me,
+as a Jewish person
+because that's different.
+Because that's different.
+Like,
+you know,
+my grandfather
+always dreamed
+six foot tall Jews
+in the NBA dunking.
+You know,
+maybe I could help
+achieve that vision.
+He was pretty close.
+It was Serbians.
+Yeah.
+And then I just hear
+like three gunshots,
+you know,
+off camera.
+Well,
+I think it's funny.
+I was like,
+are you talking about
+that technology used
+in NFL games?
+Because like,
+in this movie,
+it's portrayed as like,
+oh,
+here is the like,
+the evil hyper advanced
+technology used
+by the deep state
+that no one knows about
+in order to like,
+rob us of our privacy.
+It's like,
+it's like they know
+things about us
+that aren't even
+captured on camera.
+Their technology
+is so advanced.
+They're so evil.
+But then when the
+technology arrives,
+where is,
+is what we see it
+as being used
+in like,
+you know,
+in the fucking Cowboys game
+we call sweet.
+This is awesome.
+Sweet.
+Yeah.
+Another angle.
+Once we actually,
+it becomes real.
+We're not scared of it.
+We're not worried
+about its implications.
+We think about
+how rad it is.
+You know,
+one of the things
+I think is,
+is really,
+I guess,
+concerning about
+like the questions
+like,
+well,
+what did,
+what did I agree to?
+What did I agree to
+when I took my daughter
+to go and catch
+Pokemon at Balboa Park?
+I'm sure like legally,
+like I agreed
+to give up
+the information
+for the purpose
+for this geospatial model,
+which will maybe use
+for drones
+for nefarious purposes.
+But,
+but like,
+I didn't really
+specifically agree
+to help make
+enemy of the state
+technology real.
+I mean,
+I don't think
+if someone asked me,
+it's like,
+well,
+so I tell you what,
+you can go do this,
+but what we're going
+to do with this
+is that we're going
+to make enemy
+of the state
+technology real.
+I'd be like,
+oh,
+no,
+no,
+maybe I'll find
+something else
+to do then.
+Maybe at least
+I would have
+a little bit
+more informed opinion.
+No,
+you agreed
+to a geospatial model
+of all of your holes.
+Yeah,
+it's not like
+you can put
+like one of those
+x-ray bibs
+over your body
+and go and enjoy
+Pokemon Go.
+You know,
+it's like,
+you can't play it
+without,
+it's like every
+fucking video game
+now when you boot it up,
+there's like all sorts
+of license terms
+and agreements
+and legal contracts
+and stuff
+that you just,
+you just,
+I've never read
+a single word
+of one of those things
+and I own
+quite a few video games.
+So,
+like,
+I've already signed,
+I'm sure,
+my life rights away,
+you know,
+just by being like,
+oh,
+I'll just get to the game
+faster.
+Yep.
+It's like,
+oh,
+I guess he agreed
+to the Manchurian
+Canada clause.
+That was easy.
+There's just one thing
+I want to mention
+just for clarity's sake.
+So,
+so after all this
+was reported
+about how they're using
+all this data
+for this,
+this AI geospatial model,
+Niantic issued
+a clarifying statement
+saying that the data
+comes from players
+who like scan locations
+rather than people
+who just walk around
+and catch Pokemon.
+And here's what
+that statement said.
+We use player
+contributed scans
+of public real world
+locations to help
+build our large
+geospatial model.
+The scanning feature
+is completely optional.
+People have to visit
+a specific publicly
+accessible location
+and click to scan.
+This allows Niantic
+to deliver new types
+of AR experiences
+for people to enjoy.
+Merely walking around
+playing our games
+does not train
+an AI model.
+Do you remember
+what happened
+when we believed them
+on a statement
+that sounded
+exactly like this
+earlier in the episode?
+They're just fucking
+lying again.
+Because why would they not?
+Like what happened
+last time they lied?
+Nothing.
+You have lost credibility.
+They're actually taking
+a 3D scan
+of your pocket
+while your phone
+is off inside of it.
+So yeah,
+I mean,
+this is the issue.
+First of all,
+I understand
+how that's like better.
+It's like,
+no, no,
+if you like do this thing
+in the game,
+then that's what we use
+for the like perfect
+drone technology.
+There's not,
+not,
+not the catching the Pokemon.
+It's the scanning
+that does it.
+So don't,
+I understand how
+this is supposed
+to be comforting.
+But also you're right.
+I don't believe them.
+Like they,
+like tech companies,
+they don't respect
+consumer privacy.
+They have no incentive to,
+I don't trust regulators
+to keep them in line,
+but you know,
+it sucks.
+It sucks that,
+it sucks that like
+all this technology
+is increasingly just,
+just woven into
+just everyday functions
+of society.
+And in,
+in order to use
+and participate
+the technology
+of society
+in order to,
+I have to,
+I have to like engage
+with like the middleman
+of,
+of social life.
+We're these tech oligarchs
+and that requires me
+to contribute
+to help us move forward
+towards a total surveillance state.
+And just like,
+I don't,
+it's just,
+it wears you down.
+It'll be like all,
+it's like,
+well,
+I guess by playing this game,
+by using the service,
+by emailing people,
+by booting up my computer,
+by talking to the people
+I care about,
+by using these communication tools,
+I,
+I do contribute a little bit
+towards the total surveillance state,
+but you know,
+what else,
+what else are you going to do?
+This episode was brought to you
+by General Dynamics,
+Boeing,
+Lockheed Martin Corp,
+Raytheon,
+and Northrop Grumman.
+And Travis.
+Yeah,
+great,
+man.
+Thank you so much,
+man.
+We were like,
+hey,
+let's enter this nice,
+you know,
+end of your period,
+have some fun episodes.
+And Jake has picked a movie
+where Hulk Hogan is like Santa
+or some shit.
+And this is what you bring us,
+Travis.
+Thank you very much.
+My pleasure.
+Who knows?
+The Hulk Hogan Santa movie
+like might be really depressing.
+Like,
+we'll see.
+You know I'm fragile.
+And yet,
+here we fucking are.
+Thanking the listener
+for tuning in
+to another premium episode
+of the QAA podcast
+and telling them
+we have a website
+that hasn't been updated
+in a little while,
+but whatever.
+We'll do it someday.
+QAA podcast dot com.
+Yeah.
+And then we're finishing it off
+by saying,
+listener,
+until next week,
+may the deep dish bless you.
+Yeah,
+or you could even say like,
+they're supposed to fucking
+believe us.
+you could say like,
+Pokemon go to the deep dish,
+you know,
+Pokemon go to the website.
+Pokemon go to the,
+yeah,
+Pokemon go to the website
+that hasn't been updated.
+Pokemon go to Julian's house
+and give him a hug.
+I think that,
+uh,
+I was going to say,
+Pokemon go to
+and Travis view.
+What?
+What did I say?
+We have auto keyed content
+based on your preferences.
+So after the deal with NVIDIA,
+we also had done a deal with CNN.
+Uh,
+it turns out that,
+uh,
+a junior high school friend of mine
+was now the CTO of CNN.
+And,
+uh,
+I met him at,
+uh,
+the national association broadcasters meeting.
+And,
+uh,
+he got excited about using keyhole
+and actually did a deal to pay us
+to use keyhole on air
+and include our logo on the screen
+as part of the deal.
+So,
+you know,
+we gave him a good price,
+but it was,
+it was actually a good enterprise deal
+for us as well.
+But we got branding
+on the screen
+every time they used keyhole
+to,
+uh,
+sort of talk about a new story.
+And in early 2003,
+the U S invaded Iraq
+and suddenly everybody was watching CNN
+all the time.
+and CNN was using keyhole
+to show what was going on in Iraq,
+you know,
+for sometimes minutes at a time.
+Uh,
+one of the broadcasters,
+Miles O'Brien,
+uh,
+had,
+you know,
+five or 10 minute sessions
+where he would just use keyhole
+and talk about things in the images
+and zoom in and out
+and jump to different places.
+And so everybody saw this
+and immediately said,
+Hey,
+does this work in my,
+on my computer?
+And we got more downloads
+than we knew what to do with.
+Um,
+it was an incredible time.
+Our servers,
+uh,
+in a,
+uh,
+uh,
+sort of a dungeon downstairs
+in a,
+uh,
+um,
+Palo Alto basement,
+uh,
+got severely overloaded
+and,
+um,
+it would take minutes
+for it.
+Sometimes the data to download,
+uh,
+the people didn't care.
+It,
+it worked eventually.
+And once it was in your cache,
+you could see it again.
+Uh,
+so,
+you know,
+that in many ways
+saved the company,
+um,
+because we sold a lot
+of subscriptions
+and,
+uh,
+you know,
+the awareness
+about the product,
+uh,
+basically grew a hundred
+or even a thousand fold.
+Um,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,
+uh,

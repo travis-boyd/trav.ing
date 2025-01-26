@@ -1,0 +1,1006 @@
+0.00 26.72 SPEAKER_07  Hello, everybody, and welcome to UK Chancellor Depression Watch. That's right. We are now the official podcast that is tracking the mental health status of Rachel Reeves, Chancellor
+26.72 31.94 SPEAKER_03  of the Exchequer of the United Kingdom. The thing about men's women's mental health is that it can
+31.94 52.78 SPEAKER_07  strike at any time. Yeah, that's right. I mean, it is reported that Chancellor Rachel Reeves, this is from an article in the Times about how she sucks, they're all turning on her, is she can't see a way out of the bleak economic outlook and is, quote, very depressed with AIDS saying she is now watching the fourth season of the US office in number 11. Yeah, she's eating
+52.78 96.76 SPEAKER_03  cereal out of a big popcorn bowl. It's like, it's really not going well, you know? And I think we can all relate to that, right? You know, whomst among us has not, like, been in charge of managing, like, one of the largest economies in the world and been like, this is too much, you know? I think most of all, what we all need at this time is, like, grace. We need to remember the people who really matter, like Rachel Reeves, Chancellor of the Exchequer. And, you know, I think we all need to do our part to chip in. So I think if we all do that, we can, like, send a card and, like, maybe, like, a box of milk tray or something to number 11 Downing Street. And I think that may be, you know, just a really rally round and let her know that, you know, we've got her back.
+96.84 100.10 SPEAKER_06  Yeah, she's just there, like, why can't the British government find buyers for its bonds,
+100.18 109.60 SPEAKER_07  like Jim found Pam? Yeah, I think what we should do is use the UK's facility to be able to send any petition to Parliament. We should all send a petition to Parliament.
+109.60 112.60 SPEAKER_07  Just a petition that just says, you okay, hon? XX.
+112.78 127.64 SPEAKER_07  Well, I was going to say, let's send a petition to the UK Parliament that's just the Samaritan's phone number that we want to read to Rachel Reeves. Okay, to be fair, to be fair, if the Tories were serious about being funny in opposition, they could just read her the Samaritan's phone number.
+127.88 154.08 SPEAKER_03  That would be very funny. I mean, listen, if I was elected as a kind of, like, you know, a labor right person and my mandate was, like, growth and growth and growth and growth, and then the bond markets just decided on their own one day, oh no, that's not allowed. I might put a bag lunch in my red box too, but, like, all the same, it's kind of stretching things a bit to ask me for, like, my sympathy personally, you know? Yeah, I'll introduce our guest in just a moment,
+154.16 209.58 SPEAKER_07  but I want to conclude this discussion with, you know what, if being the, like, ultra responsive, straightjacketed to fiscal rules tied to global bond markets, Chancellor, is a job that you've decided doesn't suit you, you don't have to do it. You can do another one. You fought so hard to be there to make sure that Britain would always be straightjacketed into responding to exactly what financial markets want through these crazy fiscal rules. You kicked everybody else out, you fought, like, you were part of a faction that sabotaged your own party on multiple occasions to make sure that, like, the risk that someone else did that job was nil, and now you have it and you fucking hate it, because it turns out that just like Liz Truss, it doesn't matter how much you suck off the bond markets, if you don't fix the fucking foundations of the building, it's still gonna fall apart. So, uh, jeers to Rachel Reeves, let me conclude by saying you have the opportunity to do the funniest thing ever. Anyway, anyway, anyway. That's all the arcane Britain stuff. Let's bring in our guest.
+209.72 229.60 SPEAKER_07  It is returning champion, it is Mike Isaac, the New York Times' technology reporter, Silicon Valley guy covering Meta. However, the last time you heard of him on this show, it was a, let's say, the episode about Elon Musk's takeover of Twitter, where one segment turned into a two-parter. Mike Isaac, how you doing? I'm good. I'm, I guess I'm better than the last
+229.60 237.74 SPEAKER_01  time we spent two hours talking about Elon, although I'm sure, I don't know, this is, there'll be this, our own fun thing with Zuckerberg, I guess. See how you feel after this.
+238.88 243.00 SPEAKER_07  How many British chancellors of the Exchequer are you feeling right now?
+243.00 257.24 SPEAKER_01  Uh, out of a, out of a, out of a five, I don't know. Like, I need to go hit Betty's tea room, I think is what I would say, and just load up on scones. That's the last thing I remember.
+257.32 294.86 SPEAKER_03  Oh yeah. I mean, the, the, the thing about Rachel Reeves, right, is it's so funny to me, imagining being a civil servant who is being told to like leak to the newspapers that your boss has depression? Like, I have to imagine if you, if you're like a senior civil servant in the treasury, there is no shot, zero percent chance you do not have worse depression than Rachel Reeves, right? Because you're, you're stuck there. She can, she can retire and go get a directorship somewhere, but you are fucked. And you have to go and like call up a newspaper or WhatsApp a journalist and be like, my boss has been wearing the same sweatpants for two weeks.
+296.24 302.12 SPEAKER_07  My boss has been posting some stuff on your close friend's Instagram that I think the Times of London would like to have a look at.
+302.32 306.70 SPEAKER_03  She's like blacked out her like profile picture. And she's like, you know, if you, if you know what
+306.70 315.12 SPEAKER_07  it is, don't text, you know, like, I don't, I just, I can't believe posting like, um, old, my chemical romance lyrics, but about like bond traders at Barclays.
+315.12 326.28 SPEAKER_03  I mean, the thing is, we know she's depressed. We don't know that it's related to her job in any way. She could have been like, maybe she was like all in on the Adrian Dittman thing. And when she found out that wasn't real, it was just a kind of like spirals, you know?
+326.58 327.32 SPEAKER_03  Oh my God.
+327.46 357.16 SPEAKER_07  Yeah. It is, uh, it is Riley. It's November and it's Mike. Uh, Milo may jump in. He's having some internet problems. Uh, so we will see if you hear a Starmer impression later, chances are that's him, but we're going to talk today, uh, a lot about having a reasonable amount of depression, a moderate amount of depression. Having ticket yet taking all the boxes, but only some or few days, not all of the days in the last two weeks. I mean, there's, there's some synergy here because
+357.16 365.84 SPEAKER_03  I don't know if you saw the, the, the, like, uh, they interviewed Blair and he said that you've got to like stop having depression. So, you know, that's for like labor right to labor right
+365.84 370.38 SPEAKER_07  communication. I hate how the, how the government just talks to itself in the press.
+372.38 374.02 SPEAKER_00  Buck up, get it together.
+374.32 383.40 SPEAKER_03  Yeah, that's right. It's like a house share. It's just like, you know, Tony Blair and a rare political intervention called on Rachel Reeves to remember to do the fucking dishes for once.
+384.48 391.46 SPEAKER_07  The Downing Street chore wheel is, is crucial to ensuring that all of the chores get done.
+391.46 394.56 SPEAKER_03  You're going to leave food in the fridge, label it with your name.
+394.56 401.76 SPEAKER_07  I understand that Rachel Reeves wants her friends Vanden and Stash to be able to crash for the week.
+401.76 417.20 SPEAKER_07  Now, Mr. Speaker, Mr. Speaker, Rachel Reeves' friends Vanden and Stash are welcome to stay at number 10 so long, Mr. Speaker, as they get up from the couch by nine because I have to go to work in the morning.
+417.20 418.96 SPEAKER_00  I would watch that show.
+418.96 435.50 SPEAKER_07  An anarchist number 10 reminds me of you talked about this on a show I used to do with Dan Beckner, how when he lived in an anarchist squad in Vancouver, some guys from the States came in and tried to dig a latrine and everyone got like cholera.
+435.50 437.16 SPEAKER_07  Oh my God.
+438.72 439.24 SPEAKER_00  Jesus.
+439.70 440.86 SPEAKER_00  It's always the American.
+441.14 441.54 SPEAKER_00  Thank you.
+441.70 452.82 SPEAKER_07  I want to announce a public health crisis in the UK that at least one house in central London has experienced a Giardia outbreak because someone dug a latrine in the garden.
+454.46 457.18 SPEAKER_07  So we're going to be talking a lot about meta.
+457.36 465.48 SPEAKER_07  We're going to be talking also about Peter Thiel and the I guess like one of the theories we're going to be coming back to and something I'm going to we're really going to want to hear from Mike from as well.
+465.50 478.08 SPEAKER_07  Is about like this is sort of like the final chess move of the quote unquote anti elite tech billionaires cycling in as the new to simply replacing an old elite.
+478.22 487.16 SPEAKER_03  It's interesting the combination of Peter Thiel and Mark Zuckerberg and you've got a guy who thinks he can speak Greek and a guy who thinks he is Roman.
+487.52 494.08 SPEAKER_03  So, you know, it's a real shame that the classicist among us is like, you know, hindered by him, hindered by his internet for this.
+494.70 498.84 SPEAKER_07  The other thing I wanted to say was one more bit of Britain before we get to the tech news.
+499.00 501.22 SPEAKER_03  And this is, of course, this has been all over the Internet.
+501.40 506.62 SPEAKER_03  Yeah, this is something we would have to acknowledge, you know, and obviously we have a strong take on it.
+506.86 509.02 SPEAKER_07  We've also briefed Mike on this one as well.
+509.10 511.50 SPEAKER_07  And it's a phenomenon that happens in the States in addition.
+511.72 516.08 SPEAKER_07  And this is, of course, former Labour Defence Secretary and former Labour MP resigned late 2004.
+516.08 526.08 SPEAKER_07  2004, Ivor Kaplan, who was also leader of the Jewish Labour Movement in 2018, has recently been confronted after a sting by volunteer pedophile hunters.
+526.08 538.38 SPEAKER_03  You have to imagine, of all the days you could have as a volunteer pedophile hunter, this isn't even like really an endorsement of them, but like they've got to be so pleased with themselves after that one.
+538.54 545.14 SPEAKER_03  Like normally you've got to figure that like stock in trade is like, you know, sad man of like little consequence.
+545.26 550.90 SPEAKER_03  Whereas this appears to be like sad man of like some political consequence crashing out this way.
+550.90 554.96 SPEAKER_07  Now, this is, I think, probably the most important reading I can do on the subject here.
+555.04 555.66 SPEAKER_07  So I'll say this.
+556.30 560.90 SPEAKER_07  Sections one and two of the Contempt of Court Act 1981 contain a rule that a publication...
+560.90 565.12 SPEAKER_03  Yeah, yeah, that's pretty much it.
+565.26 571.20 SPEAKER_03  You know, like my definitive take on this is, damn, that's allegedly crazy.
+574.14 581.80 SPEAKER_03  I think it's legal to say that whatever he may or may not have done, this is a guy who has had an interesting few months.
+582.12 589.02 SPEAKER_03  And I hope that the authorities get to the bottom of it one way or the other in a way that this is, you know, correct.
+589.38 590.30 SPEAKER_03  I, I, yeah.
+590.54 598.62 SPEAKER_07  Yeah, as, as a British publication and to any Americans on the British publication, I have to add that everyone here is bound by British contempt of court law.
+598.72 602.64 SPEAKER_07  I think what we can say is I hope justice is done in whatever direction.
+602.64 612.64 SPEAKER_07  And also, given what we know about volunteer pedo hunters who stream their stings on Facebook, as November said, what a fucking red letter day for them.
+613.38 620.50 SPEAKER_03  Like, to these guys, they must have figured they caught the guy who invented Globo Homer, right?
+620.76 626.22 SPEAKER_03  Like, they found the first gay guy as far as they're concerned.
+626.22 628.86 SPEAKER_03  So, this is, they're having a great time.
+629.14 634.52 SPEAKER_03  And, you know, as you say, the section, sections one and two for the contempt of court.
+635.26 635.66 SPEAKER_07  Yeah.
+635.98 638.86 SPEAKER_07  But this is also something that happens quite a bit in the States, right?
+638.92 643.96 SPEAKER_07  Like, you see live streams of guys who are like, we're volunteer pedo hunters.
+644.22 647.26 SPEAKER_07  And, you know, we're out to do some entrapment.
+647.44 649.42 SPEAKER_03  Not to, like, just take over Milo's bits.
+649.56 652.40 SPEAKER_03  But this is something that, like, Russia was ahead of the curve on.
+652.52 653.52 SPEAKER_03  They were innovating on that.
+653.52 659.22 SPEAKER_03  They were, like, hate-criming people who weren't even doing anything on live streams from that pretty quickly.
+659.40 659.80 SPEAKER_03  And, you know...
+659.80 662.40 SPEAKER_07  Not that we want to imply that Ivor Kaplan did anything, crucially.
+663.38 664.06 SPEAKER_03  That's true.
+664.34 664.60 SPEAKER_03  Okay.
+664.84 665.74 SPEAKER_03  So, allegedly.
+666.36 674.72 SPEAKER_03  But, yeah, it's just, like, ultimately, I think we're heading towards a culture where this is just, like, completely normalized.
+675.08 676.24 SPEAKER_03  Is that good or bad?
+676.28 676.74 SPEAKER_03  Who can say?
+676.84 679.32 SPEAKER_03  But, you know, did this guy do anything good or bad?
+679.42 680.00 SPEAKER_03  Who can say?
+680.18 681.26 SPEAKER_03  Not us, legally.
+681.40 682.78 SPEAKER_03  He certainly did some posts.
+682.78 690.00 SPEAKER_03  He certainly, yeah, had an interesting Twitter account that I think maybe was ill-advised in some ways.
+690.18 690.30 SPEAKER_07  Yes.
+690.44 693.46 SPEAKER_07  But was followed by everybody in the Labour Party.
+693.80 694.32 SPEAKER_03  Yeah.
+694.74 707.44 SPEAKER_03  I mean, that's got to be a little bit awkward as well to be, like, your colleague is, at a minimum that you know about, visibly kind of, like, having a weird one by retweeting a lot of porn.
+707.60 710.58 SPEAKER_03  Like, from his, like, real name politics account.
+710.58 711.02 SPEAKER_03  Yeah.
+711.28 713.16 SPEAKER_03  Maybe that's what gave Rachel Reeves depression.
+713.38 713.90 SPEAKER_03  You know?
+714.04 715.62 SPEAKER_03  She's been following it for so long.
+716.24 728.08 SPEAKER_03  Well, she got, like, one-chotted by, like, seeing this guy retweeting, like, fucking massive twink cocks and was like, okay, I'm gonna, like, take two weeks off to really not think about this.
+728.24 728.38 SPEAKER_03  Yeah.
+728.54 729.96 SPEAKER_03  She just hates cringe posting.
+729.96 731.22 SPEAKER_03  Oh, there we go.
+731.30 733.46 SPEAKER_03  That's why that's, that's Fresh Features Milo Edwards.
+733.66 734.26 SPEAKER_06  Yeah, hi, I'm back.
+734.38 734.50 SPEAKER_03  Yeah.
+734.58 739.92 SPEAKER_06  Yeah, sorry, I was busily retweeting massive twink cocks and then I remembered that I was supposed to be on this podcast.
+739.92 750.12 SPEAKER_03  See, it's less weird if you're a podcaster, I feel, but if you, if you were, like, veterans minister and, like, all your other retweets are, like, like, Starmer stuff.
+750.36 751.30 SPEAKER_03  That's weird company.
+751.42 755.70 SPEAKER_03  Starmer hasn't been in company with, like, twinks for, you have to imagine a while.
+755.70 759.16 SPEAKER_06  How dare you as veterans minister retweet massive twink cocks?
+759.24 763.20 SPEAKER_06  You expect members of the armed forces to see naked men's penises?
+763.70 764.22 SPEAKER_06  Come on.
+764.80 784.70 SPEAKER_03  Well, like, relatedly to this, in the alleged video that may or may not have been taken by these alleged volunteer pedo hunters, they, like, call him on this specifically of having been veterans minister because I guess it's worse to be, like, associated with the military and be a nonce than to just be a nonce, allegedly.
+784.70 797.02 SPEAKER_03  Which I just thought was really funny to be, like, not only is this guy allegedly doing, like, reprehensible sex crimes, but he's also tarnishing the reputation of the British armed forces.
+797.30 802.38 SPEAKER_07  I wanted them, because I know that, like, volunteer pedo hunters streaming shit on Facebook is a transatlantic phenomenon.
+802.54 805.94 SPEAKER_07  I do want to bring Mike in here before we talk about Doge and Meta and stuff.
+806.08 814.14 SPEAKER_07  Has an American group of amateur hunters, to your knowledge, ever confronted a fish of this size?
+814.70 819.78 SPEAKER_01  This is, like, the big mouth Billy Bass of pedo hunting lands, I think.
+820.12 825.28 SPEAKER_01  American guys just beat up random dudes or, you know, random dudes that they find.
+825.46 833.20 SPEAKER_01  And I don't, not to my knowledge, has there been an actual famous person, you know, celebrity, American celebrity or, you know, politician that I've seen.
+833.20 838.88 SPEAKER_01  But it's usually, like, the real sick version of bum fights, basically.
+839.18 842.06 SPEAKER_01  But finding, you know, potential pedophiles over here.
+842.06 842.94 SPEAKER_01  It's all content.
+843.20 846.10 SPEAKER_03  Like, this is the new content economy, I guess.
+846.44 846.72 SPEAKER_01  Yes.
+846.92 849.02 SPEAKER_01  It's pretty, it's disturbing to me, honestly.
+849.26 849.50 SPEAKER_01  Yeah.
+849.50 850.64 SPEAKER_06  Like, the whole just sort of thing.
+850.64 855.66 SPEAKER_06  It's actually Tia Boo stuff in America, you know, they're imitating our culture, but they don't really understand how it works.
+855.66 859.02 SPEAKER_06  You know, they're just beating up a guy in Cleveland going, he could have been a nut.
+859.04 863.22 SPEAKER_03  What I was saying when you were off was that they're imitating Russian culture, ultimately.
+863.58 864.02 None  Yeah.
+864.96 866.58 SPEAKER_06  Which is just slapping a guy.
+867.28 871.74 SPEAKER_06  The original happy slap was Russian and there was nothing happy about it.
+872.30 873.52 SPEAKER_06  The depression slap.
+873.80 874.06 SPEAKER_06  Yeah.
+874.68 876.02 SPEAKER_07  The perestroika slap.
+876.02 879.28 SPEAKER_07  Look, the glasnost slap was actually a lot more fun.
+879.54 881.58 SPEAKER_07  So, look, I want to move on.
+881.64 884.98 SPEAKER_07  I want to move on to, of course, another piece of news.
+885.18 887.26 SPEAKER_07  This is more so U.S.-oriented news.
+887.40 892.46 SPEAKER_07  It has been revealed a little more the structure of the Department for Government Efficiency, as called.
+893.22 895.50 SPEAKER_07  It's been revealed how it's going to work.
+895.68 902.20 SPEAKER_07  Apparently, the first thing it's done is it has put Vivek Ramaswamy on the moon and taken away his phone.
+902.20 903.46 SPEAKER_07  Because that motherfucker.
+903.60 904.58 SPEAKER_07  Like in the Umbrella Academy?
+904.58 907.24 SPEAKER_07  That motherfucker has been gone.
+907.40 908.52 SPEAKER_07  He has been disappeared.
+908.80 910.48 SPEAKER_07  He has been colored.
+910.86 915.38 SPEAKER_07  He's been altered out of photos like in 1952 in the Soviet Union.
+915.54 916.60 SPEAKER_07  He's vanished.
+917.44 922.06 SPEAKER_07  He posted about Urkel and now he was never heard from again.
+922.06 923.16 SPEAKER_03  You know what this means?
+923.38 929.86 SPEAKER_03  As a guy who was, like, fired for posting too hard, I am obliged to respect him a bit.
+929.94 934.82 SPEAKER_03  Especially because the post that ended his career was, like, talking shit about white people.
+935.06 937.06 SPEAKER_03  That's, you know, that's...
+937.06 940.92 SPEAKER_03  I think we have to, like, tentatively hand it to him.
+941.16 941.46 SPEAKER_03  You know?
+941.80 943.86 SPEAKER_03  Cropped out like an ex-boyfriend on Instagram.
+944.18 944.38 SPEAKER_03  Yeah.
+944.38 945.92 SPEAKER_06  Yeah, yeah, yeah, yeah.
+945.98 950.02 SPEAKER_06  Getting iced out by the right for my tweets about white people driving like this.
+952.54 955.88 SPEAKER_07  But the structure of the organization has been announced.
+956.08 959.38 SPEAKER_07  Mike, have you seen the sort of reporting on the structure of Doge?
+959.38 970.68 SPEAKER_01  So, I think that it's still sort of considered, like, a give a ball to these kids in the corner so they can play with it over here.
+970.74 977.40 SPEAKER_01  At least for a lot of folks in the U.S., like, just, like, Trump admin folks that are getting kind of tired of a lot of these people.
+977.48 979.90 SPEAKER_01  I know they're, like, posturing, like, this is a real thing.
+979.98 982.60 SPEAKER_01  This is really, you know, we can actually send these people in.
+982.70 983.30 SPEAKER_01  They're gonna...
+983.30 986.94 SPEAKER_01  The billionaires can, like, take their important time off and have civil service.
+986.94 990.72 SPEAKER_01  But, like, fill me in on the actual structure, but, like, I just keep...
+990.72 996.50 SPEAKER_01  The only thing I keep reading is, like, it's distract them with a ball in the corner sort of thing.
+996.62 998.74 SPEAKER_01  The department of jangling keys.
+999.74 1015.34 SPEAKER_03  I mean, the thing is, the thing that always fascinates me about this, right, is if you actually, like, take them at their word, if you have this idea of, like, you know, a Doge guy in a windbreaker who runs, like, 15 Groyper Twitter accounts is gonna come into your office and tell you how to run your, you know, agency or whatever.
+1015.34 1018.84 SPEAKER_03  But all well and good for the, like, soy bits of the federal government.
+1018.98 1020.78 SPEAKER_03  You know, you can do that to the Department of Education.
+1020.98 1025.26 SPEAKER_03  But, like, what do you do to the, like, psycho half of the federal government?
+1025.46 1029.82 SPEAKER_03  Like, I wanna meet the Doge guy they send to the CIA.
+1030.38 1036.36 SPEAKER_03  You know, they're gonna tell, like, Alan Dulles the 24th that he needs to, like, cut out the woke shit.
+1036.36 1036.92 SPEAKER_03  Yeah.
+1036.92 1037.24 SPEAKER_07  Yeah.
+1037.40 1052.14 SPEAKER_07  I, I personally, I would love to see them go to, like, the DEA and just, like, like, looking at a bunch of, of photocopied receipts while an increasingly nervous tweaking DEA agent rubs his nose nervously and, like, fingers his gun.
+1052.14 1057.04 SPEAKER_03  No, I'm just doing a ride along with your Doge guy, like, training day.
+1058.50 1064.70 SPEAKER_01  Yeah, just a $200 bill for, like, Starbucks and for my breakfast.
+1065.14 1067.58 SPEAKER_03  We made the Doge guy smoke cracks.
+1068.10 1069.56 SPEAKER_03  I know what that's like.
+1069.56 1072.82 SPEAKER_07  Yeah, I'll write everybody at the DEA.
+1072.94 1073.52 SPEAKER_07  This is Bill.
+1073.66 1075.00 SPEAKER_07  He's the founder of Glunch.
+1075.16 1079.58 SPEAKER_07  It's a, uh, it's a business-to-business invoice automation AI provider.
+1079.76 1082.78 SPEAKER_07  And he's gonna be looking through all of your expense accounts.
+1084.80 1085.28 SPEAKER_07  Yeah.
+1085.50 1089.30 SPEAKER_07  Hey, do we need to have this many cartel guys on the payroll?
+1089.30 1093.36 SPEAKER_07  And then he's already hanging by his ankles from, like, a Tijuana overpass.
+1094.40 1112.22 SPEAKER_03  And, like, there's, the other thing that I, I, I mentioned this for is that there are surprising little pockets of this kind of, like, scary federal agency throughout, you know, like, and what they're gonna do when you, you try and go to, you know, say, I don't know, Health and Human Services, right?
+1112.28 1117.04 SPEAKER_03  And you go, all right, we gotta, we gotta delete all of the stuff about, like, anti-racism.
+1117.04 1128.44 SPEAKER_03  And then you also have to talk to the Health and Human Services SWAT team that exists for some reason and has, like, a billion dollar budget that they spend entirely on, like, flashbanging different hospital wards.
+1128.70 1130.92 SPEAKER_03  That's gonna be, that's gonna be entertaining to me.
+1130.92 1137.42 SPEAKER_07  Yeah, I can't believe the CEO of Poot-a-poot has been blinded and deafened permanently by that.
+1137.42 1139.14 SPEAKER_07  That's not even the guy they're gonna send.
+1139.42 1142.44 SPEAKER_06  Absolute disaster when we flashbang the heart attack ward.
+1143.44 1150.92 SPEAKER_03  They are gonna send, like, a 19-year-old ectomorph called Tyler in to do this shit, you know?
+1151.02 1153.56 SPEAKER_03  And he's gonna have a little scraggly fucking beard.
+1153.56 1164.70 SPEAKER_03  And he's, he's gonna, like, try and get, like, whatever four-star general Mark Milley handpicked as his successor to be, like, uh, you know, say that there are only two genders.
+1166.74 1167.86 SPEAKER_07  This is what it said, right?
+1167.90 1169.68 SPEAKER_07  Is that Doge will not exist.
+1169.78 1171.00 SPEAKER_07  It will not be an organization.
+1171.30 1172.62 SPEAKER_07  It will be a...
+1172.62 1173.86 SPEAKER_07  It's a way of life.
+1174.20 1174.50 SPEAKER_00  It's a...
+1174.50 1179.42 SPEAKER_07  Well, it will, it will exist as, and I say, get this, a group chat.
+1179.42 1182.88 SPEAKER_00  Oh, God, I have a gun in my mouth.
+1182.88 1183.42 SPEAKER_00  No way.
+1185.70 1186.28 SPEAKER_06  That's it.
+1186.38 1188.32 SPEAKER_06  We're gonna put Gibbo in charge of Doge.
+1188.32 1189.32 SPEAKER_06  I mean, that'd be better.
+1189.48 1189.76 SPEAKER_07  Gibbo.
+1189.98 1190.80 SPEAKER_07  Yeah, there we go.
+1190.92 1193.40 SPEAKER_07  It is unlikely to incorporate as anything.
+1193.70 1197.08 SPEAKER_07  Its office is just gonna be in the SpaceX Washington office.
+1197.30 1206.04 SPEAKER_07  And, quote, it is more likely to exist as a brand for an interlinked group of aspirational leaders who are on a joint group chat and share a loyalty to Mr. Musk or Ramaswamy.
+1206.14 1208.06 SPEAKER_07  Sorry, I'm seeing Ramaswamy being deleted.
+1208.06 1213.90 SPEAKER_03  Fully, like, explicitly, like, oligarchical influence network.
+1214.10 1215.12 SPEAKER_03  You know, like, you used to...
+1215.12 1221.82 SPEAKER_03  Back in the day when you had a kind of thing like this, you used to have to run it through, like, a recently privatized state gas company or something.
+1222.06 1222.16 SPEAKER_03  Yeah.
+1223.00 1224.08 SPEAKER_06  Oligarchy's gone to the dogs.
+1224.20 1233.92 SPEAKER_06  Back in the day, you had to marry Boris Yeltsin's daughter and use your newfound influence to convince the Bank of Moscow to loan you a huge amount of money to buy so good nefti gas.
+1233.92 1239.58 SPEAKER_04  Now, anyone just walking off the street, you know, you're saying you got group chat, you want to run the American Empire.
+1239.76 1240.26 SPEAKER_04  Sorry, mate.
+1240.34 1241.60 SPEAKER_04  You got to put in the hard yards.
+1242.00 1246.26 SPEAKER_02  Doing, like, last hard class shit, but for, like, oligarchy, you know?
+1246.80 1247.02 SPEAKER_02  Yeah.
+1247.66 1249.10 SPEAKER_04  Remember when the oligarchs were hard?
+1249.56 1250.62 SPEAKER_06  Now they've gone soft now.
+1250.82 1254.26 SPEAKER_06  I tell you what, none of these guys could murder anyone in a sauna with a crossbow.
+1254.26 1259.02 SPEAKER_07  Trevor Trena, a billionaire- Great name.
+1259.08 1261.68 SPEAKER_07  Who considered joining Doge but didn't because it doesn't pay.
+1262.36 1264.24 SPEAKER_07  Hey, respect to that guy.
+1265.28 1265.56 SPEAKER_06  Yeah.
+1265.78 1269.44 SPEAKER_06  That's how you get to be a billionaire is you never work for free.
+1269.56 1270.64 SPEAKER_06  Value your labor.
+1271.32 1275.48 SPEAKER_07  To be fair, I suppose it's, number one, like, we know who actually is taking these jobs.
+1275.48 1289.48 SPEAKER_07  It's all people who've gotten Teal Fellowships who worked at Palantir, Anduril, and they're doing it, like, they're working those jobs exactly like employees of fucking SNC Lavalin made quote-unquote campaign contributions to, like, Muammar Gaddafi's re-election, right?
+1289.54 1291.54 SPEAKER_07  Like, we know what this actually is.
+1291.66 1301.52 SPEAKER_07  You know, it's like, okay, well, it's these handpicked oligarchs just putting their guys into a bunch of government departments who are going to, you know, try and shape the future of them.
+1301.52 1308.72 SPEAKER_07  And I guess the question is, are enough of them going to risk taking the DEA assignment to see through that agenda?
+1308.96 1316.36 SPEAKER_07  And I think the funny thing is, by the way, Trevor Trena, this entrepreneur, he says, the cynics among us will say, oh, it's just naive billionaires stepping into the fray of government.
+1316.70 1320.66 SPEAKER_07  But it's a service to the nation that we saw more typically around the founding of the nation.
+1320.88 1326.18 SPEAKER_07  The friends I know have huge lives, and they're agreeing to work for free for six months, leave their families, and roll up their sleeves.
+1326.18 1328.08 SPEAKER_07  Oh, yeah, tech guys being like, oh, sorry.
+1328.08 1332.78 SPEAKER_07  Anyway, I, a member of the Teal Fellowship, who has, by the way, committed pronatalist.
+1332.90 1335.16 SPEAKER_07  I have a wife, and we're going to have nine children together.
+1335.40 1341.30 SPEAKER_07  I and all the other guys from the Teal Fellowship are going to go live in a house for six months alone with no wife.
+1341.62 1342.50 SPEAKER_07  So, goodbye.
+1344.16 1345.34 SPEAKER_07  Yeah, no wives allowed.
+1345.48 1347.76 SPEAKER_07  Yeah, well, an attempt to really turn things around.
+1347.88 1348.58 SPEAKER_07  You can view it either way.
+1348.58 1362.90 SPEAKER_07  The funny thing about Trevor Trena, of course, is that under Trump, he was an ambassador to Austria, who flew a, yeah, who flew a pride flag at the Vienna embassy, and is now considered to be a soy by the rest of those guys.
+1362.90 1374.10 SPEAKER_03  The fact that they all hate each other for, like, a sort of, like, fractal number of reasons is, that's one of the few things keeping me going, you know?
+1374.18 1381.00 SPEAKER_03  Like, people like to talk about the left and, like, splitting and shit like that, but we don't have a monopoly on these kind of, like, microbeefs, you know?
+1381.02 1383.80 SPEAKER_03  And at least ours tend to be somewhat discourse-focused.
+1383.96 1388.14 SPEAKER_03  All of these guys are just, like, interpersonally hate each other anyway.
+1388.14 1389.70 SPEAKER_07  Anyway, I want to move on.
+1389.78 1390.54 SPEAKER_07  Let's talk meta.
+1390.76 1393.64 SPEAKER_07  Let's begin plumbing some of the depths.
+1393.94 1404.50 SPEAKER_07  Now, as this second episode on meta in a very small amount of time, this is, of course, because they've announced a lot of changes, and half the changes got announced literally as we were finishing our previous episode.
+1404.68 1405.86 SPEAKER_07  So, there's a lot more to talk about.
+1406.06 1408.74 SPEAKER_07  Now, Mike, you mostly do cover meta.
+1409.04 1411.50 SPEAKER_07  Like, that's one of your main focuses for the New York Times.
+1411.78 1416.90 SPEAKER_07  I'm calling this total Greg Stubbe victory, but how would you characterize?
+1416.90 1427.52 SPEAKER_07  What has happened at meta and its group of companies more on the politics, company, and content side rather than, like, the AI-first side in the last four or five months?
+1427.78 1428.50 SPEAKER_01  Yeah, yeah, yeah.
+1428.60 1434.28 SPEAKER_01  So, yeah, the AI thing is a whole other sort of, you know, business, whatever, business implications for them.
+1434.28 1439.52 SPEAKER_01  But, like, just, it's really striking as, I don't know, I see it as a few things.
+1439.60 1452.56 SPEAKER_01  A capitulation, this idea that, you know, this stuff that we have been holding back in a way of, like, not sort of explicitly catering to the government in their language is now just like a complete turnaround.
+1452.56 1465.54 SPEAKER_01  We're going to, you know, do this announcement where we're rolling back a number of the content moderation things and sort of speech policy on the platform that we had had in stone for basically eight years.
+1465.54 1470.62 SPEAKER_01  And a lot of folks are sort of saying, and I think this is partially true.
+1470.70 1475.08 SPEAKER_01  This is a cynical ploy to sort of appeal to the Trump administration, which I think is right.
+1475.22 1476.64 SPEAKER_01  But I want to be clear.
+1476.72 1481.58 SPEAKER_01  It's like not Zuckerberg holding his nose while he does it and saying, I have to.
+1481.76 1483.26 SPEAKER_01  This is not stuff I believe in.
+1483.26 1497.58 SPEAKER_01  And I do think, at least for now, the guy has believed a number of these, like, the Internet age is too woke, or at least we're being forced into wokeness by the government, by progressives in Silicon Valley, by progressives online.
+1497.58 1500.62 SPEAKER_01  We need to sort of roll this stuff back.
+1501.08 1512.58 SPEAKER_01  But, you know, like with the other caveat that the guy also has pretty malleable views over time and tends to kind of meet the moment based on what is existential to his business.
+1512.58 1519.58 SPEAKER_01  You know, so four to eight years from now, maybe we see an entire reversal again.
+1519.70 1529.70 SPEAKER_01  But I do think that, like, this is not like liberal Zuckerberg deciding to become Trumpist just because Trump is moving into power, if that makes sense.
+1529.84 1530.52 SPEAKER_07  Yeah, absolutely.
+1530.72 1540.86 SPEAKER_07  It's like liberal Zuckerberg was a kind of outgrowth of a bet by him that Trump was an aberration in 2016.
+1540.86 1543.04 SPEAKER_07  And you could see it, actually.
+1543.40 1545.78 SPEAKER_07  You could see when the switch happened.
+1545.92 1547.68 SPEAKER_07  It wasn't when Trump won.
+1547.96 1556.06 SPEAKER_07  It was actually around 2022 when, like, the Ukraine war happened and the aftermath of COVID.
+1556.24 1568.02 SPEAKER_07  Just like a lot of the other tech billionaires, he seemed to sense, okay, the thing that animated MAGA is not going to, and similar movements in other countries, is not going to be going away.
+1568.02 1576.50 SPEAKER_07  It's not going to be beaten by a kind of reheated early 2000s pre-financial crisis liberalism that sort of is responding to, like...
+1576.50 1582.38 SPEAKER_07  I think the other thing that can't be overstated as well is that at that moment, that kind of liberalism was trying to...
+1582.38 1589.18 SPEAKER_07  At a moment of trying to resuscitate itself by responding to the Black Lives Matter sort of protests around the states.
+1589.24 1590.60 SPEAKER_07  That also happened in the UK.
+1590.60 1594.62 SPEAKER_07  Like, Keir Starmer, you fucking kneeled with a kente cloth, as did Nancy Pelosi.
+1594.98 1603.38 SPEAKER_07  And I think it was at that moment, combined with, like, you know, the end of COVID and the Ukraine war, that a lot of the tech billionaires went, okay, this far and no further.
+1603.52 1605.42 SPEAKER_07  We're all, like, anti-DEI now.
+1605.66 1608.70 SPEAKER_07  We're slowly going to start rolling back those policies.
+1608.88 1611.68 SPEAKER_07  That's when companies started deleting DEI policies.
+1611.96 1613.30 SPEAKER_07  Coinbase was just the first one.
+1613.30 1613.70 SPEAKER_01  Yes.
+1613.94 1615.54 SPEAKER_01  And that's the sort of...
+1615.54 1616.26 SPEAKER_01  I think you're totally right.
+1616.40 1617.42 SPEAKER_01  And, like, I was thinking about this.
+1617.60 1622.16 SPEAKER_01  You know, folks online, including myself, were like, oh, they only think Trumpism is going to last four years.
+1622.16 1625.00 SPEAKER_01  Or, like, what happens when the Democrats come back in power?
+1625.08 1626.14 SPEAKER_01  But I think you're right.
+1626.22 1630.02 SPEAKER_01  Like, I think the Democrats, even now, are backing away from that.
+1630.24 1631.00 SPEAKER_01  You know, exactly.
+1631.16 1633.28 SPEAKER_01  The kneeling era, the sort of, like, posturing.
+1633.50 1636.60 SPEAKER_01  We need to wrap everything in what we think is the good signaling.
+1636.90 1640.34 SPEAKER_01  The corporate sort of pinkwashing of different initiatives.
+1640.34 1641.34 SPEAKER_01  That is...
+1641.34 1643.86 SPEAKER_01  This is a bet on that being done now, basically.
+1644.24 1645.60 SPEAKER_01  And, like, maybe they're right.
+1645.74 1656.44 SPEAKER_01  Maybe if Democrats do come back, you know, you're even seeing Dems over here sort of really backing away from this sort of what they are calling now woke-est sort of PC speech.
+1656.56 1657.40 SPEAKER_01  But, like, I don't know.
+1657.50 1660.22 SPEAKER_01  For me, it's just, like, it colors everything.
+1660.42 1666.58 SPEAKER_01  Not that we shouldn't have already been cynical about all of the things that they've been putting out there and all the initiatives that they've had for a long time.
+1666.58 1675.54 SPEAKER_01  But it colors all of the past eight years of Zuckerberg's sort of company-wide billions of dollars spent on this stuff in an even more cynical light, I would say.
+1675.62 1676.22 SPEAKER_01  Well, it's marketing.
+1676.54 1678.00 SPEAKER_07  It's in so many cases.
+1678.16 1682.40 SPEAKER_07  This is any time I would see conservatives getting incensed about DEI.
+1682.52 1686.20 SPEAKER_07  I'd be like, what you're doing is you are getting angry at a marketing campaign.
+1686.20 1694.30 SPEAKER_07  And then, but just to remember that in, again, what I always remember, Beat Takeshi referring to America as a, quote, entertainment nation.
+1694.44 1703.84 SPEAKER_07  And that extending to the rest of the Anglosphere is, like, getting people to get mad at a marketing campaign is a great way to energize them because that's what they understand the world to be comprised of.
+1703.98 1704.56 SPEAKER_07  Oh, Jesus.
+1704.98 1705.76 SPEAKER_07  That's pretty good.
+1706.18 1706.34 SPEAKER_07  Yeah.
+1706.58 1708.24 SPEAKER_07  It worked great with Bud Light, you know.
+1708.26 1709.66 SPEAKER_07  Why not do it with everything else?
+1709.66 1719.52 SPEAKER_07  I describe this as total Stuby victory because, as listeners to the show will know, we have a favorite U.S. congressman, as every podcast in the world does.
+1719.60 1719.96 SPEAKER_07  Of course.
+1720.18 1720.62 SPEAKER_07  Of course.
+1720.70 1720.78 SPEAKER_07  Yeah.
+1720.94 1725.86 SPEAKER_07  And our favorite U.S. congressman is, of course, Sarasota Republican Greg Stuby.
+1725.98 1733.96 SPEAKER_07  A man who once asked Sundar Pichai why his emails were going to junk mail in his friends and family.
+1734.10 1735.26 SPEAKER_01  That fucking rocks.
+1735.40 1738.30 SPEAKER_01  That is, like, exactly what you do when you're in power.
+1738.30 1742.86 SPEAKER_01  He's the CEO of a company as tech support in a congressional hearing.
+1743.10 1743.22 SPEAKER_07  Yeah.
+1743.32 1748.94 SPEAKER_07  He then, a couple of months later, he then fell off of his roof while repairing it but was apparently fine.
+1749.50 1751.40 SPEAKER_07  A gigantic meathead.
+1751.50 1752.46 SPEAKER_07  He's too big.
+1752.64 1753.66 SPEAKER_07  Ground injured.
+1753.94 1754.76 SPEAKER_07  Stuby fine.
+1754.92 1757.22 SPEAKER_03  He is our perfect oaf, right?
+1757.24 1757.46 SPEAKER_03  Yes.
+1758.30 1772.82 SPEAKER_03  And, you know, without the kind of, like, you know, burden of DEI and wokeness holding them back, thanks to Doge, any kind of, like, you know, the federal, like, you know, Fish and Wildlife Service will finally be able to pursue him.
+1773.02 1779.26 SPEAKER_07  He's a guy who should have been saved from politics and who should have spent his life running from the HHS SWAT team.
+1779.56 1782.62 SPEAKER_07  Unfortunately, unfortunately, he's in power.
+1782.76 1782.96 SPEAKER_06  Yeah.
+1782.96 1786.70 SPEAKER_06  Well, he's a prisoner of destiny, like so many Greek tragic figures, you know.
+1786.88 1790.52 SPEAKER_06  The American empire was faced with a question, Stuby or not Stuby.
+1790.84 1794.28 SPEAKER_06  And, you know, like a philosopher king, he has been summoned.
+1794.76 1797.00 SPEAKER_06  You know, he didn't want to rule, but he must.
+1797.20 1799.38 SPEAKER_07  He turned down Imperium three times.
+1799.38 1804.58 SPEAKER_07  So, but Greg Stuby has long had a lot of complaints about Facebook.
+1804.72 1813.08 SPEAKER_07  He's kind of, when I want to think about what the U.S. right wants regarding tech regulation, your sort of average right winger, I always look at Greg Stuby as my bellwether.
+1813.30 1815.50 SPEAKER_03  He is the most Facebook-pilled of them.
+1815.64 1815.92 SPEAKER_07  Yes.
+1816.28 1819.96 SPEAKER_07  And he is, like, one of the dumbest examples of a Facebook user there is.
+1820.08 1825.14 SPEAKER_07  One of, like, your just replacement rate, replacement level, rather, sort of Trump supporters.
+1825.14 1834.58 SPEAKER_07  You know, what has happened is Mark Zuckerberg has closed his eyes really, really hard and pressed on both of his temples for a long enough time until he became Greg Stuby.
+1834.72 1836.36 SPEAKER_07  He turned himself into Stuby.
+1836.48 1843.94 SPEAKER_07  So, Stuby's most recent venture forth on Meta was only a few months ago, where he said, again, Meta is notorious for censoring conservative speech.
+1844.20 1854.80 SPEAKER_07  Only after Zuckerberg got caught engaging in election interference by censoring the New York Post's Hunter Biden laptop story in October 2020 did he promise to reform Meta for content moderation purposes, Stuby said.
+1854.80 1865.24 SPEAKER_07  Before then, going on to suggest that his appointment of John Arnold, a former Enron trader and charter school advocate who happens to have hopped on the board, the disinformation train by a global witness to Meta's board.
+1865.44 1867.18 SPEAKER_07  Stuby was like, yeah, that shows they haven't changed at all.
+1867.36 1873.14 SPEAKER_07  So, Mark Zuckerberg has just said, OK, Greg Stuby, if you're not going to believe us, I will turn myself into you.
+1873.60 1873.80 SPEAKER_06  Yeah.
+1874.04 1875.54 SPEAKER_06  That's why he's at the gym all the time.
+1875.58 1877.72 SPEAKER_06  He's trying to get big enough to be Greg Stuby.
+1877.72 1882.14 SPEAKER_07  Now, so, of course, then we're going to talk a little more about specifically what's changed.
+1882.14 1890.36 SPEAKER_07  But Zuck outlined a lot of this on what can now really be understood as like regime radio Joe Rogan, essentially.
+1890.70 1893.36 SPEAKER_07  You know, so what what did he say on Rogan?
+1893.44 1896.62 SPEAKER_07  I have a few examples here, but I want to know what like what jumped out at you, Mike.
+1896.84 1897.04 SPEAKER_01  Yeah.
+1897.18 1899.52 SPEAKER_01  The Rogan interview really blew me away.
+1899.60 1901.60 SPEAKER_01  And I'm still this is my fucking job.
+1901.60 1903.72 SPEAKER_01  And I'm only two and a half hours through it, basically.
+1903.72 1906.52 SPEAKER_01  So I need to get back back into it, I guess.
+1906.86 1909.00 SPEAKER_03  It's not it's not fair what they're making you do.
+1909.00 1913.18 SPEAKER_01  I was just about to say my job is now listening to Rogan every so often.
+1913.34 1915.56 SPEAKER_00  And it's really Lord Roar Roar.
+1916.36 1924.86 SPEAKER_01  But it blew me away because I do know just, you know, I've been reporting on him for a long time and have talked to folks kind of in his circle.
+1925.14 1931.92 SPEAKER_01  I've known that he's held some of this sort of some of these views around, you know, we are holding our side.
+1932.16 1947.50 SPEAKER_01  Basically, I think if they had their way, they would not have to deal with any sort of moderation, which is not possible because there are laws, especially in the EU and in and I believe in Britain that where you have to sort of take certain things down or be face massive fines.
+1947.66 1951.34 SPEAKER_01  But if they had their way, they would have no sort of moderation at all.
+1951.42 1955.74 SPEAKER_01  So a bunch of the what they once called their hate speech policy.
+1955.74 1964.72 SPEAKER_01  They now call hateful conduct, particularly because they wanted to get it away from this idea that speech can be damaging, I guess, is what some of the policy thinking was.
+1964.72 1968.26 SPEAKER_01  They rolled back a lot of things you wouldn't be allowed to say on there.
+1968.36 1984.40 SPEAKER_01  So one policy example from a source we talked to said that, you know, you wouldn't be allowed to post white people have mental illness because that is targeting a group, a white white group, I guess is what it was.
+1984.60 1988.30 SPEAKER_01  But you would be allowed to post gay people have mental illness and a lot.
+1988.40 1992.46 SPEAKER_01  So a lot of things that were kind of centered on trans, non-binary.
+1992.46 1993.98 SPEAKER_01  It's in the Rachel Reeves was gay.
+1994.18 1994.34 SPEAKER_01  Yeah.
+1995.58 1997.74 SPEAKER_06  It can happen to anyone.
+1998.68 2000.00 SPEAKER_01  And then we watched The Office.
+2002.14 2017.66 SPEAKER_01  So what I think the lesser issue was sort of taking out fact checking, at least in the United States, they still are required to in the EU, I believe, which I think is a lesser deal because, you know, fact checking the billions of things that go through Facebook every day is an impossible task.
+2017.66 2022.94 SPEAKER_01  And like, honestly, also always was sort of a fig leaf in my imagination to get the government off their back.
+2023.12 2030.26 SPEAKER_01  And then lastly, reversing their stance of the past 12 to 18 months saying no one wants to see politics in their feeds.
+2030.38 2032.78 SPEAKER_01  We just want to see, you know, dog pics and whatever.
+2032.78 2037.88 SPEAKER_01  And they're shoving it back into Facebook, Instagram threads.
+2038.62 2040.14 SPEAKER_01  And oh, no, not threads.
+2040.14 2043.92 SPEAKER_01  I know we're all fucked.
+2044.02 2045.48 SPEAKER_07  So just a bunch of reversals.
+2045.58 2045.98 SPEAKER_07  There's a lot.
+2046.06 2047.80 SPEAKER_07  I think there's a few ways to look at this, right?
+2047.88 2053.94 SPEAKER_07  One is the old adage that every platform eventually becomes the same platform over time.
+2054.02 2056.20 SPEAKER_07  Used to be that every platform was becoming TikTok.
+2056.52 2071.22 SPEAKER_07  But now it seems like the proximity of X specifically to Trump, X the everything app, of course, specifically to Trump and American power has meant that other platform companies have an incentive for every platform to become Twitter or X the everything app.
+2071.56 2072.12 SPEAKER_00  Yeah.
+2072.38 2073.50 SPEAKER_07  Which is at that scene.
+2073.84 2076.30 SPEAKER_07  The grokification of American society.
+2077.18 2082.30 SPEAKER_07  The Doge guys said we have to replace the language model that targets the howitzers with grok.
+2082.70 2083.62 SPEAKER_03  Yeah, that's right.
+2083.86 2088.38 SPEAKER_03  The future of warfare is two anti-woke AIs fighting each other.
+2088.80 2089.32 SPEAKER_03  Yeah.
+2089.80 2091.12 SPEAKER_03  Norman Grockefeller.
+2091.28 2091.94 SPEAKER_03  Is that anything?
+2092.44 2094.04 SPEAKER_02  Norman fucking Grokwell.
+2094.04 2094.52 SPEAKER_02  Yeah.
+2096.20 2098.38 SPEAKER_07  But there's that one observation, right?
+2098.44 2099.58 SPEAKER_07  Platforms become one another.
+2099.88 2103.32 SPEAKER_07  Then I think there's another one, which is what we're seeing.
+2103.48 2113.56 SPEAKER_07  We've seen capital in the US, specifically like larger nationally important quote unquote corporates and the US state being largely coterminous with one another is not at all new, obviously.
+2113.86 2125.42 SPEAKER_07  But what we're seeing is platform capital and the US state becoming largely coterminous with one another, I think because of how important posting is to movement conservatives and the president in particular.
+2125.96 2126.90 SPEAKER_01  That's pretty good.
+2127.02 2134.46 SPEAKER_07  And also because of the fact that now, you know, we have there is an official platform enemy in the form of TikTok, which may get banned.
+2134.46 2150.00 SPEAKER_07  So it's that if you are if you're Zuckerberg, you have a really strong incentive to align yourself as much as you can to the president to be like, oh, Mr. President, I know you said you were going to like, you know, turn me into a court jester 18 months ago, but we know that was all fun, right?
+2150.52 2151.74 SPEAKER_07  We're we're friends now.
+2151.84 2152.92 SPEAKER_07  Please ban TikTok.
+2153.24 2172.92 SPEAKER_03  I mean, as grim as it's looking, you really have to look to Trump as the real like destabilizing element, the wild card here, Trump and Elon Musk, you know, like the two like really uncontrollable weirdos here, because otherwise it's really seeming like these guys have a lot of this the shit sewn up, you know?
+2172.92 2175.14 SPEAKER_01  I do think that that's you're exactly right.
+2175.28 2182.20 SPEAKER_01  And in this, Mark has also taken this like outwardly America first tack to to kind of secure that.
+2182.26 2182.42 SPEAKER_01  Right.
+2182.48 2189.30 SPEAKER_01  He's saying, you know, we must eliminate the Chinese menace that is TikTok, which he may actually get his way very soon.
+2189.56 2203.66 SPEAKER_01  It's looking like Supreme Court here is going to ban it after, by the way, not that long ago, regularly courting Xi Jinping and asking the president what he should name the birth of his first child when he was over in China visiting.
+2203.98 2209.32 SPEAKER_07  God, so it's not Mark Zuckerberg is just a lifetime bitch.
+2211.40 2212.46 SPEAKER_01  That's a pretty good.
+2212.62 2213.04 SPEAKER_01  Yeah, right.
+2213.12 2214.36 SPEAKER_01  But like, that's the thing.
+2214.40 2216.74 SPEAKER_01  It's like people have kind of a short memory around this stuff.
+2216.74 2225.06 SPEAKER_01  And that's what I think Zuckerberg is counting on when he's like waving the American flag on a on a hydrofoil, drinking a Bud Light or no, I'm sorry, the non gay beer.
+2225.14 2225.36 SPEAKER_01  Right.
+2225.42 2226.66 SPEAKER_01  So it would have been Miller Lite.
+2226.66 2240.44 SPEAKER_01  But like, that's the sort of the thing is like he he kind of figures out, especially around his like close advisors, Joel Kaplan, Bush era sort of guy who's like basically architecting all these changes.
+2240.90 2244.44 SPEAKER_01  They know what the strategy is and it's all in on the USA.
+2244.44 2246.54 SPEAKER_01  And I agree, like, what does Trump do tomorrow?
+2246.74 2247.84 SPEAKER_01  What does Elon do tomorrow?
+2248.00 2249.66 SPEAKER_01  God knows who knows what they're going to do.
+2249.72 2253.44 SPEAKER_01  But I think that that's what Zuckerberg is sort of is counting on, basically.
+2253.64 2255.28 SPEAKER_03  I just really hope that.
+2255.50 2265.76 SPEAKER_03  Listen, I don't know very much about Xi Jinping personally, but I hope that he is a uniquely petty and vindictive man who is deeply wounded by Mark Zuckerberg's perceived betrayal of him.
+2265.76 2266.12 SPEAKER_03  Yeah.
+2267.32 2274.48 SPEAKER_06  I think it would be fun if like so many Americans are so hopelessly like, you know, addicted to TikTok that that becomes the resistance.
+2274.82 2286.12 SPEAKER_06  You know, you've got like you've got like middle aged moms in secret in a basement somewhere in Wisconsin making tea in a microwave and filming it and being like, this is how we show that we're not part of it.
+2287.12 2287.60 SPEAKER_00  Yeah.
+2287.70 2289.58 SPEAKER_00  Forget about Lib January 6th.
+2289.62 2290.76 SPEAKER_00  It's the TikTok January 6th.
+2290.76 2291.28 SPEAKER_00  That's right.
+2291.68 2304.20 SPEAKER_03  Well, like, you know how every time, like, more than two Chinese people are on like the same non, like the same VPN site at the same time and they get a kind of breathless rise up that's like, is this the end of the Chinese Communist Party?
+2304.40 2312.42 SPEAKER_03  I just, I look forward to like a couple of Americans posting TikToks and kind of like breathless international coverage of the end of the American regime.
+2312.42 2312.94 SPEAKER_03  Yeah.
+2313.24 2323.62 SPEAKER_07  The South China Morning Post in between loudest sneeze ever recorded by Panda and this boat sail all the way to Antarctica is the end of the American regime.
+2323.96 2326.14 SPEAKER_03  Sort of a People's Daily vibe, but yeah.
+2326.14 2328.16 SPEAKER_06  Sorry, People's Daily, not South China Morning Post.
+2328.28 2328.52 SPEAKER_06  Fuck.
+2328.60 2337.46 SPEAKER_06  More and more Americans have been shooting in to watch the videos of the family as they dance to forget-me-nots in their local pub showing discontent with the regime.
+2338.40 2340.28 SPEAKER_03  I honestly, it can't come soon enough.
+2340.34 2349.02 SPEAKER_03  I want to be reading English language People's Daily content that's like a peasant from rural Montana province still makes barbecue the old fashioned way or whatever.
+2350.32 2351.32 SPEAKER_06  Yeah.
+2351.70 2355.38 SPEAKER_06  Cincinnati Zoo gorilla has 46th birthday.
+2358.28 2360.36 SPEAKER_00  Oh shit, he turned 46.
+2360.96 2361.92 SPEAKER_07  Oh cool.
+2362.48 2365.36 SPEAKER_07  Everyone in China loves American Pangzai.
+2366.54 2375.58 SPEAKER_03  I believe there may be a case for genuine like proletarian exchange there, you know, like America has a lot of working class alcoholics and I salute them.
+2375.58 2376.02 SPEAKER_03  Yeah.
+2377.02 2379.96 SPEAKER_07  American Pangzai, also known as a regular guy.
+2381.58 2385.06 SPEAKER_06  Mysterious disease emerges at cattle market in Wyoming prefecture.
+2387.86 2388.70 SPEAKER_07  Back to meta.
+2388.86 2389.02 SPEAKER_07  Right.
+2389.12 2401.04 SPEAKER_07  So this is what I, when I said look at like, well, this is the union of capital, a political movement and the organs of government for an era where entertainment appears to be everything.
+2401.04 2411.60 SPEAKER_07  But at the same time, you wonder like what is explicitly aligning itself with the American state going to do for meta and it's very important global markets.
+2411.82 2416.16 SPEAKER_03  As the American state becomes kind of like more unhinged.
+2416.26 2417.20 SPEAKER_07  Well, yes, indeed.
+2417.34 2419.30 SPEAKER_07  I genuinely don't know.
+2419.48 2419.70 SPEAKER_07  Right.
+2419.70 2421.40 SPEAKER_07  Because it's not as though meta.
+2421.40 2429.50 SPEAKER_03  What's the EU going to do to meta if like sort of Zuck is palling around with Trump and then Trump invades Greenland, you know?
+2429.68 2429.88 SPEAKER_03  Yeah.
+2429.98 2430.46 SPEAKER_03  Well, genuinely.
+2430.80 2431.02 SPEAKER_01  Yeah.
+2431.08 2433.34 SPEAKER_01  He is even in that Rogan interview too.
+2433.44 2438.24 SPEAKER_01  He railed against, I think he even said, you know, the European Commission as well.
+2438.30 2442.04 SPEAKER_01  But like, he's just saying all these other governments are encroaching on us.
+2442.10 2456.84 SPEAKER_01  The Biden administration gave them liberty to do that because we capitulated to them during COVID by taking down certain things, which again, he's very pissed off or resentful at having to take down stuff during COVID lockdowns here.
+2457.04 2466.00 SPEAKER_01  I keep asking myself what the long grand plan is that, you know, just fully aligning yourself with Trumpism is going to work on.
+2466.12 2477.98 SPEAKER_01  But maybe, maybe it's not even more, you know, looking beyond the idea that they have to fend off Trump threatening to jail Mark Zuckerberg or antitrust and FTC investigations in here looking to break them up.
+2478.02 2479.02 SPEAKER_01  I'm not, I'm not sure.
+2479.22 2483.46 SPEAKER_06  Getting hauled into the European Commission and giving the enhanced interrogation treatment.
+2483.78 2485.82 SPEAKER_06  Like, you forget yourself, Mr. Zuckerberg.
+2486.06 2489.56 SPEAKER_06  I did not get these frameless glasses for the lack of perceptiveness.
+2490.34 2492.68 SPEAKER_03  You never want to hand it to European libs.
+2492.86 2494.20 SPEAKER_03  Like, they're, they're evil people.
+2494.20 2503.04 SPEAKER_03  But like, it's the same thing I always say, you know, I, I, I hate it when the government defends itself from, from the left, but I love it when the government defends itself from the right.
+2503.22 2508.96 SPEAKER_03  And if they can, if they can make Zuck and, you know, Trump even bend me on this, then so much the better.
+2509.50 2513.10 SPEAKER_06  You either speak to me now or Ursula von der Leyen in that room over there.
+2513.60 2515.40 SPEAKER_07  Stop to you, Mr. Zuckerberg.
+2515.60 2524.36 SPEAKER_07  It's, it's the scene from Sicario, but instead of the bottle, instead of like the big water cooler bottle of water, Benicio del Toro just grabs a gigantic Perrier.
+2524.36 2524.44 SPEAKER_07  Okay.
+2527.50 2531.10 SPEAKER_07  But, but, um, the other thing I want to mention, Mike, I will take this back up.
+2531.14 2533.60 SPEAKER_07  So you mentioned is out on an antitrust, right?
+2533.64 2538.80 SPEAKER_07  Which is that at the same interview, Zuck also was like, oh yeah, Lena Kahn said we had to be woke.
+2538.92 2543.48 SPEAKER_07  So, uh, if you're not woke, you should oppose Lena Kahn trying to break us up.
+2544.02 2547.00 SPEAKER_03  All of these guys have the stupidest possible grievances.
+2547.00 2554.86 SPEAKER_07  That's why I say the only way to understand Mark Zuckerberg, I think, and what he will do is to ask what Greg Stubbe would do if he was put in that position.
+2555.22 2557.12 SPEAKER_03  I have, I have a question, right?
+2557.18 2563.80 SPEAKER_03  Because as we've established, as we've established, Mark Zuckerberg is a man, a man for all seasons, right?
+2563.84 2565.96 SPEAKER_03  He has a very, very mutable nature, right?
+2566.12 2570.54 SPEAKER_03  So the question I'd like to pose to you is who is your favorite Mark Zuckerberg?
+2570.64 2571.84 SPEAKER_03  And I'll tell you my answer.
+2571.84 2585.80 SPEAKER_03  My favorite Mark Zuckerberg is the Mark Zuckerberg who decided he was going to run for president, spent like two weeks going around like diners in Iowa and then decided that this was a terrible idea and stopped, but the photos are still up.
+2585.92 2587.58 SPEAKER_03  That's my favorite Mark Zuckerberg.
+2587.70 2592.96 SPEAKER_06  My favorite was when they were launching Facebook Live and it was the grilling meats.
+2593.16 2594.34 SPEAKER_06  Oh, Mark Zuckerberg.
+2594.62 2596.30 SPEAKER_06  We're grilling some meats here.
+2596.46 2596.68 SPEAKER_06  Yeah.
+2596.80 2597.70 SPEAKER_06  That was a good one.
+2597.78 2599.46 SPEAKER_01  I just watched that video again.
+2599.56 2600.32 SPEAKER_01  That was a trip.
+2600.46 2601.48 SPEAKER_01  I forgot about that.
+2601.72 2603.12 SPEAKER_01  There's so many meat.
+2603.20 2605.16 SPEAKER_01  It was fucking excruciating.
+2605.16 2605.42 SPEAKER_01  Yeah.
+2606.42 2607.16 SPEAKER_07  Grilling meat.
+2607.34 2617.00 SPEAKER_07  I guess the way I've taken all of this, right, is that there is a number of tampons in a safe at Meta headquarters and those tampons.
+2617.28 2620.10 SPEAKER_06  Wait, is this a management consultancy interview question?
+2621.38 2622.52 SPEAKER_06  Sell me this tampon.
+2622.82 2623.80 SPEAKER_03  What day is it?
+2624.50 2625.80 SPEAKER_03  I don't need to.
+2625.84 2626.86 SPEAKER_07  You're already holding it.
+2626.86 2637.22 SPEAKER_07  And every time there is a political change, those tampons will be redistributed through the men's bathrooms at Meta properties.
+2637.36 2637.94 SPEAKER_07  It seems to be.
+2638.18 2640.02 SPEAKER_03  I like to hope so.
+2640.24 2641.88 SPEAKER_03  It's pretty scary.
+2642.00 2659.56 SPEAKER_03  And you don't want to think too hard that this is going to be a kind of a Weimar type situation because the last time that, you know, you had this kind of like corporatist unison behind the kind of like very far right government and a sort of like, you know, superpower is not a good time.
+2659.76 2659.96 SPEAKER_03  Right.
+2660.12 2671.46 SPEAKER_03  And I think, you know, I kind of want to caution against this assumption that like, first of all, that all these people are like secretly in their, you know, in their deepest heart libs, right, who are just trying to wait this stuff out.
+2671.46 2674.68 SPEAKER_03  But also that this stuff can be waited out in that way.
+2675.18 2687.44 SPEAKER_03  I think, I think, and you know, we may have to deal very seriously with the possibility that this, this can only be solved by turning the whole country over to the people's daily, you know, whatever cause that takes.
+2687.58 2692.14 SPEAKER_07  But if we want to look at like how under Trump's thumb Zuck is and how happy he is about it, right?
+2692.20 2711.76 SPEAKER_07  It says in August, Zuckerberg sent a letter to Republican Congressman Jim Jordan, who was also on the same panel as Stuby asking fucking tech support questions to like Sundar Pichai saying that the president, that president Biden's White House was wrong to press her Facebook to censor content in 2021 related to COVID-19 that meta wouldn't comply with such efforts in the future.
+2711.90 2714.16 SPEAKER_07  So essentially, if anything happens.
+2714.44 2721.28 SPEAKER_03  So essentially, you are going to die of like bird flu because of Greg Stuby.
+2721.28 2729.50 SPEAKER_03  Just to be absolutely clear, Greg Stuby is going to like kill you in the next pandemic because he didn't know how to send an email.
+2729.78 2731.86 SPEAKER_07  Oh, I've got the avian flu beat.
+2732.72 2734.52 SPEAKER_07  Honestly, I think they've come a long way.
+2734.62 2736.64 SPEAKER_07  Trump said about meta and his policy changes.
+2736.88 2740.48 SPEAKER_07  Asked whether Zuckerberg, he thought Zuckerberg was responding to his own threats.
+2740.66 2742.04 SPEAKER_07  Trump said, yeah, probably.
+2744.84 2746.02 SPEAKER_01  God, that rags.
+2746.02 2747.44 SPEAKER_01  I can't.
+2747.44 2747.46 SPEAKER_01  I can't.
+2747.64 2751.08 SPEAKER_03  The like Trump personal analysis of vibes.
+2751.52 2752.88 SPEAKER_03  He's not wrong here.
+2753.36 2753.38 SPEAKER_06  Like.
+2754.54 2757.02 SPEAKER_06  Look, he agrees with me now, but he's still a pussy.
+2757.18 2758.90 SPEAKER_06  And that's probably why he's agreeing with me.
+2758.98 2759.90 SPEAKER_08  He literally said this about Elon.
+2759.90 2762.08 SPEAKER_03  He doesn't want me to have to come down there.
+2762.16 2762.36 SPEAKER_03  What?
+2762.70 2763.14 SPEAKER_08  Yeah.
+2764.26 2780.80 SPEAKER_03  It's like this is this is one of the like, you know, few bright spots of Trumpism is that you get one guy who's allowed to tell the truth and it is this kind of prissy former real estate developer from Queens who just also happens to be turbo Hitler.
+2780.96 2784.64 SPEAKER_03  I think it's weird that the king has jester's privilege, but that's fine.
+2786.32 2801.22 SPEAKER_03  My kind of sole remaining hope aside from the Chengdu J-20 joint strike fighter, right, is this idea that like shit's so weird and stupid all the time that something weirder and stupider will happen.
+2801.52 2809.30 SPEAKER_03  You know, like if we're if we're in the kind of like farce of first is tragedy, then as fast, there's going to be some more farce along.
+2809.50 2809.76 SPEAKER_03  Oh, yeah.
+2809.76 2814.46 SPEAKER_07  Like you have to get hit with sandbags dropping from like from the rafters.
+2814.64 2817.74 SPEAKER_07  Lights are going to blow like someone's going to flub their lines.
+2817.84 2819.18 SPEAKER_07  It's all the play that goes wrong.
+2819.40 2821.34 SPEAKER_07  This is from another Wall Street Journal article.
+2821.54 2822.56 SPEAKER_07  The government that goes wrong.
+2822.56 2827.18 SPEAKER_07  This is from another Wall Street Journal article about Meta before we go in, of course, to we couldn't ignore it.
+2827.28 2828.30 SPEAKER_07  The teal op-ed.
+2828.52 2831.00 SPEAKER_07  Zuckerberg had been personally upset by Meta's system.
+2831.14 2836.34 SPEAKER_07  In November 2023, he posted a picture of himself after knee surgery, which he tore during MMA fighting.
+2836.48 2838.42 SPEAKER_07  Quote, still looking forward to it after I recover.
+2838.60 2840.14 SPEAKER_07  Thanks to everyone for the love and support.
+2840.26 2842.54 SPEAKER_07  The post did not receive much attention on Facebook.
+2842.92 2844.72 SPEAKER_03  Oh, that's a radicalizing experience.
+2846.36 2849.12 SPEAKER_03  Why is it all legs with this fucking guy?
+2850.02 2851.46 SPEAKER_03  He just can't get legs to work.
+2851.46 2852.96 SPEAKER_03  Yeah, well, he put legs.
+2853.08 2855.90 SPEAKER_03  I mean, this is obviously like there's a multi-phase plan, right?
+2855.98 2857.88 SPEAKER_03  Phase one, put legs in the metaverse.
+2858.00 2859.50 SPEAKER_03  Phase two, start goose-stepping.
+2859.70 2864.74 SPEAKER_06  Ah, you think that you're having trouble with your legs now, but if you cross the European Commission again...
+2865.74 2871.64 SPEAKER_07  November, would you say it's fair that legs are clearly Mark Zuckerberg's Achilles heel?
+2871.90 2872.80 SPEAKER_07  Would you say that's fair?
+2874.40 2875.18 SPEAKER_07  Yeah, there we go.
+2875.18 2881.38 SPEAKER_07  The post initially received anemic attention on Facebook that slowed the spread of viral health-related content.
+2881.54 2882.44 SPEAKER_07  Obviously, right?
+2882.56 2888.76 SPEAKER_07  Of course they would do that because people were using it to be like, what if we coughed on each other and got the COVID out that way?
+2888.84 2890.80 SPEAKER_07  Like, that's what Facebook was being used for.
+2890.92 2891.76 SPEAKER_07  That and shrimp Jesus.
+2891.88 2893.82 SPEAKER_07  People refuse to answer that question, to be fair.
+2893.82 2905.42 SPEAKER_07  Established after Meta staff determined such immaterial was frequently false to sensationalistic, but the rule had also ensnared Zuckerberg's innocuous post, prompting him to personally demand a review of the rule and other overreach and safety measures.
+2905.70 2906.04 SPEAKER_03  God.
+2906.38 2907.78 SPEAKER_03  He was silenced for truth.
+2908.00 2909.54 SPEAKER_03  He was de-boosted.
+2909.76 2915.44 SPEAKER_03  He became one of those, like, congresspeople who's like, why am I getting de-boosted?
+2915.50 2917.18 SPEAKER_03  Why are my emails going to spam?
+2917.44 2920.62 SPEAKER_03  Why can't I, you know, update the clock on my microwave?
+2920.62 2927.20 SPEAKER_07  He was sitting in his bathroom, sitting in front of the mirror, having a two-way conversation with himself as Greg Stubbe.
+2927.36 2927.80 SPEAKER_07  That's it.
+2927.92 2931.00 SPEAKER_07  Why am I being de-boosted, Mr. Zuckerberg, at long last?
+2931.14 2941.22 SPEAKER_03  I just, I, billionaire mindset is, is like, inscrutable to me for a couple of reasons, not least the fact that, like, I mean, this really underscores that none of them are tech guys.
+2941.36 2948.28 SPEAKER_03  Like, we've, we've sort of known that about Elon for a long time, but like, you know, Musk kind of, you know, that's, that's sort of different.
+2948.28 2956.76 SPEAKER_03  Zuck had this kind of, like, nerdy affect to him and it now is increasingly clear that he does not know shit about his own product and he's just like a kind of culture war guy.
+2956.92 2958.82 SPEAKER_03  But like, imagine getting mad about this.
+2958.94 2960.16 SPEAKER_03  Imagine getting mad about anything.
+2960.40 2970.80 SPEAKER_03  You have enough money that you could buy enough heroin to never feel anything for the rest of your life and enough doctors to keep that life going for another, like, 80 years if you wanted.
+2971.06 2975.36 SPEAKER_03  You could turn in, you could turn into the fucking, like, you could be hedonism bot.
+2975.36 2977.50 SPEAKER_03  You could be the emperor of mankind.
+2977.82 2986.32 SPEAKER_03  They're like, every single day of your life, you, you, like, could experience new delights, the likes of which we can't even think of.
+2986.38 2988.66 SPEAKER_03  You could be eating civet or something.
+2988.98 2991.94 SPEAKER_03  And instead, you're like, getting mad about posts.
+2992.22 2994.10 SPEAKER_03  Why are you getting mad about posts?
+2994.30 3001.92 SPEAKER_03  You could literally be like, hey, today I'm going to sit here and I'm going to burn like a piece of the most expensive rare hardwood in the world.
+3001.92 3005.70 SPEAKER_03  And I'm going to do that with a different species every day and I'm never going to run out of them.
+3005.82 3007.30 SPEAKER_03  And I'm never going to run out of money.
+3007.66 3019.90 SPEAKER_03  Like, literally, you have a kind of like boy king level of resources and, and like no whimsy because you're just a like aging divorced freak show.
+3020.26 3027.64 SPEAKER_03  And it's just, it's just like really the limitations of being governed by these people is a fucking insult.
+3027.64 3036.92 SPEAKER_03  You know, at least, at least when we had like kings and emperors and shit, you would have like a nine year old Kaiser who died choking, trying to eat like plums made out of solid gold.
+3037.08 3042.32 SPEAKER_03  But instead this guy is just trying to like kick people's legs off and get mad that he isn't getting enough likes.
+3042.50 3049.44 SPEAKER_06  Well, this goes to show for me that, you know, the, the 10, like the arc of oligarchy is long, but it does tend towards Russian oligarchy.
+3049.58 3057.78 SPEAKER_06  Like American oligarchs have more money, but Russian oligarchs are the apex predators because they understand truly what it is to be fully actualized as an oligarch.
+3057.92 3061.96 SPEAKER_06  Because like, you know, like you say, you know, Musk, uh, Zuck, whoever, they can afford all this stuff.
+3062.00 3068.36 SPEAKER_06  They can live a more luxurious life, but deep down what they really in their soul's desire is to run Arkhangelsk, right?
+3068.44 3074.88 SPEAKER_06  Like they want to be the feudal lord of a town where like they have armed men, like setting burning tire barricades.
+3074.96 3077.32 SPEAKER_06  They want to live in like a gold house, right?
+3077.40 3081.14 SPEAKER_06  They want to be murdering their enemies in saunas with crossbows.
+3081.14 3082.38 SPEAKER_06  Like that is what they want.
+3082.50 3083.80 SPEAKER_06  That is their, that is their truth.
+3083.90 3100.34 SPEAKER_06  They want to force all of the journalists in the town to come to a press conference they have called where they announced that the Greeks are Uzbeks and bore them with a 400 slide PowerPoint presentation about why this is true, which is all for stuff from like, you know, truthjuice.kz.
+3100.54 3103.36 SPEAKER_06  And they have to listen and go, yes, very good point.
+3103.44 3104.66 SPEAKER_06  I will put this in paper.
+3105.22 3108.58 SPEAKER_06  Like, and they, and they could have every luxury, but they don't want that.
+3108.58 3110.44 SPEAKER_06  What they want is to run Surgut.
+3112.42 3113.38 SPEAKER_03  You're so right.
+3113.50 3114.48 SPEAKER_03  Like, and this is the thing.
+3114.64 3120.68 SPEAKER_03  Like, if you look at someone like, I don't know, Alexander Dugan or like, um, Edward Limonov even, right?
+3120.70 3131.94 SPEAKER_03  Like you had these Russian like intellectuals who were sort of like able to sell the guy who runs Surgut on, on the idea of like, you know, Uzbeks being Greeks or whatever the fuck.
+3131.94 3141.78 SPEAKER_03  And, and so too, you have, you have guys who are willing to like sell, uh, Musk or Zuckerberg on, on this idea of like the cathedral or whatever the fuck.
+3141.80 3145.82 SPEAKER_03  And it's just like, you have too much money to be thinking about this stuff.
+3145.88 3153.56 SPEAKER_03  Like, obviously what you think is, is like wrong and stupid and offensive and, and like, you know, take the, take the transphobia as an example, right?
+3153.60 3163.92 SPEAKER_03  There is no earthly reason for you to think about trans people ever in your life because you should be thinking about new kinds of like research chemicals you could be doing.
+3164.16 3164.32 SPEAKER_03  Yeah.
+3164.52 3167.42 SPEAKER_07  Unless, unless we're about to unlock Chaser Zuck Ark.
+3167.58 3174.42 SPEAKER_03  You could literally be trying to like, uh, like crash a new one of one luxury car every day.
+3174.54 3177.32 SPEAKER_03  And instead you're thinking about like tampons.
+3177.44 3181.44 SPEAKER_05  A lot of people in Arkhangelska are doing research chemicals involuntarily.
+3183.22 3185.58 SPEAKER_07  The other thing I'll, I'll mention as well, right.
+3185.60 3192.44 SPEAKER_07  And there's sort of, and I think this is something that Mike will know about too, which is so many of these rules that they are now changing and railing against.
+3192.54 3197.76 SPEAKER_07  They never put in because of a set of beliefs or even because of what they thought would be popular or what they thought would be right.
+3197.86 3201.24 SPEAKER_07  It was because this is what they thought advertisers would respond to.
+3201.32 3202.00 SPEAKER_07  That's all.
+3203.56 3203.96 SPEAKER_01  Yeah.
+3204.04 3205.06 SPEAKER_01  Like, look like that.
+3205.14 3208.92 SPEAKER_01  This is actually a funny thing now is like all the advertisers are there.
+3209.06 3212.16 SPEAKER_01  There's always been this like quote unquote brand safety thing, right?
+3212.16 3219.28 SPEAKER_01  You don't want to put a, an ad for Pepsi next to like, I don't know, white supremacist rhetoric on Facebook or something.
+3219.28 3221.88 SPEAKER_01  So like they've, so that you're exactly right.
+3221.88 3223.88 SPEAKER_01  Like, okay, we're going to put all this stuff in there.
+3223.96 3233.66 SPEAKER_01  This is going to placate our advertisers who, by the way, are going through their own moment of putting Kylie Jenner on the front lines of like riot shields or whatever the fuck that was like that.
+3233.74 3236.50 SPEAKER_01  That was like a very specific cultural moment here.
+3236.50 3253.34 SPEAKER_01  The funny quote unquote funny thing now is that Facebook is so dominant in this specific type of advertising called direct response advertising, which is basically like app install ads or performance marketing things where you can eventually like that you can measure directly, like say like a Google ad.
+3253.42 3261.92 SPEAKER_01  They are so dominant there that even if my Pepsi ad appears next to some really noxious shit, I don't have a choice to pull those ads anymore.
+3261.92 3272.20 SPEAKER_01  I don't have the ability to do that sort of boycott that you might on a Twitter, which is relying on brand advertising, which is basically like those billboards of awareness rather than like clicking on a thing.
+3272.40 3282.22 SPEAKER_01  So in a sense, they're hostage in a way to the Facebooks and Googles of the world that they don't really have a choice on, which is funny, quote unquote, I guess.
+3282.62 3283.02 SPEAKER_01  I don't know.
+3283.54 3285.04 SPEAKER_03  Well, I mean, this is, this is the thing, right?
+3285.10 3290.90 SPEAKER_03  There's irrespective of the actual merits of, of any kind of a liberal vision, right?
+3290.90 3299.26 SPEAKER_03  Uh, there are also people who were there to sell that to them, you know, like this is the only extent to which the cathedral could be said to be a real thing.
+3299.40 3312.24 SPEAKER_03  Like the, I could be said to be a real thing is that this was a service that you could sell Facebook to be like, yeah, we are going to like make your sort of corporate culture conform with a kind of inclusive, like liberal notion.
+3312.52 3312.92 SPEAKER_03  Right.
+3313.02 3315.56 SPEAKER_03  And it's just that that is, that's, that's out of favor now.
+3315.56 3318.96 SPEAKER_03  And it only really had like a kind of indirect relationship to things.
+3319.06 3325.20 SPEAKER_03  People are like actual real people were doing, you know, because it was all, it was all still kind of pandering.
+3325.72 3334.64 SPEAKER_03  So yeah, ultimately, like if you're in that position, there's always going to be that, that lens, you know, and I think it's gonna, it's going to be weirdly distorsive of what the right want from them too.
+3334.96 3335.16 SPEAKER_01  Yep.
+3335.24 3343.20 SPEAKER_01  And that's, you know, the funny thing too, is that like, I'm already seeing right wing folks who are responding saying like, this is bullshit.
+3343.34 3344.46 SPEAKER_01  This is disingenuous.
+3344.72 3346.08 SPEAKER_01  Mark is doing another heel turn.
+3346.34 3354.30 SPEAKER_01  The Brian Armstrongs of the world, who's the guy who leads Coinbase, that those were the guys who were standing up for what was unpopular at the time.
+3354.46 3356.22 SPEAKER_03  And now Mark is just doing this.
+3356.28 3363.08 SPEAKER_03  We can't trust a guy with that much hair, you know, like really like alarmingly bald guys only, you know, please.
+3363.38 3367.18 SPEAKER_01  As a bald guy, I identify with that, but I do, I do know what you're talking about.
+3367.18 3380.18 SPEAKER_01  But like, it would be fascinating if all this prostration doesn't even work in the end, you know, or at least work with the people that he, he really wants to, and back to Milo's points, wants to, wants to like him, you know, online.
+3380.30 3388.88 SPEAKER_01  And also, I don't know, it's still like a TBD on whether this will work in that regard, even beyond the Trumpism, sort of like hoping the government doesn't kill them point of view.
+3389.06 3393.60 SPEAKER_03  I think, I don't think it's going to work in the sense of making people like them just because they're not likable people.
+3393.76 3396.38 SPEAKER_03  And that's not something that they're ever going to come to terms with.
+3396.38 3397.38 SPEAKER_03  That's driving them crazy.
+3398.00 3401.74 SPEAKER_03  Jeff Bezos went to fucking space and he's still mad.
+3401.82 3402.54 SPEAKER_03  You don't like him.
+3402.78 3405.86 SPEAKER_03  Like you personally listen to do not like Jeff Bezos.
+3406.04 3407.62 SPEAKER_03  And that, that like keeps him up at night.
+3407.76 3412.30 SPEAKER_07  I actually, I actually argue that doesn't Jeff Bezos is the only one that doesn't keep up at night.
+3412.40 3413.96 SPEAKER_07  He's the only one that doesn't give a shit.
+3414.02 3415.36 SPEAKER_07  The rest of them totally agree.
+3415.48 3421.66 SPEAKER_07  But if you remember Jeff Bezos, when he came back from space, he just shoved William Shatner to the ground and put on a cowboy hat and said, yeehaw.
+3421.66 3429.90 SPEAKER_03  I mean, that was, that was pretty grim, but like, I, I think you look at the, the way in which he's like, you know, sort of like exercising control of the Washington Post.
+3430.06 3432.56 SPEAKER_03  I think that's a guy who cares a lot about what you think about him.
+3432.56 3432.96 SPEAKER_07  That sucks.
+3433.16 3438.10 SPEAKER_07  Uh, I, I preferred when he was just like the only tech guy who came from a hedge fund background.
+3438.10 3446.12 SPEAKER_07  So it was like, he has the spirit of someone who should be like cocaine tastelessly munching through a giant steak at Carbones in bonus season.
+3446.42 3455.46 SPEAKER_07  And yet here he is trying to like, instead of like grinding his teeth through a whole book, like sabering a bottle of Moet by grinding his teeth through the neck.
+3455.58 3459.88 SPEAKER_07  Here he is like exercising editorial control over a newspaper to make himself look good.
+3460.10 3468.24 SPEAKER_07  But I want to talk, I want to talk to you before we head off, which is of course the article, the article that launched a thousand responses to the article.
+3468.48 3487.10 SPEAKER_07  I think it's, there are some things in it that are worth going through, but I think it's going to be a bit of an echo of stuff we talked about with the Zuck section and even with the Doge section, which is what we have to understand is happening now in the leadership of the United States and therefore the leadership of the empire of which the United States is leader is a cycling of elites.
+3487.10 3492.58 SPEAKER_07  This thing that we talked about in Britain as the fact that it never happens in Britain being one of Britain's major weaknesses, right?
+3492.58 3509.12 SPEAKER_07  The whole point of the Corbin project from 2000 sort of 15 to 19 was an attempt to cycle out committed neoliberals from elite leadership of the United Kingdom and the committed neoliberals or committed right-wingers, whatever you want to call them, was too good at defending themselves and the British elite have been too good at keeping itself from cycling for too long.
+3509.34 3509.46 SPEAKER_07  Yeah.
+3509.80 3512.02 SPEAKER_07  They do get depression from that though.
+3512.42 3512.90 SPEAKER_07  So like...
+3512.90 3523.92 SPEAKER_07  And the Teal article, much like these other things, is an example of what is being cast as kind of a revolutionary moment, but is actually just a change from one set of elites to another.
+3523.92 3527.22 SPEAKER_07  So he calls it a time for truth and reconciliation.
+3527.70 3533.02 SPEAKER_07  Trump's return to the White House augurs the apocalypsis of the ancien regime's secrets.
+3533.28 3533.78 SPEAKER_07  Uh, I have...
+3533.78 3535.32 SPEAKER_07  Shut the fuck up, man.
+3535.68 3536.16 SPEAKER_03  Like...
+3536.16 3537.56 SPEAKER_03  Yeah.
+3537.56 3538.70 SPEAKER_03  Jesus Christ.
+3539.02 3545.38 SPEAKER_03  Like, like, Teal has a unique subset of the need to be liked, which is need to feel smart.
+3545.56 3546.90 SPEAKER_03  And like, I get that.
+3547.00 3549.76 SPEAKER_03  I also am a sufferer of this condition, right?
+3549.82 3553.68 SPEAKER_03  And it also makes me say some stupid things and use some words I don't really understand.
+3553.82 3561.76 SPEAKER_03  But like, the thing is, I can't afford to like, never worry about anything else for the rest of my life instead of that.
+3561.90 3562.16 SPEAKER_03  Mm-hmm.
+3562.32 3562.72 SPEAKER_03  You know?
+3562.72 3566.06 SPEAKER_07  So he says, the apocalypsis of the ancien regime's secrets.
+3566.32 3569.14 SPEAKER_07  Now, again, I've added this for brevity in some places, but he says...
+3569.14 3569.66 SPEAKER_03  Do you remember Dennis Miller?
+3569.90 3572.02 SPEAKER_03  Do you remember the stand-up call you Dennis Miller?
+3572.18 3574.26 SPEAKER_03  Kind of evocative, you know?
+3574.32 3574.62 SPEAKER_07  Okay.
+3574.84 3578.92 SPEAKER_07  Trump's return to the White House augurs the apocalypsis of the ancien regime's secrets.
+3579.02 3579.38 SPEAKER_07  Okay.
+3580.26 3582.10 SPEAKER_01  And what happened to coffee-flavored coffee?
+3583.74 3585.04 SPEAKER_07  Who is the ancien regime?
+3585.32 3586.64 SPEAKER_07  It's the cathedral, of course.
+3586.72 3591.50 SPEAKER_07  The ancien regime is NGOs, reporters, liberal apparatchiks.
+3591.50 3598.16 SPEAKER_03  As they gain more and more power, this joke becomes less and less funny because I'm doing the liberal, like, correcting the grammar.
+3598.46 3601.40 SPEAKER_03  It's actually your with an apostrophe re thing.
+3601.82 3605.50 SPEAKER_03  But like, really, like, no luck finding that cathedral there.
+3605.62 3609.10 SPEAKER_03  Like, you've been looking around for it for a minute.
+3609.40 3615.82 SPEAKER_03  And not even so much as a nave, not even an apse of this fucking thing has made itself evident to you.
+3615.98 3616.50 SPEAKER_03  Yeah.
+3616.60 3618.58 SPEAKER_07  Not a single flying buttress has appeared.
+3618.58 3623.20 SPEAKER_07  So, the new administration's revelations need not justify vengeance.
+3623.98 3626.36 SPEAKER_07  Reconstruction can go hand in hand with reconciliation.
+3626.78 3629.96 SPEAKER_07  But for reconciliation to take place, there must first be truth.
+3630.22 3646.16 SPEAKER_07  Now, the truth of reconciliation, as we know, refers to sort of post-apartheid South Africa, sort of, and was the, like, nation-building moment that culminated sort of decades of, you know, of struggle that claimed lives and years and livelihoods.
+3646.16 3647.90 SPEAKER_07  It was really quite, like, bloody.
+3647.90 3653.14 SPEAKER_07  And Peter Thiel seems to be saying, you couldn't say that ivermectin cured COVID.
+3653.58 3657.66 SPEAKER_07  We need the same process now as a result of that.
+3658.12 3661.16 SPEAKER_07  From what I can tell, that is what he is saying.
+3661.28 3665.86 SPEAKER_03  Well, it's like, kind of, these are equivalent in his mind of like, well, it's our turn.
+3665.96 3666.92 SPEAKER_03  So, we need one.
+3667.06 3674.94 SPEAKER_03  Like, you guys, you get a truth and reconciliation commission for the times we tried to do, like, secret biological warfare and, like, police massacres and stuff.
+3674.94 3679.04 SPEAKER_03  So, we need one about the, like, horse dewormer posts getting de-boosted.
+3679.32 3679.92 SPEAKER_03  Yeah, that's right.
+3679.98 3682.40 SPEAKER_06  We can become the rainbow-posting nation, finally.
+3682.74 3683.22 SPEAKER_06  No, no, no.
+3683.28 3684.26 SPEAKER_06  We're trying to stop that.
+3684.54 3685.68 SPEAKER_06  That's the kind of thing we're trying to stop.
+3685.86 3696.64 SPEAKER_03  By analogy, you would get a kind of Invictus movie where it's a team of, like, chud and lib posters coming together to show, like, the true American spirit.
+3697.78 3701.26 SPEAKER_03  And they get a big thumbs up from Trump who, like, inspires them.
+3701.26 3701.50 SPEAKER_06  Yeah.
+3701.50 3704.14 SPEAKER_06  I never thought I'd die side by side with a shit lib.
+3704.94 3713.14 SPEAKER_07  I can't remember which of Diamond and Silk died, but whichever one died gets replaced by Randy Rainbow.
+3713.42 3715.50 SPEAKER_07  And that's the new thing.
+3716.32 3725.34 SPEAKER_07  The apocalypsis is the most powerful apocalypsis, meaning unveiling, is the most peaceful means of resolving the old guards' war on the internet, a war the internet won.
+3725.48 3738.30 SPEAKER_07  My friend and colleague Eric Weinstein calls the pre-internet custodians of secrets the distributed idea suppression complex, the media organizations, bureaucracies, universities, and government-funded NGOs that traditionally delimited public conversation.
+3738.50 3739.40 SPEAKER_03  No, no, no, no, no.
+3739.40 3740.28 SPEAKER_03  It's not a cathedral.
+3740.42 3741.78 SPEAKER_03  It's a desk, okay?
+3742.04 3743.60 SPEAKER_03  It's, like, that's different.
+3743.88 3748.82 SPEAKER_07  But ultimately, I think, like, what this is about, very roundabout, is it's about knowledge production.
+3749.02 3750.78 SPEAKER_07  What can be sort of knowable in public?
+3750.90 3752.74 SPEAKER_07  What can be, quote-unquote, debatable in public?
+3752.74 3754.46 SPEAKER_07  As worthless as public debate might be.
+3754.58 3760.38 SPEAKER_07  But even when we had Abby on ages ago, she referred to this as defining what are the intellectual lacunas?
+3760.56 3762.34 SPEAKER_07  What are the things that we just can't look at?
+3762.34 3764.22 SPEAKER_03  Yeah, I'll go further than that.
+3764.24 3766.38 SPEAKER_03  Or a couple of goose steps further on from that.
+3766.40 3769.14 SPEAKER_03  And I think we're approaching a kind of, like, epistemicide, right?
+3769.24 3774.34 SPEAKER_03  Of, like, these are kind of, like, no longer permissible ways of knowing things, right?
+3774.38 3775.86 SPEAKER_03  Or forms of knowledge.
+3776.52 3783.70 SPEAKER_03  Like, there's a reason why I think all of these guys get really hess up about the phrase lived experience, for instance, right?
+3783.82 3791.34 SPEAKER_03  Like, they don't like a kind of subjectivity that, you know, requires them to, you know, see trans people, for instance, right?
+3791.40 3800.82 SPEAKER_03  And what we want instead is we want to, like, truthfully reconciliate our way back to a kind of, like, objectivity that Peter Thiel and his friends get to decide.
+3800.96 3801.84 SPEAKER_07  Oh, exactly, right?
+3801.90 3803.70 SPEAKER_07  It's that, because who are they really talking about?
+3803.74 3808.10 SPEAKER_07  About the media organizations, bureaucracies, universities, and government-funded NGOs, etc., etc., right?
+3808.10 3816.70 SPEAKER_07  The examples they give are about the COVID, Thiel gives, are about, like, the COVID lab leak hypothesis, like, an ivermectin, the JFK assassination, right?
+3816.80 3818.62 SPEAKER_03  Yeah, I mean, this is the thing, right?
+3818.70 3825.34 SPEAKER_03  Like, all of these guys, when they indulge their more kind of aristocratic fantasies, and sometimes they involve AI in this, sometimes not.
+3825.42 3838.56 SPEAKER_03  It's like, we're going to be, like, you know, the top, like, 1, 5, 10%, whatever, of, like, it's implied, like, white cis male guys are going to be, like, we're going to be the ones who think everybody else is going to be using, like, Grok or whatever the fuck else.
+3838.76 3848.80 SPEAKER_03  And, you know, our, you know, superior rationality will enable us to, you know, kind of, like, have, like, kind of, like, aristocratic dominion over everybody else.
+3849.34 3852.80 SPEAKER_03  One problem with this is that everything that they believe is wrong and stupid.
+3852.80 3856.64 SPEAKER_03  Like, it just isn't true.
+3857.04 3860.42 SPEAKER_03  Like, and I think the ivermectin shit is a great example of this.
+3860.56 3867.56 SPEAKER_03  To be like, well, obviously I should have a kind of superior societal position because of my, you know, my knowledge and my reason.
+3868.12 3870.56 SPEAKER_03  And you go, okay, well, what does that reason lead you to do?
+3870.60 3873.66 SPEAKER_03  And the answer is take, like, equine medications.
+3874.08 3879.20 SPEAKER_06  People say that I'm full of shit, and yet I shout out my entire intestines when I took ivermectin.
+3879.30 3882.04 SPEAKER_07  So I'm actually one of the least full of shit people you'll ever meet.
+3882.04 3893.90 SPEAKER_07  Also, right, like, this is, you want to say, like, the distributed idea suppression complex, as Weinstein calls it, number one, it's like, yeah, a lot of liberal organizations have not earned a great deal of trust from people, right?
+3893.96 3894.74 SPEAKER_07  That's fine.
+3894.92 3896.98 SPEAKER_07  But also, we know what he's actually talking about.
+3897.04 3900.28 SPEAKER_07  Again, it's like, oh, yeah, you're not allowed to, like, misgender people.
+3900.48 3907.42 SPEAKER_07  That's because a big bunch of, you know, universities, media organizations, NGOs, and bureaucracies have decided you can't do it.
+3907.48 3907.78 SPEAKER_07  That's it.
+3907.80 3909.76 SPEAKER_07  That's, like, what's sitting beneath this as well.
+3909.76 3917.12 SPEAKER_07  And also, you know, but we know what kinds of ideas are suppressed by these people, which, like, people like Peter Thiel are perfectly happy to be suppressed.
+3917.24 3929.18 SPEAKER_07  For example, what definitely does need a truth and reconciliation commission are the information that got suppressed by the, like, UK and US defense establishment in the early 2000s that got us to fucking Iraq and Afghanistan.
+3929.18 3935.14 SPEAKER_03  I mean, if you want to talk about, like, distributed, like, campus totalitarianism, right?
+3935.16 3938.40 SPEAKER_03  It's not making you, like, not misgender people.
+3938.64 3945.10 SPEAKER_03  It's having the, like, universities police kick the shit out of you because you have, like, a Palestinian flag and encampment.
+3945.20 3951.34 SPEAKER_06  Elon Musk going deeper on his, like, sort of, like, taboo Wikipedia binge and asking if Dr. David Kelly was vaxxed.
+3951.40 3951.68 SPEAKER_07  Yeah.
+3951.68 3952.16 SPEAKER_07  Yeah.
+3952.28 3954.18 SPEAKER_07  Or even in the UK, right?
+3954.26 3961.88 SPEAKER_07  Like, we know that there was a whole report commissioned by the Home Office on how to combat drug crime that Theresa May sat on because it supported legalization, right?
+3961.96 3972.42 SPEAKER_07  We know, we know that actually, if this, any, any true, everyone listening to this, all of us, Mike, Milo, November, me, whatever, we all know that this was never an actual anti-elite movement.
+3972.42 3985.10 SPEAKER_07  It cast itself as one because a lot of people think of managers rather than owners as elites, and they cast themselves as anti-manager because they wanted to be completely unfettered even by, like, restrictions that were supposed to make them more money in the long term as a class.
+3985.22 3985.74 SPEAKER_07  Fine, right?
+3986.06 3988.68 SPEAKER_07  Landlord being, like, my woke letting agent.
+3988.90 3989.76 SPEAKER_07  Essentially, yes.
+3989.90 3990.04 SPEAKER_07  Yeah.
+3990.16 3991.02 SPEAKER_07  Yeah, yeah, yeah.
+3991.12 3996.72 SPEAKER_07  We know that, like, any actual anti-elite movement would probably deal with things like Iraq, for example.
+3996.94 4006.50 SPEAKER_07  Or, as you say, like, if you're worried about campus speech, it's like, oh, it's not about, like, universities deciding to have vegan Mondays or, like, having a pronoun policy in the student union.
+4006.50 4015.68 SPEAKER_07  It's, oh, yeah, if you express any amount of Palestinian solidarity, then fucking Canary Mission sends around, like, a panel van with your name on it saying that you're an anti-Semite, you know?
+4015.86 4019.92 SPEAKER_07  But you do get a free panel van, so, you know, it's kind of 50-50.
+4020.00 4026.06 SPEAKER_07  You know, so it says, he said, we cannot wait six decades to end the lockdown on a free discussion about COVID-19.
+4026.18 4031.06 SPEAKER_07  And he goes into a bunch of, like, Anthony Fauci, you are excommunicato, like a John Wick villain.
+4031.38 4032.08 SPEAKER_07  Same thing.
+4032.46 4039.16 SPEAKER_07  Our First Amendment frames the rules of engagement for domestic fights about free speech, but the global reach of the internet tempts her adversaries into a global war.
+4039.16 4046.48 SPEAKER_07  Can we believe that a Brazilian judge banned X without American backing in a tragicomic perversion of the Monroe Doctrine?
+4046.86 4050.58 SPEAKER_03  A tragicomic perversion of the Monroe Doctrine.
+4050.86 4052.36 SPEAKER_03  Jesus fucking Christ.
+4052.84 4056.32 SPEAKER_03  I mean, the question there is, does Brazil have sovereignty?
+4056.32 4056.60 SPEAKER_03  Yeah.
+4057.06 4059.84 SPEAKER_03  To which the answer to your wants is no, of course not.
+4059.84 4060.52 SPEAKER_03  Obviously they don't.
+4060.78 4062.72 SPEAKER_03  Like, it's not what the Monroe Doctrine is about.
+4062.84 4066.16 SPEAKER_03  The Monroe Doctrine is about foreign policy, you fucking moron.
+4066.80 4071.50 SPEAKER_03  He doesn't know anything, and he doesn't have any curiosity to find out either.
+4071.76 4075.02 SPEAKER_03  And like I say, like, yeah, like, I fucking do that too.
+4075.12 4077.70 SPEAKER_03  But like, I also don't have billions of dollars.
+4077.88 4078.02 SPEAKER_07  Yeah.
+4078.02 4083.74 SPEAKER_07  So our ASEAN regime, like the aristocracy of pre-revolutionary France, thought the party would never end.
+4083.98 4089.82 SPEAKER_07  2016 shook their historicist faith in the arc of the moral universe, but by 2020, they hoped to write off Trump as an aberration.
+4090.00 4092.66 SPEAKER_07  And it's like, okay, yes, fine, that is actually true.
+4092.78 4093.26 SPEAKER_03  They could have.
+4094.10 4106.80 SPEAKER_03  It's also really funny to be like the arc of the moral universe is a kind of like slam on Obama, but calling him the ASEAN regime in that the arc of the moral universe is one of the most robes Pierre-ian things ever said.
+4106.80 4113.34 SPEAKER_07  And like, they could easily have written this off as an aberration if they confronted the weakness of their own offer to people.
+4113.50 4114.62 SPEAKER_07  It's the same as the Labour Party.
+4114.72 4118.08 SPEAKER_07  They're not back to normal because they're defending a set of institutions people hate, right?
+4118.12 4118.88 SPEAKER_07  It's the same thing in the US.
+4118.92 4120.04 SPEAKER_07  People don't like these institutions.
+4120.18 4121.40 SPEAKER_07  They don't want to defend democracy.
+4121.52 4122.60 SPEAKER_07  They're not doing anything for them.
+4122.66 4123.18 SPEAKER_07  It's fair enough.
+4123.46 4143.32 SPEAKER_07  But that's not the idea that that's because of some hidden egalitarian agenda that a hive mind of like do-gooders are sort of trying to voice on like America or Britain or whatever through like supporting Alexandra Demoray's own Elon Musk or like giving the HHS SWAT team gender seems entirely ludicrous.
+4143.58 4151.92 SPEAKER_06  It's so funny how like Labour and the Democrats have got themselves into this situation where they're basically like calling a press conference where they're holding a gun to their own head going, so help me.
+4151.98 4152.76 SPEAKER_06  I'll fucking do it.
+4152.96 4154.00 SPEAKER_03  I mean, while Trump is...
+4154.00 4155.62 SPEAKER_03  You know, I'm really worried about it.
+4156.52 4158.64 SPEAKER_06  Trump is winning just by going, Obama.
+4159.26 4160.48 SPEAKER_07  Like that's all you have to do.
+4161.72 4165.08 SPEAKER_07  Mike, I want to know what your reaction was to this piece before we end.
+4165.30 4169.40 SPEAKER_01  No, I think your reading is correct, especially in the...
+4169.40 4172.80 SPEAKER_01  Well, first of all, the idea you guys really need to...
+4172.80 4181.90 SPEAKER_01  I guess I want to validate you're thinking that these people all exist in a group chat together gassing one another up as they misread ancient texts or things like that because...
+4181.90 4186.24 SPEAKER_01  Or don't understand the words that they use because that is literally what they're doing all day.
+4186.46 4190.30 SPEAKER_01  You know, Zuckerberg is very closely communicating with Marc Andreessen all day.
+4190.54 4191.66 SPEAKER_01  Teal, who's on the board.
+4191.82 4195.94 SPEAKER_01  Teal left the board, but he's still a close confidant of Zuckerberg's.
+4196.06 4200.04 SPEAKER_01  That was more theater around Teal's political donations.
+4200.04 4202.44 SPEAKER_01  And so I just like...
+4202.44 4207.48 SPEAKER_01  Pieces like this to me read as they had this sort of idea in the group chat.
+4207.48 4212.76 SPEAKER_01  Teal is the most famous of them who can like put this out there in a...
+4212.76 4220.84 SPEAKER_01  And again, like a lot of like a historicist or at least misreadings of history way using words, misusing words.
+4221.26 4228.64 SPEAKER_01  And like it resonates with a large amount of people who also are sort of on board with this point of view or at least Tealism.
+4229.00 4229.74 SPEAKER_01  And I don't know.
+4229.84 4233.34 SPEAKER_01  It's kind of defeating in the sense that it works.
+4233.34 4239.50 SPEAKER_01  Some of these guys are much sound or are trying to sound much smarter than they actually are.
+4239.62 4240.98 SPEAKER_01  Not particularly deep thinkers.
+4241.26 4249.72 SPEAKER_01  There are people inside of Facebook who make these grand sort of proclamations on, you know, on history and just don't read the history books.
+4250.18 4254.60 SPEAKER_03  So every day of my life, I feel like I'm losing a different chess match to a dog.
+4255.46 4255.98 SPEAKER_03  Yeah.
+4256.34 4261.92 SPEAKER_06  Well, you know, a lot of people think it's suspicious that all of these billionaires are such close friends with Marc Andreessen.
+4261.92 4268.30 SPEAKER_06  But what you've got to remember is that a few years ago, he had a great fall from a wall and they were all summoned to help put it back together again.
+4268.62 4271.62 SPEAKER_06  And they were all, you know, incredibly trauma bonded by that experience.
+4273.58 4279.68 SPEAKER_07  We have gone long once again, but I do want to say, number one, Mike, always a blast to have you on.
+4279.74 4281.64 SPEAKER_07  Thank you very much for coming and hanging out with us today.
+4281.72 4282.22 SPEAKER_01  Oh my God.
+4282.26 4283.22 SPEAKER_01  Thank you for having me.
+4283.38 4284.14 SPEAKER_01  It's lovely.
+4284.42 4287.44 SPEAKER_01  And y'all are one of the funniest podcasts I get to do.
+4287.50 4288.52 SPEAKER_01  So thank you so much.
+4288.60 4289.40 SPEAKER_07  Well, thank you.
+4289.40 4300.08 SPEAKER_07  And also, if you are out there listening and you have $5, $5 cash American, you can get a second episode of this show every week on the Patreon.
+4300.48 4302.24 SPEAKER_07  You know all about how to do that.
+4302.34 4307.14 SPEAKER_07  I also wanted to remind everybody, by the way, remember not to sign up via your iPhone app.
+4307.24 4309.58 SPEAKER_07  It will cost extra and we don't see that money.
+4309.74 4313.22 SPEAKER_07  So sign up via your browser or any other phone app.
+4313.22 4313.58 SPEAKER_03  Yeah.
+4313.78 4318.62 SPEAKER_03  You are directly funding the next Emperor Augustus in his own mind if you do that.
+4319.00 4320.10 SPEAKER_03  It goes to Tim Apple.
+4321.28 4321.76 SPEAKER_03  Wait, fuck.
+4321.80 4322.84 SPEAKER_03  I mix up Apple and Meta.
+4322.98 4323.78 SPEAKER_03  Let's take that bit out.
+4324.20 4329.74 SPEAKER_07  And then, of course, Milo's in like, you know, like, like, like Leiden or whatever or Hamburg.
+4330.74 4334.80 SPEAKER_03  I'm doing the fucking most boring towns of Europe tour.
+4334.80 4339.66 SPEAKER_03  You're doing a tour last seen by like Lutheran ministers in 1532.
+4339.80 4341.68 SPEAKER_06  Come and find me in Breslau.
+4342.28 4342.72 SPEAKER_06  Leipzig.
+4344.18 4344.70 SPEAKER_07  Salzburg.
+4344.70 4345.60 SPEAKER_07  He's going to be in Utrecht.
+4345.86 4347.34 SPEAKER_07  He's going to be in Arlborg.
+4347.78 4349.26 SPEAKER_07  He's going to be in Malmo.
+4350.32 4356.18 SPEAKER_07  Milo is going to be coming at you from small towns in Pomerania.
+4356.58 4357.24 SPEAKER_07  That's right.
+4357.36 4359.82 SPEAKER_07  I'm going to inform you to an audience of tiny little dogs.
+4359.96 4361.86 SPEAKER_07  He's going to be in Syracuse.
+4362.22 4362.62 SPEAKER_06  That's right.
+4362.74 4366.70 SPEAKER_06  No, but seriously, Bristol very much on sale for this Sunday, the 19th.
+4366.78 4367.60 SPEAKER_06  Please buy tickets to that.
+4367.90 4368.08 SPEAKER_06  Yeah.
+4368.32 4369.38 SPEAKER_06  London is sold out.
+4369.58 4370.64 SPEAKER_06  Or any of those towns.
+4370.96 4371.84 SPEAKER_06  Brussels and Rotterdam.
+4371.94 4372.94 SPEAKER_06  Still a few tickets fell to those.
+4373.02 4374.36 SPEAKER_06  Rotterdam will definitely sell out.
+4374.48 4375.22 SPEAKER_06  So get on that.
+4375.28 4376.20 SPEAKER_06  But Brussels, a few left.
+4376.30 4376.42 SPEAKER_06  Yeah.
+4376.52 4376.98 SPEAKER_06  The Hague.
+4377.06 4378.24 SPEAKER_06  How many are left in The Hague?
+4378.36 4378.48 SPEAKER_06  Yeah.
+4378.48 4379.72 SPEAKER_06  How many are left in The Hague?
+4380.00 4380.40 SPEAKER_06  I don't know.
+4380.48 4383.00 SPEAKER_06  Well, you know, there's a few spots available in The Hague.
+4383.68 4384.04 SPEAKER_06  Yeah.
+4384.22 4387.82 SPEAKER_06  Me doing a show exclusively for war criminals and everyone commits suicide at the end.
+4388.08 4388.76 SPEAKER_06  That'd be fun.
+4389.36 4390.40 SPEAKER_06  Hey, there's an idea.
+4390.68 4390.84 SPEAKER_06  Yeah.
+4390.84 4393.36 SPEAKER_06  If any brave promoter wants to take that one on.
+4395.02 4395.42 SPEAKER_06  Yeah.
+4395.54 4396.66 SPEAKER_06  Australia on sale.
+4397.48 4397.70 SPEAKER_06  Yeah.
+4397.80 4399.80 SPEAKER_06  I think that's, you know, many of those.
+4399.94 4400.44 SPEAKER_06  Check them out.
+4400.60 4401.44 SPEAKER_06  MiloEverso.co.uk.
+4401.44 4407.70 SPEAKER_03  My political correctness gone mad bit doing like an absolute barnstormer at The Hague.
+4408.18 4408.44 SPEAKER_03  Yeah.
+4409.92 4410.64 SPEAKER_06  Srebrenica.
+4410.82 4411.70 SPEAKER_06  I hardly know her.
+4412.48 4413.12 SPEAKER_06  Yeah.
+4413.38 4415.14 SPEAKER_08  It's going to be in Lake Como.
+4415.14 4415.68 SPEAKER_06  Oh no.
+4416.10 4417.00 SPEAKER_06  Saint Moritz.
+4418.16 4418.64 SPEAKER_06  Biarritz.
+4418.64 4418.92 SPEAKER_06  Yeah.
+4419.16 4420.10 SPEAKER_06  San Sebastian.
+4420.10 4421.74 SPEAKER_06  You can find me in Osseek.
+4421.84 4422.88 SPEAKER_06  I actually have got a show there.
+4422.88 4423.14 SPEAKER_07  Okay.
+4423.26 4427.16 SPEAKER_07  I don't know why I got trapped in just naming sort of European towns.
+4427.52 4430.22 SPEAKER_03  Slightly manic phase, which will continue for the next hour.
+4430.22 4438.06 SPEAKER_03  I'm just anticipating you just like texting me the names of like whatever town the monastery from the name of the Rose was outside of.
+4438.20 4439.24 SPEAKER_07  Milo's going to be performing.
+4439.54 4439.56 SPEAKER_07  Dijon.
+4440.24 4440.64 SPEAKER_07  Strasbourg.
+4441.12 4445.42 SPEAKER_07  Milo will be performing in Mount Athos to an all male audience of monks.
+4445.56 4445.86 SPEAKER_03  Monks.
+4446.00 4446.34 SPEAKER_07  Monks.
+4446.40 4446.82 SPEAKER_07  That's right.
+4447.20 4448.68 SPEAKER_07  Political correctness gone mad.
+4448.68 4448.98 SPEAKER_07  Okay.
+4449.10 4450.20 SPEAKER_03  Actually, goodbye everybody.
+4450.34 4451.56 SPEAKER_07  Thank you very much again, Mike.
+4451.62 4453.04 SPEAKER_07  And we will see you in a few days on the Patreon.
+4453.30 4453.64 SPEAKER_07  Bye.
+4453.86 4454.12 SPEAKER_07  Bye.
+4454.60 4455.00 SPEAKER_07  Bye.
+4455.00 4455.76 SPEAKER_07  Oh, yeah.

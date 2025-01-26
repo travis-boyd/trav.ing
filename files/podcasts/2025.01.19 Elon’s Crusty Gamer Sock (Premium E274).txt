@@ -1,0 +1,1533 @@
+0.02 31.90 None  Oh Thank you.
+31.92 36.10 SPEAKER_21  If you're hearing this, well done. You've found a way to connect to the internet.
+36.58 42.26 SPEAKER_21  Welcome to the QAA Podcast Premium Episode 274, Elon's Krusty Gamer Sock.
+42.60 47.80 SPEAKER_21  As always, we are your hosts, Jake Rakitansky, Julian Fields, Liv Agar, and Travis View.
+48.68 58.88 SPEAKER_08  Fake gamers. We're thinking about them all of the time, especially when our homes almost burn down, especially when there's people that have lost everything that need our help.
+58.88 67.00 SPEAKER_08  All we can think about is stupid online garbage. Our brains are broken and everybody here is dumber for it.
+67.28 75.50 SPEAKER_08  We've assembled here another week to pick on the richest man alive, who is also just the biggest pussy on earth.
+75.64 81.34 SPEAKER_08  Like, I don't even know how else to say it. He is such a bitch. It's incredible. It is astounding.
+81.34 87.42 SPEAKER_08  New levels of being a bitch are being unlocked by him. In fact, that is the only game he really knows how to play.
+87.56 92.32 SPEAKER_08  It's like, humiliate myself and alienate more and more people.
+92.72 99.98 SPEAKER_08  So, yeah. We're here to take a look at, first of all, the fact that Elon Musk has grown another man in a vat.
+99.98 113.14 SPEAKER_08  And then used him to, like, trap libs into a story about how Elon Musk was using a voice changer to pretend he wasn't this other guy, who he actually is. Technically, the DNA is based on him.
+113.36 115.84 SPEAKER_08  All of it was developed from his cummies in a big vat.
+115.84 133.48 SPEAKER_08  And additionally, additionally to this, which I'm pretty sure I nailed in my description, we will be covering Elon Musk being a huge gaming cheater, a huge pay-to-win customer of Bannon's old gold farming type guy.
+133.90 145.16 SPEAKER_08  He is absolutely, he has set himself up by picking maybe one of the nerdiest games out there, Path of Exile 2, which is like, if you're not aware, a very spreadsheet-oriented game.
+145.16 145.78 SPEAKER_08  Very sweaty.
+146.02 151.58 SPEAKER_08  An intense amount of math to, like, get the best builds, as they call them.
+151.70 167.44 SPEAKER_08  And this moron has decided to not just have the hubris to pay somebody to develop a character and then just take it, but also to not even attempt to learn the basics about the game he's about to pretend he's played thousands of hours of.
+167.44 179.58 SPEAKER_08  So, yeah, we're here just for a little episode that kind of means nothing, but we will generate meaningful insights about the broader world while we trudge through what I can only describe as gunk.
+179.72 182.66 SPEAKER_08  Gunk, muck, goo, slop.
+182.90 184.28 SPEAKER_08  There are layers of this.
+184.54 197.18 SPEAKER_08  And our boots are, you can, like, see how long we've been doing this, like a tree trunk with the rings by the layers of different mucks and goos and slops that print onto the sides of our boots.
+197.18 200.60 SPEAKER_12  Honestly, a great analogy for the podcast more broadly.
+200.96 202.22 SPEAKER_12  Yes, exactly.
+202.48 210.06 SPEAKER_08  So take off your shoes and press them into the toxic ooze with us because where we're going, we don't need boots.
+210.76 211.58 SPEAKER_08  How do you like that, Jake?
+211.66 213.54 SPEAKER_08  That was a pretty fucking good.
+213.70 215.34 SPEAKER_08  Pretty big, like, pop reference for you.
+215.44 216.00 SPEAKER_21  Not bad.
+216.06 221.46 SPEAKER_21  I was wondering, I knew, as soon as you started, I knew what the reference was, but I was like, how's he going to finish it?
+221.66 223.30 SPEAKER_21  And I thought you did pretty well.
+223.50 224.28 SPEAKER_08  Thank you, Jake.
+224.34 225.22 SPEAKER_08  I appreciate that.
+225.34 225.88 SPEAKER_21  No problem.
+225.88 229.92 SPEAKER_08  I like that you always give me another chance to not be a huge dickhead.
+230.08 231.88 SPEAKER_08  Hey, man, I'm about love.
+231.98 236.32 SPEAKER_21  2025, it's all about third, seventh, twelfth chances.
+236.88 238.54 SPEAKER_08  And I love you, too.
+238.74 247.12 SPEAKER_08  And I'm reaching around to put that old crusty sock on one more time to get you off one last.
+249.36 250.68 SPEAKER_12  I'm finally back.
+250.68 256.04 SPEAKER_12  I've taken a short hiatus from the show because I think I've had really bad acid reflux.
+256.24 256.70 SPEAKER_12  I don't know.
+256.92 257.68 SPEAKER_02  Yeah, unclear.
+257.82 258.18 SPEAKER_02  You don't know.
+258.36 259.20 SPEAKER_12  It's just like, been sick for like a month.
+259.54 261.38 SPEAKER_08  It's like, surely I'm not dying, right?
+261.58 264.64 SPEAKER_08  What's the opposite of like, the greatest of all time?
+264.72 265.64 SPEAKER_08  What's the opposite of goat?
+265.78 266.52 SPEAKER_08  A woat.
+266.78 267.16 SPEAKER_08  Okay.
+267.30 268.32 SPEAKER_08  She's the throat woat.
+268.32 270.04 SPEAKER_08  She's the throat woat.
+270.52 271.70 SPEAKER_12  She's the head.
+272.10 272.48 SPEAKER_03  She's the head.
+272.48 274.00 SPEAKER_12  No, that's false allegations.
+274.40 275.24 SPEAKER_03  Not true.
+276.54 277.80 SPEAKER_12  And not the throat woat.
+278.14 279.44 SPEAKER_03  Not Sperm Lies.
+280.80 282.36 SPEAKER_08  Well, I mean, I don't know.
+282.46 285.98 SPEAKER_08  It's like, oh, my throat hurts for like weeks on end.
+286.22 287.98 SPEAKER_08  That's your only tool as a podcast.
+287.98 292.80 SPEAKER_21  Now that she is getting driving lessons, she's driving through the six with her woats.
+293.24 294.64 SPEAKER_08  Yeah, let's just put it this way.
+294.70 300.38 SPEAKER_08  She was unable to podcast, and now her Path of Exile 2 character is at level 74.
+303.38 308.06 SPEAKER_12  Yes, I have played 70 hours of Path of Exile in the last three weeks.
+308.44 312.02 SPEAKER_21  You don't have to talk while you're playing Path of Exile, really.
+312.20 313.30 SPEAKER_21  I mean, it's a silent game.
+313.48 315.52 SPEAKER_21  You don't have to irritate.
+315.52 319.90 SPEAKER_21  So what's happening as a fellow acid reflux person?
+320.18 320.78 SPEAKER_21  What do you got?
+320.82 322.22 SPEAKER_21  You got the burning in the chest?
+322.60 323.30 SPEAKER_21  What's happening?
+323.50 326.00 SPEAKER_12  I got the silent one, so I don't get heartburn at all.
+326.00 330.42 SPEAKER_12  So my throat, for the past six months, has just been sore when I wake up.
+330.48 332.06 SPEAKER_12  And I'm like, huh, that's funny.
+332.34 333.46 SPEAKER_12  I wonder if I'm dying.
+333.66 334.14 SPEAKER_12  I don't know.
+334.64 336.42 SPEAKER_12  And then it started to get other symptoms.
+336.76 339.36 SPEAKER_12  I just burp a lot, and it's hard to swallow stuff.
+339.44 341.34 SPEAKER_21  Have you tried Prilosec?
+341.50 342.36 SPEAKER_21  It's over the counter.
+342.60 343.24 SPEAKER_21  Dear God.
+343.34 344.44 SPEAKER_12  I tried Pepsid.
+344.44 345.84 SPEAKER_12  It seems to be doing really good.
+345.92 346.34 SPEAKER_12  I don't know.
+346.62 347.12 SPEAKER_12  Maybe it's not.
+347.26 347.96 SPEAKER_12  This is what happens.
+347.96 354.24 SPEAKER_21  I will message you privately with some medical suggestions.
+354.72 362.52 SPEAKER_21  I find that Prilosec, or it's called omniproosal, really helps with long-term indigestion acid reflux.
+362.52 363.80 SPEAKER_08  This is not medical advice.
+363.82 364.54 SPEAKER_08  That's a tip for everybody out there.
+364.54 367.38 SPEAKER_08  Do not listen to Jake's naming drugs.
+367.38 373.58 SPEAKER_21  Well, my mom wanted me to be a doctor or a lawyer, so I can pretend to be one of those things.
+373.60 376.46 SPEAKER_12  Yeah, we can give fake legal and medical advice.
+376.58 377.78 SPEAKER_12  It's basically the same.
+378.12 383.28 SPEAKER_12  If anyone has any legal troubles, please email your crimes to jcrocat.
+383.28 385.36 SPEAKER_08  It's good.
+385.36 392.90 SPEAKER_08  You will be defending yourself in the Hague that I create, my own little personal Hague, which is like a room in my house I'm locking you in.
+392.90 407.26 SPEAKER_12  I remember checking the far-right, politically incorrect board of 4chan a day after Trump won the election, and one of the top posts in the catalog read something like, Elon bought Twitter for $44 billion, and all he got was all three branches of government.
+407.26 415.96 SPEAKER_12  A joke that's an ironic spin off a meme format making fun of Elon for how little he supposedly got out of his absurdly expensive acquisition of the social media site.
+416.22 418.26 SPEAKER_12  This is really when it set in for me that he won.
+418.46 425.34 SPEAKER_12  Despite all the stupid, evil decisions Elon has made, up to even performing blatant election fraud, so far, he's gotten away with it.
+425.44 431.72 SPEAKER_12  And now he has the ear of the most powerful man in the world, and a propaganda machine to help facilitate his ghoulish political goals.
+431.72 445.80 SPEAKER_08  The only thing that I would say about that is that if you've ever listened to Elon speak for an extended period of time, there is like 0% chance that Trump isn't hearing like the first three words and like a title being cut off because it's too long.
+445.90 447.96 SPEAKER_08  It's just dot, dot, dot, and that's about it.
+448.28 450.90 SPEAKER_08  After that, he's like, no, no, no, no, dude.
+451.18 453.66 SPEAKER_06  Have your assistant send me the TLDR, bro.
+453.84 456.82 SPEAKER_12  It's definitely like a high point for Elon right now.
+456.92 458.26 SPEAKER_12  Yes, that's true.
+458.26 464.16 SPEAKER_12  The actual concrete things he gets to do with it are still ambiguous, and he could still fuck up in a bunch of ways.
+464.96 474.70 SPEAKER_12  So given how completely and totally owned we are at the moment by the world's lamest tech billionaire, what else is there to do except post in the hopes that it bruises his clearly inflated ego?
+474.92 475.96 SPEAKER_08  Which somehow works.
+476.06 477.88 SPEAKER_08  That's what's so fucking amazing to me.
+478.08 478.14 SPEAKER_08  Yeah.
+478.26 483.64 SPEAKER_08  All you need to do is like isolate yourself from the world and all your yes men will cheer you up constantly.
+483.64 491.46 SPEAKER_08  Instead, you constantly are just laying out at the feet of the lamest people on the internet, and even they don't like you.
+491.64 492.62 SPEAKER_08  It's fucking pathetic.
+492.94 493.82 SPEAKER_12  And I mean, yeah, it does.
+494.00 495.90 SPEAKER_12  As Julian said, it really does work.
+496.12 503.72 SPEAKER_12  Elon supposedly locked himself in his office after being booed at a Dave Chappelle show, for instance, because he was like spiraling about people hating him.
+503.92 504.04 SPEAKER_02  Yeah.
+504.20 507.16 SPEAKER_12  He's clearly a narcissist that requires other people's approval.
+507.38 509.74 SPEAKER_12  The one thing that he, for the most part, cannot buy.
+509.74 511.00 SPEAKER_12  He could, though.
+511.12 515.30 SPEAKER_08  That's what's so funny is if he was just a little better at this, like he could.
+515.48 515.96 SPEAKER_08  I'm sorry.
+516.12 518.30 SPEAKER_08  Like, look at fucking, look at other billionaires.
+518.52 520.74 SPEAKER_08  They're clearly living their best lives.
+520.96 523.02 SPEAKER_08  They are becoming more powerful physically.
+523.32 524.26 SPEAKER_08  They look healthier.
+524.52 530.20 SPEAKER_08  They have gotten a hip hop swag added to their persona.
+530.58 534.14 SPEAKER_21  Maybe they might be taking like testosterone injections or something.
+534.38 535.42 SPEAKER_12  Bezos probably is.
+535.58 536.80 SPEAKER_12  Bezos is on HR too.
+537.04 537.32 SPEAKER_08  Yes.
+537.40 537.90 SPEAKER_08  No, for sure.
+537.90 546.44 SPEAKER_08  But what I think is that Elon is also taking that stuff, but still can't help himself but eat like shit, sit like shit, live like shit, feel like shit all the time.
+546.54 550.86 SPEAKER_12  I think it's also like people hate Zuckerberg, for instance, but he doesn't let it get to him.
+551.02 555.26 SPEAKER_12  Like Elon can't stand the idea that there are people out there that don't like him.
+555.50 561.44 SPEAKER_12  It's a very like conservative cultural neurosis of like there is a cultural sphere that makes fun of me and I can't allow it.
+561.52 562.88 SPEAKER_12  And he like focuses in on it.
+562.88 579.20 SPEAKER_08  Those are the kind of like two sides of having a dad like his, which is that on the one side, he's so damaged from this awful man as a father that, you know, you can get to him incredibly easily and he'll never have decent self-esteem no matter what he does.
+579.28 586.92 SPEAKER_08  But on the other side, it's like this guy is taking it out on everybody through all these mechanisms of, you know, power and wealth.
+586.92 587.36 SPEAKER_08  Yeah.
+587.58 596.36 SPEAKER_21  Well, and the thing is, it's like he could actually do some very simple things to win the the adoration of the people.
+596.50 605.36 SPEAKER_21  For example, it's like he manipulates cryptocurrency to make himself wealthier instead of manipulating cryptocurrency to make all his fans wealthier.
+605.36 612.78 SPEAKER_21  Like he could implement like Dogecoin payments in Twitter, which would immediately raise the value and come on.
+612.78 616.28 SPEAKER_22  I would say you have a vested interest in this issue.
+616.28 617.32 SPEAKER_22  No, I'm just saying.
+617.56 617.58 SPEAKER_08  Yeah.
+617.58 617.78 SPEAKER_08  Okay.
+617.84 620.14 SPEAKER_08  First of all, Jake is a Jake is a Doge holder.
+620.34 622.50 SPEAKER_08  So we don't want to hear from him anymore.
+622.72 624.36 SPEAKER_21  I'm just saying he could.
+624.66 625.14 SPEAKER_21  He could.
+625.32 628.78 SPEAKER_21  And by the way, and by the way, I'm a holder for a long time ago.
+628.78 630.92 SPEAKER_05  He can house all of the homeless people in the United States of America.
+631.04 632.60 SPEAKER_21  Why the fuck are you talking about Doge?
+632.80 637.38 SPEAKER_21  Well, I'm just talking about his his fans who are already kind of in his camp.
+637.44 642.58 SPEAKER_21  If he made them all millionaires overnight, they would be indebted to him, you know, forever.
+642.58 643.46 SPEAKER_21  He's tried his best.
+643.54 645.70 SPEAKER_21  He named a whole fucking government agency Doge.
+645.70 646.28 SPEAKER_21  What is he supposed to do?
+646.28 647.26 SPEAKER_21  But that doesn't do anything.
+647.44 649.80 SPEAKER_21  That doesn't enrich the people.
+650.18 652.54 SPEAKER_21  And like you said, yeah, he could solve homelessness.
+652.74 654.00 SPEAKER_21  He could solve world hunger.
+654.04 657.94 SPEAKER_08  Jake, you will be disclosing your Doge position at the end of this.
+658.34 663.96 SPEAKER_08  Otherwise, it's financial fucking advice without disclosing your position, which is against FEC rules.
+663.96 670.00 SPEAKER_21  First of all, first of all, I had Doge long before it was associated with Elon or any of that.
+670.28 670.78 SPEAKER_21  I bought it.
+670.78 678.46 SPEAKER_21  I bought it at four cents because I a family friend, a family friend said, you know, hey, this might be a good investment.
+678.46 679.14 SPEAKER_21  And I did.
+679.14 679.94 SPEAKER_21  I haven't sold.
+680.04 681.50 SPEAKER_21  I haven't bought any more than that.
+681.56 682.32 SPEAKER_21  It's just sitting.
+682.56 684.52 SPEAKER_21  It's just sitting in an app somewhere.
+684.74 685.82 SPEAKER_21  Not doing anything.
+685.82 686.30 SPEAKER_21  All right.
+686.70 696.62 SPEAKER_12  Following the election, liberal and leftist online super soldiers were deployed in enemy online posting territory, Twitter, to generate as much content related to humiliating Elon as possible.
+696.62 705.44 SPEAKER_12  On the liberal side, we had people calling him Alania and sharing AI generated images of him wearing makeup and women's clothing while carrying Donald Trump's child.
+705.72 708.06 SPEAKER_16  We're just doing the Putin and Trump are gay.
+708.40 708.64 SPEAKER_12  Yeah.
+708.78 709.04 SPEAKER_12  Oh, yeah.
+709.24 709.50 SPEAKER_12  Forever.
+709.78 712.16 SPEAKER_12  You should all be ashamed of yourselves.
+712.46 714.28 SPEAKER_12  We're punching down even worse now.
+714.44 715.86 SPEAKER_12  It's like gay people aren't enough.
+715.96 717.28 SPEAKER_12  It has to be trans people, too.
+717.50 719.42 SPEAKER_08  Oh, I am not joking.
+719.60 721.66 SPEAKER_08  If you're doing this stuff still, yourself.
+722.38 725.72 SPEAKER_21  A moment of silence for our three listeners who themselves.
+725.72 726.78 SPEAKER_21  That's right.
+727.20 736.52 SPEAKER_12  But if they're willing to throw minorities like gay and trans people under the bus for the chance it pisses off Elon, then what's wrong with a little bit of speculation about a potential burner account?
+737.08 739.42 SPEAKER_08  Unless you're spectacularly wrong.
+740.12 740.92 SPEAKER_12  Yeah, yeah.
+740.96 741.74 SPEAKER_12  That's the problem.
+742.30 753.44 SPEAKER_12  For our next installment in a series I like to call Lib Conspiracy Theories, we have one that hasn't just affected the usual Blue Anon alternate media folks, but seems to have also spread to every corner of both liberal and left Twitter.
+753.44 759.00 SPEAKER_12  In fact, I'm sure that a good portion of our listener base has bought into this theory to some extent, probably still believes it.
+759.18 763.38 SPEAKER_12  I know that I certainly accepted it offhandedly a few weeks ago when I first encountered it.
+763.54 773.80 SPEAKER_12  It relates to a Twitter account called Adrian Didman, who many online believe is actually an Elon Musk burner, supposedly used by him to take part in Twitter spaces he might not normally be comfortable doing on Main.
+773.80 778.72 SPEAKER_12  Now, it's not as if Elon hasn't posted incredibly embarrassing things on burner accounts before.
+778.92 784.54 SPEAKER_12  He admitted, under threat of perjury, to running an account LARPing as his four-year-old son, where he tweeted things like this.
+784.54 787.64 SPEAKER_12  I wish I was old enough to go to nightclubs.
+787.88 789.04 SPEAKER_12  They sound so fun.
+789.52 790.26 SPEAKER_12  Just, yeah.
+790.42 792.04 SPEAKER_12  The fact that it was to no one, too.
+792.26 794.46 SPEAKER_12  Like, it was like, he wasn't getting likes on it.
+794.54 795.60 SPEAKER_12  It was just for him.
+795.88 796.98 SPEAKER_12  So embarrassing.
+797.48 798.18 SPEAKER_12  What are you doing?
+798.18 799.46 SPEAKER_12  Hold on, hold on.
+799.94 800.42 SPEAKER_06  Yeah?
+800.42 800.92 SPEAKER_06  Yeah, yeah.
+801.10 805.28 SPEAKER_21  So he makes a fake account that's supposed to be his son's.
+805.36 805.64 SPEAKER_21  Yeah.
+805.76 812.00 SPEAKER_21  And he tweets from the account pretending to be his son that he wishes he was old enough to go to nightclubs and that they sound fun.
+812.24 812.48 SPEAKER_12  Yeah.
+812.58 813.72 SPEAKER_22  Yeah, it sounds like you understand.
+813.94 815.10 SPEAKER_12  Yeah, that's pretty much it.
+815.20 816.50 SPEAKER_21  I don't think I do.
+816.52 818.00 SPEAKER_21  I don't think I do because-
+818.00 821.62 SPEAKER_08  Okay, picture yourself in a nightclub. You're Elon Musk.
+821.92 822.64 SPEAKER_08  You're in a nightclub.
+822.90 825.14 SPEAKER_08  You have a very, your brain sucks.
+825.14 827.08 SPEAKER_08  All you can think about is I'm in a nightclub.
+827.22 830.02 SPEAKER_08  But you want to post as your fake four-year-old son.
+830.02 830.56 SPEAKER_08  Mm-hmm.
+830.72 833.46 SPEAKER_08  Another bottle of Dom Perignon is brought to your table.
+833.72 834.42 SPEAKER_08  What do you type?
+834.74 836.42 SPEAKER_21  Does he, is he like in the club?
+836.48 844.48 SPEAKER_21  And he's like, it'd be so much more fun if my little ex, little ex was here in the club alongside of me.
+844.56 846.20 SPEAKER_21  Also enjoying this Dom Perignon.
+846.40 848.54 SPEAKER_21  I wonder if he wishes he was as well.
+848.62 849.54 SPEAKER_21  And he could be.
+850.00 858.36 SPEAKER_21  And if he were able to tweet, if he were able to tweet and he was interested in tweeting something like this, what would he, he would say, I wish I was in the club because it sounds fun.
+858.36 859.92 SPEAKER_21  Because daddy's having fun in the club.
+860.22 862.46 SPEAKER_21  Like, is that his, like, is that what he's thinking?
+862.46 863.72 SPEAKER_08  That is his fucking brain.
+863.88 867.62 SPEAKER_08  This man is, is possibly one of the dumbest rich guys on earth.
+867.92 869.22 SPEAKER_08  He just, like, lucked out.
+869.30 874.14 SPEAKER_08  Like, he is the perfect shape of stupid that, like, fit into the system and unlocked everything.
+874.14 879.24 SPEAKER_08  Just like Trump became, like, the perfect American president because we live in the dumbest moment.
+879.36 880.12 SPEAKER_21  Here's what I think.
+880.14 882.30 SPEAKER_21  He had real bad hair, okay?
+882.30 884.50 SPEAKER_21  Like, when he was in his 20s or whatever.
+884.74 887.68 SPEAKER_21  Like a fucking, you know, we're talking parking lot up top.
+887.84 889.16 SPEAKER_21  And he got a hair transplant.
+889.50 894.72 SPEAKER_21  And he was so happy with it that he was like, I can now do anything because I was so used to having a parking lot up top.
+894.80 897.36 SPEAKER_21  But now I look like I have a full, healthy head of hair.
+897.56 899.12 SPEAKER_21  And basically that's everything.
+899.12 903.30 SPEAKER_21  So I can now act and believe and do whatever I want.
+903.42 904.20 SPEAKER_21  I think that's it.
+904.26 909.56 SPEAKER_21  I think the power of the hair transplant, I think, has, I think the needles went a little bit too, too deep.
+910.12 912.42 SPEAKER_01  And they pierced his brain a little bit.
+912.42 913.32 SPEAKER_21  Turkey has gone too far once again.
+913.32 920.64 SPEAKER_08  Honestly, this is probably just the toned down version of what he wanted to tweet, which was, I wish I was old enough to eat pussy.
+920.86 922.12 SPEAKER_08  That sounds so fun.
+922.70 929.52 SPEAKER_12  There was a fake tweet that people had about this where it was his son tweeting, like, my dad is such a good father.
+929.96 930.86 SPEAKER_12  And he's so cool.
+931.02 931.94 SPEAKER_12  And I love him.
+932.20 934.46 SPEAKER_08  Oh, and he's about to do that, but with video games.
+934.62 938.70 SPEAKER_08  Like, I mean, it's so fucking sad.
+938.70 948.98 SPEAKER_08  The only engineering problem this man can actually solve alone without jacking someone else's work is, like, how can I do something just extra pathetic?
+949.22 952.80 SPEAKER_16  Like, make something up that makes me look okay for just a moment.
+953.14 953.44 SPEAKER_08  Yeah.
+953.66 956.14 SPEAKER_08  And even then, even then, the machine breaks down.
+956.30 959.92 SPEAKER_21  He's like, amazing, amazing speeds coming from Starlink.
+960.08 963.44 SPEAKER_21  I'm playing Diablo 4 at 200 megabytes per second.
+963.44 966.26 SPEAKER_21  Like, dude, that's the bare minimum.
+966.60 968.34 SPEAKER_21  200 megabytes per second.
+968.34 970.16 SPEAKER_21  That's the base package, man.
+970.28 973.54 SPEAKER_21  You need 500 plus if you want to talk about anything.
+973.60 974.72 SPEAKER_21  You want to talk about internet.
+975.04 975.26 SPEAKER_08  Come on.
+975.50 979.40 SPEAKER_08  No, but Jake, this is, the reason why it's impressive is because it's satellite, right?
+979.44 981.08 SPEAKER_08  So you could be doing it anywhere.
+981.54 985.42 SPEAKER_21  Satellite's bigger, bigger machine, a lot more, more buttons, more circuits.
+985.54 986.94 SPEAKER_21  I would think that there were more power.
+987.10 988.68 SPEAKER_21  I think there would be more megabytes.
+989.88 992.74 SPEAKER_12  I'll let the listeners hash that one out.
+993.06 994.44 SPEAKER_12  Keep in the comments, listeners.
+994.78 995.10 SPEAKER_12  What do you think?
+995.60 997.26 SPEAKER_12  Figure that one out for yourselves.
+997.26 1012.68 SPEAKER_12  But unlike this confirmed burner account, which got very minimal attention from elsewhere until people discovered it was operated by Elon, Adrian Dittman has gained hundreds of thousands of followers, many of whom are paying attention to the account because of the possibility it may be Elon.
+1012.68 1020.14 SPEAKER_12  The primary reason why many suspect this Adrian Dittman to be Elon is because of the account holder's voice, which sounds absurdly similar to him.
+1020.44 1029.18 SPEAKER_12  Elon has one of the most distinct voices of any significant contemporary political figure, so it's pretty easy to understand why people at the very least suspect that it's secretly Elon.
+1029.18 1035.64 SPEAKER_12  Another circumstantial piece of evidence relates to Dittman's politics, which happened to generally agree with Elon on basically every issue.
+1036.02 1042.46 SPEAKER_12  Dittman is constantly, quote, tweeting Elon with praise and tweeting with enough sideways laughing emojis to be identical to how Elon posts.
+1042.78 1046.06 SPEAKER_12  You know, he replies to things like interesting, looking into it.
+1046.14 1048.46 SPEAKER_12  You know, he uses like the Elon cadence.
+1048.46 1051.26 SPEAKER_08  Yeah, which is kind of what we've all become with Trump.
+1051.40 1055.08 SPEAKER_08  Like, I just think in his language now so many times over.
+1055.20 1056.80 SPEAKER_08  But also, I don't worship him.
+1056.86 1062.38 SPEAKER_08  I just think he's an innovator in colloquial structures, sentence structure.
+1062.38 1072.28 SPEAKER_21  When we went to Halloween Horror Nights, Halloween last year, I guess now, they had like a whole segment like that was based on Blumhouse movies.
+1072.60 1076.08 SPEAKER_21  For whatever reason, it was like a maze, but it was like all the Blumhouse movies.
+1076.36 1079.64 SPEAKER_21  And like instinctively, I was just walking through the maze going Blumhouse.
+1079.94 1081.36 SPEAKER_21  We love Blumhouse.
+1081.50 1082.54 SPEAKER_21  We love all the characters.
+1083.06 1084.46 SPEAKER_21  We've got Black Phone.
+1084.68 1085.64 SPEAKER_21  We've got Megan.
+1085.92 1087.10 SPEAKER_21  Everybody loves Megan.
+1087.54 1088.30 SPEAKER_21  Blumhouse movie.
+1088.30 1094.08 SPEAKER_21  Like, I was just like, I was saying it to the characters as they were like running up to me with chainsaws.
+1094.28 1096.04 SPEAKER_21  I was like, Blumhouse, here they come.
+1100.58 1101.44 SPEAKER_09  Holy shit.
+1101.52 1103.78 SPEAKER_09  We're not the only people getting tortured this way.
+1104.32 1112.48 SPEAKER_06  That's so, that is the fucking funniest thing to say to someone who is paid to like, like pop out with a chainsaw over and over and over all day.
+1113.08 1114.30 SPEAKER_06  Oh, here he comes.
+1114.56 1115.00 SPEAKER_06  Blumhouse.
+1115.26 1115.78 SPEAKER_00  Oh, great.
+1115.88 1116.66 SPEAKER_06  The chainsaw guy.
+1118.30 1122.40 SPEAKER_06  That's a unique brain.
+1123.12 1123.68 SPEAKER_06  Keep it.
+1124.68 1131.48 SPEAKER_12  Dittman has been hosting what he calls a show on Twitter spaces regularly since May of 2023, which slowly has increased in viewership.
+1131.62 1134.92 SPEAKER_12  For very few listeners when it started to tens of thousands of listeners now.
+1135.12 1140.22 SPEAKER_12  Generally embedded in the EAC community of extreme techno optimists who love Elon Musk.
+1140.38 1141.22 SPEAKER_12  The what community?
+1141.54 1143.66 SPEAKER_12  Like accelerationism, basically.
+1143.66 1145.64 SPEAKER_12  It's, you know, it's weird.
+1145.90 1151.64 SPEAKER_12  They love technology and capitalism and they want it to be, it's basically like the Silicon Valley ideology.
+1152.04 1154.92 SPEAKER_12  Wait, so it's like E, how does it, how is it spelled?
+1155.30 1156.58 SPEAKER_12  E slash ACC.
+1157.14 1159.12 SPEAKER_12  Like the AC is accelerationism.
+1159.46 1160.08 SPEAKER_12  And what's the E?
+1160.24 1160.64 SPEAKER_12  Extreme?
+1160.64 1162.74 SPEAKER_12  It's like neither left or right.
+1162.86 1167.02 SPEAKER_12  They're just, they just want capitalism to grow regardless of the...
+1167.02 1167.04 SPEAKER_22  Yeah.
+1167.12 1168.64 SPEAKER_22  They call it effective accelerationism.
+1169.28 1169.90 SPEAKER_12  Yeah, yeah.
+1169.92 1172.52 SPEAKER_22  There's this big belief, especially in artificial intelligence.
+1172.76 1179.16 SPEAKER_22  We need to increase the amount of computing power available, make it cheaper and cheaper and cheaper so that AI can be more widespread.
+1179.16 1179.38 SPEAKER_22  Computer good.
+1179.64 1180.40 SPEAKER_22  Computer good.
+1180.66 1181.92 SPEAKER_12  Of everything else, basically.
+1182.18 1188.32 SPEAKER_22  Yeah, they call everyone else like decels, decelerations, or doomers, you know, anti-technology people.
+1188.62 1191.18 SPEAKER_22  They could accuse them of being anti-technology at least.
+1191.34 1193.74 SPEAKER_12  It's like a Nick Land weird philosophy.
+1194.38 1195.50 SPEAKER_12  It's a, you know, it's a whole thing.
+1195.98 1208.58 SPEAKER_12  While rumors that Dittman is secretly Elon have been circulating for at least a year now, this idea started to gain serious traction among the liberal and left parts of Twitter in the past month or so, with everyone looking for more reasons to possibly humiliate a triumphant Musk.
+1208.58 1218.86 SPEAKER_12  In particular, Cliffs began circulating of Dittman following the H-1B visa scandal, where Elon broke with the far, far right and praised those work visas for providing him a larger labor pool to exploit.
+1219.12 1219.78 SPEAKER_08  Oh, whoa.
+1220.00 1229.00 SPEAKER_08  I am very racist, but it seems that this will diminish my ability to have people who suck me off and are forced to because I can deport them.
+1229.24 1229.44 SPEAKER_08  Ugh.
+1229.74 1229.96 SPEAKER_08  Yeah.
+1230.18 1231.88 SPEAKER_08  No, obviously we want more of them.
+1232.10 1234.02 SPEAKER_12  It's Dr. Evil on the podcast.
+1234.66 1238.00 SPEAKER_12  Fuck, I am so old.
+1238.00 1239.78 SPEAKER_09  I have no response to that.
+1239.80 1243.66 SPEAKER_21  I believe that was Liv making fun of your Elon impression.
+1244.24 1246.90 SPEAKER_09  It's so perfectly accurate.
+1247.10 1248.86 SPEAKER_09  I just got fucking sniped.
+1248.98 1249.38 SPEAKER_09  I'm fucking...
+1249.38 1249.68 SPEAKER_21  Wow.
+1249.82 1251.16 SPEAKER_21  I can see it in Julian's face.
+1251.24 1252.66 SPEAKER_21  He's truly humbled by this.
+1252.78 1254.48 SPEAKER_21  Liv, I think you should do this more often.
+1254.60 1256.40 SPEAKER_21  This is a good learning experience for him.
+1256.40 1261.66 SPEAKER_12  I thought you were doing a bit, but you are genuinely.
+1262.16 1263.16 SPEAKER_12  This is the fact that you are.
+1263.16 1264.22 SPEAKER_12  No, he's genuine.
+1264.34 1264.80 SPEAKER_12  I can tell.
+1264.92 1265.24 SPEAKER_12  I can tell.
+1265.24 1265.96 SPEAKER_12  I got one-shotted.
+1266.10 1267.62 SPEAKER_21  Genuinely humiliated.
+1267.80 1268.56 SPEAKER_21  I've been destroyed.
+1268.66 1269.18 SPEAKER_12  What can I say?
+1269.40 1270.06 SPEAKER_21  What can you say?
+1270.26 1271.66 SPEAKER_21  Hey, it happens to the best of us.
+1271.84 1273.58 SPEAKER_12  You gotta give props when it happens.
+1274.18 1277.94 SPEAKER_12  Notably, Dittman got in many arguments with these same anti-immigrant posters.
+1278.30 1284.16 SPEAKER_12  In a Twitter space on December 27th, Dittman went off on far-right notables like Laura Loomer and Owen Schroyer.
+1284.34 1286.28 SPEAKER_12  You know, Alex Jones' InfoWars henchmen.
+1286.48 1286.94 SPEAKER_08  Yeah, yeah.
+1287.00 1288.08 SPEAKER_08  The weird beard guy.
+1288.32 1288.78 SPEAKER_12  Yeah, yeah.
+1289.16 1291.90 SPEAKER_12  Accusing them and another member of the space of racism.
+1291.90 1296.20 SPEAKER_21  The conversation needs to go now because, I mean, Laura's already gotten nuked for 12 hours.
+1296.30 1297.92 SPEAKER_21  There's nothing we're going to be able to do about that.
+1298.36 1298.70 SPEAKER_17  Yeah, but all the time-
+1298.70 1308.52 SPEAKER_14  Oh, yeah, we're having that conversation 100% of the time. You want to claim that free speech does not exist, but you literally had a guy on here calling a bunch of people, various types of racist fucking slurs and stereotypes, and he's not suspended.
+1308.52 1308.58 SPEAKER_14  Slurs?
+1308.90 1309.74 SPEAKER_14  Are you high?
+1309.94 1311.24 SPEAKER_15  Did you take LSD?
+1311.72 1312.68 SPEAKER_15  Are you crazy?
+1312.84 1313.36 SPEAKER_15  Oh, my God.
+1313.44 1314.48 SPEAKER_15  Did you take LSD?
+1314.60 1314.96 SPEAKER_15  I'm sorry.
+1315.10 1315.44 SPEAKER_15  Don't believe it.
+1315.44 1316.10 SPEAKER_15  Wait, Adrian.
+1316.28 1316.68 SPEAKER_03  Adrian.
+1316.90 1317.26 SPEAKER_15  Adrian.
+1317.40 1318.62 SPEAKER_15  When did I say a slur, brother?
+1319.14 1320.34 SPEAKER_01  You clip the slur.
+1320.34 1320.74 SPEAKER_01  Adrian.
+1320.74 1322.66 SPEAKER_01  You clip the slur.
+1322.98 1324.42 SPEAKER_22  God, I don't know how people listen to that.
+1324.48 1325.06 SPEAKER_22  I gotta be honest.
+1325.38 1326.40 SPEAKER_22  I've tried before.
+1326.60 1327.98 SPEAKER_22  I'm not a big spaces guy.
+1328.12 1329.44 SPEAKER_21  Oh, my Lord.
+1329.78 1332.66 SPEAKER_21  There's so much better content out there, folks.
+1333.00 1339.86 SPEAKER_12  Users pointed out that the specific individual who did me was angry about saying slurs was then suspended on the same day he got in this altercation.
+1340.36 1344.08 SPEAKER_12  It's like, oh, Elon putting his thumb on the scale.
+1344.52 1347.26 SPEAKER_12  And you can't, I mean, he does sound quite a bit like Elon.
+1347.84 1354.86 SPEAKER_08  He's honestly like- Elon cannot, as someone pointed out very, very early, Elon cannot string sentences together this well.
+1354.86 1355.08 SPEAKER_08  You're right.
+1355.08 1355.26 SPEAKER_08  Yeah, yeah, yeah.
+1355.26 1356.74 SPEAKER_08  He cannot respond this quickly.
+1356.86 1357.24 SPEAKER_22  Right.
+1357.42 1357.62 SPEAKER_22  Yeah.
+1357.70 1369.98 SPEAKER_22  He does have a little bit of like the same, you know, the sort of like vocal tone and like, I guess a little bit of like the kind of like flat kind of speaking style, even when he's trying to like raise his voice.
+1370.02 1371.42 SPEAKER_22  It just still sounds kind of flat.
+1371.42 1375.62 SPEAKER_22  But yeah, he is much more articulate than Elon Musk when he attempts to speak.
+1376.34 1380.66 SPEAKER_12  I remember when I saw this clip initially, I just thought, yeah, that's probably Elon and moved on.
+1380.96 1383.90 SPEAKER_12  I mean, he does very, he does really sound very similar to him.
+1384.00 1388.22 SPEAKER_12  And making a burner to talk to these sort of freaks is exactly something Elon would do.
+1388.44 1393.08 SPEAKER_12  It does seem like the prominent right wingers that Adrian is arguing with treat him as if he is Elon.
+1393.32 1397.94 SPEAKER_12  During that same call, right winger Charles Johnson explicitly accuses Adrian of being Elon.
+1397.94 1400.86 SPEAKER_17  We already know who you are, just to be very clear about that.
+1400.86 1401.24 SPEAKER_17  Who am I?
+1401.34 1403.02 SPEAKER_17  By the way, Elon Musk.
+1403.02 1403.32 SPEAKER_14  Who am I?
+1403.46 1405.44 SPEAKER_17  And we know it full well because we've had your work.
+1405.44 1406.58 SPEAKER_14  This guy is so fucking stupid.
+1408.06 1410.88 SPEAKER_14  You know, for a second there, you had me like quarry or something.
+1411.04 1411.42 SPEAKER_14  No, no, no.
+1411.42 1413.20 SPEAKER_14  I just realized that you like write back the trenches.
+1413.94 1416.46 SPEAKER_14  You're like so deep in the trenches, make the crypto trenches look bad.
+1416.46 1418.78 SPEAKER_08  You make the crypto trenches look bad.
+1419.20 1420.40 SPEAKER_08  Oh, oh, man.
+1420.64 1424.88 SPEAKER_08  You make like hanging out with other mean coin guys on Telegram look really bad, man.
+1425.02 1426.80 SPEAKER_21  He does sound a lot like Elon Musk.
+1426.80 1427.48 SPEAKER_08  It is quite.
+1427.48 1430.30 SPEAKER_08  I mean, you know, with people like you, we're never going to the moon.
+1430.38 1431.58 SPEAKER_08  I tell you that right now.
+1432.02 1439.90 SPEAKER_21  God, but I thought there was, you know, I was tricked and told that the alt-right, very unified.
+1440.12 1443.14 SPEAKER_21  But these guys just sound like squabbling little like bitches.
+1443.50 1443.82 SPEAKER_08  Yes.
+1443.98 1445.62 SPEAKER_08  These are all like, yeah, worms.
+1445.82 1446.46 SPEAKER_12  Because they won.
+1446.64 1448.66 SPEAKER_12  So like they only fight between each other now.
+1448.78 1450.98 SPEAKER_12  Like they're dominant right now politically.
+1450.98 1459.72 SPEAKER_08  No, because and they all believe that like dominating each other is the only thing and being owned online is like an actual like accomplishment to own someone else.
+1459.80 1462.86 SPEAKER_08  So when they're left at the bottom of the bucket, what do crabs do?
+1462.86 1463.68 SPEAKER_08  Yeah.
+1463.68 1470.86 SPEAKER_22  I think, yeah, this right inviting right now is just just the winners trying to decide how the spoils of victory will be distributed.
+1471.40 1474.80 SPEAKER_12  And of course, it's it's to like the rich people.
+1474.96 1476.94 SPEAKER_12  It's to billionaires in Trump's year.
+1477.02 1483.36 SPEAKER_12  Basically, everyone else thinks that like, you know, like you insult guys who are like, you know, I'm going to get a state mandated girlfriend or whatever.
+1483.42 1485.14 SPEAKER_12  It's like, no, your life is going to suck still.
+1485.32 1485.48 SPEAKER_02  Yeah.
+1485.48 1487.90 SPEAKER_12  Like the things that make you sad are going to continue existing.
+1488.62 1497.78 SPEAKER_12  Another prominent right wing figure who appears to believe that Dittman is secretly Musk is InfoWars' Alex Jones, who's had Dittman on his show multiple times beginning in February of 2024.
+1498.36 1501.66 SPEAKER_12  Musk himself, importantly, has never appeared on InfoWars, to my knowledge.
+1501.88 1505.16 SPEAKER_12  And Jones certainly plays up the connection he supposedly has through Dittman.
+1505.60 1509.80 SPEAKER_12  Jones quote tweeted one of Elon's posts on January 1st of 2025 saying this.
+1509.90 1512.10 SPEAKER_01  Adrian Dittman is a very interesting person.
+1512.10 1515.24 SPEAKER_08  By the way, have you guys seen Jones?
+1515.62 1517.26 SPEAKER_08  He is like a testament to...
+1517.26 1518.72 SPEAKER_08  He went on a Zempic, didn't he?
+1518.74 1520.04 SPEAKER_08  A Zempic development.
+1520.08 1521.04 SPEAKER_08  He's looking lean.
+1521.32 1522.42 SPEAKER_08  He looks incredible.
+1522.58 1525.12 SPEAKER_12  He looks like a like a Balkan autocrat now.
+1526.56 1527.30 SPEAKER_12  He does.
+1527.38 1529.50 SPEAKER_12  He looks like a guy who would pop up in red alert.
+1529.80 1532.94 SPEAKER_12  Like head of the fatherland front in Bulgaria or something.
+1534.84 1540.66 SPEAKER_12  Perhaps the most culturally noteworthy Dittman moment was when he appeared on Fortnite Fridays on January 3rd of this year.
+1540.66 1542.92 SPEAKER_12  A show ran by streamer Connor Eats Pants.
+1543.28 1545.42 SPEAKER_12  Connor has managed to attract guests like George Santos.
+1545.86 1551.70 SPEAKER_12  Applying a Z-way-esque, ironic, confrontational style of interview to someone while playing Fortnite duos with them.
+1551.92 1554.90 SPEAKER_12  And throughout the interview with Dittman, it's pretty clear that he believes him to be Elon.
+1554.90 1562.52 SPEAKER_13  When I was like small on the internet, I would like make smaller accounts of myself and like be a fan of like myself and like make myself seem cooler than I actually am.
+1563.10 1564.04 SPEAKER_13  Oh my god.
+1565.26 1566.22 SPEAKER_13  That was like what I would do.
+1566.28 1567.66 SPEAKER_13  I'd be like Connor Eats Pants fan 32.
+1568.24 1569.08 SPEAKER_11  That's fucking funny.
+1569.08 1569.52 SPEAKER_11  Yeah.
+1570.24 1571.40 SPEAKER_11  A little sad but funny.
+1572.66 1572.90 SPEAKER_14  Hmm.
+1573.22 1574.34 SPEAKER_14  Yeah, I never did anything like that.
+1574.80 1575.80 SPEAKER_14  I didn't think you did.
+1576.42 1576.90 SPEAKER_14  You smoke?
+1577.08 1577.92 SPEAKER_14  I was like look at...
+1577.92 1578.82 SPEAKER_14  No, I don't.
+1579.18 1579.86 SPEAKER_14  I don't smoke at all.
+1579.96 1584.18 SPEAKER_12  He also, he really does have like the Elon like weird forced laugh thing too.
+1584.48 1584.96 SPEAKER_21  He does.
+1585.16 1585.88 SPEAKER_08  God, yeah.
+1586.18 1591.84 SPEAKER_08  It's almost like Elon is not, you know, like a special, unique type of person.
+1591.98 1592.30 SPEAKER_12  Yeah.
+1592.54 1595.20 SPEAKER_12  Yeah, there's funny of like Elon's out there.
+1595.44 1597.38 SPEAKER_12  He's just the one who became the richest man in the world.
+1597.38 1602.58 SPEAKER_08  Yeah, that if you poured a shit ton of money on any annoying Reddit guy, he would become Elon.
+1602.94 1603.66 SPEAKER_12  Yeah, exactly.
+1603.92 1609.26 SPEAKER_21  Even worse in that clip is that the, whoever the streamer is, is like playing as the Xenomorph from Alien.
+1609.60 1620.80 SPEAKER_21  And it just feels so bad to have like my favorite creature like running around with like a scar, like automatic rifle, like in Fortnite and a little backpack for his parachute.
+1621.14 1622.50 SPEAKER_21  Just feels really bad.
+1622.50 1626.42 SPEAKER_12  My favorite part of the stream is when he plays with the Buffalo Bills jersey.
+1626.42 1628.32 SPEAKER_12  Jersey and you can choose your number.
+1628.42 1631.84 SPEAKER_12  So he chooses OJ's number and his like weapon is a knife.
+1632.12 1634.04 SPEAKER_12  And he asks Dittman about that.
+1634.10 1636.52 SPEAKER_12  And he's like, oh yeah, OJ, he's a good football player.
+1636.92 1638.74 SPEAKER_12  Like he just doesn't know who OJ is.
+1638.82 1644.22 SPEAKER_12  It's, it's very like a perfectly weird thing that Elon would also not know about, you know.
+1644.22 1651.04 SPEAKER_08  But it kind of like makes sense once you consider that Dittman is part of an even smaller, more isolated community.
+1651.30 1654.72 SPEAKER_08  You know, it's, I mean, I feel like Elon would know who OJ Simpson is.
+1654.82 1655.34 SPEAKER_08  I guess so.
+1655.42 1656.76 SPEAKER_08  Even just through like, I don't know.
+1657.00 1659.02 SPEAKER_08  I do feel like that's something he would know.
+1659.14 1659.54 SPEAKER_08  Yeah, yeah.
+1659.64 1667.62 SPEAKER_21  Well, and it's, there's a weird thing happening here, I imagine, which is that the more people are like, oh, you're, you're Elon.
+1667.74 1668.50 SPEAKER_21  We think you're Elon.
+1668.62 1670.70 SPEAKER_21  The more he's like, I'm going to play it up.
+1670.70 1672.92 SPEAKER_21  I'm going to make it like, I'm going to make it.
+1673.04 1679.82 SPEAKER_21  It's like, you know, we live in an age where imitating somebody online can make you incredibly famous.
+1680.10 1685.02 SPEAKER_21  I'm thinking of the guy who pretends to be Jack Smith, the special counsel.
+1685.16 1695.98 SPEAKER_21  This guy has, you know, half a million followers and is like very famous online, at least just by imitating somebody who is, you know, a public figure.
+1696.16 1696.88 SPEAKER_21  So who knows?
+1696.88 1703.26 SPEAKER_21  And then they act more and more like one another because they, it feels good and they want to play the part and everybody's LARPing.
+1703.48 1703.58 SPEAKER_21  So.
+1703.74 1707.68 SPEAKER_08  Makes me want to, makes me want to do this, but for Travis, if I should start pretending.
+1708.04 1708.24 SPEAKER_08  Yeah.
+1708.70 1712.64 SPEAKER_08  First, first I would have to get Travis banned from X.
+1712.94 1718.50 SPEAKER_08  And then I could kind of take over as like, oh, hey guys, looking for my 100K friends kind of thing.
+1718.56 1727.38 SPEAKER_08  And then slowly I would do a bunch of really boring posts like, oh, loosely, loosely related to Atlantic Council think tank type post.
+1728.10 1731.44 SPEAKER_08  You know, oh, I might be a Fed post.
+1731.44 1735.68 SPEAKER_08  And then like, finally I would be like, okay, it's time to come clean guys.
+1735.68 1739.76 SPEAKER_08  I think the only way to really fix this is going to be a violent uprising.
+1744.18 1744.58 SPEAKER_12  Fantastic.
+1744.58 1748.50 SPEAKER_12  Yet Dittman's similarities to Elon extend beyond just his voice.
+1748.82 1753.48 SPEAKER_12  With his general opinions about politics, art and culture matching up with Elon's pretty identically.
+1753.78 1755.74 SPEAKER_12  In the most embarrassing way possible, of course.
+1756.08 1759.38 SPEAKER_12  At one point, Dittman attempts to own Connor by giving him a riddle.
+1759.62 1760.68 None  Oh my God.
+1760.96 1763.90 SPEAKER_08  They're all, they're all just like the little troll under the bridge.
+1764.26 1764.74 SPEAKER_08  That's it.
+1764.96 1765.48 SPEAKER_07  What the hell?
+1766.08 1769.56 SPEAKER_07  I see that you've stumbled into my thread, good sir.
+1769.56 1775.74 SPEAKER_14  If you had a plane that crashed between, you know, Canada and the United States, where would you bury the survivors?
+1776.68 1778.84 SPEAKER_13  A plane crashed between Canada and the United States?
+1778.94 1779.90 SPEAKER_13  Where would you bury the survivors?
+1780.00 1781.80 SPEAKER_13  Wherever their family wants to bury them.
+1781.88 1782.00 SPEAKER_13  What?
+1786.84 1787.24 SPEAKER_13  What?
+1787.68 1788.36 SPEAKER_13  What is so crazy?
+1788.68 1788.84 SPEAKER_13  What?
+1788.84 1789.24 SPEAKER_13  What?
+1790.38 1791.26 SPEAKER_13  Are you okay?
+1791.60 1792.88 SPEAKER_14  You don't bury the survivors.
+1792.88 1793.32 SPEAKER_14  Oh.
+1795.74 1797.12 SPEAKER_13  Oh, good one, bro.
+1797.30 1798.68 SPEAKER_13  That's, that's a knee slapper.
+1799.24 1800.02 SPEAKER_13  Oh my.
+1800.10 1801.40 SPEAKER_12  He's such a loser.
+1801.72 1801.94 SPEAKER_12  Like.
+1802.08 1803.22 SPEAKER_12  That's insane.
+1803.30 1805.60 SPEAKER_12  I love that Connor plays it straight too.
+1805.92 1807.14 SPEAKER_12  Like he lets him do it.
+1807.42 1809.26 SPEAKER_12  But like every, like you learn that when you're 10.
+1809.54 1815.18 SPEAKER_12  This is also a thing of like Adrian is like ESL, you know, born in Germany, as we'll see later.
+1815.34 1818.20 SPEAKER_12  So it's probably something that he like just heard recently.
+1818.20 1821.14 SPEAKER_12  But like everyone, everyone knows the, where were you buried the survivors?
+1821.14 1821.88 SPEAKER_12  It's not like.
+1822.28 1823.46 SPEAKER_08  No, I don't actually.
+1823.56 1824.26 SPEAKER_08  You never heard that?
+1824.36 1824.60 SPEAKER_08  Oh, okay.
+1824.70 1826.04 SPEAKER_08  I would have also been like, what?
+1826.54 1827.04 SPEAKER_08  I guess.
+1827.12 1833.44 SPEAKER_21  It's like, I'm going to go on stream in a perfect opportunity to tell the joke that my cousin told me.
+1833.44 1835.02 SPEAKER_21  No, this is joke book shit.
+1835.20 1838.22 SPEAKER_08  You can almost hear the fucking pages of the joke book turning.
+1839.08 1839.60 SPEAKER_05  Christ.
+1840.52 1846.18 SPEAKER_05  What do you tell a woman with two black eyes?
+1848.10 1850.70 SPEAKER_21  It's not Werner Herzog telling the joke.
+1851.14 1854.00 SPEAKER_08  Oh my God.
+1854.06 1856.36 SPEAKER_08  I just, it's just snipe after snipe.
+1856.50 1857.48 SPEAKER_08  It's just really unfair.
+1857.60 1859.16 SPEAKER_08  I feel like I'm playing three on one.
+1859.52 1861.20 SPEAKER_08  If Travis could come up with something decent.
+1861.70 1862.10 SPEAKER_08  You know what I'm saying?
+1863.10 1865.34 SPEAKER_21  You got one good one in at the end there.
+1865.76 1867.06 SPEAKER_21  Nice slight to Travis.
+1867.32 1872.38 SPEAKER_21  So funny when Julian's feeling really threatened, he'll, he'll, he'll aim at Travis.
+1872.38 1881.30 SPEAKER_21  The rare, on the rare chance when he's back into a corner, he'll, out, out of desperation, he'll put the sights on Travis.
+1881.56 1881.92 SPEAKER_21  Hilarious.
+1881.92 1887.54 SPEAKER_08  Sometimes, sometimes when, sometimes when you, you know, you're fighting a boss, you got to take care of the spawns first.
+1887.54 1891.86 SPEAKER_21  We've been doing this for way too long.
+1892.00 1892.64 SPEAKER_21  I know.
+1892.96 1893.40 SPEAKER_06  I know.
+1893.50 1899.26 SPEAKER_06  We could do a whole meta podcast about like our, our various, our various like joke disagreements.
+1900.04 1903.58 SPEAKER_21  We haven't even, we're not even like one third of the way through the script.
+1903.78 1904.08 SPEAKER_21  I know.
+1904.08 1905.20 SPEAKER_22  Ah, okay.
+1905.44 1905.66 SPEAKER_21  Sorry.
+1905.88 1906.56 SPEAKER_22  Please continue, Liv.
+1906.68 1906.94 SPEAKER_12  Yeah.
+1907.32 1918.24 SPEAKER_12  Some of the more notable Elon-esque zingers Dittman said on the stream include claiming that Elden Ring is a lot like chess and also that he got his first kiss by quote unquote mind hacking the girl into liking him.
+1918.68 1923.74 SPEAKER_12  You know, it's his, you know, Reddit body hacking, asocial, you know, it's perfect, right?
+1923.78 1925.28 SPEAKER_12  It's this exact same type of guy.
+1925.48 1930.42 SPEAKER_12  Even Dittman's odd forced laughter sounds like it could only come from an evil autistic billionaire.
+1930.42 1942.06 SPEAKER_12  The backstory that Adrian provided, that he was in his twenties, also didn't seem to match up with any of Conrad's quizzing related to details that someone raised in that time period would have known.
+1942.34 1947.92 SPEAKER_12  Such as Adrian being unable to list which TV shows he watched growing up as a kid, saying he watched documentaries.
+1948.36 1951.12 SPEAKER_12  Or this question related to where Adrian was during 9-11.
+1951.34 1952.12 SPEAKER_12  All right.
+1952.44 1953.36 SPEAKER_12  What, do you remember 9-11?
+1953.60 1954.42 SPEAKER_13  What were you doing then?
+1955.20 1956.48 SPEAKER_14  What everyone else was doing.
+1957.00 1957.86 SPEAKER_14  Doing my thing.
+1958.36 1958.98 SPEAKER_14  Doing your thing.
+1958.98 1959.80 SPEAKER_14  And then shit happened.
+1960.42 1961.02 SPEAKER_14  Should go real.
+1961.96 1962.54 SPEAKER_13  Doing your thing.
+1962.64 1968.66 SPEAKER_13  Well, if you're my age and it was 9-11, you were toddling around on the living room floor, which would have been your answer.
+1969.16 1969.36 SPEAKER_14  Mm-hmm.
+1969.46 1969.62 SPEAKER_14  Yep.
+1970.06 1971.02 SPEAKER_14  I was literally doing my thing.
+1971.02 1971.68 SPEAKER_13  That's what you were doing?
+1971.78 1972.88 SPEAKER_13  Was you were toddling on the floor?
+1973.62 1973.94 SPEAKER_14  Probably.
+1974.88 1975.62 SPEAKER_13  Because you were how old?
+1975.62 1976.50 SPEAKER_14  I always send this to someone.
+1978.18 1979.70 SPEAKER_14  Sorry, I'm going to send a meme to someone.
+1979.94 1980.38 SPEAKER_14  It's kind of funny.
+1980.52 1981.28 SPEAKER_13  I love memes, bro.
+1981.40 1981.98 SPEAKER_14  Wait, send it to me.
+1982.70 1983.72 SPEAKER_14  No, it's a controversial one.
+1983.72 1994.44 SPEAKER_12  One of the biggest pieces of evidence used by people on Twitter to connect Adrian and Elon from this stream related to Adrian supposedly admitting he was Elon when talking about the H-1B visa scandal.
+1994.44 1995.44 SPEAKER_12  What's the matter?
+1995.44 1996.60 SPEAKER_13  It doesn't matter.
+1997.98 1998.42 SPEAKER_14  It does.
+1998.48 1998.78 SPEAKER_14  It does.
+1998.88 2005.98 SPEAKER_14  I think with the kind of political stuff that has happened on the platform, especially, you know, stuff that I have to deal with personally, I think it matters very much.
+2006.20 2007.16 SPEAKER_14  Wait, what did you deal with personally?
+2007.70 2009.18 SPEAKER_14  What has happened over the last couple of days?
+2009.18 2010.18 SPEAKER_14  I don't know.
+2010.18 2011.12 SPEAKER_14  I don't know.
+2011.12 2012.08 SPEAKER_14  And even leading up to that.
+2012.16 2012.64 SPEAKER_13  I'm confused.
+2013.32 2013.64 SPEAKER_14  Elaborate.
+2014.22 2014.78 SPEAKER_14  Well, you're very simple.
+2014.98 2018.24 SPEAKER_14  Because, um, so for instance, you had this discussion around H-1B visas, right?
+2018.64 2021.74 SPEAKER_14  And there was a lot of, um, so fundamentally, I think a lot of people had problems.
+2021.74 2023.40 SPEAKER_14  That was Elon that was talking about all that, right?
+2024.40 2026.20 SPEAKER_14  And there was various other people as well.
+2026.64 2028.98 SPEAKER_14  They were just kind of trolling him that he responded in various ways, but.
+2029.10 2030.64 SPEAKER_08  That is not a gotcha, sorry.
+2030.84 2031.16 SPEAKER_08  No.
+2031.18 2031.76 SPEAKER_08  Not at all.
+2031.92 2034.54 SPEAKER_22  He was just talking about general discourse that was happening.
+2034.72 2038.18 SPEAKER_22  He didn't say, you know, he was central to it in any way.
+2038.18 2039.94 SPEAKER_08  No, plus, like, it would make sense.
+2040.02 2046.44 SPEAKER_08  Like, if this guy's not American, he would be thinking about H-1Bs, because that would be his shot at coming to the United States and working for his hero.
+2046.82 2046.98 SPEAKER_12  Yeah.
+2047.10 2057.10 SPEAKER_12  And if you were paying attention earlier, you would have noticed that Dittman himself was also getting a lot of shit from these same people in Twitter spaces when he was defending Elon Musk's honor to a group of people that also thought he was Elon.
+2057.34 2058.98 SPEAKER_12  So he did get a bunch of shit for it.
+2059.00 2065.84 SPEAKER_12  So he was like, you know, it wasn't, again, it wasn't like a 3D chess, oh, I'm going to make them think I'm Elon, because I don't think Dittman is capable of that.
+2065.94 2066.90 SPEAKER_12  He was just being honest.
+2066.90 2084.98 SPEAKER_08  No, and this is the difference between someone whose, like, Reddit brain has kind of made them into these logical racist type guys and the people who are genuinely hiding their power level, who are actually, like, white supremacists who think that all other races are inferior and are hiding behind the logical sheen.
+2085.42 2090.40 SPEAKER_12  This isn't the only bit of supposed proof that Dittman is secretly Elon that can be easily debunked.
+2090.54 2107.84 SPEAKER_12  Remember that as of now, all the evidence that I presented about them being connected is circumstantial. It seems like a thing Elon would do. He has an incredibly distinct voice, and he says the exact sort of shit that Elon would say. It holds a sort of ecstatic truth to mention Herzog again. It feels right. Yet unfortunately, facts do not care about our feelings.
+2108.26 2122.02 SPEAKER_12  One of the biggest supposed slam dunks pertaining to Adrian being Musk relates to Adrian's alleged 4chan posts, with a specific trip code posting under the name Adrian Dittman at the start of January 2025, defending Musk on the far-right politically incorrect board of the site.
+2122.34 2137.50 SPEAKER_12  Those unfamiliar, a trip code is basically an account, meaning that you sign into it with a unique passport. It can add a username. This so-called Adrian Dittman described Elon as, quote, a father who gets lots of sex, and bragged how much better 4chan is going to be after Elon buys it, saying this,
+2137.50 2144.98 SPEAKER_21  We'll finally get audio and video upload support and some other much-needed upgrades. The site layout is stuck in 2005.
+2144.98 2153.00 SPEAKER_12  That trip code also attempted to adopt right-wing 4chan parlance in the most embarrassing, janky way possible, saying, among other things, this phrase,
+2153.30 2154.72 SPEAKER_21  Kecky friends later, Anans.
+2155.30 2161.26 SPEAKER_12  I've been thinking about Kecky friends later, Anans. Because it is so perfect. It's very funny.
+2161.76 2171.58 SPEAKER_22  I mean, it is suspiciously perfect. It sounds like someone who's trying to make fun of someone who uses 4chan terminology in an awkward way.
+2171.70 2173.60 SPEAKER_08  100%. This seems like satire.
+2173.60 2178.42 SPEAKER_12  And even like the not understanding 4chan, it's a very good troll. It's very well done.
+2178.56 2181.70 SPEAKER_12  Like the not understanding 4chan, the layout is stuck in 2005.
+2182.06 2182.24 SPEAKER_08  Yeah.
+2182.36 2184.68 SPEAKER_12  Thinking it's like a social media site and not a forum.
+2185.18 2187.00 SPEAKER_08  This image board will become cooler.
+2187.24 2187.54 SPEAKER_12  Yeah.
+2188.02 2197.90 SPEAKER_12  But the supposed ultimate proof that connected this 4chan trip code to Dittman and Musk came after the trip code posted a screenshot of a Musk tweet where the phrase admin portal was visible in the bottom right.
+2197.90 2204.58 SPEAKER_12  Furthermore, the view post engagements button was also visible under the Musk tweet, something that only happens under a user's own posts.
+2204.98 2210.90 SPEAKER_12  This was supposedly evidence that not only was Elon posting on 4chan defending himself, but he was doing so as Adrian Dittman.
+2211.40 2218.72 SPEAKER_12  Unfortunately, it's pretty immediately obvious that this 4chan trip code has nothing to do with either Musk or Dittman, with some pretty rudimentary research.
+2219.06 2226.60 SPEAKER_12  Firstly, the trip code begins posting on January 1st of 2025, so well after the potential connection between Dittman and Musk had been widely reported.
+2226.92 2233.30 SPEAKER_12  When I initially saw these 4chan posts, I was under the impression that the trip code had been posting as Dittman consistently for like at least a year or two.
+2233.52 2239.16 SPEAKER_12  But even then, remember, Dittman was already appearing on Infobars with the implication he was Musk almost an entire year ago.
+2239.38 2242.86 SPEAKER_12  This by itself seems to be pretty obvious proof that it's a troll, but it doesn't end here.
+2243.16 2252.68 SPEAKER_12  The thread that this trip code begins posting in is also literally titled Elon Meltdown General, and in the original post, Adrian Dittman is listed as one of Elon's known alts.
+2252.68 2256.90 SPEAKER_12  So it's posting in a thread where that's already the case, and that's the subject matter.
+2257.28 2259.26 SPEAKER_12  So it's like such a blatant, you know, troll.
+2260.26 2268.00 SPEAKER_12  Yet the original Twitter post about this being proof Elon is posting as Dittman on 4chan received a whopping 14.7 million views on Twitter.
+2268.38 2271.96 SPEAKER_12  Mostly people who were completely fooled by a little Photoshop and Inspect Element.
+2272.36 2282.22 SPEAKER_12  Beyond this even, an article from The Furge was released on January 3rd, claiming that inside sources at X say the screenshot of the admin portal does not align with what admin powers actually look like on the site.
+2282.22 2291.12 SPEAKER_08  And for those who aren't super tech savvy, the Inspect Elements is a way that you can basically take anything you see in your browser and kind of locally edit it.
+2291.24 2292.34 SPEAKER_12  Yeah, so you can add text.
+2292.46 2295.64 SPEAKER_12  So you just added text in the bottom right for an admin portal.
+2296.14 2297.92 SPEAKER_12  You know, you could use Photoshop, whatever.
+2298.04 2300.02 SPEAKER_12  It's like, it's pretty easy to manipulate that.
+2300.36 2314.58 SPEAKER_12  So what better way for the left to start off the year than to be trolled by some random 4chan poll user who somehow managed to trick millions of people into thinking that they're a powerful individual with direct access to Donald Trump, secretly relaying information to others through 4chan.
+2314.92 2316.60 SPEAKER_22  You know, it works.
+2316.74 2318.26 SPEAKER_22  It works every time.
+2318.64 2318.92 SPEAKER_22  You know.
+2318.98 2319.56 SPEAKER_22  People love it.
+2319.62 2320.76 SPEAKER_22  People love it.
+2320.82 2321.88 SPEAKER_22  People swallowed it up.
+2322.02 2323.74 SPEAKER_22  You know, it's a winning formula.
+2324.20 2324.64 SPEAKER_21  Yeah.
+2324.76 2328.82 SPEAKER_21  Getting snookered by a 4chan made up post.
+2328.88 2329.86 SPEAKER_21  It's for everybody now.
+2329.86 2335.82 SPEAKER_08  Well, to be fair, like, I feel like, you know, Libs opened this bear trap and then put their leg in it.
+2335.88 2338.22 SPEAKER_08  And this 4chan person just triggered it.
+2338.42 2338.68 SPEAKER_08  Yeah.
+2339.04 2339.40 SPEAKER_12  Yeah.
+2339.66 2344.14 SPEAKER_12  I feel like the start of this episode, the first half is really like, we don't have to own ourselves here.
+2344.46 2345.76 SPEAKER_12  Like, Elon is a pathetic loser.
+2346.00 2347.62 SPEAKER_12  We can do a little bit more.
+2347.82 2351.70 SPEAKER_12  You know, my Travis view, a little bit more research before believing these sort of things.
+2351.72 2352.74 SPEAKER_12  Because then you're owned.
+2352.90 2353.92 SPEAKER_12  You're the one who's owned here.
+2354.28 2357.78 SPEAKER_12  And if all we have is that they're the one who's owned, then you have nothing.
+2357.78 2358.46 SPEAKER_02  Mm-hmm.
+2358.84 2364.84 SPEAKER_12  Another potential problem related to Elon being Dittman comes from the fact that the two have been in the same Twitter space multiple times.
+2365.02 2367.22 SPEAKER_12  Initially, all the way back in July of 2023.
+2367.52 2368.48 SPEAKER_14  I don't know how to feel about this.
+2368.52 2369.60 SPEAKER_14  This is fucking...
+2369.60 2371.80 SPEAKER_14  Dude, my mind's literally melting out from my ears right now.
+2371.80 2372.18 SPEAKER_14  That's great.
+2372.58 2374.96 SPEAKER_14  Like, my heart rate is up at maximum level.
+2375.14 2376.78 SPEAKER_14  Even though that's not reflect...
+2376.78 2377.68 SPEAKER_14  Like, it...
+2377.68 2378.02 SPEAKER_14  Yeah.
+2379.00 2379.66 SPEAKER_14  I'm there.
+2380.14 2382.30 SPEAKER_14  Dude, are you going to break the internet and give me a follow back?
+2382.48 2383.12 SPEAKER_14  Please, sir.
+2383.68 2385.30 SPEAKER_14  Um, who are you?
+2386.76 2387.16 SPEAKER_01  Adrian?
+2387.78 2393.44 SPEAKER_14  Dude, this guy just joined the space and he sounded exactly like you were.
+2393.52 2394.32 SPEAKER_01  Like, no way.
+2394.76 2395.02 SPEAKER_14  Yeah.
+2395.30 2396.40 SPEAKER_14  Dude, that's fucking epic.
+2397.26 2399.18 SPEAKER_01  I can't tell if the real one is fucking or...
+2399.18 2405.64 SPEAKER_14  This is a fully recursive style.
+2405.84 2407.14 SPEAKER_14  That's what this is.
+2408.32 2409.16 SPEAKER_01  Fully recursive.
+2409.16 2409.92 SPEAKER_01  We live in a simulation.
+2410.84 2412.04 SPEAKER_14  Yeah, we are the simulation.
+2412.04 2416.34 SPEAKER_14  I mean, I literally put out a tweet saying, hey, we are the Matrix.
+2416.66 2418.32 SPEAKER_14  Like, we make our own things real.
+2418.58 2421.28 SPEAKER_14  And my idea is like saying, hey, I don't want to break the Matrix.
+2421.48 2424.62 SPEAKER_14  I want to reshape it just that it agrees with us.
+2425.18 2427.30 SPEAKER_14  Like, that's my mission, personally.
+2427.46 2428.28 SPEAKER_14  I don't want to break.
+2428.38 2429.10 SPEAKER_14  I want to shape.
+2429.42 2430.24 SPEAKER_14  So, like, no.
+2430.24 2435.22 SPEAKER_14  I mean, at some point there's just going to be like 100 AI clones of me that just sound exactly your name.
+2435.72 2435.90 SPEAKER_14  Yeah.
+2436.16 2436.32 SPEAKER_14  Yeah.
+2436.32 2440.64 SPEAKER_14  Well, I mean, the thing is, this is not AI.
+2440.82 2441.68 SPEAKER_14  That's the best part.
+2441.74 2443.92 SPEAKER_14  This is like what I unironically sound like all the time.
+2444.64 2448.70 SPEAKER_12  It's kind of like, like, Dittman sounds more like Elon than Elon does there.
+2448.98 2451.32 SPEAKER_12  You know, like, it's almost he's doing a bit of a caricature.
+2451.70 2454.80 SPEAKER_12  And then Elon actually talks and it's like, oh, it's less Elon-y.
+2455.02 2456.76 SPEAKER_12  You know, he's getting, like, flanderized.
+2457.12 2462.06 SPEAKER_12  But importantly, also, you can see they do talk at the same point in that clip and throughout the stream.
+2462.24 2463.84 SPEAKER_12  So, it's clearly two people talking.
+2464.10 2464.64 SPEAKER_21  It's interesting.
+2464.64 2470.50 SPEAKER_21  It's like might be one of those situations where this guy just happens to sound pretty darn close.
+2470.58 2472.72 SPEAKER_21  Like, that's just kind of how he sounds.
+2472.88 2481.20 SPEAKER_21  And then once people pointed it out, he was like, oh, I can tweak it even a little bit more how I sound and choose the language to be even closer.
+2481.34 2487.64 SPEAKER_21  I knew a guy in my 20s who looked like Tom Cruise and he kind of sounded like Tom Cruise.
+2487.64 2490.02 SPEAKER_21  And people started pointing that out.
+2490.02 2495.18 SPEAKER_21  And he became, like, a influencer doing Tom Cruise.
+2495.18 2501.16 SPEAKER_21  And then he started using deepfake to make himself look like Tom Cruise as well.
+2501.24 2509.50 SPEAKER_21  So, there's this weird element of, like, the social feedback you get from people being like, oh, you're like this person who's much more famous, much more powerful than you are.
+2509.50 2511.88 SPEAKER_21  You're like, oh, well, I can, like, lean in.
+2511.92 2520.32 SPEAKER_21  If I just tweak everything, like, a little bit more, like, I can continue to draw that comparison from other people.
+2520.48 2520.66 SPEAKER_12  Yeah.
+2520.98 2524.60 SPEAKER_12  And honestly, with this one, it does seem a bit like he did it a bit more on purpose.
+2524.72 2525.46 SPEAKER_12  He knew what he was doing.
+2525.58 2529.56 SPEAKER_12  But I think at the start, he does just sound like maybe a bit more German version of Elon.
+2529.92 2531.32 SPEAKER_12  And he clearly does love Elon.
+2531.62 2533.94 SPEAKER_12  Like, you see at the start there, he's like, oh my God, you're so...
+2533.94 2535.76 SPEAKER_12  Can you break the internet and give me a follow back?
+2535.76 2536.04 SPEAKER_12  Yeah.
+2536.70 2542.26 SPEAKER_12  A piece by The Spectator would come out on January 4th, further corroborating the idea that Adrian Dittman is a real guy.
+2542.54 2549.72 SPEAKER_12  While most of the research for the piece was gathered by Maya Arsene-Kraimu and Ryan Faye, these two were unfortunately uncredited in the original Spectator piece.
+2550.10 2553.86 SPEAKER_12  Their research revealed that Dittman is a German-born 29-year-old resident of Fiji.
+2554.04 2561.96 SPEAKER_12  His father is a wealthy businessman, and Dittman grew up partially in Gibraltar and Morocco, before his father founded an agro-business in Fiji related to forestry and farming.
+2562.12 2564.96 SPEAKER_12  So, you know, the most evil, like, German bourgeois...
+2564.96 2567.60 SPEAKER_12  Like, fail son.
+2568.08 2576.14 SPEAKER_08  Yes, this is just like a wealthy international school kid with Reddit brain and on the spectrum.
+2576.42 2578.56 SPEAKER_08  I mean, yeah, it makes way more sense.
+2579.04 2585.32 SPEAKER_12  There's a video on YouTube posted by the Fiji government showing Dittman and his father in attendance of a speech being made by the president of the country.
+2585.74 2593.00 SPEAKER_12  Dittman posted a cooking video to Twitter where he appears to have a gold ring on the same finger, as does Dittman in the video related to the president of Fiji.
+2593.00 2594.92 SPEAKER_12  The Ducks is more thorough than just this, though.
+2595.08 2601.18 SPEAKER_12  Initially being found through a data breach, which placed an Adrian Dittman as living in Fiji and having both a Fiji and German number.
+2601.54 2608.00 SPEAKER_12  Dittman is mentioned both being German and also living in Oceania on Twitter, and a timestamp he posted confirmed he was in the Fiji timezone.
+2608.50 2613.88 SPEAKER_12  Immediately after Dittman was contacted about the ring connection, he deleted 38 cooking-related videos from his account.
+2614.16 2616.86 SPEAKER_12  They were also able to connect Dittman's father's company with Gibraltar.
+2617.18 2619.82 SPEAKER_12  Coraborating Dittman's statements on Twitter, he partially grew up there.
+2619.82 2626.86 SPEAKER_12  So we can be pretty certain that there is a real Adrian Dittman who owns that Twitter account who happens to love Elon Musk and sound exactly like him.
+2627.12 2635.48 SPEAKER_12  Following the release of the story, the three journalists related to it were suspended for 30 days, and all links to both the original article as well as Maya's follow-up on Twitter were taken down.
+2635.78 2639.00 SPEAKER_12  Presumably, I guess, on the pretense of doxing, but I don't, you know.
+2639.20 2646.00 SPEAKER_12  It's so cool that one of the supposed reasons that Elon took over Twitter was because of them blocking the story about Hunter Biden's laptop.
+2646.24 2648.34 SPEAKER_09  It's just so blatant. Yeah. He doesn't care.
+2648.34 2651.80 SPEAKER_09  And now stuff is happening, like, for tiny personal grievances.
+2652.08 2653.28 SPEAKER_09  Yeah. It's awesome.
+2654.06 2664.16 SPEAKER_12  Afterwards, Elon also tweeted multiple times that he is Adrian Dittman, presumably happy that he's epically trolled the world into thinking that he's some other pathetic loser who sounds exactly like him.
+2664.60 2667.74 SPEAKER_12  Well, Adrian hasn't always sounded exactly like Elon, importantly.
+2668.04 2672.36 SPEAKER_12  Looking back on his older Twitter spaces from 2023, Dittman sounds much more German.
+2672.72 2676.08 SPEAKER_12  Here's a clip from a space he participated in on May 17th of that year.
+2676.08 2682.10 SPEAKER_12  Initially, he sounds pretty identical to Elon, but as he begins speaking more and more, his German accent starts to slip through.
+2682.24 2684.58 SPEAKER_10  When do you think you'll be able to participate on more spaces?
+2686.26 2688.20 SPEAKER_14  Probably a few hours from now again.
+2688.40 2688.90 SPEAKER_14  I'd do one.
+2689.04 2691.92 SPEAKER_14  Like, if you guys want to do a quick setup space, I don't know.
+2692.26 2693.54 SPEAKER_14  I usually do one that's on...
+2695.48 2698.98 SPEAKER_14  Sometimes I start one that's, like, on 5 a.m. EST.
+2698.98 2701.96 SPEAKER_14  Just like yesterday, I start one on 5 a.m. EST.
+2702.58 2706.00 SPEAKER_14  Now I just keep going for, like, two hours, two, three hours.
+2706.50 2709.32 SPEAKER_14  I tend to do a lot of spaces throughout the week.
+2709.40 2714.16 SPEAKER_12  Notice how he says words like 5 a.m. and hours, as well as the phrase, I tend to do.
+2714.44 2716.00 SPEAKER_12  They're extremely German.
+2716.32 2718.38 SPEAKER_12  An accent that Elon absolutely does not have.
+2718.82 2731.08 SPEAKER_12  Now, maybe Elon was doing a subtle German accent early on while running the Dittman account, where he was speaking in very small crypto EAC-related spaces that garnered less than a thousand viewers, and then slowly lost that accent across a few years.
+2731.30 2735.38 SPEAKER_12  Or, you know, there's the obvious explanation that he got better at doing the Elon voice over time.
+2736.06 2740.22 SPEAKER_12  Importantly, Dittman is still pretending to be Musk in these earlier spaces he participates in.
+2740.42 2752.00 SPEAKER_12  While he's deleted a lot of tweets around when he started joining these spaces, and the phrase Adrian Dittman is now blocked on Twitter searches, in April of 2023, he only has 203 followers, and most of his tweets are getting less than 5 likes.
+2752.24 2756.84 SPEAKER_12  He then begins to become noticed by a couple Elon sycophants, who invite him into their spaces.
+2756.84 2762.76 SPEAKER_12  The first large space he seems to get into, through vaguely pretending to be Elon, is on April 28th of that year.
+2763.02 2771.20 SPEAKER_12  And if someone lets him speak in an AI space that received 180,000 views, hosted by someone named Mario Naufel, who has 1.8 million followers on Twitter.
+2771.36 2775.90 SPEAKER_14  But I wouldn't say that it is something you should rely upon, like what he says with those tools, right?
+2775.94 2781.98 SPEAKER_14  You have those tools which are then plugged in, and then those tools do not tell you, wait a minute, this could also be wrong, so double-check it.
+2781.98 2786.78 SPEAKER_14  But then how do you double-check something that has never been calculated before, and then we start going down that rabbit hole?
+2787.26 2790.16 SPEAKER_14  And I mean, as far as what happens to OpenAI...
+2790.16 2790.18 SPEAKER_14  Is that Elon's...
+2790.18 2793.58 SPEAKER_15  Adrian, are you Elon's altercouch?
+2794.16 2794.42 SPEAKER_15  Why?
+2795.70 2797.16 SPEAKER_11  It's not an awfully lot like Elon.
+2797.82 2798.22 SPEAKER_11  Yeah.
+2798.72 2801.80 SPEAKER_11  Do you mind if I drop in with just something happy, and I'll make it very brief?
+2802.46 2804.50 SPEAKER_17  Yeah, just let Adrian finish, and then we'll get to you.
+2804.50 2804.94 SPEAKER_14  Oh, okay.
+2805.04 2805.14 SPEAKER_14  Yeah.
+2805.82 2808.28 SPEAKER_14  So another thing with OpenAI, I mean...
+2808.28 2818.38 SPEAKER_12  So he's only getting attention because people think maybe he's Elon, and he gets to talk about his, you know, basically the stupid dumb shit that Elon would be saying there about AI.
+2818.62 2818.92 SPEAKER_12  Mm-hmm.
+2818.92 2825.98 SPEAKER_21  And if you're in Adrian's position, why would you be like, no, dude, no way, absolutely not, like, that's weird.
+2826.24 2828.40 SPEAKER_21  You know, of course you're going to be like, um, what?
+2828.40 2837.96 SPEAKER_21  That's why if somebody was like, if I was in a space and somebody was like, are you Dan Aykroyd by any chance, I'd be like, that's maybe, I mean, do I sound like him?
+2838.08 2846.26 SPEAKER_21  You know, it's like, if somebody confuses you with your idol, like, yeah, of course you're not going to, you know, you're going to entertain it.
+2846.28 2852.92 SPEAKER_21  You're going to entertain it, or at least let not destroy the fun for them and potentially your future self.
+2852.92 2860.36 SPEAKER_12  It really does seem like he only gets attention pretending to be Elon around Elon sycophants who are like, this is the sort of thing that he would do.
+2860.60 2863.90 SPEAKER_12  So, oh, maybe I'm in on this, you know, super secret burner account.
+2864.06 2864.30 SPEAKER_12  Yeah.
+2864.42 2865.42 SPEAKER_12  Like, have a direct line to Elon Musk.
+2865.42 2866.78 SPEAKER_21  He's like, maybe I am Elon.
+2867.12 2867.34 SPEAKER_12  Yeah.
+2867.88 2870.94 SPEAKER_12  The legend of Dittman being Elon begins to spread around this time.
+2870.94 2883.32 SPEAKER_12  Here's an audio from the beginning of a space from May 17th of 2023, where a Twitter user named KismetCX, a dedicated Elon sycophant, requests that Dittman be allowed to join a space to talk to the hundred or so people who are listening.
+2883.58 2888.52 SPEAKER_00  Alex, there's a gentleman by the name of Adrian Dittman who wants to come into the space.
+2888.60 2889.88 SPEAKER_00  He only has a few moments.
+2890.28 2891.32 SPEAKER_00  I'm going to send him the link.
+2891.38 2892.34 SPEAKER_00  Can you please bring him up?
+2892.68 2894.14 SPEAKER_10  Why do they need to come up and speak?
+2894.22 2895.74 SPEAKER_10  I feel like I'm now becoming a promoter.
+2895.74 2896.76 SPEAKER_00  No, no, no, no, no, no.
+2896.98 2899.72 SPEAKER_00  Look, if just, you'll know, just let him come up if that's okay.
+2899.72 2903.68 SPEAKER_00  No, he's not definitely using you as a promoter.
+2904.62 2904.98 SPEAKER_00  Please.
+2905.36 2906.56 SPEAKER_10  Why do they need to come up on this space?
+2906.88 2911.58 SPEAKER_00  Well, they are, man, I just wish he could tell you.
+2912.32 2918.76 SPEAKER_00  Well, they're helping with the governance and regulations on Twitter and content creation.
+2919.18 2922.52 SPEAKER_00  Wants to get to know more of the influencers in this scene.
+2923.38 2923.40 SPEAKER_00  And.
+2923.90 2924.30 SPEAKER_10  Okay.
+2924.54 2925.08 SPEAKER_10  That's good.
+2925.18 2925.52 SPEAKER_00  That's all.
+2925.66 2925.90 SPEAKER_00  That's it.
+2926.00 2926.10 SPEAKER_00  Great.
+2926.10 2926.28 SPEAKER_10  Okay.
+2926.48 2927.14 SPEAKER_10  What's his name?
+2927.32 2927.78 SPEAKER_10  Where's his name?
+2927.78 2928.22 SPEAKER_00  Where's he at?
+2928.22 2929.82 SPEAKER_00  There is a group chat with you.
+2930.02 2936.16 SPEAKER_00  And if you could check your DMs, you will get to see his at, but I will send him that link right now.
+2938.08 2939.04 SPEAKER_10  Does he work at Twitter?
+2939.50 2942.80 SPEAKER_00  I am not at liberty to say anything.
+2943.14 2943.98 SPEAKER_12  So pathetic.
+2944.12 2945.50 SPEAKER_12  So she thinks it's Elon.
+2946.08 2946.98 SPEAKER_12  And it's like, oh, sure.
+2947.18 2947.32 SPEAKER_12  Yeah.
+2947.56 2948.84 SPEAKER_12  You know, she's being tricked.
+2949.00 2951.50 SPEAKER_12  And then, you know, he gets attention based off of it.
+2951.92 2952.32 SPEAKER_04  Incredible.
+2952.68 2953.76 SPEAKER_04  She's so excited.
+2954.06 2954.32 SPEAKER_04  Yeah.
+2954.32 2955.92 SPEAKER_04  Man, I can't believe it.
+2956.26 2963.96 SPEAKER_12  If we can learn anything from QAnon, the idea of having knowledge of a very powerful person who's secretly posting information that only you're aware of is quite captivating.
+2964.18 2971.60 SPEAKER_12  The idea of Elon using a burner account that regularly quote tweets the Elon Musk account with praise seems plausible enough even to Elon sycophants.
+2971.82 2973.80 SPEAKER_12  Which I think is really the funniest revelation here.
+2974.04 2977.32 SPEAKER_12  That like, even they think that he's a pathetic loser, but they like him, I guess.
+2977.42 2978.54 SPEAKER_12  They're like, yeah, he would do that.
+2978.74 2979.02 SPEAKER_12  Totally.
+2979.02 2980.80 SPEAKER_08  He's a funny troll, you know?
+2980.94 2981.04 SPEAKER_08  Yeah.
+2981.18 2982.30 SPEAKER_08  He squirms around like that.
+2982.38 2982.58 SPEAKER_08  Yeah.
+2982.68 2984.38 SPEAKER_08  This is how he can be his true self.
+2984.54 2984.68 SPEAKER_08  Yeah.
+2985.48 2992.20 SPEAKER_12  Dittman's follower account remains relatively low, under 10,000, until February of 2024 when he appears on places like InfoWars.
+2992.56 2998.78 SPEAKER_12  I'm not quite sure why Elon would grind 100 listener Twitter circles for over a year on his burner account before getting recognition.
+2999.16 3005.08 SPEAKER_12  Surely he would just recommend that Dittman talk on influential Twitter spaces to people like Alex Jones, you know, up front.
+3005.46 3006.54 SPEAKER_12  But, you know, who knows?
+3006.54 3014.64 SPEAKER_12  All this evidence very primly points to the idea that this Adrian Dittman guy, however genuinely pathetic and identical to Elon he may be, has owned you.
+3014.96 3015.98 SPEAKER_12  Epically trolled you.
+3016.24 3019.06 SPEAKER_12  In order to get attention, saying what he probably already believes.
+3019.50 3021.52 SPEAKER_12  Elon's personality is already pretty unoriginal.
+3021.80 3028.26 SPEAKER_12  So it's not really a surprise that some fail-son, rich international German guy in his 20s has shaped his personality around being like him.
+3028.46 3030.82 SPEAKER_12  The situation is, importantly, very, very funny.
+3031.22 3036.18 SPEAKER_12  I mean, I can understand why Elon haters would believe he would create a burner account that profoundly praised himself.
+3036.36 3040.24 SPEAKER_12  But the fact that Elon fans also looked at that and thought it was him is incredibly telling.
+3040.62 3043.30 SPEAKER_12  The presentation of this evidence hasn't quelled some bakers, though.
+3043.48 3050.46 SPEAKER_12  And I've heard the theory that Dittman is a real guy and used to post on the account, but gave it up when Elon asked to use it when it started getting attention.
+3051.02 3059.78 SPEAKER_12  This is debunked in other ways, such as Dittman hosting a Twitter space in January of this year at the same time Elon is testing Starlink by streaming Path of Axel 2 on his jet.
+3059.78 3067.30 SPEAKER_12  Yet people then respond that Elon only sometimes goes in the account, leaving it to the actual Dittman at other times as an alibi for when he speaks on Infowars.
+3067.70 3072.68 SPEAKER_12  But at this point, if you're still believing Elon is Dittman, it probably just sounds like I'm trying to yuck your yum.
+3072.96 3077.64 SPEAKER_12  Elon won politically, why can't we just believe all the little theories related to him being a pathetic loser?
+3078.18 3083.62 SPEAKER_12  And you're right, I can never take that away from you, because it's not as if Elon isn't actually above doing something like this.
+3083.94 3091.32 SPEAKER_12  In fact, a recent news item related to Elon proves just how remarkably stupid he is when it comes to fooling people about the identity of his online accounts.
+3091.70 3100.16 SPEAKER_12  It's so stupid that it should in itself debunk all the elaborate bakes concerning alibis and plausible deniability related to him still controlling the Dittman account.
+3100.88 3102.44 SPEAKER_21  Path of Elon 2
+3102.44 3107.88 SPEAKER_12  Here we go! It's not a secret that Elon styles himself as a god gamer.
+3108.20 3112.78 SPEAKER_12  He's claimed that chess is too simple for him because it doesn't have a fog of war or a technology tree.
+3113.04 3121.48 SPEAKER_12  He's bragged about supposedly being formerly one of the best quick players in the world on Lex Friedman's podcast, and also about holding the number one leaderboard spot on Diablo 4.
+3121.88 3125.92 SPEAKER_12  It's clear that being naturally good at gaming is part of the image that Elon sells to the world.
+3126.22 3131.98 SPEAKER_12  He, like most powerful tech billionaires, is a nerd, and his idea of what's cool is connected to nerdship.
+3132.28 3134.76 SPEAKER_12  Unfortunately for him, he's also very bad at lying.
+3135.04 3145.88 SPEAKER_12  While it should probably be clear to anyone with two eyes that Elon is probably talking up his natural gaming abilities, he's been leaving a breadcrumb trail of noob mistakes for anyone with actual experience in the games he's been talking about to find.
+3146.16 3153.44 SPEAKER_12  So for everyone disappointed that the Dittman thing was actually fake, that you've been owned, here's a palate cleanser related to how Elon lost the trust of the gaming community.
+3153.98 3161.62 SPEAKER_12  This is a good one, like, I don't know if you guys have experienced this before, where you hear someone talk about some subject you're not familiar with, and you're like, oh, that seems smart and interesting.
+3161.86 3165.34 SPEAKER_12  Then they start saying something you are familiar with, and you're like, oh, that's wrong.
+3165.50 3169.32 SPEAKER_12  And then you don't trust any of the other stuff, like, outside of your expertise.
+3169.32 3178.72 SPEAKER_12  This is, I really think, a moment for a lot of the, like, maybe politically neutral gamer guys to experience that with Elon, because they don't know how, like, how spaceships work or whatever.
+3178.94 3180.14 SPEAKER_12  So they're like, whatever, I don't know.
+3180.32 3181.12 SPEAKER_04  Yeah, he's probably smart.
+3181.28 3183.64 SPEAKER_12  Yeah, but if he's this stupid and lying this plainly.
+3183.82 3194.20 SPEAKER_22  Also, maybe they're not that politically astute, so they're not really sensitive to, like, Nazi dog whistles, or they understand the problem with, like, amplifying people like Jack Posobiec, you know, they don't understand what's...
+3194.20 3197.06 SPEAKER_22  But, like, being bad at a video game, that's much worse.
+3197.06 3197.42 SPEAKER_03  Mm-hmm.
+3197.82 3198.04 SPEAKER_03  Mm-hmm.
+3198.04 3213.52 SPEAKER_08  They also just, like, aren't very, you know, they're not paying attention to the media showing that this guy is a fraud over and over, that he's lied a million times about business projects, that a million of the things that he says are going to happen didn't happen, that he was dead wrong on COVID.
+3213.84 3215.06 SPEAKER_08  The man is just a serial...
+3215.74 3219.94 SPEAKER_08  He's just consistently wrong, and also lying about his claims.
+3220.02 3230.00 SPEAKER_08  So this is the first time where they're like, oh, wow, if he's doing this, then is he, like, making insane claims and taking credit for other people's accomplishments in other areas?
+3230.28 3238.16 SPEAKER_08  I've seen this in crypto, in various other circles, people kind of starting to wake up, and also plenty of sycophants just defending him anyways.
+3238.34 3254.48 SPEAKER_21  Well, and also, like, these particular games, you know, have a high learning curve, so a lot of people who get really good at them and take the time to understand the mechanics, you know, sometimes over a series of games, like the FromSoft, Souls games, Elden Ring, that sort of thing.
+3254.56 3262.24 SPEAKER_21  They pride themselves on that they took the time to understand how the game works, and there's this whole kind of, like, community of, like, get good, you know?
+3262.28 3263.92 SPEAKER_21  It's like, hey, it's a fucking hard game.
+3264.00 3265.04 SPEAKER_21  Like, yeah, you gotta get good.
+3265.08 3266.56 SPEAKER_21  You gotta understand how it works.
+3266.66 3276.50 SPEAKER_21  And so it's especially annoying to have somebody come into this kind of, you know, it's a large community, but tight-knit nonetheless, and kind of fake it, you know?
+3276.50 3276.98 SPEAKER_08  Yeah.
+3277.08 3280.60 SPEAKER_08  This goes back to, yeah, Diablo, the first Diablo.
+3280.86 3283.54 SPEAKER_08  I mean, the ARPG, like, spreadsheet nerds.
+3283.60 3286.96 SPEAKER_08  This is dozens of games across different publishing houses.
+3287.42 3295.52 SPEAKER_08  Yeah, I mean, to think you could get away with this shows an amount of hubris and non-understanding of the games that is impressive.
+3296.12 3303.42 SPEAKER_12  One of the earliest indications of how bad Elon is at video games comes from a post he made on Twitter in 2022 after he called Elden Ring,
+3303.42 3305.98 SPEAKER_21  The most beautiful art I have ever seen.
+3305.98 3309.80 SPEAKER_12  No, allow me to fat roll through the whole game and not understand the stats.
+3310.22 3314.78 SPEAKER_21  Well, and, like, in addition to what I was saying before, like, he could have just gotten good.
+3314.84 3323.82 SPEAKER_21  Like, there's a great example of Kai Sanat, who had never played a Souls game before, and was like, I'm gonna sit down, and I'm gonna play Elden Ring, and I'm gonna fucking suffer through it.
+3323.86 3330.96 SPEAKER_21  And it became this massive event where he, you know, really suffered through and ended up getting good at the game.
+3330.96 3333.30 SPEAKER_21  And he became beloved within the community.
+3333.30 3340.30 SPEAKER_21  And then he was also using his fame to boost smaller content creators, you know, in Souls games.
+3340.38 3345.20 SPEAKER_21  There's a way to do this to actually, like, garner goodwill from the community.
+3345.42 3347.20 SPEAKER_21  And Elon did the exact opposite.
+3347.38 3349.04 SPEAKER_21  Everything you could do wrong, he's done.
+3349.04 3351.38 SPEAKER_08  That's because Elon is not someone who's used to making effort.
+3351.58 3360.72 SPEAKER_08  He's used to piggybacking off other people, buying their companies, taking credit for other people's work, and being handed a bunch of, you know, applause for no fucking reason.
+3360.90 3363.24 SPEAKER_08  He's a lazy, stupid, rich guy.
+3364.30 3364.66 None  Yeah.
+3365.12 3365.34 SPEAKER_12  Yeah.
+3365.58 3370.42 SPEAKER_12  And it's honestly, the stuff we'll get into later is much worse than this just, like, being bad at Elden Ring.
+3370.60 3372.10 SPEAKER_12  Because, like, there's some authenticity.
+3372.48 3377.12 SPEAKER_12  You know, when you like a game and you hear someone, you know, super successful playing, you're like, oh, cool.
+3377.14 3378.10 SPEAKER_12  It's cool they play it.
+3378.24 3379.44 SPEAKER_12  Like, they don't have to be good at it.
+3379.48 3380.06 SPEAKER_12  It's like, whatever.
+3380.32 3385.08 SPEAKER_12  But it's clear that Elon does not allow himself to just be seen as someone who plays games and isn't good at them.
+3385.08 3386.54 SPEAKER_12  He needs to be a god gamer.
+3386.70 3388.56 SPEAKER_12  Like, that's a part of his narcissistic image.
+3388.74 3395.18 SPEAKER_12  The photo he uploaded of his build in Elden Ring shows he knows absolutely nothing about even the most basic mechanics of the game.
+3395.38 3400.12 SPEAKER_12  Equipping multiple shields at once and distributing his stats incredibly inefficiently, among other things.
+3400.24 3406.26 SPEAKER_22  The other thing is that it's crazy because, like, no one would, like, blame him if he was just kind of a noob, right?
+3406.34 3410.42 SPEAKER_22  And he's just kind of, like, enjoying the game and he played it a bit and he's just starting out.
+3410.48 3412.90 SPEAKER_22  It's like, yeah, okay, maybe you got a lot on your plate.
+3412.90 3416.28 SPEAKER_22  Like many people, you don't have a lot of time to play the game.
+3416.38 3417.78 SPEAKER_22  People would not judge him for that.
+3417.92 3418.18 SPEAKER_22  But you're right.
+3418.26 3421.54 SPEAKER_22  He needs to be seen as top tier for some fucking reason.
+3422.08 3430.82 SPEAKER_12  What's even more sad about this is that he was level 121 three months into the game's release, meaning he was grinding the game quite a bit while not understanding the very basic mechanics.
+3430.98 3433.50 SPEAKER_12  Or maybe he paid someone or got someone to grind it for him.
+3433.56 3433.98 SPEAKER_12  I don't know.
+3434.14 3434.32 SPEAKER_08  No.
+3434.56 3435.40 SPEAKER_08  Of course it's that.
+3435.64 3435.80 SPEAKER_12  Yeah.
+3436.00 3436.18 SPEAKER_08  Yeah.
+3436.18 3439.10 SPEAKER_08  This is just you can buy an account that's been boosted to the top.
+3439.20 3441.96 SPEAKER_08  I mean, it would take thousands of hours.
+3442.40 3446.94 SPEAKER_08  He would have to spend his, like, waking life playing this game for this account to be real.
+3447.14 3447.26 SPEAKER_08  Yeah.
+3447.66 3450.42 SPEAKER_12  This, I think, gives us an important preview into Elon's psyche.
+3450.70 3459.76 SPEAKER_12  He really does believe that he's good at video games to the extent that he'll talk himself up and then post his builds, thinking that, like, oh, well, you know, he's so good that obviously the build is going to be good.
+3459.76 3467.24 SPEAKER_12  It's as if he's perpetually at the beginning of the Dunning-Kruger curve, stuck there for tens if not hundreds of hours as a result of an inability to learn.
+3467.36 3470.54 SPEAKER_12  Because if he was doing something wrong, that would imply he's not a god gamer.
+3470.96 3476.18 SPEAKER_12  Elon was widely mocked for his Alden Ring build, the initial post receiving 5,000 quote tweets and only 15,000 likes.
+3476.66 3485.86 SPEAKER_12  Elon would lick his wounds and retreat from posting any actual evidence of his gaming escapades for a few years, until, as far as I can tell, the release of Diablo 4, an action RPG by Blizzard.
+3485.86 3491.70 SPEAKER_12  The main gameplay loop basically consists of grinding through a campaign and then various challenges to kill monsters that drop gear.
+3492.06 3500.62 SPEAKER_12  While the hardcore ARPG players haven't really been fond of Diablo 4, its top players are very, very dedicated to the game, and staying on the leaderboard requires a very significant time sink.
+3501.00 3506.10 SPEAKER_12  He would begin streaming the game on Twitter occasionally, showing off his very highly leveled character in late 2023.
+3506.50 3513.84 SPEAKER_12  And I'll admit that I'm not that familiar with this installment of the Diablo series, but the consensus about these streams and Elon's level within the community was fairly mixed.
+3513.84 3517.78 SPEAKER_12  He clearly played the game quite a bit and actually had some knowledge of its intricacies.
+3518.22 3524.64 SPEAKER_12  One popular ARPG content creator, Quinn69 for instance, who's very good at these sort of games, was impressed by the footage.
+3524.88 3529.20 SPEAKER_12  Here he is actually defending Elon from some in his chat who are doubting his Diablo 4 abilities.
+3529.48 3530.70 SPEAKER_19  He didn't buy an account, chat.
+3531.00 3535.92 SPEAKER_19  I wouldn't be surprised if he had an assistant level some shit for him, but he clearly understands how the game works.
+3536.36 3538.92 SPEAKER_19  And when he's talking about the game mechanics, he understands them.
+3539.10 3541.84 SPEAKER_19  Like, he understands them more than the devs of their own game.
+3541.84 3542.70 SPEAKER_19  Like, I'm not even kidding.
+3542.76 3545.38 SPEAKER_19  When I was watching him play, he was actually playing the game properly as well.
+3545.78 3546.90 SPEAKER_19  Um, I'm not even kidding.
+3547.22 3547.64 SPEAKER_19  No, seriously.
+3548.06 3555.44 SPEAKER_19  It was bit- Chet, he is- his footage is better than all of the fucking adventures with a dev.
+3555.86 3557.14 SPEAKER_19  Skill level combined.
+3557.14 3567.86 SPEAKER_12  Now, importantly, the comment about him having more knowledge of the game than the developers is more of a knock on them than it's a compliment to Musk, as the very sweaty, hardcore RPG community was not really fond of the direction that Diablo 4 went.
+3568.08 3579.18 SPEAKER_12  And Elon would stick his nose into this discussion as well, criticizing Blizzard for some of their bad design decisions, leading some gamers in the community to ask him to buy Blizzard and make Diablo 4 epic and base like he did Twitter.
+3579.46 3579.86 SPEAKER_21  Ugh.
+3580.30 3582.62 SPEAKER_21  Nothing would be- Nothing could be worse.
+3582.82 3584.56 SPEAKER_21  Nothing could be worse if you bought Blizzard.
+3584.64 3585.38 SPEAKER_12  Blizzard deserves it.
+3585.38 3585.82 SPEAKER_12  That's my opinion.
+3585.82 3586.64 SPEAKER_12  Yeah, they totally do.
+3587.00 3587.36 SPEAKER_12  Agreed.
+3587.70 3591.84 SPEAKER_12  Like, if you bought, like, Grinding Your Games, the Path of Exile tooth, I would be very mad.
+3591.98 3593.76 SPEAKER_04  That would be- that would suck.
+3593.88 3596.62 SPEAKER_08  Because they're a great- they're an actually great, generous company.
+3596.62 3596.84 SPEAKER_08  Oh, yeah.
+3596.86 3602.98 SPEAKER_08  The free-to-play model that they have and the way that they never make things, uh, like all of their cosmetic stuff.
+3603.08 3613.74 SPEAKER_08  Like, I actually- back in my video game, uh, Deeper Interest Days, I interviewed the guys behind, uh, Grinding Gears, and they were some really fucking funny down-under people.
+3613.74 3615.80 SPEAKER_08  Uh, very kind and, uh, smart.
+3616.04 3616.98 SPEAKER_12  Yeah, but you can have Blizzard.
+3617.12 3618.96 SPEAKER_12  I don't- you can design Diablo 5 Elon.
+3619.16 3619.48 SPEAKER_12  I don't care.
+3619.68 3619.94 SPEAKER_08  Yeah, fuck Blizzard.
+3620.46 3620.66 SPEAKER_12  Yeah.
+3621.12 3622.42 SPEAKER_08  She ain't gonna play it.
+3622.72 3625.08 SPEAKER_08  Diablo 4 sucks so much more than Path of Exile 2.
+3625.12 3625.52 SPEAKER_12  Yeah, yeah.
+3626.00 3637.30 SPEAKER_12  Here's a clip from roach-infested culture war gamer Asmongold, who received a two-week ban on Twitch for saying that Palestinians deserve to be genocided because they were Muslim a few months ago, reacting to Elon following him back on Twitter.
+3637.30 3640.46 SPEAKER_12  And now he follows me on Twitter, so I can DM him.
+3640.58 3646.68 SPEAKER_15  I just- I gotta let him know, uh, I'm gonna tell him to, uh, to buy Blizzard and make Diablo 4 great again.
+3646.76 3647.76 SPEAKER_15  So just, yeah.
+3647.76 3651.90 SPEAKER_04  K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-K-L-YOUR-SELF.
+3651.90 3659.96 SPEAKER_12  So it looks like Elon recovered from his very embarrassing Elden Ring build reveal, and acquired the respect of the conservative portions of the Diablo 4 community.
+3660.30 3681.54 SPEAKER_12  A lot of the community still hated him, to be clear, but this slander mainly, from what I can see, came in the form of either accusing him of hiring someone to level his account, because he should be far too busy to play this sort of game that much given that he's the CEO of multiple companies, or they use the existence of his highly ranked character as proof that he doesn't actually do anything productive for society, and simply leeches off the efforts of his workers and plays Diablo 4 all day.
+3682.04 3684.36 SPEAKER_12  But Diablo 4 isn't that complicated, I guess.
+3684.58 3687.38 SPEAKER_12  So maybe he played it, like, a bit and then had someone level it.
+3687.44 3689.24 SPEAKER_12  But it's, like, it's clear that he's played the game.
+3689.38 3692.02 SPEAKER_12  He's able to bullshit enough that people aren't immediately suspicious.
+3692.42 3694.50 SPEAKER_08  I mean, it is, like, a very hand-holdy game.
+3694.62 3696.54 SPEAKER_08  Like, it's not that difficult to play.
+3696.66 3697.28 SPEAKER_12  Yeah, yeah, yeah.
+3697.40 3698.28 SPEAKER_12  It's not like Petherbeck's up.
+3698.28 3699.74 SPEAKER_21  It's like me in sports, you know?
+3699.80 3701.54 SPEAKER_21  Like, I don't watch sports regularly.
+3701.88 3705.24 SPEAKER_21  I don't know who's on what team, but I know enough.
+3705.24 3706.26 SPEAKER_21  I know the stars.
+3706.46 3709.52 SPEAKER_21  I know the main quarterbacks are the guys who are on the best teams.
+3709.52 3722.38 SPEAKER_21  Like, I know enough so that in conversations with, like, men less effeminate than I am, like, I can kind of hold my own and sound like I have a—I can keep up in the conversation at least.
+3722.54 3724.94 SPEAKER_08  Okay, so sports is for people who aren't effeminate.
+3725.16 3725.50 SPEAKER_08  Got it.
+3726.26 3726.54 SPEAKER_21  Yep.
+3726.54 3727.18 SPEAKER_21  Great.
+3727.52 3728.74 SPEAKER_08  Wriggle your way out of that one.
+3728.86 3729.16 SPEAKER_08  Great.
+3735.74 3740.02 SPEAKER_21  You know, you could have just let the comment go and you could have just gone on with the episode.
+3740.22 3742.82 SPEAKER_21  You didn't have to, like, pause.
+3743.26 3745.02 SPEAKER_21  It was a nothing comment.
+3745.26 3746.14 SPEAKER_08  It didn't mean anything.
+3746.14 3750.64 SPEAKER_08  I was— I wanted to point out that my imitation was so bad that I sounded like Werner Herzog.
+3750.80 3752.00 SPEAKER_21  But you did, didn't you?
+3752.32 3755.08 SPEAKER_21  Well, I'm, like, really good at imitation, so—
+3755.08 3760.16 SPEAKER_08  I know you are. Well, so that's why I'm so insecure, and that's why I actually secretly admire and love you.
+3761.02 3761.88 SPEAKER_06  Jesus Christ.
+3764.36 3766.46 SPEAKER_06  Just the most manipulative guy on earth.
+3766.46 3781.04 SPEAKER_21  Actually, yeah, I think you're a really special guy, and that's why, you know, I love you so much, and, you know, I'm glad that you're my friend.
+3781.04 3782.24 SPEAKER_09  I wish I had hair as thick as yours.
+3782.50 3785.02 SPEAKER_21  My hair is looking pretty good these days, I gotta say.
+3785.28 3785.52 SPEAKER_09  Yeah.
+3785.52 3799.40 SPEAKER_21  I found the Matthew McConaughey—the Matthew McConaughey, like, Bradley Cooper serum that, like, makes them have, like, really amazing hair, but, like, completely, like, makes their penises melt off.
+3799.64 3800.12 None  What?
+3800.56 3802.82 SPEAKER_09  I don't know what's happening anymore.
+3803.06 3803.50 SPEAKER_09  I didn't know.
+3804.14 3804.84 SPEAKER_22  Can't wait.
+3805.02 3808.22 SPEAKER_22  Can't wait to listen to this again, decide what to cut.
+3808.22 3808.62 SPEAKER_22  Travis, Travis.
+3808.62 3810.88 SPEAKER_22  Live to get this back on track.
+3811.22 3814.84 SPEAKER_03  Travis is like, please, can we please— This is the perfect episode.
+3815.52 3816.36 SPEAKER_08  It's perfect.
+3817.82 3819.88 SPEAKER_21  We've been doing it too long, folks.
+3819.90 3820.72 SPEAKER_12  Way too long.
+3821.36 3824.46 SPEAKER_12  But Elon would crank it up a notch in the past few months.
+3824.68 3836.40 SPEAKER_12  Not only would he get a character into the top 20 of the Diablo 4 leaderboards, and I believe the top one at some point, an accomplishment that requires an absurd amount of sweat and dedication to maintain, you know, like, 10 plus hours a day of optimal play.
+3836.40 3839.08 SPEAKER_08  Yeah, that's where I think he handed it over.
+3839.08 3846.84 SPEAKER_12  Yeah, that's where it starts to become—where the community starts to be like, okay, I don't—you're doing—you're being boosted a bit more explicitly now.
+3847.04 3853.62 SPEAKER_12  You know, even in the earlier clips where the gamers are praising him, they're like, okay, he probably has someone who levels, like, a decent amount for him.
+3853.72 3856.12 SPEAKER_12  But he does some of it, and then he knows how the game works.
+3856.30 3859.28 SPEAKER_12  This is where it starts to, you know—because he can't stop.
+3859.36 3860.34 SPEAKER_12  He has to keep going.
+3860.44 3861.82 SPEAKER_12  He has to be seen as better and better.
+3861.94 3863.34 SPEAKER_12  He's like, oh, my lie is working.
+3863.62 3866.62 SPEAKER_12  People think that I've played this Diablo 4, you know, and I'm super good at it.
+3866.62 3867.56 SPEAKER_12  I have to keep going.
+3867.70 3869.48 SPEAKER_12  Oh, wow, they're believing me.
+3869.76 3871.16 SPEAKER_04  Ha ha, why stop now?
+3872.08 3876.02 SPEAKER_12  And he would also take a crack at a different RPG called Path of Exile 2.
+3876.38 3882.18 SPEAKER_12  I mentioned before that hardcore players were unhappy with Diablo 4, and the sort of game they were asking for is Path of Exile 2.
+3882.48 3885.88 SPEAKER_12  Think of it like if the Diablo games were as hard and unforgiving as Dark Souls.
+3885.88 3891.42 SPEAKER_12  It even comes with a dodge roll that's required for the many bosses that will one-shot you if you don't anticipate their attacks.
+3891.82 3893.58 SPEAKER_12  The game is very complicated and unforgiving.
+3893.58 3901.60 SPEAKER_12  Even beating the campaign fully while not using some optimized pre-produced build made by the community demonstrates that you have quite a bit of knowledge and skill.
+3902.26 3905.56 SPEAKER_12  As I mentioned before, I've been out of it for a little while now.
+3905.72 3909.12 SPEAKER_12  In that time, I've done basically nothing other than play this game.
+3909.44 3912.22 SPEAKER_12  Currently level 75 on my solo self-found Deadeye.
+3912.42 3919.14 SPEAKER_12  So I can explain with a lot more confidence in the previous segment Elon's recent jump into Path of Exile 2 and just how incredibly funny it is.
+3919.14 3926.50 SPEAKER_12  Gaining the confidence of at least some of the Diablo 4 community, Elon would announce in November of last year that he would join the upcoming Path of Exile 2 beta.
+3926.74 3935.46 SPEAKER_12  Here's a sample of the comments from a Reddit post on Asmongold's subreddit, the guy from the most recent clip I played, where users were hyped to see what he would do with an actually good ARPG.
+3935.64 3938.62 SPEAKER_21  He will finally experience good ARPG design.
+3939.00 3944.40 SPEAKER_08  Dude is living the dream, sending shit into space, influencing world leaders, and playing games.
+3944.60 3945.26 SPEAKER_12  Living the dream.
+3945.64 3948.16 SPEAKER_12  Dude is living the freaking dream, man.
+3948.16 3959.48 SPEAKER_12  The ARPG content creator from the first clip, Quinn69, also made a video titled, Elon Musk is about to become enlightened about the subject, with him being excited that Elon will finally get his hands on a good ARPG.
+3960.02 3967.18 SPEAKER_12  Elon would begin streaming Path of Exile 2 on December 17th of 2024, testing the abilities of Starlink while he was flying on his private jet.
+3967.42 3971.52 SPEAKER_12  Despite having a very leveled account with good gear, his play was suboptimal.
+3971.72 3978.06 SPEAKER_12  To get a build that good, you need to spend at least 100 hours in the game that had only been out for two weeks with optimal play.
+3978.16 3980.46 SPEAKER_12  So that's not you spending 100 hours in the game.
+3980.58 3985.08 SPEAKER_12  That's someone who's a decade-long veteran of the first Path of Exile, mapping out their time perfectly.
+3985.40 3990.56 SPEAKER_12  And I guess to the untrained eye, it wasn't egregious enough for any discussion of this outside of the community itself.
+3990.92 3994.88 SPEAKER_12  Asmongold, for instance, who's not good at ARPGs, watched it and didn't think much of it.
+3995.22 3997.58 SPEAKER_12  He later claims that he's like, yeah, I was kind of suspicious.
+3997.76 4002.10 SPEAKER_12  But he's like so beholden to, I guess, his like right-wing chud audience that he didn't say anything.
+4002.10 4004.82 SPEAKER_12  He was just like, oh, he's dying to the boss, you know.
+4005.06 4010.02 SPEAKER_12  Even though he's dealing, you know, so much damage to the boss, he can't survive its attacks for more than a minute.
+4010.24 4011.60 SPEAKER_12  You know, it's that sort of situation.
+4012.24 4020.84 SPEAKER_12  But what really got people suspicious about Elon's abilities came from the fact that he accidentally revealed during the stream that the character he was playing on was based in the Hong Kong server.
+4020.84 4025.60 SPEAKER_12  Importantly, when you make a character, it's stuck to a particular server and its region of the world.
+4025.94 4036.22 SPEAKER_12  And while Elon had posted a screenshot of his login page just a week before the stream, where it said he was in the Texas server, this incredibly powerful level 93 invoker with best in slot gear was started in China.
+4037.00 4040.84 SPEAKER_12  It's also his client was in Chinese as well, because I think that's a part of it too.
+4041.04 4043.56 SPEAKER_12  So like if you open the trade menu, it's in Chinese.
+4043.88 4046.00 SPEAKER_12  So it's like, okay, I don't know, man.
+4046.18 4047.10 SPEAKER_12  Come on, man.
+4047.10 4055.26 SPEAKER_12  And users pointed this out on places like Reddit and Twitter, mocking Elon for obviously buying an account to play on or at the very least paying someone to boost him to an absurdly high level.
+4055.42 4057.18 SPEAKER_12  But the buzz from this didn't go very far.
+4057.50 4059.82 SPEAKER_12  And Elon would continue to stream semi-regularly on Twitter.
+4060.20 4064.90 SPEAKER_12  It's also like he would play in like maps that like aren't all that difficult.
+4065.00 4066.16 SPEAKER_12  The hard thing are bosses.
+4066.44 4068.28 SPEAKER_12  And he'd be like, this is the highest level play.
+4068.42 4071.44 SPEAKER_12  You know, if there's anything more difficult than this, I don't know what it is.
+4071.44 4075.56 SPEAKER_12  So the people who are watching who don't know about it are like, oh, he's so he's a god gamer.
+4075.56 4081.70 SPEAKER_08  Yeah. And like even getting to those maps because you're you're in the kind of end game loop, essentially.
+4082.00 4086.98 SPEAKER_08  You know, he's doing it so awkwardly, like as if he's never done it before.
+4087.48 4092.28 SPEAKER_08  And he would have had to for the account to be real done it thousands of times.
+4092.42 4094.76 SPEAKER_12  Yeah. Yeah. He's just kind of bumbling around.
+4095.02 4098.80 SPEAKER_12  If you watch a player who's like actually good, they have it like set up perfectly.
+4098.94 4100.72 SPEAKER_12  It's really fast because, you know, they've done it a lot.
+4100.80 4101.08 SPEAKER_12  Oh, yeah.
+4101.08 4109.68 SPEAKER_12  So because it didn't get that much attention, he decided to up the ante again, announcing in early January that he made it onto the hardcore leaderboard with a level 87 character.
+4110.08 4112.56 SPEAKER_12  For context, hardcore characters cannot die.
+4112.74 4114.30 SPEAKER_12  So if they do, their status is revoked.
+4114.58 4115.44 SPEAKER_08  It's crazy.
+4115.56 4117.36 SPEAKER_08  The average run through has so many.
+4117.36 4117.70 SPEAKER_08  Oh, yeah.
+4117.78 4121.56 SPEAKER_08  I mean, like Jake said, like he died to the first boss multiple times.
+4121.56 4121.92 SPEAKER_21  Oh, yeah.
+4122.04 4122.90 SPEAKER_21  To the first boss.
+4123.12 4125.96 SPEAKER_21  Like and not even it's not even a real boss.
+4126.00 4127.10 SPEAKER_21  It's a tutorial boss.
+4127.10 4135.62 SPEAKER_21  It's like a skill check to basically be like, yeah, can you can we like release you into the noob area of the game for four or five tries?
+4135.70 4137.06 SPEAKER_21  The answer was no for me.
+4137.24 4137.38 SPEAKER_08  Yeah.
+4137.42 4139.44 SPEAKER_08  There's like zero fucking chances.
+4139.44 4139.66 SPEAKER_08  Oh, yeah.
+4139.66 4141.28 SPEAKER_08  It's like Elon is that good.
+4141.28 4142.56 SPEAKER_08  It's just no way.
+4142.58 4143.78 SPEAKER_12  It's like how a child lies.
+4143.78 4148.26 SPEAKER_12  Like, I remember when I was five, I have a memory of telling my mom, like, past that mountain range.
+4148.34 4150.34 SPEAKER_12  Did you know that there are dinosaurs that are still living?
+4150.34 4151.70 SPEAKER_12  And she was like, wow, really?
+4151.88 4152.68 SPEAKER_12  It's like that level.
+4152.68 4154.26 SPEAKER_12  I mean, you just say it, you know.
+4154.44 4156.16 SPEAKER_08  I've dealt with compulsive liars.
+4156.40 4161.74 SPEAKER_08  I remember this guy when I lived in Paris, you know, he like befriended our friend group.
+4161.74 4163.78 SPEAKER_08  And he was like, you know, I produce music.
+4163.92 4165.26 SPEAKER_08  I worked on this.
+4165.26 4172.56 SPEAKER_08  And he had like a big vinyl collection, you know, pretty like impressive, smart guy and and quite nerdy about like the whole thing.
+4172.56 4175.60 SPEAKER_08  And then, you know, we're like, hey, we should produce some like music together.
+4175.60 4185.42 SPEAKER_08  Like, come on over and like use some of the software that we've been using, you know, and I don't know why, because he could have easily just been like, no, I don't really I can't really do that or I don't really feel like it.
+4185.42 4188.56 SPEAKER_08  But he came over and he started toying around with with the sequencer.
+4188.56 4192.66 SPEAKER_08  And it was so clear he had never sequenced a beat in his fucking life.
+4192.66 4194.82 SPEAKER_08  And I was like, why would you put yourself through this?
+4194.82 4200.34 SPEAKER_08  And there's something about compulsive liars where they get caught like that's part of it somehow.
+4200.66 4202.56 SPEAKER_08  I don't I can't really explain it.
+4202.70 4205.02 SPEAKER_08  If they keep upping the ante, I guess like it.
+4205.02 4206.28 SPEAKER_12  Yeah, it's I'm not sure.
+4206.40 4207.46 SPEAKER_12  Yeah, it's bizarre.
+4207.82 4208.00 SPEAKER_12  Yeah.
+4208.24 4214.70 SPEAKER_12  To play optimally in an incredibly hard and unfavorable game for hundreds of hours really would give you god gamer status.
+4214.84 4219.98 SPEAKER_12  Would demonstrate such a thorough understanding, not just to the game mechanics themselves, but every single boss encounter.
+4219.98 4231.26 SPEAKER_12  While there was some noise in the Path of XL2 community about this, and also among like, you know, generally people who are Elon haters, and you know, as someone who is one of these people, you know, who focus on when Elon does dumb shit.
+4231.26 4233.22 SPEAKER_12  There was noise in those two areas.
+4233.22 4235.60 SPEAKER_12  But other than that, people didn't really notice, I don't think.
+4235.60 4242.56 SPEAKER_12  That was until one fateful stream he made on January 7th, 2025, where he finally streamed his insanely leveled hardcore character.
+4242.56 4248.32 SPEAKER_12  He began the stream bragging about how hard it is, playing up to the people watching just what an achievement it was for him to get this far.
+4248.70 4250.46 SPEAKER_12  This stream was unlike his earlier ones, though.
+4250.58 4256.94 SPEAKER_12  It would be a lot more similar to his older Diablo 4 streams, game he actually had some knowledge of, where he would break down his build and what he was doing.
+4256.94 4260.44 SPEAKER_12  Honestly, I think it might be one of the most pathetic things he's ever posted online.
+4260.76 4268.70 SPEAKER_12  As far as I can tell, the thing that elevated the stream above Elon's others comes from the fact that the previously mentioned content creator, Quinn69, reacted to it.
+4268.70 4274.88 SPEAKER_12  Now remember, Quinn was actually praising Elon earlier for his Diablo 4 skills, and he himself is very, very good at both of these games.
+4275.12 4283.86 SPEAKER_12  I think one of the main reasons why he even watched the stream to begin with was specifically because of Elon's supposed hardcore character, a claim that Elon made that was especially eye-raising within the community.
+4284.18 4286.36 SPEAKER_12  And Quinn clearly brings this suspicion into the stream.
+4286.36 4296.78 SPEAKER_12  Immediately noticing a collection of egregious mistakes Elon is making, both in his playstyle as well as his commentary on the game, that lead Quinn to immediately declare that he's bought his hardcore account from someone else.
+4296.92 4300.40 SPEAKER_20  He's just running past Chaos Orbs! He just ran past Chaos Orbs!
+4300.92 4304.80 SPEAKER_20  Dude, you are not this far in the game and you're running past Chaos Orbs!
+4305.40 4307.82 SPEAKER_20  You are not li- No, I'm sorry- Bro.
+4309.18 4312.14 SPEAKER_20  Bro. Bro, there's no way.
+4312.28 4315.82 SPEAKER_20  You are not leaving Chaos Orbs on AC Trade.
+4315.82 4317.66 SPEAKER_20  AC Tri-Castles are valuable.
+4318.16 4320.12 SPEAKER_12  So, there's so many details about this.
+4320.16 4323.58 SPEAKER_12  He doesn't even have a loot filter, which is like a basic thing for pros.
+4323.60 4324.20 SPEAKER_04  That's insane.
+4324.64 4328.86 SPEAKER_12  People noticed that he had a filter on his bank that said Elon's Maps.
+4329.12 4332.58 SPEAKER_12  So, the person who made the account clearly curated maps for him.
+4332.70 4335.46 SPEAKER_12  And they're also- They're not called maps in Path of Exile 2, they're called Waystones.
+4335.76 4337.44 SPEAKER_12  They're called maps in the old Path of Exile.
+4337.60 4337.74 SPEAKER_08  Yeah.
+4337.86 4340.92 SPEAKER_12  Which implies like the person who actually made it is like a Path of Exile veteran.
+4340.92 4344.56 SPEAKER_12  Because of course they are, because they're insanely good at the game two weeks after it came out.
+4344.76 4344.98 SPEAKER_08  Yeah.
+4345.12 4350.14 SPEAKER_08  And, you know, the reason why he would have curated maps is because if he dies a single time, this account disappears.
+4350.64 4355.98 SPEAKER_08  So, he has to have maps that are curated so that he can't die, even though he sucks at playing the game.
+4356.42 4361.10 SPEAKER_12  And there's so many details that if you don't play the game- If you play the game, you probably already know.
+4361.14 4362.66 SPEAKER_12  And if you don't, it won't mean anything to you.
+4362.70 4364.18 SPEAKER_12  But they're all very, very funny.
+4364.18 4364.58 SPEAKER_12  Yeah.
+4364.78 4371.60 SPEAKER_08  The Chaos Orb thing is obviously just, this is one of the most valuable pieces of essentially currency in the game.
+4371.72 4375.54 SPEAKER_08  It's something that replaces an attribute with another on a piece of loot.
+4375.80 4377.18 SPEAKER_08  So, I don't know.
+4377.24 4381.52 SPEAKER_08  It's just like, yeah, obviously, he doesn't see it probably because there's so much other loot.
+4381.66 4384.48 SPEAKER_08  And he has no filters on and has no idea what's valuable or not.
+4384.52 4389.56 SPEAKER_12  And he's only picking up the Waystones because in the default loot filter, it shows the highest quality.
+4389.76 4391.60 SPEAKER_12  Because he's like, oh, well, clearly it's good.
+4391.60 4395.06 SPEAKER_12  And he's like, yeah, it's all like he's dragging stuff into his inventory.
+4395.58 4396.44 SPEAKER_12  It's very embarrassing.
+4396.64 4400.12 SPEAKER_12  It's so deeply embarrassing that he thinks that he's nailing it.
+4400.20 4402.72 SPEAKER_12  He's like, yeah, people really think that I have this hardcore account.
+4403.22 4406.64 SPEAKER_12  The closest analogy I can think of is an F student cheating on a test.
+4406.76 4409.30 SPEAKER_12  But cheating so hard, they get the best grade in the class.
+4409.58 4411.38 SPEAKER_12  But the scale doesn't really work.
+4411.52 4417.02 SPEAKER_12  So, it's more like if that F student won a national math competition and, you know, like didn't know what calculus was.
+4418.06 4420.48 SPEAKER_12  They're like, yeah, I don't, you know, I just, I did the answers.
+4420.62 4421.24 SPEAKER_12  I did my thing.
+4421.60 4427.96 SPEAKER_12  Maybe the most egregious instance of Elon not knowing what he was talking about comes at the end of the stream when he's commenting about his gear.
+4428.26 4432.46 SPEAKER_12  Specifically his gloves, which are one of, if not the best items in the game.
+4432.68 4436.08 SPEAKER_12  They're basically the entire reason why Elon's character is dealing so much damage.
+4436.22 4437.56 SPEAKER_12  They're so incredibly valuable.
+4437.94 4444.36 SPEAKER_12  And Elon, in his infinite wisdom, says that the gloves aren't very good because they only have a level 52 requirement for wearing them.
+4444.56 4448.04 SPEAKER_12  Something that's entirely irrelevant to how good an item is in Path of Exile 2.
+4448.38 4450.10 SPEAKER_12  And here's Quinn reacting to this.
+4450.10 4452.80 SPEAKER_14  At least a level 75 jacket.
+4455.56 4456.00 SPEAKER_14  Yeah.
+4456.32 4457.58 SPEAKER_18  Level 52 here.
+4459.42 4461.50 SPEAKER_18  Bro, Elon Musk is a fucking fraud, bro.
+4461.60 4462.50 SPEAKER_18  He's a fucking fraud.
+4462.82 4464.28 SPEAKER_18  Why is he a fucking fraud?
+4464.52 4465.40 SPEAKER_12  Oh my god.
+4465.58 4470.60 SPEAKER_12  For context, he pauses the video and just like facepalms for a second because he's so blown away.
+4470.60 4479.56 SPEAKER_12  This one is so egregious and it's caught on in the community to such an extent that when I see people post their good items in the general chat in the game, those items are on low level.
+4479.72 4484.62 SPEAKER_12  There's always at least one person who's like, oh, but it's only, you know, level 23 or whatever.
+4484.92 4487.48 SPEAKER_12  Like it's such a ubiquitous joke in the community now.
+4487.48 4487.92 SPEAKER_12  Mm-hmm.
+4488.28 4495.02 SPEAKER_12  And even if you don't really care about video games, with this game in particular, there's something about this dream that really speaks to the core of Elon's character.
+4495.28 4497.20 SPEAKER_12  And now he decides to present himself to the world.
+4497.60 4503.22 SPEAKER_12  He's cheated to get ahead and his accomplishments are entirely built upon the work of someone else who is actually incredibly skilled.
+4503.22 4510.24 SPEAKER_12  Yet for some reason, Elon's ego allows him to believe that he's actually that good, as evidenced, I guess, by the fact that he's rich and successful.
+4510.50 4517.70 SPEAKER_12  So he has enough confidence in his supposedly innate ability to be good at things that he seriously believes he can just bullshit his way through any doubts that he's cheating.
+4518.14 4529.86 SPEAKER_12  It's like he's lying, but he also believes the lie and thinks that everything just comes so intuitively to him that he can jump into a game he clearly has less than five hours on as if he's one of the best of an incredibly skilled, dedicated community.
+4529.86 4534.30 SPEAKER_22  Not in Liv's world, Mr. Musk.
+4534.48 4535.68 SPEAKER_12  Not today.
+4536.00 4536.26 SPEAKER_22  No.
+4536.44 4539.80 SPEAKER_22  But like I said, this is probably his day-to-day existence.
+4540.06 4548.76 SPEAKER_22  Like he has like, you know, like PhD engineers who work on rockets, like answering his emails at 3 a.m. going, that's a brilliant idea.
+4548.82 4549.58 SPEAKER_22  I didn't even think of that.
+4549.74 4550.90 SPEAKER_22  I'll get right on that.
+4551.04 4555.58 SPEAKER_22  And so he has, he's surrounded by technically brilliant people who think he's, pretend like he's brilliant.
+4555.58 4559.52 SPEAKER_22  So he was always like, well, you know, I really just must pick up everything intuitively.
+4559.52 4561.12 SPEAKER_22  I must just understand everything.
+4561.18 4562.08 SPEAKER_22  I see through the matrix.
+4562.34 4563.14 SPEAKER_22  I'm basically Neo.
+4563.38 4568.12 SPEAKER_22  So I can bullshit my way through tricking the gaming community and thinking that I'm top tier.
+4568.96 4574.78 SPEAKER_12  This particular stream and Quinn's reaction to it was bad enough to escape the containment of merely Path of Exile 2 players.
+4575.08 4583.96 SPEAKER_12  Not only did the usual group of Elon Musk haters pick up on it, but gamers in general seem to have identified this as a slam dunk concerning Elon having little to no knowledge of how to play games.
+4584.10 4587.26 SPEAKER_12  And more importantly, lying and cheating to make it seem like he does.
+4587.26 4593.34 SPEAKER_08  Yeah, it's not like it's the end of the world if you're not great at video games and just enjoy them and enjoy the culture.
+4593.60 4594.84 SPEAKER_08  But this is just pathetic.
+4595.08 4599.96 SPEAKER_12  Yeah, so many people said that basically like if Elon sucked at Path of Exile 2 and he streamed it, like that would be cool.
+4600.14 4601.50 SPEAKER_12  Like it'd be cool to know that he played it.
+4601.58 4603.50 SPEAKER_12  But like the fact that he's lying about it.
+4603.56 4604.26 SPEAKER_08  It's insane.
+4604.42 4607.54 SPEAKER_08  It really is representative of everything that he is.
+4607.64 4611.52 SPEAKER_08  His entire status within the world, including all the money he made.
+4611.52 4615.04 SPEAKER_08  He made the money because he grafted off fucking government subsidies.
+4615.34 4618.06 SPEAKER_08  He bought companies and screwed people out of them.
+4618.34 4627.64 SPEAKER_08  He is just the definition of failing upwards over and over and over and having immense amounts of privilege.
+4627.64 4633.86 SPEAKER_22  You know, yeah, I mean, read about how like very wealthy people, they value status more than wealth.
+4634.02 4639.12 SPEAKER_22  You know, if like, you know, if Elon Musk added another like $10 billion to his net worth, that would mean nothing to him.
+4639.20 4642.20 SPEAKER_22  So the only thing left for him is for other people to think that he's cool.
+4642.30 4647.46 SPEAKER_22  But when people say, you know, they value status, I assumed it was like status amongst other wealthy people.
+4647.58 4651.92 SPEAKER_22  But in this particular case, it's status among gamers he's seeking for.
+4652.06 4655.44 SPEAKER_12  One user received 100,000 likes on Twitter saying this.
+4655.44 4657.84 SPEAKER_08  Elon lost the trust of all gamers overnight.
+4658.10 4660.92 SPEAKER_08  Boosting your account and lying about it is the worst offense.
+4661.52 4662.52 SPEAKER_08  Incredibly cringe.
+4662.86 4664.26 SPEAKER_08  Fragile ego on display.
+4664.82 4667.24 SPEAKER_12  And to be clear, this isn't like a resistance lib guy.
+4667.44 4673.88 SPEAKER_12  I looked at their past tweets and this is a person who's bought into the image Elon has sold people enough that they purchased a SpaceX mug.
+4674.16 4678.54 SPEAKER_12  The third retweet on the account, even after posting this, was a video of a SpaceX rocket launch.
+4678.96 4679.80 SPEAKER_08  You know what?
+4679.86 4680.84 SPEAKER_08  This is kind of amazing.
+4680.84 4694.76 SPEAKER_08  Having this happen at the same time as like shutting down TikTok and American users going onto another Chinese app and realizing how much they've been lied to about China and what goes on there.
+4694.76 4699.20 SPEAKER_08  It's just like the just so many facades just falling to the floor and shattering.
+4699.52 4710.54 SPEAKER_08  And not because like of a big kind of like result of, I don't know, like a falling empire or, you know, trying something extreme, extremely ambitious and failing at it in Elon's case.
+4710.54 4715.86 SPEAKER_08  But because of just like a needless shoot yourself in the foot, dumbass moment.
+4716.06 4716.90 SPEAKER_08  It is incredible.
+4717.54 4727.74 SPEAKER_12  Even Asmongold, who a year ago said that Elon should buy Blizzard to make Diablo great again and received the coveted Elon follow back on Twitter, did a complete 180 on his alleged gaming skills.
+4727.74 4736.50 SPEAKER_15  Think like I feel like it's a universal negative for him to do this and it just makes him look like a insecure asshole by doing it and it makes him look worse entirely.
+4736.86 4748.44 SPEAKER_15  And I think that also like him misjudging the complexity of the game and thinking that he could get away with it and like have people not notice indicates just a level of bad decision making.
+4749.32 4751.32 SPEAKER_15  You know, I'm a huge fan of Elon Musk.
+4751.44 4755.10 SPEAKER_15  I really like Elon Musk a lot, but this is embarrassing and very silly.
+4755.10 4756.32 SPEAKER_15  It is.
+4756.46 4759.42 SPEAKER_15  And it makes him look bad and it's for absolutely no reason.
+4759.68 4762.48 SPEAKER_15  It's of no consequence and it achieves no goal.
+4762.88 4763.42 SPEAKER_15  That's what I think.
+4763.62 4778.34 SPEAKER_12  It's also important to note like Asmongold is like a coward and entirely like beholden to his audience who are like, you know, the right wing gamer gate kind of chud guys, which really does really shows that this is indicative of how those guys feel, which is like Elon is epic and cool.
+4778.34 4779.88 SPEAKER_12  But like, why would you do this, man?
+4780.14 4781.00 SPEAKER_12  I want to like you.
+4781.12 4783.06 SPEAKER_12  But it's like for no reason you're doing this.
+4783.18 4784.96 SPEAKER_12  I would have been fine if you just sucked at Path of Exile.
+4784.96 4785.96 SPEAKER_12  I would have thought that was cool.
+4786.12 4788.08 SPEAKER_08  You know, you're making me look bad for saying you're cool.
+4788.26 4788.62 SPEAKER_12  Yeah, exactly.
+4789.18 4793.68 SPEAKER_12  As we saw before, Asmongold actually does have a direct line to Elon as he followed him back on Twitter.
+4793.88 4800.64 SPEAKER_12  And even in the video about Elon being a fraud, he still assures his audience that he's fond of him, that he just wants an explanation from Elon about what's going on.
+4801.18 4803.96 SPEAKER_12  Elon would unfollow Asmongold on the 15th of January.
+4803.96 4807.56 SPEAKER_12  And as I was going to bed after finishing writing this episode, he would do more than this.
+4807.82 4812.80 SPEAKER_12  Elon would leave a Twitter reply on a post related to the subject of his Diablo 4 skills saying this.
+4812.80 4819.52 SPEAKER_21  Asmongold behaves like a maverick independent, but in reality has to ask his boss for permission before he can do anything.
+4819.86 4821.14 SPEAKER_21  He's not his own man.
+4821.62 4829.94 SPEAKER_12  Now, if you were to guess what he meant by that, of like what boss Asmongold has, what grand concoction Elon has constructed.
+4829.94 4830.50 SPEAKER_12  Yeah.
+4830.86 4847.24 SPEAKER_12  He provides additional context to what he means in a reply to this, where he leaks a DM between him and Asmongold from November of 2024 without context, what appears to be the middle of a conversation about Asmongold's YouTube editors, who take the clips of him from his streams and edit them into videos on YouTube.
+4847.58 4849.56 SPEAKER_12  Asmongold opens the screenshot saying this.
+4849.76 4853.12 SPEAKER_22  I'm going to see if my editors might want to make a second account for it even.
+4853.46 4853.86 SPEAKER_21  Sure.
+4853.86 4856.10 SPEAKER_21  Who are these mysterious editors?
+4856.58 4860.62 SPEAKER_22  Two guys at D Asmongold and at Kat Danny RU.
+4860.98 4863.16 SPEAKER_22  They basically run the entire YouTube account, LOL.
+4863.66 4869.12 SPEAKER_22  So basically any content I post is edited or uploaded by them and they just get a cut of the ad rev.
+4869.24 4870.98 SPEAKER_22  It's a super good system, TBH.
+4871.12 4872.88 SPEAKER_22  Almost everyone on YouTube does it.
+4873.14 4873.62 SPEAKER_21  Interesting.
+4874.28 4875.64 SPEAKER_08  So he has editors.
+4875.78 4875.92 SPEAKER_08  Yeah.
+4875.98 4876.90 SPEAKER_08  They're like his boss.
+4876.96 4877.14 SPEAKER_08  Yeah.
+4877.22 4878.30 SPEAKER_08  Because they do the work.
+4878.30 4878.90 SPEAKER_12  It's just crazy.
+4878.90 4878.92 SPEAKER_12  Yeah.
+4878.92 4880.52 SPEAKER_21  Because they upload the content.
+4880.74 4880.98 SPEAKER_21  Come on.
+4880.98 4882.66 SPEAKER_12  It's just like an 80-year-old.
+4882.84 4887.78 SPEAKER_12  You know, you have your grandparent who doesn't understand something very fundamentally.
+4887.92 4888.50 SPEAKER_12  It's like, no, no, no.
+4888.56 4890.02 SPEAKER_12  Don't worry about that.
+4890.20 4892.22 SPEAKER_12  That's not anything that's going on here.
+4892.22 4895.62 SPEAKER_08  Oh, Asmund, it sounds like you have bosses.
+4896.10 4897.38 SPEAKER_08  Well, no, Grandma.
+4897.92 4899.36 SPEAKER_08  Actually, they're my editors.
+4899.60 4903.28 SPEAKER_08  I pay them a slice of it and they just do all the work.
+4903.46 4905.26 SPEAKER_08  That's what I mean by they run it.
+4905.44 4908.10 SPEAKER_08  Oh, well, I guess that makes sense.
+4908.10 4912.96 SPEAKER_21  What about the engineers who upload Elon's rockets?
+4914.12 4915.00 SPEAKER_08  Yes, dude.
+4915.78 4917.06 SPEAKER_21  Are they his bosses?
+4917.26 4919.22 SPEAKER_21  Because you can't do shit without them?
+4919.22 4930.18 SPEAKER_08  Well, I mean, this kind of reveals what is true, which is if he thinks he's got a gotcha here because he's caught Asmongold not doing all the work, which...
+4930.18 4933.02 SPEAKER_08  Wow.
+4933.38 4935.06 SPEAKER_08  I wonder how many bosses you have, Elon.
+4935.50 4939.22 SPEAKER_12  So, yeah, I guess the YouTube editors are editing it in a...
+4939.22 4947.72 SPEAKER_12  Like, I think he's mainly mad about the thumbnail and the video title, which was probably some, you know, clickbaity, like, Elon is terrible at gaming and he's cheating thing.
+4947.72 4948.94 SPEAKER_12  But, you know, that's...
+4948.94 4951.08 SPEAKER_12  When I watched it, I didn't see anything misleading.
+4951.72 4956.00 SPEAKER_12  What confuses me is that this is a conversation from before Elon even played Path of Exile 2.
+4956.22 4959.52 SPEAKER_12  And Asmongold was pretty positive about Elon's Diablo 4 abilities before this.
+4959.64 4965.38 SPEAKER_12  So he's actually inquiring into Asmongold being influenced to say negative things about him when what he was saying was probably very minor.
+4965.62 4966.84 SPEAKER_12  Like, he was generally positive.
+4967.14 4969.92 SPEAKER_12  So I wonder what the broader context of those DMs are.
+4970.18 4975.72 SPEAKER_12  Elon apparently would also take away Asmongold's blue check after this, although he brought it back a day later.
+4975.72 4976.36 SPEAKER_12  Wow.
+4977.08 4978.16 SPEAKER_16  Oh, God.
+4978.52 4980.62 SPEAKER_08  Just a squirming little worm.
+4980.82 4987.96 SPEAKER_08  Just a fucking pathetic little man spending part of his big important day thinking about Asmongold's blue check.
+4988.18 4989.16 SPEAKER_08  Yeah, he's really...
+4989.16 4991.22 SPEAKER_08  Oh, he should b*** himself.
+4993.22 5001.10 SPEAKER_12  And it seems this has not helped Elon in relation to him losing the gaming mandate of heaven, as all the replies from sympathetic blue checks were things like this.
+5001.10 5007.66 SPEAKER_08  Elon, in the RuneScape community, it's quite common to buy an Inferno capes because it's hard to achieve and people can't be asked.
+5008.04 5010.74 SPEAKER_08  A man of your stature cannot waste time farming items.
+5010.90 5013.50 SPEAKER_08  You need to spend that time launching rockets to Mars.
+5013.98 5016.36 SPEAKER_08  Gaming is a side quest for you anyways.
+5017.04 5018.68 SPEAKER_08  God, just...
+5018.68 5020.44 SPEAKER_12  They're like, I want to like you, Elon.
+5020.68 5021.06 SPEAKER_12  Stop.
+5021.22 5022.14 SPEAKER_12  Like, don't do this.
+5022.24 5023.00 SPEAKER_12  It's not...
+5023.00 5023.34 SPEAKER_12  Oh.
+5023.84 5024.82 SPEAKER_12  He's just...
+5024.82 5026.16 SPEAKER_12  Oh, man.
+5026.72 5032.42 SPEAKER_12  And for reference, that's the top reply from a guy who has cryptocurrency enjoyer and trader in his bio.
+5032.88 5034.18 SPEAKER_12  So it's like, you know...
+5034.18 5038.02 SPEAKER_22  Someone who otherwise would be sympathetic to Elon Musk, being this big supporter of...
+5038.02 5038.62 SPEAKER_08  He is!
+5038.76 5040.58 SPEAKER_08  He's sucking his dick in the post!
+5040.80 5042.42 SPEAKER_08  You're launching rockets to Mars!
+5042.94 5045.94 SPEAKER_08  Gaming's a side quest for such a genius as yourself, sir!
+5045.94 5052.10 SPEAKER_12  So as you can see, we really don't need to cling to unproven rumors that Elon Musk is a sad, pathetic narcissist.
+5052.50 5061.28 SPEAKER_12  All of this elaborate baking related to Dittman, which honestly gives Elon a bit too much credit for potentially organizing some grand coordinated attempt to provide himself an alibi, is not necessary.
+5061.70 5064.24 SPEAKER_12  Elon is bad at lying and thinks way too highly of himself.
+5064.50 5066.90 SPEAKER_12  He's managed to blatantly lie to people to get him this far.
+5066.90 5073.78 SPEAKER_12  So going into 2025 and Trump's presidency, with Elon being more powerful and influential than ever, there's no reason to expect that to stop.
+5073.78 5076.08 SPEAKER_08  What we need is a hero.
+5076.40 5100.82 SPEAKER_08  And I'm talking about a Gamergate-brained guy who can care so much about ethics in gaming, specifically maybe even ethics in ARPGs or Path of Exile 2, that he Luigi Mangiones and goes completely on his rocker, because I would say this is a positive, in my opinion, and, you know, does what needs to be done.
+5101.62 5102.18 SPEAKER_08  Interesting.
+5102.18 5102.28 SPEAKER_08  Interesting.
+5102.80 5103.56 SPEAKER_22  But, yeah.
+5104.14 5118.04 SPEAKER_22  I was reading studies sometimes about how, like, too much power and influence does, like, literal brain damage, just because, you know, in normal, you know, society, there's, like, there's some give and take.
+5118.16 5125.86 SPEAKER_22  You have to consider other people and their perceptions and stuff, and, you know, that's just something that factors into how you interact with people.
+5125.86 5130.34 SPEAKER_22  When you get to a certain point, you can just stop considering other people's perspective.
+5130.98 5134.68 SPEAKER_22  And so you stop, like, understanding other normal people.
+5134.84 5138.48 SPEAKER_22  I feel, I'm really curious how much of that has happened to Elon Musk.
+5138.48 5149.70 SPEAKER_22  How much of this is attributable to brain damage caused by having just an ungodly amount of wealth and influence that he thinks that, number one, this is a worthwhile pursuit at all.
+5149.86 5155.22 SPEAKER_22  And number two, he could trick the most technically minded gamers, you know, who are working today.
+5155.22 5167.06 SPEAKER_12  Yeah, I expect, I expect nothing but cringe from Elon going into the future as he, you know, lobbies the government to remove a minimum wage and other various evil things I'm sure he wants to do.
+5167.06 5183.36 SPEAKER_21  It seems to me like he will just, like, keep tripping and alienating, like, more and more people who, like, you know, like, it seems like if even people who are huge Elon fans, like Asmongold says he is, and he's like, oh, this is really fucking embarrassing and lame and there's no point.
+5183.44 5191.16 SPEAKER_21  Like, it seems like he will just keep tripping on his dick and alienate the people who love him, which in turn will make him more desperate for their love.
+5191.28 5195.62 SPEAKER_21  And he'll act out in even funnier and more foolish ways.
+5195.62 5201.70 SPEAKER_12  Yeah, because we're in, like, a Trump honeymoon phase right now with his approval rating, which generally happens when, you know, you get, like, a new president.
+5201.88 5208.64 SPEAKER_12  But, like, when it actually sets in and, you know, his approval rating shoots down, like, he'll be associated with that probably, presumably.
+5209.08 5217.06 SPEAKER_12  And, like, I can't think of anything that would hurt his, Elon's reputation more than being, like, seen as a potential cause in a really unpopular presidency.
+5217.36 5219.78 SPEAKER_12  Like, he's going to go so much more insane.
+5219.78 5241.72 SPEAKER_08  Oh, yeah. If you thought that Trump yeeted, like, his closest people the first time around, man, when he gets unpopular shit passed by Elon, because Elon's such a fucking dickhead who just wants to, like, take away the rights of workers to, you know, organize or take away the safety protocols that allows people to do their job without, like, you know, losing a limb or dying.
+5241.72 5245.98 SPEAKER_08  Or, like, you know, takes away the minimum wage so people can be exploited even further.
+5246.18 5248.68 SPEAKER_08  Whatever it is, whatever it is, I can't wait for it.
+5248.76 5252.68 SPEAKER_08  And I can't wait for whatever the Trump tweet that will be entered into history books.
+5253.82 5255.64 SPEAKER_08  Because it's going to be so good.
+5255.88 5259.30 SPEAKER_08  I can't wait for the version of, like, Elon Musk is no longer hot.
+5260.10 5264.70 SPEAKER_21  Elon Musk, he was great once, but maybe his rockets have run out of fuel.
+5265.18 5268.04 SPEAKER_08  Maybe Elon Musk ran past his last chaos orb.
+5268.04 5279.84 SPEAKER_21  We will be throwing him to the pit of Diablo and resuming federal capital punishment to light him on fire at the stake.
+5280.40 5282.12 SPEAKER_21  Streamed live on Kik.
+5282.50 5285.26 SPEAKER_08  Yeah. That would be tight. They should. Yeah.
+5285.58 5291.16 SPEAKER_08  What if Kik, but it's just, like, executions of rich billionaires?
+5291.88 5295.12 SPEAKER_12  As if question, it was hypothetical. Julian was asking, what if...
+5295.12 5295.88 SPEAKER_12  Question mark?
+5295.90 5296.70 SPEAKER_12  What if that happened?
+5296.96 5297.36 SPEAKER_08  Inflection?
+5297.36 5298.82 SPEAKER_08  Question? What if?
+5299.26 5299.84 SPEAKER_12  What if?
+5299.94 5302.12 SPEAKER_12  That's it, you know. It's interesting to what if.
+5302.64 5304.32 SPEAKER_12  It's interesting to think hypothetically.
+5304.82 5306.24 SPEAKER_12  Yep. China number one.
+5308.06 5309.92 SPEAKER_21  That's a good outro.
+5310.84 5316.40 SPEAKER_08  Thank you. Thank you for listening to another premium episode of the QA podcast.
+5316.72 5319.66 SPEAKER_08  We appreciate you for supporting us.
+5319.66 5322.04 SPEAKER_08  And if you don't and you're pirating.
+5322.04 5325.94 SPEAKER_16  I'm going to kiss you right on your mouth.
+5325.94 5330.52 SPEAKER_08  Anyways, for everything else, we have a website, QA podcast.com.
+5330.52 5333.48 SPEAKER_08  Listener, until next week.
+5333.48 5337.48 SPEAKER_08  May the deep dish bless you and keep you.
+5337.48 5339.86 SPEAKER_08  What do you think that was, Jake?
+5340.28 5340.74 SPEAKER_08  Is that good?
+5340.98 5341.50 SPEAKER_21  It's fine.
+5341.82 5341.98 SPEAKER_21  Yeah.
+5342.18 5344.84 SPEAKER_21  I was going to do an Elon, you know, impression.
+5345.16 5346.28 SPEAKER_21  No, go. Do the one you were going to do.
+5346.28 5354.70 SPEAKER_21  Listener, until next week, may the level 27 gloves of Aragon bless you and keep you.
+5355.12 5357.12 SPEAKER_08  Fuck, fake gamer ass motherfucker.
+5357.26 5361.78 SPEAKER_08  And Travis, don't say yeah after, you know, Jake says he'll replace mine.
+5361.92 5362.96 SPEAKER_08  I'm leaving mine in too.
+5362.96 5367.64 SPEAKER_22  All right, I'm done recording. Here we go.
+5376.08 5379.74 SPEAKER_21  We have auto-keyed content based on your preferences.
+5380.36 5383.28 SPEAKER_14  I think that's literally just how Adrian sounds every day.
+5383.38 5386.24 SPEAKER_14  Yeah, it's a weird thing. It's actually a result of cognitive dissonance.
+5386.44 5391.14 SPEAKER_14  I'm actually a German and I learned English through the BBC World Service.
+5391.14 5395.88 SPEAKER_14  And then I learned the remainder of it through social interactions with people in America.
+5396.46 5399.74 SPEAKER_14  I hung out a lot with, you know, video games or whatever.
+5400.22 5400.30 SPEAKER_14  Right.
+5400.34 5404.96 SPEAKER_14  So at some point I hit this, yeah, I hit this level where I basically mixed all of them together.
+5405.16 5407.10 SPEAKER_14  You have a little bit of the German there.
+5407.18 5408.60 SPEAKER_14  You have the British, you have the American.
+5409.08 5410.46 SPEAKER_14  It all kind of mixes together.
+5410.56 5411.84 SPEAKER_14  And I guess it creates this.
+5411.90 5413.62 SPEAKER_14  And at some point my voice drops.
+5413.74 5417.22 SPEAKER_14  I guess it's some really weird stuff that pieces this together over time.
+5417.22 5427.52 SPEAKER_14  Because, like, before my, you know, if you are a person who has, is, like, on the spectrum like that, your brain is very unstable in the early stages of your life.
+5427.90 5431.48 SPEAKER_14  And so in order to make it more stable, you need to kind of, like, manufacture your own structure.
+5432.12 5434.30 SPEAKER_14  And so part of that is language and expression.
+5434.30 5446.94 SPEAKER_14  And so merging all of the abstract elements of the accent together created this kind of weird thing that then, you know, helps with the expression of, well, you know, words.
+5447.28 5447.42 SPEAKER_14  Right?
+5448.14 5449.86 SPEAKER_00  Ja, das ist wahr.
+5450.22 5455.14 SPEAKER_13  Aber ich kann ein bisschen durchhören, wann du sprichst.
+5456.52 5457.70 SPEAKER_14  Also, sehr gut.
+5457.80 5458.66 SPEAKER_14  Kannst du mich verstehen?
+5458.66 5488.64 SPEAKER_14  Ja, das ist wahr.

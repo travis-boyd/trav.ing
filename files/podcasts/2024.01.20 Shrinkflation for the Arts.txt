@@ -1,0 +1,965 @@
+0.00 16.04 SPEAKER_00  Hello everyone, welcome to this bonus episode of TF.
+16.34 16.70 SPEAKER_00  Bonus.
+17.90 19.60 SPEAKER_00  It is Riley Milo.
+19.60 22.44 SPEAKER_01  Totally derailing it that time, you know.
+22.68 29.48 SPEAKER_01  You take enough time off between bonus voice, bonus, and it really does stymie him.
+29.84 34.84 SPEAKER_00  I am easily tricked, but please don't take advantage of that.
+34.96 42.38 SPEAKER_00  No, it is, of course, it is Riley Milo Hussein and Alice, and we are back once again with your TF.
+42.40 43.32 SPEAKER_00  The four Musketeers.
+43.34 43.76 SPEAKER_00  For the week.
+43.94 46.70 SPEAKER_00  Well, the three Musketeers and D'Artagnan, shot not D'Artagnan.
+47.74 48.30 SPEAKER_00  Yeah.
+48.84 50.52 SPEAKER_00  I'll be honest with everyone here.
+50.66 54.70 SPEAKER_00  I had a fully planned out episode today, as I often do.
+55.28 55.56 SPEAKER_00  However.
+55.98 56.64 SPEAKER_00  You're known for it.
+56.64 70.58 SPEAKER_00  Because it is the final day of the Consumer Electronics Show, sometimes a flurry of people will send me the same article, and I read it and said, yes, well, I suppose we'll have to put this in the news.
+70.58 75.58 SPEAKER_00  Let me ask our resident petrol head, Milo.
+76.62 80.48 SPEAKER_00  What do you think is the biggest problem with cars nowadays?
+81.04 83.88 SPEAKER_03  The biggest problem with cars nowadays?
+84.62 84.98 SPEAKER_03  Yes.
+85.42 89.08 SPEAKER_00  What's the one innovation you'd like to see to improve your experience?
+89.08 89.74 SPEAKER_00  Oh, I know what this is already.
+89.90 90.74 SPEAKER_00  I recuse myself.
+90.84 91.46 SPEAKER_01  I've seen this.
+91.46 92.30 SPEAKER_01  Okay.
+92.78 106.54 SPEAKER_03  Well, I mean, if I was going to answer this, I would be like, can people please stop making the kind of fucking hatchback SUV crossover thing that looks like it's like a genetically deformed car?
+106.80 108.32 SPEAKER_03  Like, that's not right.
+108.32 111.18 SPEAKER_00  So what I'm hearing is in dashboard NFT display.
+112.14 112.84 SPEAKER_01  Oh, right.
+112.94 113.60 SPEAKER_01  Yes, of course.
+113.76 114.06 SPEAKER_01  Yes.
+114.06 122.62 SPEAKER_01  Because what you really need is to be able to look down, see an ape that is worthless, cause an eight car pileup that wipes out a couple of families.
+123.16 123.40 SPEAKER_03  Yeah.
+123.72 123.94 SPEAKER_01  Yeah.
+124.58 124.94 SPEAKER_03  Yeah.
+125.24 128.92 SPEAKER_03  The movie Crash, but it's reshot and everyone has their own ape.
+129.26 131.34 SPEAKER_01  Which crash, though, is the thing?
+131.34 147.24 SPEAKER_01  Because if we're talking about the one where you crash the car because of your NFT and then a guy comes and fucks you, that's a very different movie to like, you crash the car because you're looking at the NFT and then you learn a lesson about like racism in American society.
+147.70 152.68 SPEAKER_01  I think it's high time that through the power of blockchain collectibles, we merge the two
+152.68 155.60 SPEAKER_00  crashes. I don't think that's a good idea.
+156.04 159.02 SPEAKER_03  So what if the guy from Death Proof had had an NFT?
+159.36 162.92 SPEAKER_02  What if you did Crash 2, but in Crash 2, the NFT solves racism?
+163.46 165.52 SPEAKER_01  What if the guy from Death Proof was racist?
+165.52 176.32 SPEAKER_02  The police officer comes over to the car and he sees the NFT and then he shows the passenger that he has a similar kind of NFT, but crucially not the same one.
+176.70 186.38 SPEAKER_01  So you have kind of like a policeman's ball kind of sticker on your car to suggest to the cops that you should get off with a warning.
+186.84 195.30 SPEAKER_00  So what this is, right, is this is one of the things I really enjoy about following these kinds of tech trends is we get to look at.
+195.52 196.96 SPEAKER_00  The various hype cycles.
+197.08 202.74 SPEAKER_00  So we get to see it when the early adopters and the small companies are all doing it, the venture capitalists.
+202.92 212.40 SPEAKER_00  But because a company like Mercedes-Benz, in order to like add a design feature to a car, it takes like four years worth of meetings and legal and so on.
+213.38 215.46 SPEAKER_00  They're like, OK, well, it's 2024.
+216.04 220.98 SPEAKER_00  Only four years too late have we come up with our NFT integration for our car.
+220.98 228.14 SPEAKER_03  I had to convene with the ghost of Hitler to ask if he could put the ape on the car.
+228.54 231.38 SPEAKER_03  People were saying they wanted to see the ape on the car.
+231.50 232.00 SPEAKER_03  I said, OK.
+232.40 236.18 SPEAKER_01  It's like we say in Stuttgart, move slowly and break things.
+237.34 239.72 SPEAKER_02  And perfectly engineer things.
+240.24 246.48 SPEAKER_02  But things like immediately go to shits when you see like the sort of like custom NFT where the ape is holding a Palestinian flag.
+247.00 247.82 SPEAKER_02  Oh, yeah.
+248.48 251.14 SPEAKER_00  That's the opposite of the policeman's ball sticker in Germany.
+251.90 257.86 SPEAKER_00  So this is they also have included a virtual assistant build by Generative AI.
+257.86 263.16 SPEAKER_00  But they have said, this is the most human like Mercedes-Benz yet.
+263.62 264.98 SPEAKER_00  Because that's what you want with a car.
+265.06 267.18 SPEAKER_03  You want a car that feels like a human being.
+267.20 267.78 SPEAKER_03  Yeah, like a guy.
+267.80 269.02 SPEAKER_03  Because when you fuck the car.
+269.16 270.72 SPEAKER_03  Yeah, like Kit from Knight Rider.
+271.84 275.28 SPEAKER_03  I love to talk to Chat AMG about mine.
+275.40 276.02 SPEAKER_03  Very good.
+276.08 276.52 SPEAKER_00  Thank you.
+277.28 281.28 SPEAKER_00  A car can interact with the driver using one of four emotional profiles.
+281.28 287.16 SPEAKER_00  And again, like furious, horny, disgusted.
+287.40 288.62 SPEAKER_03  And of course, German.
+289.22 289.86 SPEAKER_03  That's right.
+291.20 293.32 SPEAKER_03  You should not be driving like this.
+293.84 298.46 SPEAKER_03  This is legal only on the Autobahn, but it is not recommended at the current tire pressure.
+299.14 300.06 SPEAKER_00  Hey, what are you doing?
+300.14 303.12 SPEAKER_00  Why are you forcing me to go to stop off at Starbucks?
+303.26 304.08 SPEAKER_00  I don't want to go there.
+305.36 307.34 SPEAKER_00  Du hast dein ape geschkert.
+307.34 312.76 SPEAKER_00  The virtual assistant can switch between natural, predictive, personal, and empathetic modes.
+313.24 313.56 SPEAKER_00  Which again...
+313.56 314.30 SPEAKER_02  Empath?
+314.40 316.72 SPEAKER_02  Oh my god, an empath AI car.
+316.84 317.36 SPEAKER_02  That's so...
+317.36 322.10 SPEAKER_01  It took them decades to develop a simulation of empathy in Germany.
+324.68 325.68 SPEAKER_00  They say...
+325.68 327.08 SPEAKER_00  They had to get a Polish man.
+327.22 327.72 SPEAKER_00  It will...
+327.72 331.08 SPEAKER_00  Yes, we've engaged light bulb.
+331.42 336.44 SPEAKER_00  It will engage and complement our customers' lives in their cars and other areas too.
+337.34 337.74 SPEAKER_00  Uh...
+337.74 340.66 SPEAKER_00  So I don't know exactly what it's going to do outside your car.
+340.66 342.86 SPEAKER_01  The car's going to give you some, like, life coaching.
+343.20 344.08 SPEAKER_01  You know, the car...
+344.08 347.30 SPEAKER_01  We have made the car like the phone from the movie Her.
+347.76 350.70 SPEAKER_03  You seem very sad, so I've turned on the heated seat.
+350.84 353.58 SPEAKER_03  Perhaps the warmth on your arse will make you feel loved.
+353.60 355.98 SPEAKER_00  So, Milo, let me read the next paragraph for you.
+356.34 356.62 SPEAKER_00  Okay.
+356.62 364.80 SPEAKER_00  The assistant will learn the driver's preferences, such as automatically turning on their preferred radio station during their commute, or activating seat massagers in dimmed lights.
+364.80 367.46 SPEAKER_00  Leaps to Jeremy Vine.
+369.22 376.90 SPEAKER_03  I felt as though you wanted to hear about the loudest lawnmower available on the consumer market in the UK.
+377.30 380.28 SPEAKER_03  A man called Derek from Gravesend has phoned in.
+382.68 384.22 SPEAKER_03  Perhaps this will cheer you up.
+384.48 388.08 SPEAKER_03  A story about an Christmas mark where the elves were smoking.
+388.08 392.04 SPEAKER_00  Lons of Santas were fighting each other.
+392.06 393.40 SPEAKER_00  Also, I like that it's like...
+393.40 396.62 SPEAKER_00  It'll turn on seat massagers if it feels you getting tired.
+396.88 398.96 SPEAKER_00  But we remember, like, this is all...
+398.96 403.84 SPEAKER_00  A lot of this is based on generative AI, and we know how unpredictable generative AI is.
+404.14 404.74 SPEAKER_00  So what we're basically...
+404.74 407.60 SPEAKER_00  It just starts vibrating you at the slightest opportunity, you know?
+408.34 410.12 SPEAKER_03  Is my car hitting on me?
+410.42 413.34 SPEAKER_03  To be fair, there are a lot of cheaper cars that also have that functionality.
+414.76 416.82 SPEAKER_03  Yeah, but how many of them will empathize with you?
+416.82 418.00 SPEAKER_00  That is true.
+418.28 424.60 SPEAKER_00  I suppose if you're in your car, and for most people, the experience of being in a car and commuting into a job, right?
+424.60 434.26 SPEAKER_00  Especially if you have like a Mercedes-type job, you're imagining a typical driver, let's say in the UK, lives in commuting distance of a big city where they go to some kind of white collar profession, right?
+434.30 435.64 SPEAKER_00  They've been doing it for a long time.
+436.28 444.80 SPEAKER_00  Is this designed to make people act out the movie Falling Down, where their car says, Why don't you try on a breezing exercise? You seem mad.
+444.80 450.42 SPEAKER_03  Yeah, maybe. That would be fun. Falling Down, but he's got an ape.
+450.50 450.68 SPEAKER_03  Yeah.
+451.52 453.00 SPEAKER_03  So, anyway, the last...
+453.00 453.22 SPEAKER_00  Going ape.
+453.22 459.26 SPEAKER_00  The last thing is just that all of this together just is...
+459.26 460.58 SPEAKER_00  Makes me think of like...
+460.58 465.48 SPEAKER_00  Because most people, most normal people, if they're going to buy a nice car, don't buy a new one because...
+465.48 466.78 SPEAKER_00  I don't know how anyone affords that.
+466.78 484.74 SPEAKER_00  They buy them used, which means that the vast majority of normal people who buy a nice car are going to buy it in 10 years, which means they're going to see an auto trader ad in like 2034 that says, NFT integration, empathetic with ChatGPT.
+484.98 492.98 SPEAKER_01  You are going to get like a third hand empathizing Mercedes that's going to know all of someone else's preferences and apply them to you.
+493.04 500.46 SPEAKER_01  You're going to buy a Mercedes off of someone who, it turns out, needed to be vibrated every 10 minutes or else.
+500.46 503.68 SPEAKER_03  Yeah, it's empathizing with the previous guy.
+504.08 506.80 SPEAKER_03  It's going to be giving you all of his radio preferences.
+507.42 511.34 SPEAKER_03  You're going to be listening to fucking, you know, Ronan Keating on Magic FM.
+511.48 512.28 SPEAKER_03  You're like, I don't want this.
+512.58 514.58 SPEAKER_00  So, I just wanted to share that.
+515.24 517.48 SPEAKER_00  And I wanted to share one more piece of news.
+517.78 519.12 SPEAKER_00  People didn't send this into me.
+519.12 521.56 SPEAKER_00  You get in your car and it's just like, I miss Gary.
+522.70 524.30 SPEAKER_03  We had such a connection.
+525.12 526.96 SPEAKER_03  He sold me and bought a Fiat.
+527.36 530.30 SPEAKER_01  Having to be your car's new dad now?
+530.46 533.18 SPEAKER_01  Just really rough emotionally, you know?
+533.48 534.72 SPEAKER_00  Yeah, you're not my real dad.
+535.60 543.96 SPEAKER_00  So, the other thing I found today before we get into sort of our more main discussions is this is what I found myself, of course.
+544.56 548.00 SPEAKER_00  Because as you know, I am a Masayoshi-san obsessive.
+548.00 550.86 SPEAKER_00  Probably one of the world's few Masayoshi-san obsessives.
+550.86 561.26 SPEAKER_00  So, basically, a new set of documents has been released about his gigantic insane mansion in Silicon Valley.
+562.26 562.66 SPEAKER_00  Great.
+563.04 565.18 SPEAKER_00  Because, of course, this guy couldn't live anywhere normal.
+565.20 565.42 SPEAKER_04  No.
+565.72 566.38 SPEAKER_03  No, no, no.
+566.38 566.90 SPEAKER_03  Of course not.
+567.50 569.36 SPEAKER_03  Oh, I always assumed he lived in Japan.
+570.04 572.10 SPEAKER_03  He's moved to the belly of the beast.
+572.24 574.92 SPEAKER_03  He's deep in the heart of things.
+574.92 576.52 SPEAKER_01  I think just the weirdness, though.
+576.64 581.84 SPEAKER_01  You would be so disappointed if you were like, where does Masayoshi-san live?
+582.32 585.46 SPEAKER_01  And you looked it up and the answer was like, semi-detached.
+585.94 586.14 SPEAKER_01  You know?
+586.28 587.12 SPEAKER_01  Yeah, yeah, yeah.
+587.12 588.00 SPEAKER_01  It's like normal sort of house.
+588.08 588.44 SPEAKER_01  Barrett home.
+588.44 589.64 SPEAKER_01  Yeah, yeah.
+590.44 591.66 SPEAKER_01  In the new build, yeah.
+591.90 595.08 SPEAKER_03  Yeah, Masayoshi-san is like, he's doing fee for apologies.
+595.38 598.42 SPEAKER_03  He's got an Audi A3 and he's mates with a guy called Smithster.
+598.42 598.78 SPEAKER_03  Yeah.
+601.46 603.76 SPEAKER_00  Linchpin of Curry Night at the nearest Weatherspoon.
+603.88 605.60 SPEAKER_00  I mean, he does worship AI.
+605.98 609.70 SPEAKER_00  Like, an AI could tell him to channel the Dino, you know?
+610.00 611.88 SPEAKER_01  I think this is the thing, right?
+611.98 620.86 SPEAKER_01  This is the project for the ethical hacker is to break into Masayoshi-san's smart home and Dino pill him, you know?
+621.02 622.48 SPEAKER_01  Just start putting FIFA on the TV.
+622.82 625.30 SPEAKER_00  Yeah, he'll be investing in Nando's before you know it.
+625.30 645.60 SPEAKER_00  So, what happened basically, this is the recent sort of information that's come out about this, is that exactly when WeWork was failing and he couldn't secure any money for his second Vision Fund, he took out a $92 million loan against his house just in order to try to keep investing in shit.
+646.50 647.00 SPEAKER_03  Wait, wait, wait.
+647.06 651.98 SPEAKER_03  How much is his fucking house worth if he can take out a $92 million loan against it?
+651.98 657.76 SPEAKER_00  So, he bought it for $117 million in 2012.
+659.08 659.68 SPEAKER_00  Uh-huh.
+659.94 660.24 SPEAKER_00  Right?
+660.48 662.50 SPEAKER_00  But, it's assessed value for property tax.
+662.68 664.60 SPEAKER_00  It was about one-sixth of that.
+664.90 665.12 SPEAKER_00  Oh.
+665.84 666.28 SPEAKER_01  Okay.
+666.34 668.36 SPEAKER_01  So, he's really bad at buying a house.
+668.52 668.98 SPEAKER_00  Well, he basically...
+669.80 672.84 SPEAKER_01  No, it's because of California property taxes.
+673.26 673.86 SPEAKER_01  Oh, yeah.
+673.86 676.72 SPEAKER_03  They're all set at, like, the 1986 price or whatever.
+677.14 677.34 SPEAKER_01  Yeah.
+677.40 683.50 SPEAKER_01  So, like, Masayoshi Son and, like, everyone in London is, like, catastrophically overpaying for a house.
+683.64 683.94 SPEAKER_03  I just...
+683.94 690.06 SPEAKER_03  Maybe I'm just old, but I just don't understand how you pay $117 million for a house.
+690.20 691.16 SPEAKER_03  Like, that just seems...
+691.16 692.46 SPEAKER_03  Well, I'll tell you what happened.
+692.46 692.86 SPEAKER_00  Crazy to me.
+692.86 693.54 SPEAKER_03  I'll tell you what happened.
+693.64 696.54 SPEAKER_00  Wait, like, 10 years, you know, see what the economy does.
+697.02 704.72 SPEAKER_00  Basically, he bought this house, decided to rebuild it, and then when the town came in, the town sent their observers in.
+704.80 708.72 SPEAKER_00  They were like, oh, yeah, you've done a Captain Tom spa, basically.
+708.82 719.08 SPEAKER_00  And that's what drew me to this, is that he tore apart the entire place, work was ordered to a halt, and they put it like a building cop in to try to keep him from destroying the property.
+719.46 720.52 SPEAKER_00  A building cop.
+720.52 725.58 SPEAKER_01  When you say put a building cop in, it sort of implies installed permanently in the building.
+725.58 726.86 SPEAKER_01  Like a hermit.
+727.54 728.38 SPEAKER_01  Yeah, yeah, yeah.
+728.44 729.24 SPEAKER_01  He's been walled in.
+729.26 731.56 SPEAKER_01  My cop folly at the bottom of my garden.
+731.76 732.40 SPEAKER_01  Mm-hmm.
+732.46 732.60 SPEAKER_03  Yeah.
+732.86 735.22 SPEAKER_03  I live in Masayoshi Son's Oubliette.
+735.86 739.64 SPEAKER_03  It's my job to honor if he starts building that onsen again.
+740.38 741.34 SPEAKER_03  It's not allowed.
+741.62 743.58 SPEAKER_03  It's against the city code of regs.
+744.92 747.94 SPEAKER_03  I may be at the bottom of a well, but I have got phone reception.
+747.94 750.98 SPEAKER_00  So, this is Son's new villa.
+751.10 751.74 SPEAKER_00  This is from the FT.
+751.74 759.24 SPEAKER_00  It was completed just as SoftBank pulled in, finally pulled in their funding from the Middle East to launch the Vision Fund.
+759.98 764.00 SPEAKER_00  And then Silicon Valley entrepreneurs came to the house to pitch their biggest ideas.
+764.16 765.70 SPEAKER_00  And this is what I thought was really funny.
+765.70 775.94 SPEAKER_00  The founder of the robot pizza maker Zoom, lately of this parish, piloted one of its trucks up the hill to serve Son freshly heated pizzas.
+776.46 780.68 SPEAKER_00  And then Son invested immediately after that $375 million.
+781.08 781.38 SPEAKER_00  Immediately.
+781.80 782.28 SPEAKER_00  Like right then.
+782.28 786.28 SPEAKER_01  Tossing a slice of pizza into my cop oubliette.
+787.10 787.26 SPEAKER_03  Yeah.
+787.64 794.22 SPEAKER_03  Masayoshi Son has that thing that judges do where they give out more lenient services right after lunch.
+794.76 796.52 SPEAKER_03  More lenient sentences, rather.
+796.80 796.94 SPEAKER_03  Yeah.
+797.02 800.90 SPEAKER_03  So, you've just got to drive a truck full of pizza up to his house before you pitch him your start-up.
+801.10 803.60 SPEAKER_02  Zoom was also the round pizza box, wasn't it?
+803.68 803.86 SPEAKER_03  Yeah.
+804.26 805.04 SPEAKER_03  That was so good.
+805.04 806.00 SPEAKER_02  It was the...
+806.00 806.52 SPEAKER_02  My favorite one.
+806.58 807.44 SPEAKER_02  I loved that one.
+807.44 813.28 SPEAKER_02  I feel like, yeah, I would be impressed and give all my money if I saw a round pizza box.
+813.68 814.46 SPEAKER_00  Especially if you're hungry.
+814.74 816.66 SPEAKER_02  I'll be real with you, especially if I was a hungry boy.
+816.76 816.92 SPEAKER_00  Yeah.
+817.00 820.84 SPEAKER_00  That's the problem is Masayoshi Son went investing when he was hungry.
+821.26 822.68 SPEAKER_00  He just ended up buying too much.
+823.34 824.12 SPEAKER_00  He was acting foolish.
+824.52 825.44 SPEAKER_00  Yeah, that's right.
+825.92 828.92 SPEAKER_00  One more piece of news before we go into our main topic for the day.
+829.84 838.38 SPEAKER_00  But we're going to talk about the single most, I would say, effective deterrent that's been deployed in recent years.
+838.54 843.72 SPEAKER_00  Operation Prosperity Guardian, in which the UK is, of course, a full and complete participant.
+844.70 845.50 SPEAKER_00  Prosperity Guardian.
+845.72 846.88 SPEAKER_00  Didn't we go to school with her?
+849.06 871.28 SPEAKER_00  Basically, since we last spoke, there has been a decision taken in the US and in the UK, in Cobra, to strike at Yemen with a series of missiles in order to retaliate for the Houthis in Yemen blockading shipping in the Red Sea.
+871.70 873.56 SPEAKER_03  Finally, we've thought of bombing Yemen.
+874.02 876.46 SPEAKER_03  I can't believe we hadn't come up with this before.
+876.56 878.42 SPEAKER_03  I presume this hasn't been tried previously.
+878.80 878.94 SPEAKER_01  No.
+879.30 884.04 SPEAKER_01  And the thing is, you mentioned the decision being made in Washington and London.
+884.04 895.80 SPEAKER_01  Well, it turns out that the decision having been made in Washington, Sunak kind of soft-launched the bombing over a couple of days.
+896.30 899.70 SPEAKER_03  You can just see a bit of the elbow of the fighter plane in his new picture.
+899.76 900.56 SPEAKER_01  Yeah, more or less.
+900.66 907.00 SPEAKER_01  I mean, between him and Hezbollah, it's really becoming quite common to do trailers for your wars.
+907.00 924.14 SPEAKER_01  No, he sort of like, not in a way that gave Parliament any oversight over it, but there was a big thing of inviting Starmer and the Speaker of the House to come to Downing Street and sort of be told what the deal was.
+924.62 930.50 SPEAKER_01  And this badly pissed off the Americans to the extent that they cut us out of the second day of bombing.
+930.50 937.18 SPEAKER_01  We had to leave bombing early because we couldn't be trusted with the information, you know?
+937.28 938.30 SPEAKER_01  That's such a shame.
+938.78 939.18 SPEAKER_01  I know.
+939.60 946.08 SPEAKER_00  We are leaking from the very top in order to try to impress the British public, which is mad.
+946.14 947.10 SPEAKER_01  It's so dire.
+947.32 957.52 SPEAKER_01  And I mean, listen, it's difficult to take lessons on this from the United States of America, but they are right when they, you know, sort of understand us to be a fundamentally unserious country.
+957.52 970.90 SPEAKER_00  And as per usual, when we talk about these things, we're sort of focusing intentionally on the domestic political element of it, which is Rishi Sunak frantically trying to seem serious.
+971.46 974.86 SPEAKER_00  And then Keir Starmer frantically trying to seem...
+974.86 976.02 SPEAKER_00  Guys, I get to do a war.
+976.24 976.54 SPEAKER_00  Yeah.
+976.90 982.08 SPEAKER_00  Frantically trying to seem as serious as Rishi Sunak and both seeming sort of, well, frankly, absurd.
+982.08 990.04 SPEAKER_00  And what I think is the most absurd part of it, in fact, came in late December when Sunak was reported to have said, this must not stand.
+990.24 992.66 SPEAKER_00  This unchecked aggression will not stand.
+993.54 994.96 SPEAKER_00  Verbatim George Bush Sr.
+995.06 995.50 SPEAKER_00  Exactly.
+995.96 997.70 SPEAKER_00  Quoting Bush Sr. after...
+997.70 1000.44 SPEAKER_00  Although I actually don't think Rishi Sunak was quoting Bush Sr.
+1000.56 1001.56 SPEAKER_00  I think Rishi Sunak...
+1001.56 1005.42 SPEAKER_01  And he was quoting the dude in the Big Lebowski, quoting George Bush Sr.
+1005.44 1006.14 SPEAKER_01  Was quoting the Big Lebowski.
+1006.14 1007.34 SPEAKER_01  This aggression will not stand.
+1007.42 1008.06 SPEAKER_01  Yeah, indeed.
+1008.06 1012.94 SPEAKER_03  The thing about Yemen was it really tied the room together.
+1014.50 1019.20 SPEAKER_00  This senior British government source said that we were first to put our hand up to participate.
+1020.88 1021.28 SPEAKER_00  And...
+1021.28 1022.32 SPEAKER_00  Ooh, ooh, pick me!
+1024.44 1033.40 SPEAKER_00  And Sunak said, right from the get-go, from the end of last year, he was the one pushing quite hard to ensure some kind of military response.
+1033.40 1038.08 SPEAKER_00  And it felt more black and white, saying, let's do a little whack-a-mole, which didn't feel entirely characteristic.
+1040.00 1042.32 SPEAKER_00  And, you know, this is...
+1042.32 1053.40 SPEAKER_00  But when we think about what they actually did, right, which is mobilize a bunch of people who were otherwise enjoying Taco Tuesday on their ships to fire a bunch of missiles at, as you say, the most...
+1054.10 1057.40 SPEAKER_00  A place where firing ordnance at it has never managed to, like...
+1057.40 1063.98 SPEAKER_00  Like, even on its own terms, right, firing ordnance at Yemen has never achieved any of the goals of the people firing the ordnance at Yemen.
+1064.04 1065.00 SPEAKER_01  Well, I mean, this is the thing.
+1065.12 1076.54 SPEAKER_01  This, you know, very precise, calculated, one thing you can say for it is not a lot of collateral damage kind of strike, was immediately met in Yemen with, what are you, pussies?
+1076.68 1079.36 SPEAKER_01  To which the answer is yes, largely.
+1079.86 1081.60 SPEAKER_03  Yes, we are huge pussies.
+1082.04 1090.26 SPEAKER_03  I mean, it strikes me as, like, if you were doing a pragmatic military response to this, you would just get the Navy to escort shipping, no?
+1090.54 1091.26 SPEAKER_03  Wouldn't that be...
+1091.26 1092.08 SPEAKER_03  Too much work.
+1092.44 1092.72 SPEAKER_03  Yeah.
+1092.98 1094.86 SPEAKER_03  Because then you wouldn't even really have to fight anyone.
+1095.06 1097.18 SPEAKER_03  You would just deter the attacks on the ships.
+1097.62 1099.52 SPEAKER_00  And again, right, it's the...
+1099.52 1104.04 SPEAKER_00  There has never been any acknowledgement as to, like, why this is happening.
+1104.04 1112.88 SPEAKER_00  There has never been any consideration of trying to, let's say, solve the problem at the source by stopping the assault on Gaza.
+1113.44 1113.68 SPEAKER_00  Never.
+1114.36 1116.04 SPEAKER_00  Obviously, that could never be considered.
+1116.56 1123.60 SPEAKER_00  And instead, what I think about when I've looked at this, these missile strikes on Yemen, sort of, that were...
+1123.60 1127.52 SPEAKER_00  We appear to be the most enthusiastic proponent of, more even than the Americans.
+1128.32 1133.28 SPEAKER_00  And this is because, and this is actually a quote from Starmer here, simply doing nothing is not an appropriate response.
+1133.28 1134.16 SPEAKER_00  Why not?
+1134.22 1135.28 SPEAKER_00  It's the one you use for everything else.
+1135.46 1135.56 SPEAKER_00  Yeah.
+1136.04 1137.78 SPEAKER_00  And I was saying this to you earlier, Alice.
+1137.84 1144.36 SPEAKER_00  This reminds me a little bit of Peter Sellers in Dr. Strangelove, right?
+1144.56 1148.24 SPEAKER_00  Where he's unable to control his own arm, right?
+1148.36 1149.28 SPEAKER_00  He's so...
+1149.28 1153.12 SPEAKER_00  The war-mad doctor who's unable to control his own arm.
+1153.38 1157.40 SPEAKER_00  It ends up sort of lashing out randomly, strangling himself and so on.
+1157.66 1167.72 SPEAKER_00  That, in effect, to defend the legitimacy of a rogue garrison commander who sticks two fingers up to the US anytime it asks him to do anything in the form of Netanyahu, right?
+1168.16 1177.92 SPEAKER_00  We are just going to now basically randomly bomb places for no other reason than, well, I suppose we should do something, right?
+1177.92 1183.24 SPEAKER_01  Yeah, but the difference between Dr. Strangelove and this is that the British guy and Dr. Strangelove tries to stop the bombing.
+1185.48 1194.58 SPEAKER_03  Well, yeah, and also, in very fun news, you know, in Yemen's case, it's two crazy garrison commanders who never do what we tell them, because the other one is Saudi Arabia.
+1195.12 1196.46 SPEAKER_03  I love that we support these two.
+1196.58 1201.28 SPEAKER_03  The only two states in the Middle East that we prop up are the two that actually hate us the most.
+1201.28 1205.56 SPEAKER_01  Yeah, which regularly tell us to fuck off whenever we want anything.
+1205.84 1208.68 SPEAKER_03  It really pisses me off when the Saudis do it, man.
+1208.80 1211.86 SPEAKER_03  That's the only regime change we should do.
+1212.18 1215.18 SPEAKER_03  They would be so fun to regime change Mohammed bin Salman.
+1215.36 1217.90 SPEAKER_03  Put the Iranians in charge of Saudi Arabia.
+1219.98 1221.74 SPEAKER_03  Don't test me, Salman.
+1222.24 1225.76 SPEAKER_02  So this is Milo's Shia conversion arc.
+1225.94 1226.92 SPEAKER_02  That's all right, yeah.
+1227.88 1229.82 SPEAKER_00  Yeah, he was a 12-er, everybody.
+1230.26 1231.04 SPEAKER_00  He was a 12-er.
+1231.28 1231.56 SPEAKER_00  So.
+1233.78 1235.78 SPEAKER_00  I've long been big on the force, Caleb.
+1236.04 1236.22 SPEAKER_00  Yeah.
+1237.42 1246.92 SPEAKER_00  So, and then, again, like, you know who some of the least, the people who are least keen on the strikes against Yemen are, are the Saudis, because they're like, oh, God.
+1247.50 1256.16 SPEAKER_01  Yeah, they might accidentally sort of like, well, in sort of retaliation, they might fire some rockets over the border and hit any of our bullshit, you know.
+1256.16 1257.42 SPEAKER_01  They might destroy the line.
+1257.78 1258.36 SPEAKER_01  Oh, God.
+1258.64 1259.72 SPEAKER_02  What happens to that?
+1259.74 1260.64 SPEAKER_02  They might hit the cube.
+1260.64 1261.82 SPEAKER_01  It's so easy to bomb the line.
+1261.82 1266.32 SPEAKER_02  Fuck, what if the Hufis took over the line and, like, made it the bait?
+1266.64 1268.10 SPEAKER_02  That could be really fun, actually.
+1268.88 1269.06 SPEAKER_00  Yeah.
+1269.06 1269.98 SPEAKER_00  I hope that happens.
+1270.20 1271.70 SPEAKER_02  That would be a really good, interesting arc for us.
+1271.70 1275.18 SPEAKER_00  Yeah, they've taken the line and they've twisted it into the Shahada.
+1275.18 1276.80 SPEAKER_00  Yeah, strangely.
+1277.16 1286.10 SPEAKER_01  It's an example of, like, the Saudis not having a bunch of hubris here, because they put the line at the other end of Saudi Arabia, when they should have put it right next to the Yemen border.
+1286.60 1286.84 SPEAKER_00  Yeah.
+1286.90 1288.60 SPEAKER_00  They should have made the border the line.
+1289.02 1289.30 SPEAKER_00  Yeah.
+1289.30 1303.92 SPEAKER_00  But now, of course, obviously, because this happened as a kind of spasm of reactive violence, again, supported from, you know, from David Cameron all the way through to Starmer via, you know, by everyone else.
+1303.92 1314.68 SPEAKER_01  Yeah, a guy who, again, we had to make a lord to get him back into this job, and the first thing he does in it is sort of, like, help instigate some more bombing.
+1315.04 1315.68 SPEAKER_01  He loves it!
+1315.78 1317.98 SPEAKER_01  Going back for more bombing the Middle East, you know?
+1318.10 1322.64 SPEAKER_00  It's this idea that, you know, that it has to now be justified.
+1323.38 1328.80 SPEAKER_00  And so now we're seeing the consent machine sort of war into action after the missiles have all stopped.
+1329.36 1331.54 SPEAKER_00  And, you know, by the way, the missiles haven't just stopped.
+1331.54 1333.42 SPEAKER_00  The returning missiles have started again.
+1333.56 1334.74 SPEAKER_00  Like, it accomplished nothing.
+1334.86 1336.26 SPEAKER_00  It was just an expenditure.
+1336.28 1339.06 SPEAKER_01  Oh, it was a massive escalation, which is now going to escalate some more.
+1339.32 1339.48 SPEAKER_00  Yeah.
+1340.64 1341.52 SPEAKER_00  Oh, that's good.
+1341.76 1341.98 SPEAKER_00  Yeah.
+1342.22 1350.66 SPEAKER_00  But the argument now being presented, I've seen this on the BBC, is, well, the Houthis are going to cause inflation.
+1351.40 1351.78 SPEAKER_01  Oh, no.
+1352.04 1356.08 SPEAKER_01  I mean, listen, I think we're perfectly capable of doing that ourselves.
+1356.24 1358.62 SPEAKER_01  We still make things in this country, such as inflation.
+1358.94 1360.66 SPEAKER_02  Liz Truss becomes a Houthi.
+1360.66 1361.36 SPEAKER_02  Oh, my gosh.
+1361.54 1361.86 SPEAKER_02  So...
+1361.86 1365.08 SPEAKER_03  Yeah.
+1365.32 1366.52 SPEAKER_03  Yeah, that is good.
+1366.88 1367.88 SPEAKER_03  I like that.
+1367.98 1368.12 SPEAKER_03  Yeah.
+1368.44 1370.86 SPEAKER_03  The Houthis can't afford the bathrobe bills.
+1371.36 1371.66 None  Yeah.
+1372.18 1377.44 SPEAKER_03  She spends one week at the Intercontinental Sana'a and bankrupts the whole Houthi government.
+1377.92 1378.30 SPEAKER_02  That's right.
+1378.38 1378.58 SPEAKER_02  Yeah.
+1378.68 1378.88 SPEAKER_02  Okay.
+1378.90 1379.52 SPEAKER_02  That's my theory.
+1379.62 1380.84 SPEAKER_02  Liz Truss is a secret Houthi.
+1380.92 1382.30 SPEAKER_02  This was a plan the whole time.
+1383.72 1384.60 SPEAKER_02  Got her ass.
+1384.60 1385.00 SPEAKER_00  Yeah.
+1385.08 1394.88 SPEAKER_00  Again, there's a quite simple thing, which is like, well, again, you don't fight inflation by bombing everybody who looks askance at a ship.
+1395.42 1398.88 SPEAKER_00  Or there are other ways that we've talked about to do that.
+1398.88 1405.98 SPEAKER_00  But it just really does seem like they've got the Zed team of consent manufacturers out for this one.
+1406.48 1411.74 SPEAKER_00  The other thing that you frequently see is the same people who say, oh, free Gaza, shall you?
+1411.80 1412.98 SPEAKER_00  You like to free Gaza?
+1412.98 1422.92 SPEAKER_00  Have you considered maybe freeing Gaza from Hamas as though they are just like, yeah, as though they're just some moon men that came in and took over one day and drove everyone mad?
+1423.00 1425.12 SPEAKER_00  They didn't arise from any historical circumstances.
+1425.44 1431.48 SPEAKER_00  The exact same people are now saying, ah, well, actually, have you considered maybe free Yemen from the Houthis?
+1431.98 1435.44 SPEAKER_00  Again, as though they're just, they came from the fucking moon.
+1435.78 1438.88 SPEAKER_01  Also, we tried for a number of years.
+1438.88 1446.60 SPEAKER_01  We emboldened some of the worst people going, trying to do that, and not successfully, as it turned out.
+1447.32 1456.30 SPEAKER_01  We sent RAF ground crew to Saudi Arabia to help maintain the Saudi Air Force's aircraft while they were bombing the Houthis.
+1456.62 1459.52 SPEAKER_01  And that wasn't enough to move the needle on the Houthis.
+1459.86 1467.32 SPEAKER_03  Yeah, they had to add stuff like the special treat plate inside the F-22, you know, for your dates and stuff.
+1467.48 1468.08 SPEAKER_03  Yeah, yeah.
+1468.08 1470.60 SPEAKER_00  The space for your rack of deal belts.
+1471.00 1478.46 SPEAKER_00  Starmer says, no labor activist has ever said to me that if urgent action is needed, we should stop that in order for parliament to be convened.
+1479.02 1479.66 SPEAKER_00  So...
+1479.66 1490.50 SPEAKER_01  Well, if we dial back the clock a few years to sort of woke Corbynista Keir Starmer, you can find that he did, in fact, say this.
+1491.14 1494.42 SPEAKER_01  Yeah, but, you know, it was different back then because...
+1494.42 1495.42 SPEAKER_01  Yeah, well, so he says...
+1495.42 1495.70 SPEAKER_01  Yeah, of course.
+1495.82 1511.94 SPEAKER_01  He says that when he introduced this kind of, like, idea of legislation that would require the government to consult parliament before doing military action, he only meant, like, the military action that counts, where you have, like, boots on the ground as opposed to, like, planes in the sky.
+1511.98 1512.18 SPEAKER_00  Yeah.
+1512.18 1512.54 SPEAKER_00  Yeah.
+1512.54 1514.38 SPEAKER_01  Like a little, eh, military action.
+1514.52 1515.28 SPEAKER_01  Like a little, eh.
+1515.28 1515.50 SPEAKER_01  Yeah.
+1515.86 1517.72 SPEAKER_01  This one's a freebie, you know?
+1517.96 1524.24 SPEAKER_01  The same thing as the Americans doing this under, like, the 2001 authorization for military force, where it's like, this one doesn't count.
+1524.32 1526.24 SPEAKER_01  This one's like, you know, we're just fucking around.
+1526.24 1533.00 SPEAKER_01  It's like a sort of, like, AAA game series having one of the, like, shorter games in between to pad out the calendar, you know?
+1533.06 1533.20 SPEAKER_01  Yeah.
+1533.26 1536.08 SPEAKER_01  This is the kind of, like, Assassin's Creed mirage of wars.
+1536.74 1553.30 SPEAKER_00  Also, if it's like, if you're political class, all of your decision makers are so in lockstep supporting every single outburst of violence that is going to prop up the ongoing, like, you know, slaughter in Gaza, right?
+1553.36 1561.28 SPEAKER_00  If you're going to have that much lockstep support, then bringing up these procedural questions, I think, is, you know, meaningless.
+1561.48 1562.78 SPEAKER_00  Because why bother?
+1562.88 1565.22 SPEAKER_00  Because the procedure is just going to go ahead anyway.
+1565.30 1572.94 SPEAKER_00  If anything, the fact that these procedures are being ignored is because everyone knows they're not necessary, because that is the governing consensus.
+1572.94 1576.06 SPEAKER_00  It's just more escalation, more violence.
+1576.06 1581.18 SPEAKER_00  And, you know, the Empire is lashing out more and more chaotically.
+1581.60 1585.20 SPEAKER_01  Well, Stammer's position used to be more fig leaves.
+1585.60 1599.74 SPEAKER_01  And now things have been moved so far by Netanyahu, largely, that, like, now the kind of moderate position on the kind of, like, you know, that side of the Overton window is no fig leaves.
+1600.22 1600.36 SPEAKER_01  Yeah.
+1600.36 1600.80 SPEAKER_01  It's dick out.
+1600.82 1601.84 SPEAKER_01  Dick fully out.
+1602.14 1602.96 SPEAKER_00  Full hog.
+1602.96 1603.54 SPEAKER_01  In the F-16.
+1604.00 1604.22 SPEAKER_01  Yeah.
+1604.22 1612.44 SPEAKER_01  We sent RAF ground crew to Saudi Arabia to install a little Perspex canopy in the bottom of the aircraft so you could see the nuts hang.
+1612.56 1612.70 SPEAKER_03  Yeah.
+1612.76 1616.04 SPEAKER_03  The RAF ground crew are working naked because it's very hot in Saudi Arabia.
+1616.66 1618.30 SPEAKER_03  Oh, the all-over suntan.
+1618.56 1618.78 SPEAKER_00  Horrible.
+1618.90 1619.18 SPEAKER_00  I know.
+1619.52 1622.52 SPEAKER_00  Just, they're flying upside down to get their balls tanned.
+1623.48 1627.94 SPEAKER_00  I want to talk about a startup today that's going to bleed into our main topic.
+1628.72 1629.70 SPEAKER_00  It's called...
+1629.70 1634.64 SPEAKER_00  Lieutenant Mitchell, how did your balls get tanned if you were flying an F-16 at the time?
+1634.94 1636.20 SPEAKER_00  Well, I was inverted, ma'am.
+1638.38 1640.36 SPEAKER_00  I want to talk about Replica Studios.
+1640.78 1648.18 SPEAKER_00  And right now, Milo, I'll tell you that they're not just based in Brisbane, but they're based in Fortitude Valley, the vomity-est part of Brisbane.
+1648.60 1649.24 SPEAKER_00  Oh, great.
+1649.56 1652.32 SPEAKER_03  Wait, are these the people who make the AI girlfriend?
+1652.78 1653.52 SPEAKER_03  No, this is it.
+1653.54 1655.16 SPEAKER_03  That's a different company called Replica.
+1655.54 1656.26 SPEAKER_03  Oh, okay.
+1656.36 1656.64 SPEAKER_03  Fine.
+1656.78 1656.94 SPEAKER_03  Yeah.
+1657.56 1657.86 SPEAKER_03  Okay.
+1657.96 1659.92 SPEAKER_03  Replica Studios, they're based in Brisbane.
+1662.14 1662.50 SPEAKER_03  Oh.
+1663.02 1666.66 SPEAKER_03  They're based in the part of Brisbane where we went to get that Thai meal that one time.
+1666.92 1668.20 SPEAKER_03  We got a Thai meal in Brisbane?
+1668.20 1669.62 SPEAKER_03  Unless they make Thai food.
+1669.76 1671.40 SPEAKER_03  I don't know how relevant that's going to...
+1671.40 1677.06 SPEAKER_03  I didn't eat a lot of the meals in Brisbane because I was shitting myself to death for most of the time that we were there together.
+1677.38 1677.52 SPEAKER_03  No.
+1677.62 1681.66 SPEAKER_03  I have subsequently been to Brisbane and enjoyed it, but on the first occasion, it was a tough one.
+1681.66 1684.98 SPEAKER_00  So, Replica Studios, find the perfect voice for your story.
+1685.62 1689.56 SPEAKER_00  Ethical AI voice actors for games, film, and animation.
+1690.90 1691.98 SPEAKER_01  Oh, great.
+1692.00 1692.24 SPEAKER_01  Yes.
+1692.40 1693.62 SPEAKER_01  As someone who...
+1693.62 1697.54 SPEAKER_01  Well, we are all people who make our livings predominantly with our voices.
+1697.96 1698.44 SPEAKER_01  Bonus.
+1699.54 1705.44 SPEAKER_01  I think that this is bad and they should do something about this so that we still have jobs in the future.
+1705.62 1709.32 SPEAKER_00  Do you think maybe some kind of a union that represents actors?
+1709.32 1715.22 SPEAKER_01  No, I was thinking the more Yudkovsky kind of like, we task the Saudi Air Force to start bombing Brisbane immediately.
+1715.22 1715.52 SPEAKER_01  So what?
+1715.52 1720.04 SPEAKER_01  I want those people to see Saudi pilot nutsack before the day is out.
+1720.04 1723.54 SPEAKER_02  We've all got to develop four different kinds of voices.
+1724.16 1725.36 SPEAKER_01  That's the only way to beat those.
+1725.36 1728.44 SPEAKER_02  And you never know, like, Milo's basically already done it.
+1728.74 1730.66 SPEAKER_02  Like, the rest of us are going to have to figure it out.
+1730.80 1732.54 SPEAKER_02  You've got to stay one step ahead of the AR.
+1732.62 1737.36 SPEAKER_02  Yeah, we've got to develop multiple voices that we just sort of seamlessly switch into naturally.
+1738.04 1739.36 SPEAKER_02  That's the only way to beat this thing.
+1739.36 1742.44 SPEAKER_01  Getting even more insecure about my Sean Connery at this point.
+1742.84 1746.90 SPEAKER_01  It's the one thing keeping me sort of like, off of the suit.
+1746.90 1755.14 SPEAKER_00  I like the idea of sending the Saudi Air Force to try and take this thing out as though they wouldn't just get a warplane of their own within four years.
+1756.20 1756.64 SPEAKER_00  Yeah.
+1756.90 1757.70 SPEAKER_01  I, yeah.
+1758.18 1760.90 SPEAKER_01  Well, listen, I think it would be funny and that's all you can ask.
+1761.06 1767.88 SPEAKER_03  I've been reprogrammed to be an ethical AI voice, which means I can no longer talk about my time in 3-2 Battalion in Angaila.
+1767.92 1770.48 SPEAKER_00  So, we give storytellers a voice.
+1770.84 1775.36 SPEAKER_00  We are building the world's greatest and leading ethical library of AI-powered voice actors.
+1776.94 1777.58 SPEAKER_00  Uh-huh.
+1778.00 1789.90 SPEAKER_00  So, basically, what they say is, hey, we have, we can, we have a bunch of voices, you know, we, that we've, we've created that we think are pretty much useful based on the kinds of video games that we've seen.
+1790.00 1790.74 SPEAKER_00  It's mostly for games.
+1791.36 1792.36 SPEAKER_00  Beautiful voices.
+1792.72 1792.94 SPEAKER_00  Uh-huh.
+1792.94 1793.38 SPEAKER_00  Yeah.
+1793.80 1799.04 SPEAKER_00  Then that they, you can accelerate content creation and experimentation with Replica's realistic text-to-speech.
+1799.40 1804.90 SPEAKER_00  They say games and film are this generation's medium for storytelling and the line is blurring between consumption and creation.
+1805.38 1807.10 SPEAKER_00  If you have a story, we want to help you tell it.
+1807.38 1820.74 SPEAKER_01  I mean, yeah, that, that, that sounds quite nice, making video games easier to make and cheaper, just so long as you can sort of assume that the people who otherwise would be doing that, who would otherwise be voice acting, are able to, like, you know, live.
+1820.74 1823.52 SPEAKER_03  With text-to-speech, though, they can never get the tone right.
+1823.62 1833.60 SPEAKER_03  Like, the AI voice, uh, thing is good when it, when you, if you read it out something, like, if you speak and then it changes your voice to sound like someone else, it's quite effective at doing that.
+1833.66 1836.36 SPEAKER_03  But from text-to-speech, you still get that kind of weird.
+1836.68 1837.02 SPEAKER_03  Yeah.
+1837.34 1840.68 SPEAKER_00  Like, everything's kind of the TikTok, uh, voice.
+1841.08 1841.26 SPEAKER_00  Yeah.
+1841.26 1841.34 SPEAKER_00  Yeah.
+1841.34 1845.98 SPEAKER_00  Well, I hope that you're happy for more things to be that, basically.
+1846.10 1848.36 SPEAKER_00  I mean, I do have- I didn't know that.
+1848.44 1850.68 SPEAKER_03  You're telling me that now for the first time.
+1851.08 1858.46 SPEAKER_01  I mean, I do have access to, uh, like, the, um, TikTok text-to-speech thing that I use to make fun of it.
+1858.54 1860.18 SPEAKER_01  So I could do this very easily.
+1860.18 1865.86 SPEAKER_00  Well, you have such voices as Freya, who's British, The Miscreant, who's American.
+1866.96 1867.40 SPEAKER_03  Sorry.
+1867.62 1868.66 SPEAKER_03  I'm not The Miscreant.
+1870.02 1872.96 SPEAKER_04  You're listening to Freya and The Miscreant.
+1873.38 1875.14 SPEAKER_01  I think I saw them in Glasgow.
+1877.58 1880.46 SPEAKER_01  Very sort of camera-obscure, like, sort of shoegaze vibe.
+1880.58 1881.22 SPEAKER_03  Yeah, yeah, yeah.
+1881.22 1884.26 SPEAKER_03  Freya and The Miscreant is like Belle and Sebastian's Wario.
+1885.12 1886.86 SPEAKER_00  They have Grey, who's Scottish.
+1886.86 1890.32 SPEAKER_00  Basically, what they have is they have broad stereotypes.
+1890.62 1899.76 SPEAKER_00  And again, whenever anyone creates these broad stereotypes using AI, saying, great, we can do the broad stereotypes now using AI, you always have to ask yourself, well, hang on a second.
+1900.04 1901.64 SPEAKER_00  Where do the broad stereotypes come from?
+1901.84 1904.38 SPEAKER_00  Someone must have had to think about them at some point.
+1905.08 1907.94 SPEAKER_00  You're not even allowed to stereotype broads no more.
+1908.74 1909.72 SPEAKER_01  They're shopping!
+1910.52 1915.50 SPEAKER_01  They sampled and abstracted the work of so many racist 70s comedians.
+1915.50 1927.52 SPEAKER_01  I believe in a sort of, like, firm, like, gun control line on this, that, like, you can do whatever you want, but it has to be specifically in the, like, TikTok female text-to-speech voice.
+1927.66 1931.40 SPEAKER_01  Because that's so authentically weird that you couldn't mistake it for a human.
+1931.76 1932.02 SPEAKER_01  Yeah.
+1932.52 1936.24 SPEAKER_01  And, yeah, that's the only one that should be, like, available to civilians, if you like.
+1936.38 1940.90 SPEAKER_03  I'm obsessed with the union of racist 70s comedians protesting this.
+1940.94 1941.66 SPEAKER_03  What, Sag Afro?
+1941.66 1943.60 SPEAKER_03  He's checking me a little bit about mother-in-law.
+1944.24 1946.66 SPEAKER_00  It's basically just Jim Davidson left, you know?
+1946.90 1948.32 SPEAKER_01  Sort of like, last of a dying breed.
+1948.60 1951.54 SPEAKER_00  So, but what I found most interesting about this company was a few things.
+1951.68 1962.26 SPEAKER_00  Number one, they're sort of tying directly into our news segment today because they are the one company with which Sag Afro kind of created this contract seemingly without.
+1962.26 1969.86 SPEAKER_01  I'm, you motherfuckers, I watched so many Euro Spy movies for you, and you do this to me, you know?
+1970.04 1971.92 SPEAKER_01  You betray my trust.
+1973.26 1978.50 SPEAKER_00  So, Sag Afro has done this because Replica is a, quote, ethical AI company.
+1978.86 1979.50 SPEAKER_00  Oh, it's ethical?
+1979.62 1980.20 SPEAKER_00  Oh, okay.
+1980.28 1981.08 SPEAKER_00  Well, if it's ethical.
+1981.08 1987.18 SPEAKER_00  And I was trying like hell to find out exactly what they mean by ethical.
+1989.60 1997.32 SPEAKER_01  Well, it means that they wait until the 1970s comedian has died before they, like, synthesize them and upload them into the Matrix.
+1997.62 2000.06 SPEAKER_03  Yeah, they're waiting for Jim Davidson to go extinct.
+2000.36 2006.36 SPEAKER_03  But zookeepers at Edinburgh Zoo have tried to find a mating pair for Jim Davidson to introduce into his enclosure.
+2006.66 2008.30 SPEAKER_03  But he's not shown any interest so far.
+2008.30 2009.06 SPEAKER_02  Hmm.
+2009.70 2011.30 SPEAKER_00  They, here's how they're ethical.
+2011.44 2012.88 SPEAKER_00  They say, voice replication.
+2013.16 2015.62 SPEAKER_00  You must have explicit permission to replicate someone else's voice.
+2015.74 2018.92 SPEAKER_00  This includes professional talent, character IP, celebrities, friends, and family members.
+2019.26 2024.04 SPEAKER_00  And you may not use Replica for defamation, scams, fake news, illicit content, blah, blah, blah.
+2024.06 2025.04 SPEAKER_00  Oh, you may not.
+2025.18 2025.50 SPEAKER_00  Okay.
+2026.48 2038.22 SPEAKER_01  But, like, if Sag Afro have made, have, like, contracted with them, then, you know, agreeing to have your voice synthesized is going to be a thing that you are...
+2038.30 2040.36 SPEAKER_01  Absolutely pressured to do, right?
+2040.46 2042.32 SPEAKER_00  And the idea here, right?
+2042.42 2043.26 SPEAKER_00  And this is...
+2043.26 2048.48 SPEAKER_00  I've had to read some tea leaves to try to find exactly what they mean through press releases and interviews.
+2048.74 2049.40 SPEAKER_00  And I've sort of...
+2049.40 2050.66 SPEAKER_00  I think I've sort of got it.
+2051.04 2055.70 SPEAKER_00  Which is, they've said, okay, if you're a Sag Afro member, we have a contract.
+2055.90 2056.84 SPEAKER_00  And this is the weird thing.
+2056.96 2061.52 SPEAKER_00  We have the contract with this one specific, not very big Australian company.
+2061.52 2062.00 SPEAKER_00  Yeah.
+2062.12 2063.56 SPEAKER_00  One Brisbaneian?
+2063.56 2063.72 SPEAKER_00  Yeah.
+2063.86 2064.54 SPEAKER_00  Question mark.
+2064.64 2064.98 SPEAKER_00  Mass.
+2065.42 2065.70 SPEAKER_00  Yeah.
+2065.76 2068.30 SPEAKER_00  We have this one specific thing, right?
+2068.36 2079.52 SPEAKER_00  Where they say, okay, we want to allow voiceover artists, mostly in video games, to safely explore new employment opportunities for their digital voice replicas with industry-leading protections tailored to AI technology.
+2080.20 2080.42 SPEAKER_00  Right?
+2080.42 2092.28 SPEAKER_00  This is saying, they're going to enable Replica to engage Sag Afro members under a fair ethical agreement to safely create and license a digital replica of their voice, which can then be used in video game development and other interactive media projects.
+2092.62 2094.78 SPEAKER_00  However, here's the strange thing, right?
+2095.76 2099.12 SPEAKER_00  Replica doesn't offer Jim Davidson, right?
+2099.48 2101.10 SPEAKER_00  Replica offers the miscreant.
+2101.46 2103.90 SPEAKER_00  Replica offers voice actors that they make.
+2103.90 2117.78 SPEAKER_00  So, effectively, from how we know AI works, right, is it takes a lot of inputs and synthesizes it into an output where the role of each individual inputter is not clear.
+2117.90 2120.58 SPEAKER_00  It's an attribution hiding machine, right?
+2121.10 2121.58 SPEAKER_00  Yeah.
+2121.68 2125.80 SPEAKER_01  You're not a sort of like a voice actor working on this.
+2125.92 2129.24 SPEAKER_01  You are a component of a future fictional voice actor.
+2129.26 2129.56 SPEAKER_01  Correct.
+2130.16 2130.90 SPEAKER_01  And so...
+2130.90 2133.50 SPEAKER_01  I give them the rights to my voice.
+2133.50 2139.40 SPEAKER_01  They give them a bunch of recordings of Trash Future, and then they fold all of that into their new character that they so-called, like, the dipshit.
+2141.66 2143.76 SPEAKER_00  And you're like, hey, that's me.
+2144.44 2148.40 SPEAKER_00  And again, like, the content of the contract isn't clear.
+2148.54 2152.72 SPEAKER_00  I'm going on the basis of what we know about AI and having read all the press releases.
+2154.14 2163.64 SPEAKER_00  But, right, the idea that they can achieve what they describe, which is fully informed consent and fair compensation when it comes to use of our members' voices and performances, right?
+2163.82 2165.36 SPEAKER_00  That how...
+2165.36 2167.36 SPEAKER_00  We know that that's...
+2167.36 2169.58 SPEAKER_00  Again, that's contra the logic of AI.
+2170.16 2179.46 SPEAKER_00  Because, well, then, unless you're just having a replica of your specific voice as a person, then what we're saying is, okay, it's going to be unattributable.
+2179.46 2186.02 SPEAKER_00  But if it is your specific voice as a person, then what's going to happen is, I don't know, we're going to be able to hire...
+2186.02 2189.50 SPEAKER_00  Have Jim Davidson, and then, okay, well, we have the Jim Davidson voice now.
+2190.10 2191.54 SPEAKER_00  And then a few things happen.
+2191.68 2193.46 SPEAKER_00  Either Jim Davidson then dies...
+2193.46 2194.10 SPEAKER_00  Yeah.
+2194.26 2196.10 SPEAKER_00  We're going to get a lot of pantomime work.
+2197.34 2203.14 SPEAKER_01  Either Jim Davidson dies or Jim Davidson lives forever, which is going to be unexpected and sort of quite inconvenient.
+2203.54 2203.82 SPEAKER_01  Yeah.
+2204.20 2205.48 SPEAKER_01  That'll piss off HMRC.
+2205.48 2207.36 SPEAKER_03  Or maybe it won't.
+2207.44 2210.54 SPEAKER_03  Maybe he'll finally pay that bill back on a long enough timeline.
+2210.94 2211.74 SPEAKER_00  He's good for it.
+2211.88 2212.00 SPEAKER_00  Right.
+2212.10 2219.08 SPEAKER_00  And then what happens is, well, you don't need to hire a new voice actor is because all of the video game voice acting has now been done.
+2219.50 2221.12 SPEAKER_00  These are the video game voices.
+2222.18 2224.28 SPEAKER_00  And that's it.
+2224.34 2230.82 SPEAKER_00  That is now a kind of dead art because we just have the endless repetition that AI enables.
+2230.82 2232.18 SPEAKER_00  The concept of this...
+2232.18 2235.82 SPEAKER_00  Assassin's Creed Basildon with Altair voiced by Jim Davidson.
+2236.52 2237.06 SPEAKER_01  Yeah.
+2237.16 2243.00 SPEAKER_01  The culture that's running out of images, you know, that can create nothing new or original besides Jim Davidson.
+2243.26 2244.34 SPEAKER_00  It's creeping Sharia.
+2244.52 2245.82 SPEAKER_00  You're not allowed images anymore.
+2246.30 2258.60 SPEAKER_00  And what I noticed, again, when looking at this, I think, okay, well, what's actually going on here is SAG-AFTRA is saying, all right, well, we're just going to assume that AI is going...
+2258.60 2263.84 SPEAKER_00  That AI taking voice acting over and more or less deliminating it as a business is happening.
+2264.40 2274.72 SPEAKER_00  And by giving it the blessing with happening also is people are going to get used to having AI voices and consuming AI voices as consumers of the product, right?
+2274.78 2275.70 SPEAKER_00  You're going to...
+2275.70 2277.58 SPEAKER_00  People are going to get acclimatized to that.
+2277.58 2282.82 SPEAKER_01  You won't be able to tell that it's the TikTok text-to-speech lady saying, like, in the strip club, straight up jerk.
+2283.34 2284.82 SPEAKER_02  Yeah, you might think it's the dipshit.
+2285.32 2286.24 SPEAKER_02  Yeah, that's right.
+2286.74 2287.52 SPEAKER_00  I think it's Jim Davidson.
+2287.76 2289.82 SPEAKER_00  The dipshit would never say something like that.
+2290.76 2293.10 SPEAKER_00  Jim Davidson could be in the strip club.
+2293.50 2301.02 SPEAKER_00  We know some voiceover workers at TF, including a friend of the show, Abby Thorne.
+2301.38 2303.88 SPEAKER_00  And when I spoke with her about this, she said, well, hang on a sec.
+2303.88 2314.76 SPEAKER_00  Like, also, what's a lot of like, when you are a voice actor, especially in properties that have big fandoms, a lot of what you do is you might interact with fans and so on.
+2314.78 2316.58 SPEAKER_00  But are people going to be fans of AI?
+2317.04 2318.64 SPEAKER_00  Well, no, no, people aren't.
+2318.82 2329.34 SPEAKER_00  Just as people aren't going to be fans of AI actors, those little bits of human connection that are still enabled through mass media like this get slowly, slowly winnowed out.
+2329.34 2344.32 SPEAKER_00  And what Replica talks about, when they talk about allowing smaller companies to make more AAA-like games, what they're actually saying is, we will give managerial staff, rather than artistic staff, more direct control over the creative outputs.
+2344.78 2348.14 SPEAKER_00  That's really what, anytime someone says that, that's what they really mean.
+2348.48 2350.34 SPEAKER_00  And you know that's going to be good.
+2350.74 2351.20 SPEAKER_03  Oh, yeah.
+2351.48 2356.66 SPEAKER_03  Yeah, that's how you end up with all the weird, bulbous crossover SUVs.
+2356.66 2358.32 SPEAKER_03  And people love those.
+2359.00 2364.18 SPEAKER_03  I love a weirdly high hatchback with a big ass.
+2364.88 2365.68 SPEAKER_03  And you know- Who doesn't?
+2366.08 2367.14 SPEAKER_03  Filled with NFTs.
+2367.32 2371.24 SPEAKER_02  I think an AI voice generated, like, Sephiroth might be kind of fun there.
+2371.50 2380.42 SPEAKER_00  You know, this is, so when we talk about how it's ethical, it seems to be just that you will get paid for your voice rather than having it randomly scraped, right?
+2380.54 2381.94 SPEAKER_00  So we're gonna-
+2381.94 2387.12 SPEAKER_01  So this will immediately get undercut by all the stuff that is unethical and just does that anyway.
+2387.58 2392.88 SPEAKER_01  And when SAG-AFTRA, you know, inevitably throws up their hands and goes, well, technology is ubiquitous now.
+2392.94 2395.94 SPEAKER_01  We've just got to accept the sort of, like, reality we live in.
+2396.16 2398.22 SPEAKER_01  Because if you compromise to this, you'll compromise to anything.
+2398.60 2400.94 SPEAKER_01  Then, you know, I wouldn't invest in this.
+2400.94 2409.58 SPEAKER_00  So, Shreyas Nivas, the CEO of Replica Studios, said, Replica is proud to partner with SAG-AFTRA to introduce an ethical approach to the emerging use of generative AI.
+2409.96 2419.54 SPEAKER_00  We're excited by the new opportunities this opens up for world-leading AAA studios who can now access the benefits of our voice technology while knowing that talent is recognized and compensated fairly in use of their likeness.
+2419.86 2433.94 SPEAKER_00  Our voice actor agreements ensure that game developers using our platform are only accessing licensed talent who have given permission for their voice to be used as a training dataset, as opposed to the Wild West of AI platforms using unethical data scraping methods to replicate and synthesize voices without permission.
+2434.24 2442.48 SPEAKER_00  Again, it's like, we, it's not clear, and I don't think it's been made clear to many voice actors who have responded in press, what fair compensation entails.
+2442.76 2448.60 SPEAKER_00  Like, for example, are you given just like a hundred bucks to use your voice and then, you know, it's just in a training model?
+2448.88 2453.32 SPEAKER_00  Again, how will you know if it's gone into a training model and it's used for something else?
+2453.68 2455.12 SPEAKER_00  How do you know how much you get paid?
+2455.78 2456.84 SPEAKER_02  This seems like a dumb question.
+2456.84 2458.94 SPEAKER_02  Well, like, this seems like a dumb, I don't know.
+2458.98 2464.38 SPEAKER_02  I don't know how to describe this, but like it misses, it seems to like miss the point of what voice acting is.
+2464.38 2471.66 SPEAKER_02  So like, it seems to be like, yeah, the voice acting is the voice like that's, but like, no, like voice acting is a form of acting.
+2471.66 2472.00 SPEAKER_02  Right.
+2472.08 2484.98 SPEAKER_02  And so like, this is, this is just what it doesn't make sense to me because it feels like what you've read of the contract and everything that I know about this is really kind of focused on like the proprietary elements of like having the voice.
+2484.98 2490.66 SPEAKER_02  But because even if this doesn't work on the basis that like you can't really get an AI to actually do the actual work of acting.
+2490.84 2490.94 SPEAKER_02  Right.
+2491.16 2493.66 SPEAKER_00  Which you can, by the way, let's just make that clear.
+2493.80 2494.54 SPEAKER_00  You can't.
+2494.68 2494.84 SPEAKER_02  Right.
+2495.10 2503.80 SPEAKER_02  And in which case then you are just sort of like, it doesn't, it doesn't fucking matter like whether this is sort of like a generic kind of like stock voice.
+2504.94 2515.84 SPEAKER_02  Like, or like, you know, yeah, it doesn't matter if this is like a generic stock voice or if you sort of like pay people a very minimal amount to use that because like from what I understand is, and you know, the fandoms point is really important.
+2515.84 2518.70 SPEAKER_02  Like the people don't really care about the voice.
+2518.86 2520.10 SPEAKER_02  It's how it's used.
+2520.10 2523.56 SPEAKER_02  This is the confusing element to me.
+2523.68 2524.94 SPEAKER_00  I don't get this.
+2524.94 2536.18 SPEAKER_00  It's because the way to understand this, I think, is that every application of AI to the arts, especially writing, acting, music, is the revenge of the boardroom.
+2536.52 2540.52 SPEAKER_00  The fantasy is always, I would love to have my creative industry.
+2540.68 2543.22 SPEAKER_00  I hate working with creative people, essentially.
+2543.22 2546.00 SPEAKER_00  You know, they get out of bed late.
+2546.02 2547.22 SPEAKER_03  They have long sideburns.
+2547.78 2550.96 SPEAKER_03  I love my means of production, but I hate my workers.
+2551.46 2567.56 SPEAKER_02  And I understand that this is sort of where like the big goof is because like, you know, as we've sort of had lots of examples of like, there has not been a single piece of AI art where like, I'm not saying any of them will ever be good, but there is not a single piece of AI generated art or content that you can look at and be like, this is interesting.
+2567.82 2569.22 SPEAKER_02  Like none of it has been like that.
+2569.22 2571.00 SPEAKER_03  There's the XL bully wearing a poppy.
+2571.00 2571.52 SPEAKER_02  Yes, actually.
+2571.70 2572.10 SPEAKER_02  Yeah, I was wrong.
+2572.10 2574.80 SPEAKER_02  Actually, the XL bully, the XL bully is wearing the poppy.
+2574.88 2578.08 SPEAKER_00  The XL bully flying the F-22 with its nuts hanging out.
+2578.42 2578.62 SPEAKER_02  Yeah.
+2578.70 2581.40 SPEAKER_02  There were a lot of good XL bully stuff on the Britonology episode.
+2581.52 2581.68 SPEAKER_02  Yeah.
+2581.76 2581.88 SPEAKER_02  Yeah.
+2581.98 2582.72 SPEAKER_02  New to this.
+2583.20 2583.74 SPEAKER_03  But like.
+2584.12 2587.06 SPEAKER_03  As it drops a bomb directly on number 10 Downing Street.
+2587.32 2595.64 SPEAKER_02  But like they make, they make the point, they make the correct observation that like people like playing, like the video games that people like playing, they like the sort of immersive experience of it.
+2595.70 2605.16 SPEAKER_02  And that it is like this sort of form of entertainment, but they're still approaching this as if like, oh, no, people play the game because they want to just play the game rather than no, they sort of want everything.
+2605.16 2612.58 SPEAKER_02  And like if you kind of do any type of AI generated voice for the sake of cost costing, like it is going to affect the gameplay.
+2613.00 2613.10 SPEAKER_02  Right.
+2613.18 2614.94 SPEAKER_02  Have you heard of the high elves?
+2615.44 2615.66 SPEAKER_05  You know?
+2615.66 2616.54 SPEAKER_05  Yeah.
+2616.62 2618.08 SPEAKER_02  Like you aren't going to do AI generally.
+2618.38 2618.54 SPEAKER_02  Yeah.
+2618.68 2623.08 SPEAKER_02  That, that just, it doesn't, it doesn't make any sense even by their own logic.
+2623.08 2626.46 SPEAKER_02  And I understand, but like, again, that is the whole point of this.
+2626.70 2626.96 SPEAKER_00  But yeah.
+2626.96 2642.28 SPEAKER_00  The thing to remember as well is I often think of the profusion of generative AI in artistic products as a way to slowly reduce quality across the board while charging the same amount for a lower cost base.
+2642.28 2650.28 SPEAKER_00  And then all of a sudden, the human thing that used to be that works, or that works well, becomes the premium.
+2651.06 2658.16 SPEAKER_00  And then, you know, the, and then we get the long tail of just the crappy experience of the crappy thing.
+2658.66 2660.44 SPEAKER_00  More and more people have that.
+2660.82 2666.50 SPEAKER_00  It's like how once you start, I know, it's how like it's in lots of science and some science fiction stories, right?
+2666.56 2673.38 SPEAKER_00  There's always a big deal made out of the people at the very top of society getting actual food instead of something grown in a vat.
+2673.84 2675.36 SPEAKER_00  You know, I think it's much the same thing.
+2675.36 2675.80 SPEAKER_00  Yeah.
+2675.94 2678.80 SPEAKER_03  It feels, it's just like shrinkflation, but for the arts.
+2679.50 2684.38 SPEAKER_03  Like you still get a video game and it still costs 40 pounds or whatever, but it's just shit.
+2684.58 2685.10 SPEAKER_01  Yeah.
+2685.36 2685.62 SPEAKER_01  Yeah.
+2685.82 2685.98 SPEAKER_03  Yeah.
+2686.12 2703.74 SPEAKER_00  You know, and it's, again, I think it goes back to the fantasy that the, it goes back to the fantasy that the marketing agency or the board of directors can simply will things into existence by asking the computer to do it.
+2704.00 2711.48 SPEAKER_00  And they can avoid having to, in the case of marketing agencies who are now just generating influencers and giving them only fans pages and stuff.
+2711.48 2718.40 SPEAKER_00  You know, this is, this is just the idea of, well, we can, people will just be fans of whatever we give them, right?
+2718.48 2727.50 SPEAKER_00  That they're even, because in not just mass media, but sort of social media as well, like the amount of alienation people have from one another is insane.
+2727.70 2736.12 SPEAKER_00  However, however, there is still something, some little curl of connection left, even if it's a fake connection, right?
+2736.20 2742.92 SPEAKER_00  That, that, that there is someone out there that some behind a news desk, there is a guy on a stage.
+2743.08 2745.78 SPEAKER_00  There is a Jim Davidson, that there is an actual person.
+2746.40 2746.60 SPEAKER_00  Yes.
+2746.68 2747.08 SPEAKER_00  Virginia.
+2747.20 2748.08 SPEAKER_03  There is a Jim Davidson.
+2748.80 2751.32 SPEAKER_03  Do you follow jingling keys on Instagram?
+2751.52 2752.84 SPEAKER_03  That guy's reels go crazy.
+2753.02 2753.18 SPEAKER_03  Yeah.
+2753.80 2755.72 SPEAKER_03  Just sending people videos of jingling keys.
+2755.72 2755.92 SPEAKER_00  Yeah.
+2756.24 2761.54 SPEAKER_00  And, and just that, but that there, the fantasy always is what if we could do it without the people?
+2761.54 2765.46 SPEAKER_00  And, you know, this is just another example of doing it without the people.
+2766.24 2770.58 SPEAKER_00  And to see SAG-AFTRA just sort of agree with it as basically a defense maneuver.
+2770.76 2780.86 SPEAKER_00  I mean, again, I'm not, I don't even have to say that myself, but like there's people in, people in press, like, like actual like voice actors, big voice actors say, you know, no voice actor will be willing to approve this.
+2781.00 2788.64 SPEAKER_00  AI is no place whatsoever in voiceover or the arts in general, which I thought that was quite, quite effective.
+2788.64 2795.30 SPEAKER_00  But Shreyas Niv asked about this, Seb, we know you may be wondering about the impact of this agreement on voice actors work.
+2795.50 2798.46 SPEAKER_00  And while the work itself won't disappear, it will certainly evolve.
+2798.56 2799.76 SPEAKER_00  He wrote this on his own LinkedIn.
+2800.26 2804.10 SPEAKER_00  With the rapid advancement of AI capabilities, I told you, I look into stuff for this show.
+2804.56 2805.12 SPEAKER_00  I go on LinkedIn.
+2805.12 2806.72 SPEAKER_00  Before turning the LinkedIn on himself.
+2807.10 2812.00 SPEAKER_00  We think it's essential that performers rights keep pace with a measured approach for industries such as entertainment and gaming.
+2812.46 2821.68 SPEAKER_00  Our vision will enhance games and interactive experiences for studios, consumers, and voice actors by scaling opportunities for talent with more timely narratives, localized languages, and so on.
+2821.96 2824.22 SPEAKER_00  We're proud to collaborate with SAG-AFTRA on leading the way.
+2824.38 2830.30 SPEAKER_00  This agreement enables Replica to engage union members to create voice replicas for game developers and interactive media projects to license.
+2830.66 2839.86 SPEAKER_00  So again, as well, this is something you mentioned earlier, Hussan, and this is quite perceptive, which is that the discussion is purely on the creation of this as a product, as a simulacrum of a voice.
+2840.14 2844.30 SPEAKER_00  And the real creativity here is actually just in the licensing model, right?
+2844.36 2848.38 SPEAKER_00  That's the last actual creative bit left is just the licensing model.
+2848.78 2852.84 SPEAKER_03  Yeah, it's annoying because there's no benefit to this.
+2852.98 2854.90 SPEAKER_03  It's like it's just making stuff work.
+2855.28 2859.52 SPEAKER_03  It's not even like you can say, oh, this will be a worse deal for voice actors.
+2859.52 2871.78 SPEAKER_03  But think of the improvements rather than like, you know, when they closed the coal mines, it was bad for coal miners, but it was good for society probably in the long run because using coal sucks, mining coal sucks.
+2871.96 2873.56 SPEAKER_03  You know, you could at least say there was good.
+2873.68 2877.90 SPEAKER_03  Whereas like this is just like, yeah, like we're just going to make your job worse.
+2877.98 2879.50 SPEAKER_03  And also the product will be worse.
+2879.78 2882.22 SPEAKER_03  Like there's no there's no benefit to this for anyone.
+2882.94 2883.30 SPEAKER_01  Yeah.
+2883.46 2886.82 SPEAKER_01  It's like, are you as a voice actor going to get to work less as a result of this?
+2886.90 2887.80 SPEAKER_01  Oh, no, quite the opposite.
+2887.80 2889.96 SPEAKER_01  Or you you might work less.
+2890.08 2891.18 SPEAKER_01  Well, you will work less.
+2891.28 2891.46 SPEAKER_01  Yeah.
+2891.58 2892.56 SPEAKER_01  But you won't like it.
+2892.62 2892.90 SPEAKER_00  Yeah.
+2893.04 2893.22 SPEAKER_00  Yeah.
+2893.34 2893.48 SPEAKER_00  Yeah.
+2893.94 2898.38 SPEAKER_00  Although I also did read their blog for the replica replica blog.
+2898.44 2902.06 SPEAKER_00  They say that actually this is going to be completely necessary.
+2902.38 2909.52 SPEAKER_00  AI powered voice actors because of the number of lines of dialogue in Starfield is like five times as much as in like, you know, Fallout 4.
+2909.86 2912.70 SPEAKER_00  I mean, only about five people ever heard most of them.
+2912.86 2913.10 SPEAKER_00  But yeah.
+2913.10 2918.66 SPEAKER_00  And they say that once once everything goes into the metaverse, it's going to be impossible to script everything yourself.
+2919.12 2919.98 SPEAKER_00  Oh, the metaverse.
+2920.12 2920.24 SPEAKER_00  Yeah.
+2920.24 2920.64 SPEAKER_00  Remember that?
+2920.64 2922.36 SPEAKER_00  I think I go on to every day.
+2922.66 2925.18 SPEAKER_00  My Mercedes drove into the metaverse the other day.
+2925.44 2925.84 SPEAKER_01  That's right.
+2925.92 2926.10 SPEAKER_01  Yeah.
+2926.10 2945.44 SPEAKER_01  It's interesting that that's the sort of example that they use instead of something like Border's Gate, which had, you know, a cast of professional voice actors like Starfield and people played, you know, they sunk all, you know, 200, 300 hours or whatever into that game, like a full time job and heard all of those, you know, wonderfully acted voice lines, including by our friend Abby.
+2945.80 2947.96 SPEAKER_01  And the game was very successful and very profitable.
+2947.96 2952.32 SPEAKER_01  And it turns out that's a business model that you can just kind of keep doing if you want to.
+2952.32 2957.68 SPEAKER_00  What if instead of that, they were able to just have executives write prompts?
+2958.14 2958.24 SPEAKER_00  Yeah.
+2958.30 2958.78 SPEAKER_00  What if that?
+2959.02 2960.46 SPEAKER_00  It would probably suck is what I think.
+2960.66 2965.08 SPEAKER_00  So they say the eventual metaverse will birth new genres of games and experiences.
+2965.66 2971.12 SPEAKER_00  Today, we are familiar with fast place multiplayer shooters like Fortnite, PUBG, or even Minecraft like worlds.
+2971.52 2977.02 SPEAKER_00  We believe there is a new category of virtual experience just around the corner that will rise to immense popularity.
+2977.02 2984.04 SPEAKER_00  It will be known for its depth of narrative and endless storytelling, prepping hundreds of characters along with ever-expanding quests and stories.
+2984.42 2985.64 SPEAKER_00  That's just an MMO.
+2985.96 2987.82 SPEAKER_01  That's just an MMORPG.
+2988.04 2991.94 SPEAKER_01  They've been like, people try a lot.
+2992.22 3006.80 SPEAKER_01  It's, and yeah, no, it's, I think what they're thinking is that like the first time someone launches like a Fallout 76 or whatever that has sort of like voice acting and heavy air quotes that's, you know, trivially easy to add.
+3007.08 3010.32 SPEAKER_01  They can just keep adding stuff forever and people will never get bored of it.
+3010.36 3014.88 SPEAKER_01  But that's not how we've kind of trained people to consume those things.
+3014.88 3015.56 SPEAKER_01  You know?
+3015.66 3027.50 SPEAKER_00  What they're demanding is a kind of, the fantasy here, as it is with so many AI, generative AI products, is of the perfect consumer that is consuming a workerless product.
+3028.10 3031.62 SPEAKER_00  That all the executive has to do, all the manager has to do...
+3031.62 3033.88 SPEAKER_00  Assume a perfectly spherical consumer.
+3034.34 3035.04 SPEAKER_00  Yeah, that's right.
+3035.16 3045.54 SPEAKER_00  All the executive has to do is just keep on thinking of stuff, type it into the computer and then it will expand and he will be able to continue collecting rents from the consumer.
+3045.88 3050.12 SPEAKER_01  Because the person who thinks of stuff is also something we've managed to sort of automate out here.
+3050.40 3050.78 SPEAKER_03  That's right.
+3050.88 3058.18 SPEAKER_03  Well, Jim Davidson is produced by the computer and I consume Jim Davidson rationally at the margin, according to a Nash Equilibrio.
+3058.18 3065.94 SPEAKER_00  So they say, games like Red Dead Redemption 2, The Witcher 3, Grand Theft Auto and Assassin's Creed have given us a glimpse into what this might look like.
+3066.02 3073.02 SPEAKER_00  But these games have been thus far confined to the lofty realms of AAA studios that can afford massive teams and lengthy production cycles.
+3073.48 3074.16 SPEAKER_00  We see a future.
+3074.36 3079.40 SPEAKER_03  Well, but because those games also require those things for everything else that's in the game.
+3079.72 3086.30 SPEAKER_03  Like, that's not the voice acting, isn't the difficult bit of making a very, like, complex video game like GTA.
+3086.30 3090.62 SPEAKER_03  Like, they're not like, oh, if only we could get the voice acting sorted out.
+3091.00 3098.50 SPEAKER_03  Like, for fuck's sake, like, I could record you all of the dialogue in a video game in probably like four days in a recording studio here.
+3098.72 3100.74 SPEAKER_03  Like, that's not the hard bit.
+3100.92 3102.48 SPEAKER_03  Like, yeah, make it, like, good or whatever.
+3102.58 3102.76 SPEAKER_02  Fine.
+3102.76 3106.42 SPEAKER_02  Well, they haven't made the case for why the studio model is bad.
+3106.98 3107.92 SPEAKER_02  That seems to be...
+3107.92 3109.26 SPEAKER_01  Just because it's inaccessible.
+3109.26 3114.98 SPEAKER_02  Because I also knew a couple of people who've done, like, voice acting for video games, including the latest Baldur's Game one.
+3115.60 3118.26 SPEAKER_02  And so from what I understand, Baldur's Gate...
+3118.26 3118.68 SPEAKER_02  Baldur's Game.
+3119.06 3119.58 SPEAKER_02  I'm not a...
+3119.58 3120.70 SPEAKER_02  I only play Final Fantasy.
+3120.76 3121.98 SPEAKER_02  No, I didn't even play Final Fantasy.
+3122.56 3124.84 SPEAKER_03  I was employed to do the full damage noise.
+3124.98 3125.32 SPEAKER_03  That's right.
+3126.04 3137.64 SPEAKER_02  From what I understand, though, like, what she was telling me was that the reason why that studio model and part of the reason why the game works so well is because of, like, the interaction between different teams.
+3138.20 3145.14 SPEAKER_02  And so this isn't a case of, like, voice actors kind of just do everything separately and everything is kind of, like, you know, it's just, you know, it's done.
+3145.26 3146.16 SPEAKER_02  Like, there is...
+3146.16 3150.54 SPEAKER_02  From what I was told, like, you know, voice actors are very much part of...
+3150.54 3152.46 SPEAKER_02  They are very much a part of the acting process.
+3152.60 3164.74 SPEAKER_02  Things like facial expressions, body movement, all those things that are integrated into the game are important parts of making that experience something that someone wants to invest a lot of time and energy.
+3164.88 3165.30 SPEAKER_02  And this...
+3165.30 3177.38 SPEAKER_02  And fundamentally, if you do think that video games are, like, are sort of, like, going to be the mainstream or if not one of the most the mainstream modes of entertainment, then, like, that stuff is important, right?
+3177.88 3180.62 SPEAKER_02  And these guys are just like, well, no, none of that's important.
+3181.02 3184.12 SPEAKER_02  Like, the whole, you know, you can do all these voices, just...
+3184.12 3187.32 SPEAKER_02  You can just computer generate them and, you know, none of...
+3187.32 3189.98 SPEAKER_02  To me, it just sort of feels like they kind of...
+3189.98 3202.92 SPEAKER_02  They're sort of making these statements about video games as, like, a future entertainment model because they see big numbers and big money in there, but they don't really understand why people like them.
+3203.32 3203.52 SPEAKER_00  Mm-hmm.
+3203.86 3206.92 SPEAKER_00  Right, abusive staff, that the studio system is horribly broken.
+3207.56 3210.72 SPEAKER_00  But what they're proposing is to say, okay, well, how about...
+3210.72 3213.00 SPEAKER_00  What little good remains in here?
+3213.06 3214.10 SPEAKER_00  What if we got rid of that?
+3214.10 3215.24 SPEAKER_00  You know, what if...
+3215.24 3220.38 SPEAKER_00  And what if we had even more cynicism about the consumers of these products?
+3220.82 3236.50 SPEAKER_00  Because they say, you know, we think one way of shipping games with 10 times or 100 times more voice acting would be through a combination of AI voices with generative AI models like ChatGPT so that some percentage of the voice acting is done entirely autonomously by NPCs responding directly to player actions in the game.
+3236.94 3253.88 SPEAKER_00  In order for narrative and games design teams to trust the responses of these autonomous AI smart NPCs, the brains who need to be fine-tuned in the lore of the game, and we see the role of writers and narrative designers eventually encompassing, rather, the management and fine-tuning of memory and context conditions that power these NPCs.
+3254.12 3254.64 SPEAKER_00  In addition...
+3254.64 3255.06 SPEAKER_01  But this is...
+3255.06 3261.56 SPEAKER_01  This is why it's so fucking weird that they cited Starfield, because Starfield was a game that used a huge amount of procedural generation.
+3261.90 3262.96 SPEAKER_01  Just not on the voices.
+3262.96 3265.14 SPEAKER_01  And people hated it.
+3265.34 3271.20 SPEAKER_01  It got kind of like a mediocre reception, because everybody looked at it and went, this is just all the same.
+3271.30 3272.06 SPEAKER_01  It's interchangeable.
+3272.14 3281.08 SPEAKER_01  And what you've done is you've handed me this kind of, like, grey sort of, like, set of, like, activities and been like, there, go do this for 100 hours, you fucking idiot.
+3281.14 3281.68 SPEAKER_00  Yeah, you love it.
+3281.94 3282.26 SPEAKER_00  You know?
+3282.62 3283.76 SPEAKER_00  And that's...
+3283.76 3284.94 SPEAKER_00  And what is their...
+3284.94 3288.04 SPEAKER_00  Of course, what do they see the role of the writer or narrative designer as?
+3288.04 3293.44 SPEAKER_00  Like, some of the, like, places where the connection actually does come through to someone creating something?
+3293.84 3294.24 SPEAKER_00  Managers.
+3294.70 3295.22 SPEAKER_00  They're just...
+3295.22 3301.44 SPEAKER_00  It's just a way to expand management and to have more people be managers and managers do more things.
+3301.80 3304.64 SPEAKER_03  And this is what I was getting at, I guess, with the voice acting thing.
+3304.68 3307.94 SPEAKER_03  It wasn't to, like, denigrate the work of voice actors, but just to say...
+3307.94 3310.72 SPEAKER_03  It just feels as though this is such a bizarre...
+3310.72 3322.00 SPEAKER_03  Like, I really don't see as though, like, getting enough voice acting recorded was really the barrier that most people were experiencing to creating a blockbuster video game.
+3322.08 3327.30 SPEAKER_03  Something which requires massive budgets for, like, making every other bit of the game.
+3327.36 3330.24 SPEAKER_03  And I feel like the voice acting budgets probably weren't that big anyway.
+3330.24 3332.68 SPEAKER_00  I think that the key here is...
+3332.68 3344.26 SPEAKER_00  You can see this, and how I see this, is in a larger form of a kind of management fantasy, which is, well, what if we apply generative AI to more and more and more of it?
+3344.26 3347.02 SPEAKER_00  And you could reduce the need for people...
+3347.02 3348.06 SPEAKER_00  I mean, the perfect...
+3348.06 3349.18 SPEAKER_00  This comes back to even...
+3349.18 3350.96 SPEAKER_00  We talked about that company Honu, right?
+3351.54 3351.92 SPEAKER_00  Where...
+3351.92 3352.64 SPEAKER_00  See, where that...
+3352.64 3353.16 SPEAKER_00  Honk if you are.
+3353.18 3354.06 SPEAKER_00  Honk if you're Honu.
+3354.44 3364.68 SPEAKER_00  Where the fantasy is, well, what if you could have a company that was just generative AI, and so everybody was a CEO of their various generative AI employees, right?
+3364.72 3371.74 SPEAKER_00  It's about making the world safer for CEOs by insulating them from more and more and more and more people.
+3371.74 3374.88 SPEAKER_03  We've got to make the world safer for CEOs.
+3375.08 3377.84 SPEAKER_03  That's why I go on those CEO walks at night, you know?
+3378.98 3379.74 SPEAKER_03  Reclaim...
+3379.74 3384.16 SPEAKER_03  When you reclaim the city for CEOs, like, yeah, I'm allowed to wear a suit and tie.
+3385.40 3386.38 SPEAKER_00  Anyway, anyway.
+3387.18 3396.94 SPEAKER_00  But I sort of see that the fantasy here isn't just to do this with voice acting, but to do it with narrative design, with art design, to do it with animation.
+3396.94 3405.34 SPEAKER_00  And, I mean, already it's happening with people doing this with basic code, even though what really happens is you say to the AI to code something and it says, you do it.
+3405.80 3406.52 SPEAKER_00  Even still.
+3406.86 3411.86 SPEAKER_00  You can see the vision that is implicit in these products.
+3411.86 3420.72 SPEAKER_03  One day, Riley, you're going to be playing a video game and you're going to realize that it's been based off AI generations of my voice as you meet the fourth character in a row that's
+3420.72 3425.06 SPEAKER_04  like, well, now it appears that you have found your way into some kind of mini boss battle.
+3427.14 3429.46 SPEAKER_00  Oh, my. Anyway, anyway, anyway.
+3429.80 3435.80 SPEAKER_00  That was Replica Studios and the horrifying vision of things to come for yet another creative industry.
+3435.80 3436.24 SPEAKER_00  Yeah.
+3436.66 3437.02 SPEAKER_00  Yeah.
+3437.18 3437.74 SPEAKER_00  How exciting.
+3437.94 3439.88 SPEAKER_00  This is, of course, been TF Bonus.
+3441.28 3445.16 SPEAKER_00  Don't forget, we have a new show, me and Milo.
+3445.34 3446.58 SPEAKER_00  It's called Glue Factory.
+3446.78 3447.84 SPEAKER_00  We're doing it with Olga and Pierre.
+3448.40 3448.58 SPEAKER_03  Yeah.
+3448.82 3450.46 SPEAKER_00  With AI generated Olga and Pierre.
+3450.46 3454.46 SPEAKER_03  If you like Balthazar Speedbo, it's basically that, but on YouTube.
+3455.24 3455.76 SPEAKER_03  That's right.
+3455.80 3457.46 SPEAKER_03  You can see our faces.
+3458.38 3458.54 SPEAKER_03  Yeah.
+3458.64 3459.60 SPEAKER_03  Please do check that out.
+3459.92 3460.62 SPEAKER_03  Live dates.
+3460.72 3461.38 SPEAKER_03  I have so many.
+3461.52 3463.18 SPEAKER_03  Rotterdam is pretty much sold out.
+3463.18 3466.48 SPEAKER_03  Please come to Leicester Comedy Festival on the 18th of February.
+3466.90 3469.68 SPEAKER_03  Please come to my special taping on the 11th of February in London.
+3470.18 3472.26 SPEAKER_03  Please come to all of the Australia tour dates.
+3472.58 3474.04 SPEAKER_03  All of that is on my website.
+3474.28 3476.16 SPEAKER_03  Oh, and Brighton on the 3rd of March.
+3476.18 3477.02 SPEAKER_03  But you love Brighton.
+3477.12 3477.88 SPEAKER_03  It's your favorite city.
+3478.52 3478.96 SPEAKER_03  I do.
+3479.12 3484.22 SPEAKER_03  I do need, and I need to sell some fucking tickets to pay for the parking because I know that's going to be extortionate.
+3484.40 3484.52 SPEAKER_00  Yeah.
+3484.64 3489.30 SPEAKER_00  Well, you should buy, while you're down there, you should get some Lucy and Yak overalls.
+3489.66 3490.20 SPEAKER_00  Oh, yeah.
+3490.50 3491.22 SPEAKER_00  Yeah, that'll be good.
+3491.22 3492.30 SPEAKER_00  I'll blend right in.
+3492.30 3492.62 SPEAKER_00  Yeah.
+3492.74 3493.40 SPEAKER_00  Anyway, anyway.
+3493.72 3496.22 SPEAKER_00  Thank you, everybody, for listening, for being a bonus subscriber.
+3496.76 3501.12 SPEAKER_00  And we will see you in a few short days on the free episode.
+3501.48 3501.84 SPEAKER_00  Bye, everyone.
+3501.88 3502.28 SPEAKER_00  Bye-bye.
+3502.56 3502.58 SPEAKER_00  Bye.
+3502.58 3502.78 SPEAKER_00  Bye.
+3506.26 3508.46 None  Bye.
+3508.48 3512.38 None  Bye.
+3513.50 3514.24 None  Bye.
+3514.38 3514.48 None  Bye.
+3515.24 3516.26 None  Bye.
+3520.66 3521.22 None  Bye.
+3521.22 3521.26 None  Bye.
+3521.64 3521.78 None  Bye.
+3521.78 3522.20 None  Bye.
+3522.26 3522.28 None  Bye.

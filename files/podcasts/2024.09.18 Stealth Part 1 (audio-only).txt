@@ -1,0 +1,2990 @@
+Beautiful. Alright, Justin, do you want to do the intro then, if we're introducing ourselves?
+Should I do the intro?
+Yeah, go for it.
+Oh my god, all the markings are still here.
+You gotta un-madden this shit immediately.
+Oh no, Roz!
+Oh no, hold on, hold on.
+That's not working, that's not working.
+This is fine, this is fine, right.
+Everybody pretend you don't see the red circle.
+You don't see it.
+You don't see it.
+Well that's part of stealth, right?
+Yeah.
+See, now it's gone.
+Perfect.
+Um, hello and welcome to a bonus episode of Well There's Your Problem podcast, a podcast
+about engineering disasters with slides.
+You already know about it, but our guest wants to say yay Liam.
+So I'm Justin Rozniak, I'm the person who's talking right now, my pronouns are he and him.
+Okay, go.
+I'm November Kelly, my pronouns are she and her.
+I'm reserving the yay Liam for our guests.
+Alea Kutz, she, her.
+Uh, yay Liam.
+You fucker!
+Yeah!
+No, no.
+I don't wanna do this stupid podcast anyway.
+Yay Liam!
+Hi!
+I'm Liam McAnderson, I'm the person who's talking right now.
+Uh, we, um, we've got to be a good idea to do an episode about stealth technology, and on
+the screen before you, you see a fine example of stealth technology.
+Stealth.
+Stealth.
+Stealth.
+Stealth.
+And Alea wrote most of these slides, so I'm gonna let her guide us through this, but I
+have little contributions to throw in here and there, that just like, to divert it down
+another like, hour long tangent, you know?
+Yeah.
+Oh yeah.
+Don't worry, we will also be talking about stealth other vehicles, such as boats, and
+trucks, and even stealth trains.
+That's right folks, they existed.
+Hmm.
+Yeah, me looking for like, electrified train routes in the US, and being told that they're
+just very resistant to, uh, like, to me searching for them.
+Yes.
+Why not?
+Alright, next slide please.
+Alright, we gotta do a disclaimer first.
+Hello, my name is Alea Kutz.
+I work for the US government.
+I cannot say what I want to say often, so here's the disclaimer.
+This is an informative comedy podcast.
+The views I express are for the purposes of education and humor, and should not be assumed
+to reflect my personal views.
+As a subject matter knowledge holder, I will be extensively referencing Wikipedia, so that
+I do not share things that are not public knowledge.
+Neither you nor I want to go to federal prison, and I do not want to be causing problems for
+NOVA, as a foreign national on the show.
+It's fine, I'll just like, cover my ears and like sing.
+La la la la la la la la.
+This is not the venue for disclosing classified information.
+That is the War Thunder forums you're thinking of.
+The email to reset my password doesn't come through.
+Okay?
+I keep trying, but it's like, I counter lost the password to, and I can't reset that one.
+It's a whole thing.
+Don't worry about it.
+It's a whole thing.
+So, that said, I do want to welcome our new visitors, and returning visitors, from both
+the US counterintelligence community and other nations intelligence services.
+I hope you enjoy the show.
+Yeah, I was gonna say, I was a little bit hurt that there would be new listeners, you
+know?
+Like, I think some of those people are like, you know, sort of patrons in good standing.
+First time, long time, right, yeah.
+Even though we're definitely recording this for the first time, I definitely didn't add
+it on upon your request.
+Oh, that's the real issue, is those guys got the first version of this intro.
+Mmm, yeah, no, that's true.
+Oh yeah.
+This is the, like, compromat, is they hear all the stuff that we, like, edit out.
+It's like, I couldn't do it that time, that one was full of too many slurs, anyway.
+By the time we reach the next slide, there'll be a new material and the timing will be right
+back to normal.
+Just in time for the Zencaster to crash again.
+Oh, better fucking mind.
+Don't say that.
+And if anyone here is listening from the Secret Service, I'm gonna have some words
+for you when we get to the train section.
+Just unusually sp- adding to the list of unusually specific beefs you have with the government
+agencies, you know?
+Yes.
+I mean, I have occasionally texted my FBI guy by texting myself, just to say hi.
+I feel like that was a very lonely job, and I just wanted to make sure that he felt loved.
+And I know you exist, I can't hear you, but I'm here for you.
+Just, like, radicalising my FBI guy by being like, you are seen, and you are valid.
+We see you, we hear ya.
+Doing a real, like, the lives of others thing, where I'm watching I Saw the TV Glow, my FBI
+guy is watching I Saw the TV Glow and crying.
+Alright, are we sufficiently disclaimed now, that people are not gonna get mad at us?
+I sure hope so, because if people don't understand that this is a performance, then I won't be
+able to deal with them in real life anyway.
+It's comedy, this is comedy that's happening.
+Yes, we're doing comedy.
+Apart from me, everything I say is 100% sincere, I believe all of this, all of this is actionable.
+Yeah, maybe we gotta front load this with some conspiracies, Bush did 9-11.
+What else?
+The FBI 91 doesn't exist.
+Yeah.
+Whoever believes everything that's on slide 44.
+CIA killed Kennedy, what else?
+Who said?
+Yeah, yeah.
+Every conspiracy theory about the Kennedy assassination is true at once.
+Yeah, exactly.
+Okay, now they won't believe us if we accidentally disclose classified information.
+Sounds good to me.
+Alright.
+Let's go.
+Our beloved Onion.
+Our beloved Onion.
+Oh, we still have John Maddening happening.
+Oh yeah.
+But you can just, like, I don't know.
+I can't de-John Madden this.
+Alright.
+If I knew enough about football, I could land a really good joke about John Madden there.
+A less than a lack.
+Yeah, yeah.
+Cause I feel like John Madden is kind of out of fashion now, now that he's been dead for
+three years, and I'm kind of like, we have to de-Madden this as like, some shit that like,
+the Oakland Raiders said in like 1978, you know?
+De-bathification.
+Mmhmm.
+Yeah.
+A secret speech to the Oakland Raiders.
+We tore down the big statue of John Madden.
+Alright, so, yeah, your Onion is ready.
+Your Onion is ready to go.
+The Onion's ready.
+The Onion's ready.
+This is the integrated survivability Onion.
+Connoisseurs of military slide technology will have been aware of this.
+Those who haven't seen it before, you're welcome.
+Mmm.
+So the survivability Onion describes what it takes in a warfighting scenario for people
+to get you dead.
+We are talking about layers of that Onion today.
+In a previous bonus episode, the team went through camouflage, which is the do not be
+acquired layer, which means that you are seen, but you are not recognized.
+Oh, just like how the Democratic Party treats its constituents.
+Yeah, kinda.
+The enemy are telling you that you're valid, and they're saying that they're gonna listen
+to your concerns.
+It feels more like they just like hold my rights at the end of a carrot stick, you know?
+Mmm.
+And they're just like, yeah, just keep trying.
+Just keep trying.
+We'll definitely do it this time.
+We had two years with the Senate, the House, and the presidency, and we got shit all.
+Mmm.
+And then they managed to lose the midterms.
+So like, yeah, whatever.
+I believe that they're trying.
+They're doing a good job.
+Mmm.
+Mmm.
+We're talking about stealth today, which is the don't be seen layer.
+Rather than being seen and not recognized, we are trying to avoid any photons of the electromagnetic
+spectrum.
+And we'll also talk about other ways of detecting vehicles.
+I'm reaching the eyes of an observer.
+That is the outside layer of the onion.
+There is a note here to stop here if this is not a bonus.
+It is.
+It is not a...
+Wait, fuck.
+It is a bonus.
+It is a bonus.
+It is a bonus.
+It is a bonus.
+The second layer, don't be acquired, is camouflage.
+The don't be hit layer is the goal of vanilla.
+The don't be penetrated layer is the goal of tops.
+And the don't be killed layer is the goal of trans people.
+I gotta be honest, I'm fucking up all but one layer of the survivability onion pretty
+regularly.
+Unless you're on don't be killed.
+Well, I mean, if you're in the trans person layer and you're not getting killed, you're
+doing just fine.
+This is good.
+This is the affirmation that I needed.
+We want to be in that layer because, you know, we don't want to be outside the top layer.
+You understand what I'm saying?
+Yeah, yeah, yeah.
+You understand what I'm saying?
+The other thing you have to consider is the various other survivability vegetables.
+The survivability garlic, the survivability celery, the survivability potato, the survivability...
+Yeah, how many more vegetables can you name?
+Like a leek.
+Like a leek.
+Maybe a bok choy.
+Oh wow.
+Getting in there.
+Yeah, exactly.
+A carrot, a...
+Just like, some think tank guy is being paid more money than any of us have ever seen right
+now to come up with a racist slideshow about how in China, instead of a survivability onion,
+they have a survivability bok choy.
+And how this has to affect like, force postures in the Pacific going forward.
+I know it's too late to chime in with this joke, because I didn't want to interrupt, but
+like, is the survivability potato a failed Irish technology?
+Jesus.
+Yeah.
+Yeah.
+I think it's more like, you know, sort of like an overwhelmed by the English technology,
+I guess.
+Also, by all means interrupt us, please.
+We all interrupt each other constantly.
+We sure do.
+I was about to say, the first time we went around this joke, we figured the survivability
+garlic is actually a pretty good idea.
+You know, that's strength through redundancy.
+Mm.
+Multiple independent cells, all with their own internal layers.
+True.
+If you want a softer garlic flavor, you want to open up the garlic and you want to pull
+out the garlic hearts from each clove.
+Maybe have a survivability jalapeno.
+Ooh.
+That'd be spicy.
+Something that like deters the enemy from even thinking about your survivability matrix,
+because it's like...
+And then your actual seeds are like separated from the outer wall by like an insulating
+layer of air.
+Oh yeah.
+This is kind of the vibe of my Twitter account, to be honest.
+It's very unpleasant to sort of like, ingest, but that's how I kind of like, reproduce my
+ideas.
+So we have many survivability vegetables possible, but today we're specifically talking
+about the onion.
+We're specifically talking about stealth today, the onion is part of that conversation.
+Oh, yeah, exactly.
+We're talking about the outer layer of the onion is where we're at.
+The surface layer.
+Any vegetable, survivability vegetable or not, has the outer layer of don't be seen.
+Right.
+Yeah, I could take my perfectly ordinary Abrams tank and like, I don't know, park it behind
+a building, and if someone's on the other side of that building and they can't see through
+it, that's a complete onion, you know?
+Yeah.
+It's just that the variables on both sides of that can change, because what if they walk
+around the building, what if they have a...
+Drone shot.
+What if they have a kind of comical periscope that allows them to see around the corner
+of the building?
+Yes, exactly.
+What if they have a...
+Turn your engine on and they can simply hear you?
+Yep.
+What if they have a spy satellite and so on and so on.
+I can't believe we haven't invented the stealth pack yet.
+Well...
+Funny you mentioned...
+It was like a video page, but didn't have anything useful on it.
+I mean, there have been attempts, let's say.
+Kind of part of the problem with talking about stealth technology is that it's a lot like talking
+about MKUltra, right?
+You know, the CIA sort of like, abortive mind control program, to which the logical question
+is, if it worked, would you feel any differently about it?
+Would you know otherwise, right?
+If there is a successful stealth tank, which there isn't, but if there were, you wouldn't
+know, right?
+But, yeah, effectively the kind of state of the art in the field is, oh no, what if cameras
+get good enough that we can just do some kind of optical camouflage on the outside of
+the vehicle?
+What if we could make it invisible?
+Yeah, yeah, yeah.
+Instead of what you're supposed to do.
+I played Metal Gear Solid 2 as well.
+Like, come on.
+You just have to paint it pink and then...
+Oh, I've seen that die another day.
+I've seen die another day.
+Yeah, you paint it pink and then you erect somebody else's problem field around it.
+All right, next slide.
+Next slide, let's go.
+Love this guy.
+Just like everything else, stealth is inspired by nature.
+This is one of nature's perfect killing machines.
+This, I believe, is a snowy owl.
+Yeah, but what about the owl?
+If you are someone who knows birds...
+Oh my god, Edwig!
+I apologize if this isn't a snowy owl.
+And we don't know.
+We're not biologists.
+Owls are quiet, that's stealthy, that's as far as I got with this slide.
+Yeah, I mean, as you say in the notes, the owl is nature's only stealth air-to-ground
+attack animal.
+I spent five minutes thinking about this and I couldn't come up with a counter example,
+so I take your word for it.
+Owls are very stealthy for a number of reasons, like, big honkin' wingspan.
+As you see, this one here is also very well camouflaged against both sky and ground.
+And they're very quiet as well.
+Next slide, please.
+I did find the closest I got to my counter example was that nature does have a stealth
+air-to-air capability in the form of bats.
+Bats creep me the hell out.
+Bats are so cute.
+I'm 50-50, right?
+I also sort of lean towards bats being cute.
+Also, they give you rabies.
+This is the thing.
+But, if you've ever held one, your heart will break in two, and you will die.
+If you've ever seen a close-up of a bat, like, this is not a flattering photo of a
+bat, right?
+If you see a close-up of a bat, you're like, that's a puppy with wings.
+And then, also, you don't want to get rabies.
+So, like I say, mixed bag.
+I don't think you have that problem over in the UK.
+It's over here in America where the bats all have rabies.
+Um, actually that's not entirely true.
+Like, rabies isn't endemic in other animals.
+Like, if you get scratched by a squirrel, as I did, you don't have to get a rabies shot,
+but bats, there have been some cases.
+Like, the UK's only rabies cases have been from bats.
+People going into caves and shit.
+So, you know...
+So it's also cause bats have the most fucked up immune system possible.
+Yeah.
+Yeah.
+It just works completely different from everything else.
+Yeah, I guess the thing is, don't fuck around with bats.
+Like, they're very cute and everything, but leave them alone.
+Leave them to be in their caves and eat fruit flies or whatever.
+And if you are going to go into their caves, I have friends who are cavers, make sure you
+shower and clean first, you do not want to bring in white nose.
+Mm-hmm, and get a rabies shot, you can get one, like, just in case, which is a good idea.
+I believe this podcast's official position is and has been do not go in the caves.
+That's true.
+That is absolutely true.
+Um, next slide, please.
+I thought, the way we've vaguely structured this is, what are some of the ways that you
+can break the first layer of that onion?
+How can you detect anything, but in this case like an aircraft, right?
+And the most obvious one is, you look at it out of your window, or whatever.
+Yep.
+You say, hey, look at that thing!
+I, um, I saw, um, I was reading the Wikipedia page for the B2 Spirit Bomber, which will come
+up later, and the funniest sentence in there is, uh, the B2 is visually detectable from
+like a 39 nautical mile range.
+And it's like, well, yeah, because it's a plane.
+It's made of stuff.
+Yes.
+And so this is the most obvious way you can see stuff, is by looking at it, you give
+this guy an ocular pat-down, photons bounce off the thing, back into your eye.
+Declared him he's not a security risk.
+Yeah, exactly.
+And I mean, this is, like, is still sort of current in some senses, but like, this kind
+of air observation thing used to be much more formalized.
+Um, I got a picture of the Royal Observer Corps on the top left here, um, and the idea
+is like, you know, since World War I or whatever, you have this kind of fire watch type situation,
+um, where you sight up the plane or whatever, and then you know the bearing, and you can
+estimate the distance.
+Um, this is a pain in the dick.
+Like, it's a lot of work.
+You get eye strain.
+If the guy has to go and take a piss, or like, falls asleep, then you don't detect the thing.
+And then your city is a god, right.
+Yeah, yeah.
+It's a big sky.
+You have to, like, search a lot of it.
+Um, and generally speaking, you don't want to do this.
+It's not very reliable, right?
+It's a backup.
+Can we talk about their fits for a second?
+Yeah!
+Because the lower right hand side, that is fire.
+I- that whole kind of like British wartime, like, women's wear situation, very, very
+powerful stuff.
+Um.
+Yes.
+I- yeah, big fan.
+Um, incidentally, uh, you can't really see it, but the top left picture of the ROC guy,
+um, he's wearing like 50 different patches and metal ribbons and like badges and shit,
+because it was like a volunteer organization for like, largely like ex-servicemen, right?
+This is not something that you- by the same token as it's being boring, but it's not
+something you want to devote people who are like, have a lot of other stuff going on
+to, you know?
+Like, your sort of highly technical, specialized stuff, you want not like staring until their
+eyes fall out.
+Uh, next slide.
+Yeah, love all of this stuff.
+Oh my god, this is our early podcasting rig.
+This was a lot of fun to put together.
+Alright.
+Going around the circle.
+On the left, we have sound location and equipment from Germany from 1939.
+I just love seeing fascists be silly.
+Yes.
+Like, they are trying to be serious and they're looking into something that looks like it comes
+out of like a modern art sculpture museum.
+Like, serious work.
+Yeah, we're gonna achieve the master race through this fluegelhorn.
+Big loopy archy- like, I'm sure this is a technical marvel, but I can't imagine taking my job seriously
+if I was sitting in front of one of these things.
+It's goofy as hell.
+Plus, you spend all the time like, doing this, listening in, and you know, then like, a commando
+like, sprints up from the beach and shoots you and you die like an idiot.
+Like, um, yeah, this is- so like, other ways of detecting planes, if you can't see them,
+you can often hear them, because engines are loud.
+Particularly like propeller engines back in the day.
+Um, and if you try and make that hearing directional, which is what all of this is an attempt to
+do, you get like- kind of like, you know, you collect and reflect that sound into some
+dude's ears, then he can then go, yeah, sounds like there's an engine at such and such a bearing,
+you have located the thing.
+You've broken the onion.
+The very top one, a slight non-sequitur, is called the War Trombone.
+Okay?
+Dudes rock.
+It's like, really, it was based off of brass instrumentation.
+Like, super cool.
+Um, the upper right hand side, that's British, keeping it simple as always.
+Nice little cones.
+Yeah.
+Really big cones.
+These guys, okay.
+I was looking at this building back here and I was like, is that, is that the National
+War College?
+No, if it's British, it wouldn't be.
+No, unlikely place for it to be.
+It's stately.
+Mmm.
+It's a very similar building.
+But you do keep copying our fucking buildings.
+Don't think we don't notice.
+Well, I do think the National War College was based on the Imperial War Museum, or something
+like that.
+Yeah, yeah, plausible.
+I mean, to be fair, most of what America's done has been like, doing what the British did,
+but louder and later.
+Yeah, true.
+Yeah, so we got like, the cones are twice as big.
+I really like the bottom right one where it's just the two hemispheres.
+Yeah.
+Dutch parabolic sound amplifiers.
+Oh wow.
+It's unsure if these ever went into production, but they look like a fun hat.
+I just, I love the era of people putting silly things on their head and being dead serious
+about it.
+This is what our equivalent of, like the 1920s equivalent of Devon had to do while editing
+the, well there's your problem radio broadcast.
+Ye old, right.
+Yeah.
+Hopefully we don't go like Father Coughlin.
+This is like serious military infrastructure back in the day, so like all of these guys
+are like, there's nothing funny about this?
+Okay.
+The children Mickey Mouse goggles.
+Stop taking the photos of the Fluckelhorn!
+The Fluckelhorn is Serkeheim!
+The goggles have reticles on them so that when you hear the plane, you just look through the
+reticles and that's supposed to tell you where the plane is.
+As if like the direction your head is facing isn't precise enough.
+Incredible.
+What's wrong with your face?
+The thing is, I can't really find any evidence that these worked, is the other thing, like
+any of them.
+Um, lots of people tried, as we see, they're like, this is across like three or four different
+militaries, like a bunch of attempts to do this, but like...
+But even in early World War II, planes were going at a significant fraction of the speed
+of sound.
+Like, by the time you hear them, it's probably too late to react effectively, if you haven't
+like, known they were coming.
+Or you can just see them at that point anyway, and you're back to square one.
+Right.
+Back to slide six.
+Still haven't made a plane that flies at a significant fraction of the speed of light.
+Um...
+We're going through like, emissions that a plane can, like, you know, give you, right?
+Like, one of them is photons.
+This one is like, sound waves.
+Sound.
+Phonons.
+Mmm.
+And then I don't know what else it does, uh, blue ice, I guess.
+We'll get there.
+It does a few other things.
+Well, if it was World War II, it would have been lead poisoning.
+Oh good.
+From that leaded avgas.
+Also, the Nazi, there was a Nazi rocket that melted you instantly?
+Oh, yeah, the fuel in the, like, ME163 and stuff like that.
+Red fuming nitric acid.
+Yeah, good stuff.
+Read Ignition by John Clark at some point.
+I have.
+Fantastic book.
+But also, avgas still has lead in it.
+It sure does.
+Yeah.
+I mean, for small piston engines, yes.
+It is a continual point of strife at the local airport.
+Uh, next slide.
+Okay, we're just going to switch.
+We're doing brutalist architecture now.
+Sorry, this isn't stealth anymore.
+This is, we're talking brutalism.
+Nice.
+We're talking about the origins of the architectural theory here, we're talking about geometric
+shapes made out of raw building material, exposed brick, exposed concrete.
+Giant...
+Actually, we're talking about sound horns again.
+Giant polling pockets for moving the island of Britain.
+Ooh.
+Just like, you know, you get a finger into each one of these.
+Um, yeah, it's a kind of logical thing, right?
+To be like, well what if we made the reflector bigger, and what if, instead of it just going
+directly into a guy's like, ear holes, you know?
+They could go into everyone's ear holes.
+Yeah.
+Yes.
+So these are in the land of Nova, the UK.
+They were interwar construction.
+Yeah, we can just kind of demolish the idea that Britain wasn't thinking seriously about
+the Second World War breaking out ahead of time.
+Read David Edgerton's England and the Aeroplane for more on this.
+And, yeah, like, we built a lot of this stuff actually.
+I just think they're really cool, I wanted to include them.
+Yeah.
+It's perfectly valid.
+I want to go visit them at some point, should I ever be allowed to leave the nation after
+this podcast.
+I like the big reflecting wall, the like, big curved, like, flat surface.
+Yeah, I wonder if that one was for boats, instead of planes.
+Because it's like the angle of it would think you'd be picking things up off the surface
+more than you'd be thinking out of the sky.
+Interesting.
+So I've got a note here that like, at the wavelengths of sound that a human ear is sensitive to,
+the smaller ones wouldn't have any issues with like, constructive or destructive interference.
+But the larger wall might, if it's not a parabola, if it's just an arc.
+Hmm.
+Could you listen to a podcast through these, is my question.
+I don't know.
+That would really depend on the position of the speaker emitting the podcast noises.
+I'm just hanging a bluetooth speaker out the back of a, like, Heinkel, like, bomber,
+that's like, doing laps of the English Channel.
+I think the signal would be lost in the engine noise.
+Yeah.
+Bam.
+Sorry.
+We don't actually make a podcast, we emit a podcast.
+I'm emitting a podcast.
+That is kind of true.
+Yeah, we secrete a podcast.
+Yeah, it's a secrete.
+I don't like that.
+I don't like that.
+When Star Sword the podcaster secretes a thick layer of content.
+A thick layer of rifts, yes.
+Until the Predator has sage it and then goes away.
+Okay, fine.
+Yeah, yeah.
+Fair enough.
+So, other emissions.
+You know how your eyes work, right?
+No.
+You just, uh...
+Okay, well...
+So, photons...
+Well, okay, alright, take that down.
+Photons come into them, right?
+Yes.
+Well, so, what if you could emit some kind of, I don't know, beam, wave, whatever,
+and it bounces off of something when it hits it, and then you know that it does that because
+you receive it like photons into the eye.
+What if you did that with, like, electromagnetic waves?
+Um...
+What if you did that with a slightly different kind of electromagnetic wave?
+Oh god.
+What if you did this with a radio wave?
+Right?
+Because that's what radar is.
+Um...
+And this is two examples of that.
+Oh yeah, I've seen this in the first war zone map.
+I remember this.
+Yeah, so that's what these are.
+Um...
+These are two radar emplacements from the early war years.
+Um...
+The lower right-hand side is the German Freya radar.
+It had a shorter wavelength, um...
+roughly 1.2 meters, or 3.9 feet for our imperialists in the audience.
+Um...
+And Chain Home, the British equivalent, is in the upper left-hand corner.
+It had a much longer wavelength, uh...
+10 times longer at 12 meters.
+Um...
+The 12-meter radar was probably the right choice for the time, to be fair.
+The smaller wavelength of the German radar would have allowed for detecting smaller planes.
+Um...
+But planes aren't typically smaller than 12 meters.
+So, the 12-meter radar will go a lot further through the atmosphere.
+Uh...
+Lower energy waves tend to penetrate gases better.
+There are exceptions.
+Do not quote me on this.
+Um...
+But it generally meant that, like, it had more of an over-the-horizon kind of capacity,
+plus it was taller, and it had less interference with other sources of radio noise.
+You have to have a very long emitter to emit a 12-meter wavelength.
+A 1.2-meter wavelength could be done by plugging something into a wall socket with a 1.2-meter cable,
+could emit that same level, or that same radio wavelength.
+Because you're looking at antenna length in these really non-modulated designs.
+And I will also say, like, chain-home is useful, because you're looking to detect massed formations
+of planes, rather than just one.
+Um...
+Whereas, right, although the German radar might be technically more advanced, on the one hand,
+who won the fucking war anyway?
+I'm surprised the Germans would over-engineer something to no benefit to themselves.
+These freaks make hub holders difficult.
+Yeah.
+Second point, they placed a bunch of these along the coast of France, and further to my
+joke about a commando coming out from the beach and shooting you while you look like an idiot,
+using your big flugelhorn, that's exactly what they did with one of these.
+They captured a Würzburg radar off of the coast of France, Operation Biting.
+It's a cool story.
+Just like, fully grand theft autoing a radar, you know?
+But what are you gonna do?
+You put it on the coastline before you build the Atlantic wall, you know?
+Yes.
+That's a problem.
+Never do that.
+You still do it twice.
+Yeah.
+But yeah, so you bounce the fucking radar wave off the thing, it detects the thing.
+When you tell the civilian population about the anti-survivability carrots.
+No.
+Yes!
+But that was a rumour that we saw, because we didn't want to disclose the existence of
+radar, so we said...
+And the British people ate lots of carrots, that's why they had good eyesight, they blamed
+it on vitamin A, I believe.
+Yes!
+That's fucking genius!
+I know this story because that's how my parents covered me by vegetables when I was
+a kid.
+And, like, you can advance this technology, you can scale this up, you can detect all kinds
+of stuff with it, you know?
+Foreshadowing.
+Next slide, please.
+I remember this from Call of Duty Black Ops.
+Oh, over the horizon radars.
+Really big radars.
+Oh, this is the one I was thinking of.
+Yes, yes, yes, yes.
+Alright, so in the upper left we have the US Navy relocatable over the horizon radar
+installation.
+Looking at the concrete pillars that hold these things up, I wonder exactly how relocatable
+the relocatable over the horizon radar was, or why you would need to relocate something
+that can see over the horizon already.
+But apparently it was.
+In case the enemy moved the horizon.
+I mean, there's nothing you can really see for scale here, but it doesn't look like
+those footings are too crazy.
+Hmm.
+So a bunch of guys with like giant hammers?
+I believe they're on the scale of roughly street lamps, like the big interstate highway
+street lamps.
+Oh, that's gonna take like, I don't know, like two or three days then.
+Fine.
+Whatever.
+I'm not a mechanical engineer.
+I just fly space planes.
+It's fine.
+Um.
+Soviet radio.
+That's not a job you can do iJust about.
+Yeah.
+Yeah.
+No, you don't have the concrete knowledge, you have the plane space knowledge.
+Yeah, not a lot of concrete in a space plane, I imagine.
+Not yet.
+I could be surprised.
+One day, one day we're gonna figure out how to make rockets really big.
+When can't nobody hears about mass simulators?
+Mmm.
+If the Soviet Union had never fallen, you know, Buran would still be up there delivering payloads
+of concrete.
+Such a pretty bird.
+To Mir-3.
+To Mir-3.
+You have like a fucking Buran with like a, like a big like cement mixer or concrete mixer
+drum on the back, you know?
+I mean, if you drop concrete from orbit, it would be coherent enough to maintain cohesion
+through the atmosphere, but it would be silica materials and it would look like a meteorite
+by the time it hit the ground.
+What?
+Like, you know, who's gonna blame you for a meteorite?
+Just saying.
+This is smart.
+Clearly, I wouldn't be disclosing national secrets, so if this is a thing that exists,
+check my record and make sure I didn't participate in it first.
+Cool, thanks.
+Rocks from the gods.
+Upper right, Soviet radar.
+Chernobyl, this is radioactive now.
+Yeah.
+They're big radioactive catch vents.
+So like, Soviet radar systems are fun because they're not very good.
+We'll get to the stuff that communism makes you good at, but like, um...
+But they made it bigger when it wasn't very good.
+Yeah.
+There's something to be said about simplify and add weight.
+I mean, not so much in this case, because for a long time, one of the most likely contributory
+factors to the end of human life was that the Soviet Union had remarkably shit early
+warning for, like, nuclear weapons.
+And something like this would be very vulnerable to a CME.
+Mm-hmm.
+Like, Colonel Mass Ejection, for those of us not in space science.
+Uh, the sun burps.
+When the sun burps, it sends a bunch of plasma, ionized gases to the atmosphere.
+It interacts with the magnetosphere of the Earth, the thing that makes your compass point
+north.
+And that creates basically lots and lots of magnetic and electrical energy that reaches
+the surface.
+On large, long wires, like the Drugo radar here, you could set the thing on fire should
+you just be in the wrong time zone for a solar flare.
+Yeah.
+They built two of these.
+One of which is in Chernobyl.
+And, uh, yeah.
+Not very good.
+But!
+They did give numbers stations enthusiasts something to get confused about.
+Yes.
+Because, like, this, it, like, emitted into shortwave radio.
+And so you would get this weird kind of tapping sound coming from Russia.
+You could, like, you know, like, geolocate this pretty readily, because it's a really strong
+signal.
+And a bunch of people went nuts trying to work out what this was, you know?
+Wouldn't that be Ukraine?
+Not Russia?
+Yeah, excuse me, sorry.
+Exactly, exactly.
+I did the, like, England-Britain thing, shoot me.
+Yeah, here I am, supposed to be the guy with the contrarian Ukraine takes, and yet...
+Well, I meant, I conflated Russia and the Soviet Union, which is a bit more understandable,
+I hope.
+Sorry.
+My apologies to the Ukrainian SSR where this was.
+I've been trying to, I've been waiting for an opportunity to make a joke about Khrushchev
+recently, but I don't know when it's gonna happen.
+Mm-hmm.
+Well, five-sided.
+On account of, you know, Khrushchev, you know, Khrushchev was born in Ukraine, and he was
+the Ukrainian leader of the Soviet Union.
+He's like, well, no, he was born in, what's the thing next to Ukraine?
+Kursk.
+It's like, if you're Ukrainian now, bitch.
+Anyway.
+Is that like, is that just like a capturing the king gambit where you just, like, now you
+just own Russia if you capture the hometown of the leader?
+If you captured the hometown of Khrushchev, then he like rises from the grave, and like
+the separate, like, next to the Lenin mausoleum, there's a Khrushchev mausoleum no one goes
+to.
+It's like, the same pyramid arrangement, it was smaller.
+Yeah.
+I really like this...
+Khrushchev beats up Putin.
+Is it a radome, if it's like, sort of, this faceted triangle situation?
+No, this thing where you can see where technology killed art, this cubist structure is the, it's
+a paved system.
+It is a phased array radar system.
+Those big flat panels are a grid of independent emitters.
+And by changing the phase at the exit port of each of those emitters, you can basically
+point a beam through constructive or destructive interference along different axes away from that
+flat plane.
+So you can steer this radar without ever actually moving the emitter.
+It means you can build bigger installations.
+Those installations can have much more focused beams than you would get with out of phase
+system.
+And it also helps avoid lobes.
+Now, lobes aren't generally a problem in consumer electronics, but when you're emitting
+at high powers, you do not want to like cook the engineer who's standing exactly behind
+the emitter with the back lobe.
+Fun story, that's how microwave ovens were invented, radar ovens, was someone walked down
+a radar test range with a candy bar in his pocket.
+When the chocolate started melting through his pants, he got out of the way and they tried
+to figure out why and turned it into radar ovens.
+Nice.
+Microwaves.
+Fun story.
+It's cool that you just have a magnetron in your house now, you know?
+Yes.
+Back in the day, an extreme- again, like the flugelhorn or whatever, an extremely secret
+piece of military technology that had to be precision machined and sort of conveyed on
+secret flights.
+Sorry, go ahead.
+Sorry, it's arc from prestige equipment to like, our cruise ship has a radar oven to cook
+your meals to now like, it's the like, if you have to microwave something, you fail
+as a human being.
+Mm-hmm.
+Hey kids, do you need a source of incredibly high voltage?
+Well, you know, there's a source right within your very own home, in your microwave.
+Take it apart and fiddle with it.
+It'll be fun.
+Yeah, genuinely, one of the most dangerous things in New York.
+Do I need to pretend like I can't, like my voice stopped coming through?
+Do I need to pretend like I've disconnected?
+Because like, I do not want to be part of telling kids to take apart- do not take apart a microwave.
+It will kill you, if it doesn't kill you, it will try to kill you.
+If it doesn't try to kill you-
+Nah, take apart a microwave, fuck you.
+You haven't done it even now.
+Um.
+It used to be, all you had to do was take apart the television to get killed by electronics.
+Now you gotta take apart the microwave.
+That's true.
+That's true.
+Catharachian, again, like, incredible time.
+Anyway, all of this is to say that like, you can detect an aircraft with radar, right?
+Um, that's it.
+That's why we're going with this.
+There are other ways.
+Mm-hmm.
+Next slide, please.
+Oh god.
+This is the brain rock coming through on this one.
+This is my slide.
+I'm not responsible for all of this.
+So you can also detect weeds with radar.
+So the way you detect a weed with radar- no, actually, this is about IR, or infrared emissions.
+Yeah.
+By heat.
+Short, but not short enough to be visible, electromagnetic radiation.
+Mm-hmm.
+It's sort of like, uh, all we're doing here is we're shifting around like, uh, sort of
+like, bands, right?
+Mm-hmm.
+You can detect heat that is emitted by, for instance, an engine, or, I don't know, running
+all the electronics on a plane too.
+A plane's emitting a lot of heat, and you can detect it with, like, infrared search and
+track systems, IRST.
+Um, and there's a number of applications for this.
+Uh, it works pretty well on, like, shorter range stuff, like missiles.
+Like, air-to-air missiles.
+Um, when, uh, Raytheon Sidewinder is doing her, like, intense growling, that's what she's
+doing, right?
+That's, uh, that's like, um, the heat-seeking in a heat-seeking missile, right?
+It's notoriously hard to defend against IR when you are doing a survivability platform.
+Um, IR is emitted by anything that creates friction.
+So, like, your body heat is emitting IR, um, as detectable wavelengths.
+You've seen FLIR cameras in common use today.
+Mm-hmm.
+Um, that wasn't really the time when the AM9 was developed, but now you can just, you can
+go to the store, like, Best Buy, and get yourself a FLIR attachment for your camera.
+Yep.
+This is a fun thing to do if you have disposable income.
+Um, I don't.
+I wish I did.
+Um, there are planes that have tried to hide their IR signature with varying degrees of
+success.
+To hide your IR, you have to go slow enough that the air doesn't create enough friction
+to heat you up.
+You have to dump your waste heat in a way that, like, doesn't heat you up too much.
+Um, the F-117 did a good job of distributing exhaust through a long, thin slit.
+Um, more on that later.
+The YF-23 buried its exhaust and exhaust channels.
+Um, along the top side of the surface of the back of the aircraft, there are these, like,
+steel-lined gutters.
+Those help mix the exhaust gases with cold outside air in such a way that, like, when the
+exhaust passes the bottom of the tail, when seen from below, you don't have, like, glowing
+atmospheric gas that you can detect with a, um, ground-to-air system.
+Um, that said, it was notoriously hard to defend against, it was tried a few times and never
+actually made it into wide service.
+Hmm.
+Uh, there was one other thing, one other source of emissions that I wanted to include, but
+didn't deserve a slide of its own, because it's like, as of yet, that I know about, it's
+not really a kind of useful thing in the broader sense, which is one thing that, uh, planes increasingly
+emit, is radar, radar emissions.
+Um, that's what an anti-radiation missile is.
+Um, not as cool as the name suggests.
+Tacit Blue actually investigated ways of avoiding that, we'll get to that.
+Hmm.
+But so, uh, you could, for instance, that's an emission, you can find the thing with that
+emission.
+Um, as far as, I think Russia claimed to have come up with, like, an air-to-air anti-radiation
+missile, I don't know.
+But the thing is, when you see the big, bright, hot rocket exhaust of the missile heading toward
+you, you can turn off your radar.
+Hmm.
+It's relatively straightforward to turn something off in that way.
+A magnetron doesn't have spinning and moving parts, you stop providing power, it stops
+emitting radar.
+Yeah, you gotta hit the pause button on a microwave.
+Yeah.
+The microwave you have in your F-18, right, of course.
+If someone's cooking a hot pocket in the back of the airplane, you're screwed.
+You're screwed.
+It's over.
+Um, last note on this slide is the gray, um, I'm not sure what to call it, anthropomorphized
+YF-23.
+That red tramp stamp, um, uh, black widow spider hourglass.
+That's on the wrong side of her bodysuit.
+That should be closer to the navel end on her front.
+We'll see a slide about that later.
+Nice.
+Good to know.
+It's just a very, like, uh, sort of like, poisoned slide we've put together here.
+Yes.
+When I started it, it was just the side winder go.
+I will have you know that I pulled the far right bottom corner image out of a conversation
+I had with an Australian friend, directly from my Discord, and straight into here, and
+I was the one who edited it, but not for this podcast.
+So like, before I knew about dangerous levels of internet poisoning, I'm autistic and I like
+the YF-23.
+You're welcome.
+Um, that's all I had for this slide.
+Do we want to?
+Yeah.
+Okay.
+Here we are.
+All right.
+So after we started realizing that you can see planes because they're visible, um, satellites
+were also a thing in the sixties going on into the current era.
+These pictures on the right hand side of the screen are from commercially available images
+on the internet.
+The upper right hand corner is the, um, storage ramp at Edwards Air Force Base.
+I've been there.
+I knew it was there, so I need to look for things.
+But like, you can see-
+Ooh, nice B1 in there.
+Right?
+There's a B1.
+There's something with like two wings and two booms going on.
+Is that an RC-135 rivet joint behind it as well?
+Sorry.
+There's some interesting ones in this thing.
+There's also what looks like an old, like early jet, the, uh, like a meteor maybe, um,
+upper right hand corner of that, that the kind of the trapezoidal wings.
+Some weird shit on these fly ones.
+And I'm not sure what's going on in the left hand side.
+There's a white plane with two wings.
+Looks like a, like a almost full size canard, a main wing, two booms and a high tail.
+Not sure what's going on there, but looks cool.
+I'd accuse Burt Rutan of that, but I'm not sure that he's even that crazy, so who knows?
+I think there's a swing wing F something, I'm forgetting it.
+The pre-F-14 swing wing aircraft.
+Oh god, yeah, I know exactly what you mean.
+My brain knows exactly what it looks like, but I couldn't tell you the F number because
+my ADHD meds have worn off.
+And then there's like, just a DC-3?
+Those are probably EM platforms, or like, research platforms, because the DC-3 has been
+around forever and has really, you can't break its avionics with a glitchy radio emission
+system.
+And I can't talk more about that because I worked at Edwards, I cannot talk about this
+because I don't have the reference in front of me.
+It's just, all of which is to say it's cool that thanks to Google you can do spying
+that the KGB would have killed for the ability to do for free in the comfort of your own
+home and not even get in trouble.
+Yeah, the upper right image was provided courtesy of the National Weather Service, and the lower
+right image is courtesy of Google Maps.
+That is a B-2 spirit stealth bomber caught just over a field in the southeastern United
+States.
+That's wild.
+It used to be to divulge this sort of information, they would seduce you with a sexy KGB lady.
+No, we don't get anything.
+No, it's just internet bullshit.
+Yeah, the problem with open source intelligence, before it became a name for guys on Twitter
+posting gore footage from Ukraine, is that there's a lot of very useful intelligence that's
+just out there now.
+I guess there always was, but now it's more precise, I guess.
+And the last part of this slide is the DSP-16 satellite launched on STS-44.
+I love the fucking military shuttle missions, where it's like, yeah, this one, yeah, technically
+we're still doing all the NASA yay space stuff.
+The flight crew photo, it's like, four military officers, none of them are smiling.
+The payload, classified.
+Fuck you.
+Mission patch, classified.
+Fuck you.
+What's it doing up there?
+Fuck you.
+At times like this I'm really glad that they made the Air Force back down on having their
+own shuttle, apart from, well, mostly.
+Like...
+I mean, they still, they definitely do.
+We'll talk about that in five slides.
+Yeah, I know, but I'm glad that for all of this stuff they made them use NASA for it,
+and you just had to co-locate the alternate shuttle missions, where it's like STS-43 is
+like, teacher in space, you know?
+First person to like...
+Like, teacher almost in space.
+Oh, I showed high schools like that.
+Yeah, yeah, yeah.
+But you know what it is, it's like they're doing like, you know, chemistry lessons up there,
+or they're learning about how to grow a different kind of moss, and then STS-44 is like, what
+does this one do?
+None of your fucking business, son.
+It's one of the few that they actually mentioned what the satellite was and what it did to
+like a very broad way.
+It's an IR detection satellite.
+The suspicion is that it's part of the infrared early detection or IRED system.
+It's possible that it isn't, but like, we've already established that from space you can
+see a lot of things.
+You know what puts out a fuck of a lot of infrared emissions is a ballistic missile.
+That is true.
+As do most jet engines, you are burning a lot of fuel.
+They have visible flame.
+The problem with classified payloads is like, you know, it sounds more interesting than it
+is because I'm sure it's like, oh, it's a better camera.
+Oh, it's a better camera.
+Oh, it's a better camera.
+Oh, it's a better camera.
+What do you think they're sending up this time?
+Oh, it's a better camera.
+The great time about working on classified payloads is that people say, if it's boring,
+you can say it's classified.
+And if it's not boring, you still have to say it's classified.
+I don't know, I think the boring incremental camera upgrades probably feel good as hell
+if you're an intelligence officer.
+That's true, yeah.
+When I get a new camera, I feel great.
+If that new camera costs like $140 billion dollars and I work in the National Reconnaissance
+Office, I'd probably feel 140 billion times better than that.
+Hell yeah.
+I refuse to say anything about cameras for at least a minute because if Nova hears that
+I like Fuji and I like shooting digital, she's going to be mad.
+I'm not going to be.
+I have a Fuji digital.
+I wouldn't.
+You do.
+Okay.
+I've got the XS20 and I'm reshooting it on a 50 millimeter, a 1.5 anamorphic Sairui lens.
+Ooh.
+Which, so that manual like cinema lens, the oval bokeh, you can shoot stills on it just fine.
+It's gorgeous.
+Ah.
+It's lovely.
+It has just enough imperfection to have character, but it has like every picture looks like a
+still from a movie.
+It is so good.
+Like I have a clinically sharp super telephoto for shooting paragliders.
+Wow.
+And I have this lens that I carry everywhere else because it just, every picture just
+is gorgeous.
+Mmm.
+Anyway.
+What if you used the shuttle to steal a military camera satellite and use that for your own
+camera?
+That you can't, okay.
+Haven't you just given us the plot of Moonraker?
+It's the plot of Moonraker, it's also a real thing.
+Like, I venture to suggest this is an area that is not widely spoken about, for good reason,
+but like, I would be amazed if no one had come up with the idea of kidnapping a satellite.
+Or indeed if it hadn't been done.
+That was part of the mission parameter for the design of the space shuttle, was that
+it had to be able to rendezvous with a satellite in an orbit that could only have launched from
+Cosmodrome and returned to the US.
+Like that was literally one of the missions it was designed to do was to capture a Soviet
+satellite.
+Yeah, I'm just adding the extra things that then you use the satellite for like street
+photography.
+Yeah.
+I hate to burst your bubble, but like under 1g of gravity, because satellites are built
+to be as lightweight as possible, because lifting launch mass is expensive, the structural stability
+of the camera would be so compromised that you wouldn't have optical alignment under 1g,
+of course.
+Sorry.
+Oh, goddammit.
+And then me being like, nah, it's fine, I don't need a tripod.
+Incidentally, I went on a really good podcast called Failure to Launch about the time that
+the CIA kidnapped a satellite that hadn't even left Earth yet.
+Jesus.
+Right?
+Actually it had left Earth, it had come back to Earth, and the Soviets just like put it
+on display, and the CIA kind of kidnapped it.
+It was an interesting story.
+The high music starts playing.
+Yeah, literally.
+The shuttle to my knowledge is still in that like rotting away in a hangar we could, you
+know.
+Yeah.
+I thought they just moved.
+I'm pretty sure it's going to a museum now.
+I'm not sure.
+I'm certain.
+Well, a museum is actually easier to get to rather than a locked hangar, honestly.
+It's on display, you can just walk up and scope the place easily.
+We'll wrap, we'll use Mia for local intelligence, we'll use Victoria for our getaway driver.
+It'll work.
+Yeah, no, perfect.
+Next slide.
+The first all trans heist.
+I put in a slide for us to wantonly speculate about weather satellites and other Earth observing
+systems and their use as military assets for detection and surveillance.
+It is surprising how many Earth observing weather satellite jobs require a top secret clearance.
+Justin, would you be so kind as to click the link in the slide notes?
+Oh, hold on.
+Let me see if I can.
+Oh, I don't know what those coordinates go to, but I can take an educated guess.
+Allow weathercams.faa.gov to access your location.
+Well...
+Hold on a second, I'm having some trouble clicking this from PowerPoint.
+Justin, it's your house.
+It's an image of your house.
+Is it an image of...
+I don't believe you.
+Yes, it is.
+It literally is.
+Ross, don't open that.
+It's like an alarmingly high resolution image of your house.
+Yeah.
+Yeah.
+Yeah.
+That's...
+Yeah.
+Look, what a surprise.
+Someone's blocking the gate.
+Yeah.
+Okay.
+So, like, when I say that, like, the satellites that observe the Earth observe the whole heck
+in Earth.
+Like, if you have a distinctive hat, we can track you with weather satellites.
+No military knowledge required.
+I'm putting military in air quotes here.
+You can't see it on the podcast.
+Mm-hmm.
+Because anything that observes the Earth is an intel source.
+And whether we're looking at, like, the weather patterns, or we're looking for contrails,
+or we're looking for soil moisture, or we're looking for, like...
+That's a weird place.
+It looks like there's tunnels dug underground because there's not enough soil moisture.
+Man, this is crispy.
+Oh, that is my house.
+Yeah, they got this on a big screen in the Department of Energy.
+Two people are blocking the driveway.
+Yeah, they fucking do that.
+We're getting...
+Bearing in mind that we did Bethnal Green and I nearly doxxed Trash Future, the fact
+that we're getting more and more precise, I'm half expecting to see a slide in the next
+one that's just in my window, me looking out of the camera, just like...
+In before Justin starts wondering how I knew where he lived.
+How did you know how I lived?
+Yeah, you could probably reverse engineer that if you're enough of a psycho, just from
+the stuff I've posted on Twitter.
+I...
+You know, but that seems relatively easy, but you know, this is...
+Okay, so the grill is in the old location, they haven't put the pallets up, the driveway
+is looking a little nicer than it does right now.
+Before I got the benches from June.
+Uh, yeah, okay.
+I'm not saying you're not a psycho for putting this in.
+I'm just saying, I can see how you did it.
+I did do the screenshot for a reason, don't worry about it, I'm not that crazy.
+But I just wanted to say hi in my own way.
+Uh-huh.
+Okay, so right now, radar is one of the many tools used to detect aircraft and stealth things.
+The satellites, which we'll talk about more in the ship part of the episode, are more vulnerable
+to satellites than they are to radar because they're pretty close to the ground and most
+radar has a radar floor where the noise of the reflections off of the ground, um, varies
+any signal that you'd get from a returning airplane.
+Um, this is a key feature of the movie, 2005 movie Stealth and the Maverick-
+There we go!
+And the Maverick-
+Stopping the big timer.
+And the Maverick from a more recent blockbuster.
+Mmm.
+Oh.
+They all talk about flying under the radar floor.
+Um, with satellites you don't really have a floor if you're not actually underground,
+pretty far.
+We have to cover the earth in a big tarp.
+Yes.
+Uh, Sherwin-Williams, give us your money.
+Mm.
+Oh, that paved the earth.
+Yeah.
+So, roughly speaking, we now move to the next sort of arc of the podcast, which is,
+if these are all your ways of detecting an aircraft or whatever, uh, something that doesn't
+want to be detected, what can you do about this, right?
+What sort of countermeasures exist?
+And one of them is, what if balloon, what if big balloon, if it's stupid and it works,
+it isn't stupid.
+Yes.
+Arguable if this works, you know?
+They're pretty easy to spot, we knew about them on radar for a while, we thought they
+were one of the balloons at first, to my knowledge.
+Um, and when you do find them, you don't really need a $67 billion fighter program to
+pop them, although the US decided to use one to do the same.
+Funnily enough-
+Definitely hadn't had any aerial kills yet, hadn't had any kills of any kind, so
+they were like, well, we spent four years of-
+Got that sweet high altitude capability, you know?
+Mm-hmm.
+This is a weekend I lost a lot of sanity points, because East Palestine happened the
+same time.
+Yeah.
+Right?
+And what was the leading news story?
+We popped the balloon.
+Well, yeah, it's better to talk about using a-
+So we're gonna rank defense programs in costs of- because Americans don't like using real
+units, we're not gonna measure it in billions of dollars.
+We're going to measure it in years of ending homelessness.
+So, per many news sources, you can check them on yourself, or you can ask me directly for
+them.
+It would cost less than $10 billion per year to make sure there was not a single homeless
+person in the US.
+No one would die of exposure, the social contract would remain intact.
+So, this fighter program cost seven years of ending homelessness in the US, and we have
+popped two balloons with it.
+Hmm.
+I fucking hate this place.
+I do like, about the balloon, right, the idea that, like, clearly, the US is not the,
+like, only military bureaucracy in the world that can waste money, right?
+And, like, curiously, there is an inversion here, because the US- the CIA tried this on
+China with surveillance balloons before, and it was a massive waste of money.
+Like, only, like, three of them even got any useful, like, images back.
+It's very hard to steer a balloon, classically.
+Yeah, and I really love the idea that, like, doing this in reverse is, yeah, partially a provocation,
+maybe, but also just as, like, this shit doesn't work, but we gotta preserve our phony baloney
+jobs, you know?
+Just like, the United States of America is gonna find out why we don't have free healthcare.
+I see this as the equivalent of, like, throwing spitballs within the UN.
+Like...
+Mmm, yeah.
+They're just poking you to annoy you.
+Like, this is a thing that they did...
+Like, kids helium balloon with a, like, camera dangling.
+And America's hilarious overreaction of firing an actual missile at a balloon?
+That balloon was less expensive than the munition used to down it.
+Like, between the cost of the F-22's fuel, the pilot's training, the missile, we came
+out, to use an EVE Online term, ISC negative on this encounter.
+I mean, they kind of threw everything out.
+I remember seeing photos of the, like, balloon taken from the cockpit of a U-2, and I'm
+like, man...
+Dude, get another balloon.
+Like...
+Famously, balloons are hard to steer.
+I just noticed, from the earlier picture...
+Oh boy.
+...that the building eight doors down has a really nice balcony I've never seen before,
+because you can't see it as well.
+I knew he was going to be a strong door, though.
+Oh shit, that is a really nice balcony, actually.
+Yeah.
+Wow.
+Huh.
+That's nice, with the nice, like, gabling on there?
+Wow.
+Oh yeah, it's got a nice gable, you know, this...
+We've got a lot of nice houses in this neighborhood.
+Hmm.
+Hmm.
+Anyway.
+This is the funniest reaction anyone's ever had to being doxxed.
+Next slide, please.
+There were two ways it could go, and one of them involved me screaming and shutting down
+the podcast, so...
+Yeah.
+So, this isn't exactly related, I just wanted to talk about it.
+The X-37B, um...
+What the hell is Joe Biden building in there?
+Like, what the hell are they doing?
+I know, I know, I know...
+Solid block of Kerrygold.
+Putting one into an eccentric orbit.
+No, I know this is a question that cannot be answered, at least by anyone who doesn't
+want to go to federal prison, right?
+But, what the hell are they doing with this fucking thing?
+Thankfully this is an area I've actually got no direct personal knowledge, so I can speculate
+wildly with the best of them.
+It's just up there doing stuff!
+It's...
+Personal theory, there are crystalline structures that are difficult to grow under gravity.
+Hmm.
+I also might have read Artemis too recently.
+I just...
+I sometimes wish, right, that I had never...
+I'd never gotten mental health, I'd never started posting, I was like fully on the straight
+and narrow, so that I could be the highly cleared cog in the highly compartmentalized machine,
+just to satisfy my own personal curiosity about what the hell Joe Biden is putting in space.
+I...
+And now, for work, right, I get to talk to people who have been highly cleared cogs in the machine,
+and they won't tell me either!
+Fuckers.
+If I told you I wouldn't get to listen to more episodes of the podcast.
+It's like, uh...
+I can be trusted with classified information, I swear!
+You cannot be!
+They're like growing turbine blades in there, and like, you know, in 20 years,
+there's just gonna be common knowledge, and they're gonna be on like the...
+the latest, uh, you know, zombie version of the 737.
+Honestly, given the orbit, I...
+I suspect that it's more of a... it has something with a lens on it that goes...
+that they open the bay doors, and that's what we're gonna be...
+that's what they're doing with it.
+Huh.
+I see.
+It's a very highly elliptical Earth orbit.
+It's...
+I believe some synchronists, correct me if I'm wrong, actually do,
+and engage with the comments below, like, and subscribe.
+Mmm.
+The angle of it suggests to me that this is an observation mission,
+um, because there's nothing you would need to do in space for nearly a straight year,
+completely unmanned, other than observe things.
+I...
+Mmm.
+Mmm.
+Like, Joe Biden has built the Earth a selfie stick.
+It's another camera.
+Yeah, another fucking camera.
+I mean...
+Like a really, really big one.
+It's hoping it'd be aliens.
+Space is big and empty and tries to kill humans.
+I don't know why we're in space.
+I like sending cameras into space.
+I'd love to go to a different planet, but I don't want to spend any time in the in-between.
+Like, I want to go to France, and I want to do it on a boat, that'd be fun,
+but I don't want to spend a lot of time on the water.
+That just seems like a bad idea.
+Mmm.
+Yeah, that's the reason.
+I want to go to France on a boat.
+Yeah, me too.
+I was with you, actually.
+Yeah, yeah, we both went to France on a boat.
+You gotta take the short way.
+Next slide, please.
+Alright, so, ways that you can counter all of these things.
+Well, the obvious thing, my plane is being seen by people.
+Don't get seen.
+Don't get seen.
+Yeah, so back to camouflage again.
+Yeah, camouflage in the sense of hiding the thing from sight rather than cryptsis.
+This is the first stealth aircraft, in the sense of they painted it slightly differently.
+I get to talk about Nevo again.
+It's a beautiful- it's like a dark British racing green.
+Y'all have good greens over there.
+Yeah, yeah, yeah.
+This is, um, if you missed the camouflage episode, this is Night Invisible Varnish Orford-ness,
+named for the place where they developed it.
+They have really good names for stuff as well, back in the day.
+Talked about it on camouflage, the deal is that this makes it, like, blend into night better.
+It doesn't really work, is the thing.
+Um, as far as these things go, this does kind of prefigure the fact that every military aircraft
+now is painted in a kind of- or is just a kind of like shitty grey colour and has a low
+visibility rounder, which also sucks.
+Um, so, yeah, still state of the art in that sense, I suppose.
+Um, for our viewers, uh, the hat- the hex code for this colour is 404735.
+Nice.
+In case you wanted to type that up and look at it.
+And this- this is, to be clear, it's like a biplane, like an interwar biplane.
+Um, yeah, uh, next slide, please.
+Okay, so my classical education is in aerospace engineering with a lean toward computational fluid dynamics.
+And I'm here to talk to you about aerodynamics and my stealth doesn't like it.
+Now you could brace for a three hour episode upon the Reynolds and Maxwell's equations, but
+we're not going to do that.
+We're going to keep it simple.
+Air lights round things.
+We're still going to do a three hour episode, it looks like, but absolutely.
+I mean, but it's not just on this topic.
+Yeah.
+Right.
+We're going to go on to other slides.
+Okay.
+So the air likes things that are round and round things are easy to see.
+Uh, sharp things are hard to see and the air doesn't like sharp things.
+I will get into more about that later.
+So there are a few different ways to avoid being killed in an airplane.
+We're talking specifically about airplanes here because, um, it's harder to hide things like tanks that you can just kind of walk up to.
+Um, but things that are high up in the sky and far away are hard to get to, hard to kill by kind of default.
+Um, with missiles, it becomes easier.
+So you have a few options to fly a plane that's survivable and not be stealthy.
+Um, and the first one is fly very fast.
+Um, this is a classic because boys like to go fast and be loud.
+Yes.
+Um, yes.
+I'm a huge fan of it too.
+Why not?
+Um, fly high as a paraglider.
+This is kind of my wheelhouse.
+Um, and flying high is dangerous.
+It's about as dangerous as going very fast, right?
+Um, you're either dealing with very little air or very fast air, both of which can screw you up in their own unique and interestingly horrifying ways.
+Um, the third option, which no one has been stupid enough to try, although the B1B came close as a military strategy for doing this was to fly low.
+Um, which is very dangerous.
+You can run into things when they're on the ground, right?
+Yeah.
+If you're high enough up, like you'd rather have altitude than attitude any day.
+I don't care what the motivational poster says.
+If you're high enough up, you got time to fix your shit.
+If you have a good attitude, but you're flying to the side of the mountain, there's no amount of weight.
+There's no amount of positive optimism that's going to help you out here.
+Altitude over attitude any day.
+I just really like the idea of like, this stealth reconnaissance platform that is screaming past ten feet above you.
+Wasn't that the idea of like, the flying crowbar bomb?
+Oh god, yeah.
+Um, we're...
+We'll get to war crimes, don't you worry.
+Out of scope.
+It is something that works with like very, very small drones.
+Um, watch this space.
+You know, you may be killed by one in the future.
+If you can't fly low because it's very dangerous, well, and flying fast or flying high isn't enough to keep you safe.
+Your next best option is to fly high and fly face.
+Fly high and fly fast.
+Sorry.
+Um, this is very dangerous.
+Because you have the combined dangers of high velocities and high altitude.
+No one has been stupid enough to try the fifth option, which is to fly low and fly fast.
+Again, the B-1B is the US Air Force kind of dipping its toe in the idea, but we realized how dumb of an idea it is.
+Raise hell, praise Dale.
+Because the last thing you want is your nuclear...
+Pardon?
+I said raise, raise hell, praise Dale, burn down an Applebee's.
+The NASCAR approach then.
+Yeah.
+Um, people, governments usually frown on having their not yet armed nuclear weapons scattered across enemy countryside because the GPS maps just didn't update fast enough in the glass cockpit.
+We don't want to deliver bombs at high velocities without them exploding after we've delivered them, in theory, as a military strategy.
+Um, these are all better options, though, than the options of being stealthy, which is to fly a plane the air doesn't like.
+Famously, you do not want to fly a plane the air doesn't like, because then it won't fly.
+I mean, kind of the whole history of combat aircraft has been like edging up on the most the air can dislike a plane, right?
+Because like, in the First World War, the major sort of like, strategy of aircraft building that everyone went into with was having an aerodynamically stable plane.
+Right.
+Which is like, very, very safe.
+Doesn't work.
+And the more and better computer-aided control became, the faster you could have that control loop, the more control surface air you could articulate, the faster you could articulate it, the more dynamically unstable and statically unstable you could make that plane
+before it was completely unflyable.
+Mm.
+We will get into that when we start talking, um, I think half blue?
+Yeah.
+But I mean, just to know that like, particularly like a fighter aircraft, even as early as like
+1916, right, needed to be aerodynamically unstable in order to maneuver quickly, right?
+Um, and this, this sort of set us on the trajectory of like, fucking around with the air more and more until it finally peaked in our, uh, you know, rejection of God when one Polish man invented the helicopter.
+Yes.
+Um, so yes, uh, there's a fun little note that I want to make here is that if you go supersonic, you become more stable.
+Um, the center of pressure of a subsonic wing is about one quarter cord back, which is one quarter of the length of the, or back length of the wing.
+Um, if you go supersonic because pressure can't propagate forward, complicated reasons why, talk to me after class if you want to know more about it.
+Um, the center of pressure for the wing moves from the quarter cord to the half cord.
+Um, this wouldn't do a whole lot to like a really high aspect ratio wing like you too, but if you're looking at like a really triangular wing, like you'd see on the F 15, the F 16, the F 18, the F 22, uh, or the F 35, when that center pressure moves back, it goes from being unstable to stable.
+This really reduces a lot of strain on the airframe during supersonic flight.
+Um, when you have other stresses to deal with and you don't need the flutter, um, dealing, messing with your aligned structural elements against the pressure of the onrushing air.
+It's also why, uh, they, uh, they tried to fuck around with very variable geometry wings on supersonic aircraft.
+Mm.
+And that seems to have generally not worked very well.
+They, they worked fantastically from an aerodynamic perspective.
+perspective, the weight of the wing sweep mechanism and the failure prone aspects of
+that design were a huge problem. But there was a cool plane that had an oblique wing.
+It had a single pivot point and the whole wing would rotate. One tip would go forward,
+one tip would go back. Pilots were always surprised that it was as stable as it was.
+Not in scope, but if you have a next planes episode, please have me back.
+Getting dangerously close to the sort of nightmare I always have when flying, which
+is I push the button on the seat and one of the wings falls off.
+It's weird they put that button there.
+Yeah, yeah, well, you know.
+I mean, it's because you have to push a bunch of engineers in a place where you should have an industrial designer.
+Okay, next slide, please. All right, so this is the fly fast section.
+Whoosh.
+If you look toward the back, you will see a red tail. Will you draw that in that for me? Perfect.
+That is the F-104 Starfighter, of which there already is a bonus episode.
+It lusts for blood. Yes.
+And in this episode, it shall receive. The gorgeous bird in the middle of the frame is the XB-70 Valkyrie.
+Or War Concord.
+It is so pretty.
+They're such pretty planes, yeah. They look great.
+Every part of its design was just like very much its own thing. It came together well. It's a bunch of unique shapes that all kind of blend some. How does that sharp triangular wing merge with the big boxy jet engine enclosure, merge with the sleek cylindrical arcing fuselage?
+How does this all work together as flawlessly as it does? This is art in motion.
+It's got the wing tips that droop down and it's like you never seen that as an aerodynamic feature before.
+Right. This was the US's answer to, well, what if missiles? We're like, well, if this is already in the air, you can't hit it with a missile and it can still get to you and drop bombs in a time enough that you should be worried about it.
+So while we were doing the Avro Vulcan, which also rules, but is not quite as dramatic as this. Vulcan slander, I know.
+This is just a gorgeous bird. I get speechless when I see it. Next slide, please.
+Well, like we said, flying high was dangerous. Flying fast is dangerous. This was kind of doing both. You can see the clouds below them.
+So what happened here is the F-104 starfighter fell for its bloodlust. It just couldn't hold back anymore.
+I can't take it anymore.
+Oh look, it kind of looks like a civilian airliner.
+No, it's just like confusing the Valkyrie with like a West German ditch, you know?
+Hey, it looks like a telegraph pole.
+This was the end of the XP-70 program.
+One, because the technology has been proven, but at the time that this plane was flying,
+they had realized that radar and missile technology had advanced to the point that it couldn't do
+high enough or fast enough. So they used this as a convenient excuse to ground the birds,
+and now there's a gorgeous one in a museum that you can go visit. I recommend you do,
+and then maybe you will suffer the same way I have in the aerospace industry.
+The rest of the information is... Go ahead.
+I'm just reading the notes here. Ejecting from the XP-70 is quite something.
+Yes. Both pilots, I believe, had fitted ejector seats. At one point, there was an intention to,
+instead of having ejection seats for the pilots to have an ejection pod, where the entire cockpit
+would separate. Cool.
+Like a pod inside the cockpit shell would be launched out as a unit, and all of the crew would go with it.
+I do not believe that at the time that this happened that... Oh no, they did have a
+prototype of it in place. The closing clamshell-like escape crew capsule did dismember one of the crew.
+Ah. Less cool.
+Yeah.
+Ah, maybe slightly cool. Depends. Depends how you feel about that.
+How did you get dismembered like that? I was in a supersonic airplane.
+Nah, but how did you really get dismembered?
+It's a pretty cool story, though.
+Barrett supersonic privateers? Like, incredible.
+Just the parachute failing to deploy, and you just crash through a Halifax pier.
+Shall we, let's just keep going, I don't want to get hung up on this one,
+this was just for the viewer's pleasure. Yeah, what if you went high and fast,
+but instead of delivering nuclear bombs, you took photos of the places that you wanted to deliver
+nuclear bombs, and then you brought that camera home? That's a lot cheaper than flying
+cameras with rolls of film into space and then dropping the film from space and trying to catch
+it mid-air, which was a thing that we did. So the U-2. Go ahead.
+Ah, everything about the U-2 is just like some absolute- I say this is a high compliment, like,
+Air Force cowboy shit. Like, and we'll get to why, I have a couple of slides about this.
+Yeah, it's also kind of a quaint design, like, it's very traditional in its aerodynamics,
+long narrow wings, kind of a lumpy fuselage even. They weren't trying to make it look cool. They
+were purely focused on if this rampant mass does not make it fly higher or better, then it does not
+go on the plane. And they did a really good job designing a plane not for a committee.
+Hey, you think it needs landing gear? No.
+No. It has a landing gear.
+Don't worry about it, don't worry about it.
+Don't worry about it.
+It doesn't have the intrinsic plural, but it has a landing gear.
+So the crazy thing about this is that they brought these in in the 50s,
+and they're still gone. Like, I put this in brackets in the notes with a transgender analogy
+commencing. They're the Calvin Klein bralettes of the US Air Force, you know, no matter how many
+times you try and move on to something sexier, they're too useful to give up.
+They never worked for me.
+Really? Oh, well.
+I bought one, it's like pride-coloured and everything, and it just doesn't do whatever
+it's supposed to do for me. I'd rather just wear something nice, or not wear anything at all.
+I'm slumming it.
+Keep your eyes to yourself.
+No, genuinely, this is a sort of like, you would have to get me to sign a strategic treaty
+to get me to draw down the numbers of these fucking bralettes I own.
+To each their own? It doesn't work for me.
+We must avoid a bralette cap.
+I like having them, I don't like having to contain them.
+Yeah, the U2's a cool point.
+It's great.
+However, like, if we go to the next slide...
+Oh, so that's it, though.
+Yeah. You know when I said the space cowboy shit?
+So, one of the things...
+For Halloween, I went as an oil tank near an airfield.
+So, the principle of the U2 is you fly really high, really fast, and like, it doesn't matter
+if you're detected, because like, nobody's gonna hit you, what are they gonna do? You're taking
+the photons already gone on the camera.
+However, the immortal science of Marxism-Leninism, it turns out, gives you a real stat boost to
+developing surface-to-air missiles.
+This will come up a couple of times.
+And so, this is Gary Powers. France is Gary Powers, if you want the full name.
+It's seen here before, and I describe every time a plane gets shot down in these notes as
+getting lmaoed, which is probably like, you know, tonally disrespectful of me.
+He lived, right?
+Yeah, he did.
+Yeah.
+But like, he did get the U2 shot down, over the Soviet Union.
+I do want to note one detail about this that I found very funny.
+The CIA gave pilots a suicide pill, which was full of shellfish toxin.
+Except they just gave them it as like a loose pill, and they realised they had to change that
+when one of the pilots, like, almost ate one candy in the cockpit.
+Like, unprovoked.
+Just out of boredom.
+Yeah.
+So then they replaced it with, they put them into boxes to avoid confusion, and then they realised,
+oh, if this breaks in the cockpit, the guy just dies anyway.
+So they ended up having to, like, create this kind of secret coin with a poison needle in there,
+which they gave powers, and which he didn't use because he didn't feel like it.
+Which... fair enough.
+Yeah, no, that was the correct decision.
+Yeah, I mean, in the depths of the Cold War, like, Khrushchev is there,
+you're not getting sent to a Siberian prison to have your nuts whipped with a snow shovel for the rest of your life.
+Exactly.
+You're going home in like two weeks.
+Yeah, exactly.
+I'm not scared of that guy, he's Ukrainian.
+It's embarrassing, rather than anything else.
+I'm not going to shellfish toxin myself over it.
+Exactly.
+But yeah, so these things...
+He'll probably invite me to his dacha.
+These things are clearly not invulnerable to the increasing altitude ceiling of surface-to-air
+missiles developed by communists.
+Also, one of them managed to crash in the Cuban Missile Crisis, because the guy just
+like, lost consciousness because he ran out of oxygen, and just nosedived it into the Caribbean.
+So, you know.
+See point number two about being very high being dangerous.
+Mm-hmm.
+Did you lose Liam again, or is he just not talkative?
+Oh, I accidentally muted myself for the past ten minutes or so.
+Oh, well that'll do it.
+I went to use the bathroom and then...
+We apologize to the viewer for the lack of content.
+Yeah, sorry.
+Sorry for the lack of Liam.
+Oops.
+It's my fault.
+Next slide, please.
+About these landing gear.
+Jesse Plemons' voice, come to see about his landing gear.
+He's been installing them.
+Not landing his gear.
+Look at that, he's got two tires, okay?
+That is twice as many as you need.
+Oh, wow.
+Legally, this is a unicycle.
+So, because of the aerodynamic characteristics of the U-2, like, it's a lot of it.
+It's very aerodynamic.
+Like, you have to kind of stall it onto the runway, which is a fun time.
+And the way that you do this...
+The stall speed is like 15 miles an hour, though.
+Oh, boy.
+Look at those ways.
+Yeah.
+Yeah.
+Is, you get a guy, like, another U-2 pilot, the CIA called them drivers,
+so as not to disclose that it was a plane, which is a fun thing, and also, like, redneck as hell.
+You get a guy in a car that, like, chases it down the runway at, like, 120 miles an hour,
+calling out the altitude.
+And, like, because CIA and Air Force people are jocks, right?
+Like, if you name...
+They did some real Top Gear shit with this.
+If you can name a car you think is cool, they have tried it with this.
+Like, apparently, the most popular were, like, Pontiac GTOs, which is...
+The original Honda NSX?
+Mm-hmm.
+Yeah.
+Like, just all type of weird shit just absolutely, like, booming down whatever runway at, like,
+Groom Lake or whatever.
+Um...
+Australian sourced Pontiac GTOs?
+Apparently.
+God only knows why the CIA went to Australia to get a Pontiac, but they did.
+Oh, they went there to go steal them from...
+They were originally Holdens, and then they were imported as the new Pontiac GTOs.
+No shit!
+They stole them off the line when they were about to be crushed because someone was hooning them.
+Thus making the CIA hoons.
+They used to be the Holden Monaro.
+Yeah, getting a challenge coin from the CIA's special hooning division.
+Yes.
+Aerodynamically, these were really challenging to land, though that is why the chase car exists.
+Mm-hmm.
+And you may notice that this is a NASA chase car, chasing a NASA U-2, because,
+at a certain point, you just, I want to fly the cool plane.
+I want the cool stuff, right, why should they fucking get it?
+Yeah, exactly.
+I work for NASA, you're telling me I can't get the cool stuff?
+You owe us from that time we put, like, four of your guys on that satellite mission or whatever.
+Exactly.
+Exactly.
+We put your fancy camera up there, now we want a U-2.
+And give me one of those Soviet Concords, too.
+And one of those other supersonic, well give me a whole bunch of stuff.
+In my head this is going down in an extremely drunk situation, there's like 15 empties on the table,
+each person.
+It's like haggling for you to access.
+I just want to cast me and see a clama plane.
+A clama plane.
+Oh, don't we all, yeah.
+Oh, yeah, yeah.
+That definitely would be a great thing to have.
+All right, so the reason these were challenging to land, not to drag us to,
+we've brought both of you back to the topic, is the wing has a very, is very narrow top to bottom.
+It has a very low thickness.
+It has almost no camber as well.
+It's designed to go very fast to the air at those high altitudes.
+And because of that, it doesn't really have good low speed performance.
+It's not round enough for the air to like it very well.
+Also, the wing is quite narrow and long, will flex a bit.
+And with the air brakes out, you can see the very large flaps deployed that act like air brakes.
+And then you actually see the two, could you point out those two little squares sticking out of the fuselage
+below the exhaust?
+It's kind of hard to tell.
+The tail shadow goes right in front of the left one.
+Something like this?
+That, yes.
+That, yes.
+Those two squares are fuselage air brakes.
+The U2 did not have wing air brakes.
+We will discuss why not in the next slide.
+When you're coming in on a plane like that, you can't really see the ground below you.
+When you are looking out through the nose, you are seeing quite far ahead on the runway,
+and your judgment of how high off the ground you are has been skewed.
+You haven't been near the ground for a while, your monkey brain has already adjusted to that fact,
+and you will potentially get ground rush, or you will just simply level off too high, because
+when you look out the window, it looks like you're on the ground, because you're looking very far away,
+you're not looking down.
+It also doesn't help that typically, you're flying these to the Soviet Union, back, or whatever,
+you've been flying for, I don't know, fucking 30 hours.
+You're like, presumably giving yourself squeezy tubes of instant cheese and CIA amphetamines.
+And the U2 is by all accounts an exhausting plane to fly, because it's always trying to kill you,
+because air hates it.
+How big was the crew?
+One.
+One dude.
+One.
+How did you use the bathroom?
+One dude on military strength, Adderall XR.
+Yeah.
+One dude.
+Go in the suit, Roz.
+His, like, CIA speed, a silver dollar full of the most deadly poison they could give him.
+I mean, shit.
+Like, what happens if you have to poop?
+And this thing is completely empty, there is no fuel on board.
+You go in the suit, Roz, god damn!
+But it's poop.
+Go in the suit, motherfucker!
+What if there's a lot of poop?
+Then you have more cleaning to do when you get done.
+Yeah, exactly.
+That's...
+What if you have to go to poop?
+You have to poop again?
+Then...
+It's 30 hours.
+Yes.
+Don't eat fiber before you fly.
+Right.
+Weirdly, this is something that, like, early American astronauts had to deal with.
+Like, the Mercury missions and stuff, like Redstone and stuff, when it was suborbital,
+they were still going to be up there for a while, but it wasn't going to be a day or whatever,
+and so they had to figure out what if one of these guys has to shit in space.
+And until they developed the technology that was plastic bag,
+what they came up with on the suborbital flights was,
+we feed you an extremely low-residue diet and a shitload of, well, so to speak, of laxatives,
+and you just don't.
+Just hold it.
+You know?
+Pretty soon you will not be in space.
+And then you also take iron before you fly at high altitudes.
+The iron is thought to help with creating blood cells,
+because you will need more oxygen-carrying capacity as you go to lower partial pressures of oxygen,
+and iron does a great job of stopping you up.
+You could do some fascinating flight surgeon stuff on these guys.
+Yeah.
+I had a bowl of nails for breakfast.
+Without any milk.
+Without any milk.
+Without any milk.
+Yeah.
+Eat these iron filings.
+And again, you're trying to land this on, like, again, the bicycle landing gear.
+Right.
+Most airplanes, when you're trying to land them,
+they kind of want to go to the ground.
+They have a glide slope that is, like, less than infinity.
+A plane like this, its glide slope is pretty damn close to infinity.
+It will not want to go down on its own, so you kind of have to force it down,
+and it feels weird to fly a plane into the ground.
+Thus, the chaser calling out the altitude.
+And it sounds...
+Go down.
+Go down more.
+Go down.
+Keep going more down.
+Before we get too far along in the story.
+Next slide, please.
+This is an L-23 Super Blanik, also known as a TG-10B,
+flown by the United States Air Force Academy.
+This particular bird is Merlin 09.
+This is the exact bird I soloed my first glider flight in.
+Nice.
+And it's how I got my call sign Pogo.
+Uh-oh.
+Story inbound.
+So, these particular gliders, their air brakes are in the root cord of the wing.
+They're closed right now, but if you look right next to the 09 on the image,
+and you see, like, a slight shadow that goes out toward the wing tip.
+That is one of the two air brakes.
+They are symmetric on the airframe.
+They are just barely in board of the ailerons.
+That is correct.
+It is long there.
+There's a corresponding one on the far side.
+Those air brakes reduce the effective area of the wing in addition to providing a lot of nice drag,
+which is nice when you're coming down on glide slope and you don't want to, like,
+go too quick, overspeed the airframe, tear your wings off, and then come down the hard way.
+But this particular bird, the Lett 23 Super Blahnik, or the Blahnik as I might call it,
+the wings go forward and up.
+They have a positive vertical, I think it's a dihedral, but they don't have, they have a negative sweep.
+The sweep is forward.
+The sweep is slightly forward, yeah.
+You can sort of see that almost.
+It's aerodynamically quite interesting to fly when you're on tow on this plane and the
+tow rope isn't straight out the nose.
+It will be really stable for, like, about five degrees of mismatch on angle.
+Go beyond five degrees and suddenly it feels like it wants to flip you upside down.
+You really have to stay on top of it, but really fun to fly once you're off tow.
+Anyway, because of the kind of similar flight dynamics and landing gear configuration,
+this has one big monowheel directly underneath the pilot seat.
+You can kind of see it in this.
+It looks like a shadow of the rock, but you've circled it.
+Good job.
+I say, all right, that's a wheel.
+It's really big.
+It's really bouncy and it saved my spinal column.
+So we'll get to that.
+Coming in on final approach, you know, ground rush is a thing.
+You level off a little bit too soon because, like, you want to level off before you hit the ground.
+Sometimes you level off a little bit too early.
+This was something I struggled with through pilot training.
+I am quite tall.
+I am pushing six feet.
+So when I level off at my eye height, I'm about four feet, five feet off the ground when I'm sitting down in this plane, right?
+Like, I'm not close to the ground when it feels like I'm looking at my eye height because I'm looking further out the cockpit.
+This one has a great view, but you're not like looking down out the side.
+You're looking out forward.
+You've got instruments in the way.
+It feels like you're closer to the ground than you are.
+So I held that altitude until my air, as my airspace was dropping, the air brakes were out, lots of drag.
+So you're going to have a lot of drag, maintaining steady altitude, slowly increasing pitch.
+The wing loading increases when you have your air brakes out.
+The amount of effective wing area you have decreases.
+The wing loading goes up.
+And so you're kind of on this, you could snap stall, right?
+So you go slow enough and suddenly the roots of the wings, which have the highest camber of this wing, those wing tip roots, those are the wing roots.
+The ones closest to the fuselage will stall. Once that area is stalled, your effective area on your wing decreases exponentially as the rest of the wing just stalls and cascade.
+When the whole wing has stalled, you are no longer flying, right?
+Right.
+You are drawing with style.
+Yeah.
+That thing bounces onto runway.
+I dropped about four or five feet straight down.
+Like I was flying along.
+Hopefully someone cut the strings holding the plane up.
+The video is hilarious. If the plane falls down, hits the wing tips, which are forward and up, dip down, almost brush the surface and come back up like a springboard diver's arms.
+Right.
+The plane bounces back up four or five feet.
+I slammed my air brakes shut as reflexes.
+My arm was on them because you're supposed to close them.
+I want you touch down.
+I slammed the air brake shut, continued to a beautiful landing with no air brakes.
+Right.
+I've increased my effective wing area by doing that.
+I'm no longer in snap stall range.
+My pitch hasn't really changed because I went straight back down and up over the center of gravity.
+Beautiful landing.
+And I pulled over onto the grass side of the runway with one wing tip down because it is a single wheel.
+It runs on a wing tip.
+There's skid plates on those wing tips.
+And I had about two minutes as they drove the airplane retrieval ATV out to me to come up with an excuse for why I didn't fail my solo.
+So I'm sitting there and just going there like, well, any landing you walk away from or limping away from.
+Exactly.
+You can even use the glider again.
+Early morning sunshine streaming through this scratched plexiglass canopy.
+And I'm sitting there going, okay, I got to be creative and I got to be creative fast.
+They pop the canopy.
+I step out and the instructor pilot says, cadet coots, could you tell me the purpose of that last maneuver?
+And well, yes, I have to come up with something on the fly.
+I say, well, sir, you see, I've always had trouble with ground rush on landing.
+And so for my final approach on my solo flight, I wanted to make sure I got the landing perfectly.
+So before I touched down, I decided to do a manual altitude check.
+Needless to say, at the end of the class, all of the graduate glider pilots, we watch all of the land, all of the relevant moments from the training.
+Whether that was someone fucking up in a classroom, because everything's recorded.
+It's racked and stacked.
+It's horrible.
+But we watch all the like the video highlight reel and people get their call signs.
+My call sign was Pogo and it kind of stuck.
+That's pretty good.
+It's not, it's not the worst I have, I've heard.
+Yeah.
+You got to be a backup backup altimeter.
+Yes.
+I'm just proud of coming up with manual altitude check on that short notice.
+No, that's really good.
+That is really good.
+All right.
+That's why the U2 has a chase, a chase vehicle.
+So that doesn't happen.
+Yeah.
+So it doesn't happen in the like, you know, billion dollar airplane.
+Yeah, it would be very expensive.
+Speaking of billion dollar airplanes.
+Yes.
+This is the epitome of high and fast.
+Oh, hell yeah.
+We've seen this.
+Chills.
+Whoosh.
+Fast.
+The Lockheed A12.
+Vroom.
+I think this actually might be an SR-71.
+It's really hard to tell them apart.
+They're only about...
+Yeah, because they publish all this information about them.
+It's really easy to find out, you know?
+Right, right, right.
+I just looked at this and I was like, why did I put a line there?
+And then I realized, no, that's actually on the plane.
+I didn't.
+It's just the plane that John Madden's itself.
+Yeah, apparently.
+Also, I need to know what this film simulation is, because I need to take photos that look like this.
+It's high contrast-y, the blues are muted, the red really pops.
+Fuji Kami?
+Elon Musk named one of his kids, the one with a weird name, in part after this plane,
+and it annoys me no end.
+X-A-E-12 or whatever?
+Yeah, no end.
+Right.
+Um...
+Like, come on, man.
+Wasn't he like...
+Well, it's spelled X-A-E-12, but it's pronounced Kyle, or something like that.
+I haven't...
+Yeah, whatever, man.
+Yeah, what if the U2 is like a billion times cooler, from the twisted mind of Kelly Johnson?
+Orgis plane.
+Aero-dynamically perfect for what it did.
+And unfortunately, the problem with this plane is that it didn't like being on the ground.
+Mm-hmm.
+Um...
+Because the titanium skin of the aircraft would heat up at altitude and velocity, right?
+Skin friction, heating up.
+Ah, yes, yes, yes.
+They had to design the skin panels and every part of the plane to be kind of too small to assemble a full plane out of when it was cold and on the ground.
+So the hydraulic system, the fuel system, everything leaked like a sieve when it was on the ground.
+And then when it took off, got up to temperature, got up to altitude, and everything like heated up and expanded and sealed up nicely, then it flew perfectly.
+But every minute it spent on the ground, you were dumping a gallon of fuel and a gallon of hydraulic fluid just everywhere.
+Yup.
+Mechanics hated this machine.
+What a tasty snack for Liam.
+Mm.
+Yeah.
+If you're wondering about how and why Area 51 came into the news from a bunch of technicians suing the federal government for getting like 80 different kinds of cancer from hazardous materials...
+Right.
+Super cancer, right.
+...it doesn't necessarily have to be anything exotic so much as just like, yeah, I have to work in the extremely climate controlled hangar where the plane constantly barfs fuel at me.
+Well, it's not just barfing fuel, but the hydraulic fluid that's designed to withstand the temperature changes and all of the things probably has additives that you do not want, that you won't find in the Bible, basically.
+Or the Quran.
+Or the Quran.
+Mm.
+Or the Quran.
+It's like weeping, weeping various fluids, you know.
+Right.
+All of which are known to the state of California to cause cancer.
+Mm.
+Not known to the state of Nevada, though, because that's federal land and the state of Nevada looks
+the other way about that.
+Exactly.
+But yeah, so the same philosophy, right?
+And no one managed to shoot one of these down, at least not yet.
+I think, you know, this is due to, of course, the stagnation of Marxism-Leninism.
+Yes.
+The theoretical basis for building surface-to-air missiles has disappeared, and now we sort of
+lumber on in the doomed world we've created.
+Well, we sort of...
+It seems like the Islamists are trying to take up this mantle, but they haven't quite gotten
+it.
+But yeah, so again, the deal is we do photography by going extremely high and extremely fast.
+Like, vroom.
+There is a story about the pilots of one of these getting an airspeed check from a civilian
+air traffic control in the US, purely to flex.
+And it being like, the number that I read back isn't supposed to be this many digits, right?
+Like...
+I want to point out some aerodynamic features of this bird that will come up later as people
+try to make planes that aren't very good look cool.
+Um, because they were cool in this plane.
+Mm-hmm.
+If you look at the nose of the aircraft, you'll see that that...
+Why...
+How it's, like, really wide and flat and how it, like, flattens out from the cylinder into
+this, like, scooped-out blade edge.
+Um, that toward the nose is usually called a chine.
+Um, that chine generates a vortice, a very small, tight vortice that sort of flows along
+the sides of the fuselage.
+There's no air that can come in to replace it without also entering through that vorticity
+by cresting over the sharp edge of the outside of the fuselage.
+And this creates two low-pressure channels over the top of the fuselage and the center
+cord of the wing, which really helps with lift and does some really interesting things
+at lower angles of attack and makes it more flyable, um, when you are doing things that
+it's not, like, that aren't straight-line high and fast.
+Um, this is used in reentry vehicles sometimes, um, to help burn energy, um, and provide lift
+and stability.
+Um, you'll also see chines outside of the motors.
+On the outsides of those, there's a small chine that goes toward the wingtip before the
+wingtip happens.
+Um, same sort of feature where you have the air spilling over the outside, energizing the
+flow over the wingtip, helping with high angle of attack landing.
+Because a plane designed to go this high and this fast doesn't like approaching slow and
+stationary.
+If you thought the U-2 was hard to land, this one was much, much, much harder.
+Um, of the 32 aircraft that were built, 12, uh, 32 SR-71s, I should clarify.
+I don't have numbers for the A-12, that being a spybird.
+Uh, the 32 SR-71s that were built, 12 were lost in accidents, although none lost enemy
+action.
+Um, those accidents were, you know, upon reaching the ground, um, because this plane did not
+like to slow down.
+It wanted to go fast and go fast forever.
+Um, well, most, most planes and accidents eventually reached the ground.
+Hold on a second.
+Someone's calling me.
+Why are they doing this?
+Oh God.
+I'm back.
+Was it your mom?
+What?
+No, that was June trying to talk to me.
+And I said, no, I'm podcasting.
+All right.
+Um, back in.
+Yes.
+What the heck?
+Um, so, more than a third of the SR-71s produced crashed upon landing, or other reasons which
+weren't disclosed.
+Um, and I'm not gonna dig for that right now.
+Let's- Sorry, Glenn?
+Tough to fly this.
+And again, you're doing all the same stuff of being like, I have been in this seat, which
+is covered in, presumably, my own shit for like 30 hours in order to, like, get a direct
+sort of, like, film camera exposure of like, S-Soviet General's paws, you know?
+The overlap of like, aviation and camera nerd here is just perfect.
+Mm.
+That's all I'm gonna say.
+Like, this is the dream job for like, most of us.
+I- I don't know that I wanna do this one.
+I- I appreciate it, I think it's a sort of like, beautiful piece of technology.
+What if I might you wear the boots?
+We'll get to the boots.
+That's a good point.
+Oh boy.
+Next slide, please.
+It comes with a- the playset is expandable, right?
+It's got a mini-me.
+It comes with an accessory.
+Yes!
+It's a D21.
+Um, so, we talk about drones a lot, um, not as new a technology as people might think.
+This is something that had been experimented with, I think, chiefly in relation to China,
+right?
+Like, I could be wrong about this, but I think the deal with the D21 was like, oh, the SR-71's
+gonna go off and do some shit, and it's gonna decouple this, uh, like, sort of unmanned vehicle
+that is gonna do an overflight deep over, like, fucking Inner Mongolia or Lopnoor or
+whatever.
+What- what does it- how does it come back somehow?
+How does that work?
+Well, they managed to crash one in China once, so, you know.
+Okay.
+I believe the mission profile was launch from high altitude, drone flies in, turns around,
+flies out.
+Um.
+Takes a picture somewhere along the flight path.
+Probably not at the point of turnaround, because it'd be banking pretty hard, and also you don't
+want to let people know what you're taking a picture of.
+It's worse than that, actually.
+Um, so it's got a camera in there, obviously, right?
+It follows a, like, predetermined path, it's very easy to program that in, well, relatively
+easy.
+Um, and then it does the same thing as a spy satellite at the time, where it just dumps
+a film module out and then blows itself up.
+Just poops it out, right?
+That simplifies the landing problem.
+I thought they were just gonna put it in a parachute.
+It experiences a crisis of confidence and explodes itself instantly.
+They tried to launch these off of B-52s as well.
+Um, and I was entirely right.
+It was literally for Lopno, which is in a Mongolian, I think.
+Um.
+And, uh, yeah, this didn't work very well.
+I had to take some pictures of some horses.
+I believe the last launch of this killed a person.
+Oh, boy.
+Really?
+Really?
+Yeah.
+So you see it's being flown by an M-21.
+The Air Force likes renaming birds when they start, like, they put on, like, a little tab
+and they name it something else.
+Um, this is a repurposed SR-71 with, as you can see, below the drone, there's a center tail
+on this SR-71 that doesn't exist on the regular one.
+Um, that's supporting the drone.
+And that is what makes this an M-21 or the mothership for the D-21 or the drone-21.
+Um, the fourth launch, I'm reading my notes here.
+Um, the fourth launch ended in disaster.
+The D-21 engine didn't start.
+And so upon separation, rather than flying forward and away, it flipped sideways and
+took out one of the, um, sorry, the, the rudders.
+And that destroyed both aircraft.
+The crew ejected and landed.
+Um, the pilot survived, but the launch control officer didn't, uh, didn't make it, drowned,
+apparently.
+A couple of other, a couple of other D-21 stories I discovered.
+The first one that they tried didn't turn around successfully.
+And so just like flew over China into the Soviet Union, um, crashed there where it was immediately
+reverse engineered by the Soviets.
+Um, can them are our technology.
+Yeah.
+Especially the engines, which were cutting edge at the time.
+My God, the Americans have invented a plane that can blow itself up.
+The third one is behind.
+The biggest thing we were worried about was actually the turbine technology, because I think
+that we were investigating very, um, complex crystalline structures for turbine blades.
+Very high temperature, very high pressure, very high force applications.
+So those were the space age materials that were the most, um, dangerous for the Russians
+at the time to have.
+The third D-21, but before they, they canceled the program because like it didn't work very
+well.
+Uh, the third one, uh, flew over Lopnoor, turned back, ejected the film, self-destructed.
+The film parachute fails to open.
+So the film kind of like misses the mid-air thing where the plane catches it in mid-air.
+Um, goes straight into the ocean.
+The destroyer that's meant to then come and fish it out of the ocean rams it by accident
+and sinks it.
+No!
+Just beautiful work all around.
+Wow.
+Sounds great.
+Just imagine.
+Just like we spent like...
+That's like the opposite of the Swiss cheese model of failure, it's kind of like you manage
+to fuck up along every path.
+Jesus.
+How do you think it goes?
+The slice of cheese is mostly holes.
+The Soviets discover the crash drone.
+They're like, Evgeny, I have discovered space-age turbine blade material.
+Can you make this?
+Yeah.
+Next slide, please.
+There is no SR-101 Aurora.
+That does not exist.
+It is a plane that...
+So here's the thing.
+We created hypersonic programs.
+We have the X-15, the X-43.
+We proved that we could sustain Mach 9.6 plus flight at roughly 33 kilometers of altitude
+and three kilometers a second.
+We had sustained level flight.
+And then we just decided not to do anything with that.
+Please believe me.
+Degrowth, it's degrowth, is what's happening.
+We're definitely only using that entire heritage of technology to make Waverider missiles.
+Yeah, because famously the Air Force and the CIA got bored of doing jock shit.
+They never want to do this again.
+Like, there's no desire in either of those organizations to be like, I'm a space cowboy.
+As we learned from the aircraft Darkstar from Top Gun Maverick, these systems don't
+work and the United States military would never be interested in pursuing the aircraft
+and then look at them as a technology source.
+Mm-hmm.
+I just want to spend less time on the airplane, man.
+This shit isn't trickling down.
+For real.
+Yeah, exactly.
+It's too secret.
+It's so important.
+All of us are born too late.
+Yeah, exactly.
+Can we just get a hypersonic airliner, please?
+This is the thing.
+I don't want to get an HST like a high-speed train.
+I want to get an HST like a hypersonic transport, you know?
+Yeah, exactly.
+No, no, no, no.
+I want the high-speed train and I want to cross the oceans at a nice leisurely pace on my Zeppelin.
+Oh, okay.
+I want to sit in aluminum-chaired luxury across the Atlantic.
+I want to be in New York City in 45 minutes, and I don't care what it does to my internal organs.
+Yeah.
+It says there should not be no cruise speed, it's only accelerating and decelerating.
+That's right.
+But yeah, no, I guess in 70 years we will find out that you're exactly right, none of
+this ever happened, and yeah, we were proven right once again.
+Yeah, they flew like twice and proved that it was possible, and then suddenly the program
+was just, you know, they just stopped it.
+It wasn't promising enough.
+I think it's cool how we have a bunch of really bleeding edge stuff in aerodynamics,
+nothing ever happened about it, except for that one time when maybe there were aliens.
+I mean, aliens who were focused entirely on the sort of like, Pacific coast of America,
+places where there would be no reason for anyone in any country to be doing any kind of interesting
+sort of...
+Yeah, definitely not well within reach of Edwards Air Force Base and the large dry
+lake bed with the big compass rose that you should look at on Google Maps.
+Nope.
+The aliens took one look at the real estate prices there and they were like, nah.
+Fuck.
+They're not going to bother landing there, they've been flying in Oswell, nice open space.
+Yeah.
+Yeah.
+No.
+I guess we'll all find out in due time.
+Uh, next slide please.
+Roswell's too hot.
+Roswell's that ends well, etc. etc.
+This is the most space cowboy shit I want to mention about this.
+We talked about the boots.
+Actual hecking spurs?
+Yeah.
+Yeah.
+So, weirdly they got the ejection seat out of a Starfighter, but like, that requires
+that you restrain yourself into it so that you don't break both your legs when you eject.
+And the way that you do that...
+I have to have my legs pulled off at the knee when I launch.
+Yeah.
+And the main mast carried off both my legs.
+The way that you don't do that is that you get these cool spurs that lock into the seat.
+And these are also a thing on U2's SR71s and definitely not anything else.
+Those seem incredibly uncomfortable.
+If I'm pushing really hard on my rudder pedals, my leg muscles are fully engaged, and then the
+wires just yank my feet off of the pedals and into the seat, I'm going to have such bad
+tearing.
+I won't be able to do leg day for weeks.
+And you're doing this for, again, like 30 hours.
+Right.
+Ugh.
+You really need the amphetamines for this.
+I also want to note...
+And you're covered in poop.
+Yeah.
+You are smeared like a bagel up there.
+I mean, you had to wear, like, functionally a space suit to fly these things, because you're
+almost in space, right?
+They wear pressure suits, I believe.
+This is, like, normal, right, except for the fact that for some reason, fashion, style,
+when they were doing the SR71 boots, they were like, I need this in white leather.
+Mm.
+Go to the moon on this shit.
+And I really, really appreciate that, you know?
+You don't get a flair.
+They couldn't fly them after Labor Day.
+I don't know why they're white, but I have a theory.
+My theory is that if you're in a cockpit of a plane that leaks like a sieve, and it leaks
+lots of important fluids, you might want to be able to identify what has fallen on your
+shoes.
+Ah, interesting.
+That makes sense.
+Yeah.
+I love the zips on them as well.
+It's very, like...
+Obviously no chance of getting an original pair of SR71 boots, not least because they're
+all probably in a burn pit in Groom Lake, having been impregnated with every chemical under
+the sun.
+All of them.
+Every single one.
+If Six Boots wants to replicate this, I am willing to pay upwards of an embarrassingly
+large number of dollars for a pair of these.
+Quote me a price too.
+Size 10, please.
+Mm.
+Um, next slide please.
+We stopped doing this.
+We definitely stopped doing this.
+We definitely stopped trying to go high and trying to go fast.
+Please don't put me in federal prison.
+We gave up on the easier, less dangerous options.
+We tried options one through four.
+We looked at option number five and said, yeah, we can see a pattern here.
+And so we decided to try stealth.
+We tried to be sneaky.
+We figured we have computers now.
+We can fly planes the air doesn't like.
+Having computers doesn't necessarily mean that you have theory or practical knowledge.
+We will find out about that shortly.
+We had ChatGPT designate us an airplane.
+Oh no.
+Please don't.
+I like living.
+I guarantee you, I guarantee you there is someone with a serious clearance right now,
+probably multiple people, teams of people, trying to use, like, generative AIs that come
+up with a shape of a plane.
+Somebody who failed upward to the point that they don't know what they're doing saying,
+I can probably use ChatGPT to fill out these reports.
+Yeah, imagine that.
+I'm really excited for that future that we've created for ourselves.
+For artistic endeavors, our realm of machines and drudgery is the realm of humans.
+Hmm.
+You imagine if the opposite of how it should be.
+A guy who outranks you is a prompt engineer.
+Oh, God.
+Jesus.
+Why are you like this?
+At that point, I would do the, what's it, U2 pilot thing.
+I'd find a nice special coin.
+I think, I think, I think at that point, you're going to wind up in a falling down type situation.
+Hmm.
+Okay.
+Okay.
+So early stealth was low and slow because of physics and material science reasons.
+Um, early stealth relied on facets and flat planes, which aren't very aerodynamic.
+Um, and that means that you don't produce a lot of lift.
+You produce a lot of drag.
+You just have a lot of problems with the basic act of flying, um, before you start talking
+about doing anything other than trying to get a lump of rock off of the ground.
+Um, we've taught rocks to see, we've taught rocks, uh, to fly.
+Now we've now taught rocks to think, and all of them have been mistakes.
+Um, yeah.
+Yeah.
+Yeah.
+Um, so early stuff was low and slow later stealth, stealth never actually became a primary
+concept as a, as a aircraft design metric.
+Um, we came very close to that with the YF 23, but by the time that the YF 23 rolled around,
+um, and we had the technology to make planes that were both flew well and were stealthy,
+we'd no longer had any need for them to actually be stealthy.
+They just needed to have like low observability for procurement reasons and look cool for
+again, procurement reasons.
+Um, most of these vehicles that we're going to talk about next are U S military development.
+And that is simply because we spend more money on ways to kill people than the rest of the
+world's combined.
+Um, next slide, please.
+Oh, and just got the charts to prove it.
+I've got the charts to prove it.
+These are the, I went down through Israel because Israel spends a lot of money on defense relative
+to its population size.
+But I wanted to just give a sense of scale here for the United States population, roughly
+300 to 400 million people, um, outspends China by a factor of three.
+China has something like way, way, way more people than we do.
+Um, we outspend Russia.
+We outspend India.
+India has the world's highest population of any individual nation.
+And it has less than a 10th of our defense spending.
+It is insane how much money we spend on our aerospace and defense industry sectors.
+Um, you see Saudi Arabia on there, which is sort of heavily biased because most of that
+money is going to like Gucci white leather belts.
+Yes.
+There's an asterisk there.
+I didn't look into the data too tightly.
+Um, that, that number does surprise me, but like also they have literally a country where
+they just pull money out of the ground and then kill us all with it.
+Um, because the inevitable entropy will get us all.
+Hey, and we're on there too.
+Punching above our weight.
+Well done.
+You are!
+You're doing so good!
+Germany should not be allowed to be here.
+No.
+No.
+Actually, Japan too.
+Uh.
+Uh, Japan, well, Japan still should get one free hit after what we did to them.
+Okay, yeah.
+I'll give the Italians a pass, because I like them.
+Yeah.
+What are they gonna do, drop parmesan on me?
+Oh, that'd be great.
+That'd be fantastic.
+One of their beautifully designed missiles that doesn't work.
+Big wheel of parmigiano delivered directly to you.
+Oh, no, don't hurt me, Italy.
+Australia's allowed to spend money, they mostly just buy US stuff and then complain
+about how we don't let them repair it.
+Australia's for defense against the wildlife there, I assume.
+Mmm, yeah.
+Yeah.
+Why we're giving them those nuclear submarines.
+I've always been talking straight about the nearby oceans to the north.
+No, no, no.
+Poland, I don't know what they do with it, but sure do you?
+Oh, I'll tell you what Poland do with it.
+What Poland do with it are build the largest armoured formations Western Europe has ever
+seen, and then hover all five fingers of one hand over the Article 11 button.
+Not touching can't get mad.
+Not touching can't get mad.
+Genuinely, like, I think...
+And then Israel uses their spending for genocide, we'll get into that.
+Mm-hmm.
+Absolutely.
+Next slide, please?
+So I've got to introduce you to a guy, and this is Pyotr Ufimtsev.
+This is...
+He's a physicist, and he develops PTD, the Physical Theory of Diffraction.
+Which is...
+Basically, right, this is the guy who understands better than anybody else in the world, at the
+time that he's doing it, which is the 60s, how radar waves act when they hit the surface.
+Right?
+Because...
+He's got quite a few decorations for it.
+Just a couple.
+Yes.
+Yeah.
+What happens is that they bounce back, but they don't only bounce back, they scatter a bit,
+right?
+And this has implications.
+The implications he was looking at at the time were like, how to make something very visible
+to radar, which is very useful if you want to know where it is.
+But obviously there is a counterfactual here, right?
+There's a kind of myth that the Soviets don't know that this research is important when he's
+doing it, which, again, you can refute by the number of medals he's wearing, right?
+Yes.
+Quite a few.
+He's far enough ahead of his time that it kind of doesn't matter to them, to the point
+that they don't stop it being published openly.
+Which means, he's publishing this stuff, no one in the Soviet Union really knows what to
+do with it, but Lockheed is reading it, and Boeing is reading it, and Northrop Grumman
+is reading it, and DARPA is reading it.
+And so, this theory is very, very useful for thinking about, if I want to design something
+that has a small radar cross section, if I want to design something that looks smaller
+than it is, or disguise mass, how do I do that?
+How do I shape that?
+And so, history of stealth technology is doing some very complicated maths about shaping stuff,
+and then particularly curving stuff.
+Continuous curvature is another thing we'll get into.
+This guy, by the way, retired to the US, would you believe?
+So.
+It's kind of like, you know, communist Wernher von Braun.
+Not to make an ideological comparison, but what I mean is there's always work for guys
+like this.
+Oh yeah.
+More money in the US.
+So, now we've talked about the cool guy on the left.
+Let's talk about some really boring stuff.
+Well, not really.
+Oh boy.
+We are going to be talking about radar, and it's important, I think, in this context to
+understand the bands that we're talking about.
+We're primarily looking at S band through X band.
+That is 2 gigahertz to roughly 10 gigahertz in our bandwidth of frequencies for aircraft
+radar that we're going to be defending against.
+This will come into context when we're talking about radar-absorbed materials.
+Next slide, please.
+Ooh.
+Nice graphics.
+Thank you.
+I made this model myself.
+So, this is MATLAB 2024A.
+I made a custom wave propagation, just a 2D wave propagation simulation.
+I'm very proud of how well it handles diagonals.
+I used all eight surrounding cells, rather than just the four cardinal ones, as in most tutorials.
+I wanted to do better.
+So, I did.
+Again, my background is in this kind of thing, computational mathematics.
+Doing this was really fun, and my girlfriend was looking at me like I was crazy because we're
+watching Emma on the couch, and I have my computer open, and I'm having my Matlab.
+Most of my Matlab experiences are just screaming at it.
+Just like, fucking like, this is the worst program I've ever used except the other thing.
+MATLAB-DR messages are rarely helpful.
+Yeah.
+One thing I do want to point out before we start talking about what exactly we're looking at,
+is if you look at the vertical bars on the right, you'll notice that the same amount of energy is
+missing from each of those pulses.
+Brat Summer is getting really weird.
+So, that means that the object has taken out that energy and has either redirected it or absorbed it.
+Brat Summer is getting really weird.
+We're trying to make it not go back to the viewer, to the left-hand side of the screen.
+So, what we see here is a radar pulse.
+Now, this pulse is not just a single sinusoidal wavelet.
+I used two stacked sinusoids for this demonstration because when you are using a radar system,
+you probably don't want to get distracted by lightning strikes and any other kind of EM interference.
+That's just a single wave or wavelength.
+You want to have a filterable pulse that you can look at a Fourier transform of your signal
+that you're receiving and know that it was your radar station that emitted it
+and when the reflection came back in.
+So, you want to have a very distinct wave that you emit and then receive and then know what you saw.
+If I'm talking out of my ass, that's great.
+If I'm not, then pretend like I am.
+So, the first object is round and the air likes round things,
+but round things are easy to see.
+This is what I mean when I say that.
+You can see that the reflection reaching the left-hand side of the screen
+from the round object is very, very bright, very well-defined, and very visible.
+This would be considered a very strong radar return.
+That wave is basically exactly what you sent out, except it's vertically reversed,
+and it is just going to read so loud and clear.
+It's a beautiful reflection, but that's not what we want.
+We want to be invisible, not to be visible.
+The second one, this is the shapey shapes.
+So, this one is simply a square.
+It has the same height.
+So, relative to the wave, it has the same cross-section.
+It reflects way less in the direction of the wave hitting it,
+but because even though there's nothing pointing back, we still get that big arc of return,
+because diffraction is a thing, and if you're not absorbing, it's diffracting.
+You still get some diffraction even with absorption, but you get much less.
+And so, what you have is you have something bouncing off of that tip and then creating
+that reflection out to the side, and the diffraction from that reflection makes that front arc.
+It's actually coming from both sides and meeting in the middle.
+Mm-hmm.
+It's not actually coming off of the front of the object.
+It's coming off the side and swinging forward.
+The physics of that are quite interesting.
+You'll see a second set of that coming from the back surface, in fact.
+If you look in closely, you'll see these smaller arcs that are buried inside the big arc of the
+first diamond shape.
+Lastly, I coded the diamond shape in radar-absorbed material.
+And for the cases of this simulation, I simply had it absorb the wave.
+I would predict what the value would be and pretend like the wave was passing into the material.
+Um...
+Just eats your radar emission.
+Like, yeah.
+Basically, yes.
+Um, it hits...
+Where is my radar wave?
+Like, entirely full of radar waves.
+No, no idea.
+Chomp.
+Yeah.
+Okay.
+So, shapes help and they make things harder to see.
+In fact, the F-104 Starfighter, if I recall correctly, had a radar reflector in the nose
+gear assemblage so that when it was on final approach, the air traffic control could see it
+because the air traffic control radar wasn't designed for, like, military aircraft detection.
+So, it would send out a radar pulse and that would just bounce off of all the sharp front edges
+of the F-104 and nothing would come back to the emitting station and they'd go,
+we can't see your airplane upon approach.
+And so, to do that, they put, like, a retroreflector on the nose wheel gear.
+So, it was hidden when it was flying and then when it dropped down the nose gear, suddenly you
+had a radar return from directly in front of you and the air traffic control didn't panic.
+Nice.
+Um...
+So, shapes are great, but without radar-absorbed material, no amount of stealth can actually happen.
+It will be much less observable, but it can't be not observable because of physics.
+The early versions of radar-absorbed material were iron ball paint.
+This type of round-
+Man, Ryan, what can't it do?
+Make you invisible to radar?
+Make you stop shitting?
+Uh...
+Very useful material.
+Mm.
+Yeah, well, the good news is, uh, you actually save weight if you have been shitting your
+pants non-stop for 30 hours in the Justin Rosniak-designed flight suit.
+I... no.
+I... I... I... I... I... I wanted a separate toilet.
+No, that adds weight, buddy. Sorry.
+I mean, given that you're not gonna have the space to kind of get out of a seat,
+I think the thing is you just make the seat a toilet.
+Right, right, that's kind of what I'm thinking too, right? Like, oh god,
+a seat without a bottom for 30 hours? No thank you.
+Mmm.
+That would not be good.
+I don't like that at all.
+It's like my legs going numb.
+I... I don't know that I ever need to see Ros at a fighter plane.
+I've seen Ros at a normal plane, and he's pretty fucking miserable.
+I'm more of a train guy.
+Are ya, bud?
+Yeah.
+Those usually have bathrooms.
+Yeah, they usually do. With seats even.
+Welcome back, Ed Raider of the Material.
+Um, uh, so we need to stop those reflections. To do that, we have to absorb the energy in the
+surface of the aircraft or boat, um, without it returning to the, to the source.
+Early versions iron ball paint, small spheres,
+hollow spheres of iron would be embedded in the paint and sprayed on.
+It's why the F117 was painted black. It wasn't because we liked the color black.
+It's because that's the color of iron ball paint.
+Mm-hmm.
+Um, um, we'll come back to what, to iron ball paint when we start talking about
+carbon nanotubes, but that's out from a bit.
+Um, to my knowledge, uh, the next form of stealth coatings that was proposed
+were something called Jalman absorbers. I don't think they were ever used.
+Um, they were just like two plates separated and they would just act as a, as an absorbing antenna.
+Um, that was perfected with the split ring resonator, which to my knowledge is the most recent and
+most stealth aircraft today use split ring absorbers. Um, what they are, are they are
+basically antennas. They're like, basically with the sounds, what it says is a split ring. So you
+nest two or more rings together in kind of a nested kind of Russian nesting doll kind of way.
+And then you just split the rings on alternating sides as you go outward. Um, and what this does
+is this creates a series of resonating absorbers that can absorb wide bands and different sorts
+of bands. And you can tune them very specifically. Go ahead.
+We got way too good at shapes.
+Yeah. We're, we're, we're bending the laws.
+Mm.
+Yeah. These shapes are pretty fun shapes. Um, they are usually lithographed onto a surface.
+Um, cause that's how you would make them. You spray down a dielectric, you'd spray down your
+conductor, you'd then at your conductor, and then you have your set of rings. Um, and then you would
+paint over that. So people can't see what rings you're using with a fit with a camera so that you
+don't get like them tuning their radio to the places you're not absorbing. Um, they are great.
+They don't have the, you can be isolated pretty easily. So you can adjust the tuning capacity by just
+leaving a ring unsplit turns that into like, um, an isolating ring. Um, so that you don't get that
+resonance happening. We got, we got programmable like paint patterns or like etching patterns.
+That's wild.
+Yeah. Programmable materials. It's pretty cool. So like, if you imagine a set of nested hexagonal,
+uh, hexagonal patterns across say a plate on an aircraft as a panel, um, that will explain why
+when the F 22 gets a paint scratch, you have to replace the whole panel. You can't just spray a
+little bit more gray over the top of it. If you scratch that deep enough to cut the rings,
+you break the stealth for that portion of the panel and you go from having a stealthy surface
+to a reflective surface. This is, this is borderline magic runes shit to me.
+It is pretty cool because yeah, if you make the right shape out of the right materials,
+it does magical things. It is, it feels yeah, like glyph words, if you will, um, for scale,
+for how big these rings are. If you were to look at a ring that was a centimeter across,
+or 10 millimeters, and you were to make two nested rings, one, each of them one millimeter wide
+and separated by one millimeter, um, you would create a absorber that would absorb microwave
+radiation, like the one from your micro, 2.4 gigahertz. So like at the lower end of the band,
+that is the biggest... Approaches your microwave with a riot shield I have covered in these.
+The microwave nullifier. Your chicken will become totally raw.
+Anyway, uh, so that's like the biggest size that they'll be. So all of the ones that are etched
+onto aircraft surfaces will be smaller than that. When we looked at the bands on the previous,
+um, slide, we talked about how it's 2 gigahertz to 10 gigahertz. Well, the longer wavelength or
+largest size of absorber would be about a centimeter. Um, cool.
+Yeah. You have to be so good at engineering to make this.
+The last technology that is used primarily for grifting defense contracts is carbon nanotubes.
+They have always been 10 years away. They always will be 10 years away. There is no possibility of
+making them not 10 years away. Um, and so there will be variations of carbon nanotubes or
+very high carbon count buckyballs. Like imagine the iron ball paint spheres, except made out of
+carbon this time, graphene layers. Um, these will be sold to the U S government's defense
+procurement agency as a technology used to spend X number of millions developing over the next 10
+years. And whoever manages that grift gets 10 years of easy pay. Um, I someday, someday, someday,
+I will write up a paper on it. Um, there will always be a far away, the state of the art split
+ring resonators, at least the civilian aware state of the art split ring resonators. Um,
+there's no real reason to go higher than that unless you want more maintainability. If you want
+something sprayable, then you might have to go somewhere else. But honestly, at the cost of
+those aircraft, having a couple of spare panels is not a huge deal. Um, taking the panel off and
+resurfacing it is fine when they never see combat anyway. Yeah. That's the whole point of stealth.
+So correct. Um, they do see combat in certain cases, but it's never like fair.
+Sure. It's dropping bombs on people who have like, not even, don't even have wooden sticks.
+They've already burned it for fuel. Next slide, please. Why did I use a diamond as an example of
+a non aerodynamic shape that is used for stealth? Oh, she's beautiful. Right. Um, this right here
+is have blue. Oh yeah.
+It was a technology demonstrator that eventually became the F one 17. You'll notice some differences.
+Um, when we get the fucking camouflage off her, they took the camouflage off this one.
+Return with a V. Yes. Yes. Because you can't see.
+These might have flown without ever having been coated in iron ball paint. I believe these were
+aerodynamic investigators and we knew that the paint would work because we can test the paint
+on a plate of metal. It doesn't have to be on an airplane. And we wanted to be able to see these
+things on radar so we could see how they were flying when we didn't have like, you know,
+active communications with them. Um, also breaking up the outline of the fauceted plane,
+it made it much harder for spy satellites to determine what we were doing.
+It's like one of the like, you know, pre-launch car models that just has the like,
+insanely weird wrap on it to stop you from copying the shape of it.
+Yeah. This is razzle dazzle camouflage for planes. You're welcome.
+Hmm.
+Hmm. Um, so the have blue, uh, did not fly well. Um, you can see some changes that they made to the
+F-117 is that they turned the tails from going inward to going outward. Originally, the tails
+pointed inward like they do on have blue because that were avoided creating a concave angle. A concave
+angle can act as a retro reflector pretty easily from that angle. So you want to avoid those when
+possible.
+Yeah. Just trapping, trapping waves that just bounce around inside them, you know?
+Yeah. The waves will bounce one or two times and come straight back at the observer. Um,
+we don't want that. We tried to avoid it, but, um, having the tails go inward and be blanked by the
+fuselage at high angles of attack makes landings very difficult. Thus, the first one that was ever
+made crashed on 1978 on, on landing. It came down, it lost some stability, bounced really hard. They flew it
+up, but landing gears were damaged and he just, uh, so they ejected, um, rather than try to land with
+damaged landing gear because we didn't have zero zero ejection seats at that time. The second plane
+was lost in 79. Um, a hydraulic fuel leak created a lack of hydraulic pressure. These were fly by wire
+aircraft. They were not stable to fly. They required the computer constantly making adjustments of control
+services in order to stay in the air. Um, when that hydraulic leak happened, they lost control authority and
+the plane became unstable. The pilot ejected safely and the aircraft was destroyed. And that was both of them.
+Um, this is what happens when you fly a plane, the air doesn't light.
+Hmm. Tested to destruction.
+I think someone put in a note here at the bottom. Do they want to read it?
+Yeah, this is something that more applies to the F-117, but like, I really like it. Uh, this is, uh, uh,
+one of, uh, Lockheed's, uh, like, leads on this talking to the New York Times after it was declassified.
+Said that one of the things that they were worried about was, um, was harmonic resonances.
+Um, but also like, not just in terms of like radar, but also sound. And, uh, he describes the exhaust,
+um, uh, and this, and he says, uh, we wanted to avoid turning the F-117A into a harmonica.
+Stealthy airplanes are supposed to be quiet as well as invisible. And I just
+really love the idea of this thing that you cannot pick up on radar, but it sounds like a
+mournful harmonica screams past you.
+Did we just invent inventors?
+Yeah!
+Okay, uh, next slide please.
+I think all body types can be beautiful.
+Oh wow.
+This is tacit blue. I often compare myself to tacit blue because I'm-
+I try to be stealthy.
+I have to travel to like Florida and Texas and Alabama and shit.
+I don't want to, but it's part of my job.
+So I fly stealth. And this plane understands me and I understand her.
+Um, this is a plane that understands 1960s women dysphoria.
+This is a plane that knows how to dress for her body type.
+This plane has a dramatic contralto singing voice.
+Um.
+Thank you for that. I think most of those are for me.
+Those are all for you.
+Um, this is tacit blue. This was a technology demonstrator of not only some stealth ideas,
+um, you can actually see a lot of the design elements that end up in the B2 spirit.
+Um, look specifically at the, uh, the cockpit, the front of the cockpit,
+and, uh, sort of the start of the fuselage area, as well as the wing shape.
+Um, these are all things that came into play in the B2 spirit.
+Um, the primary purpose of this plane was the large flat sides of it.
+Um, those were used to test out early phased array, low, low observable radars.
+So you wouldn't necessarily think that emitting radar from a plane intended to be radar invisible
+would be a good idea.
+It'd be like putting a spotlight on top of something that's painted black, right?
+It wouldn't really be effective.
+So they were looking into ways of having an aircraft that could emit radar without
+those radar emissions and detections being seen by other actors, right?
+Do you want to hide the signals as lightning strikes far away?
+Do you want to hide the signals by making them very short and very bursty?
+Do you want to hide them by having them spread spectrum?
+Like how do you want to examine being able to send out sensor missions and receive them without
+being observed yourself doing that?
+How do you see without being seen?
+That was a very interesting design and there's not a whole lot of information about what they did,
+which I assume means that it was pretty successful at what it did.
+Hmm.
+If it had failed, they'd be talking about it and trying to convince other people to try
+picking up that technology.
+If they did a really good job with it, which I think they did, um, they would not talk to you,
+talk to you about what worked.
+Both examples survived to my knowledge, or was it one example?
+Um, one example survived and it has been, um, sitting in white right person air for space
+in the national museum of the United States air force for a while for at least a few dozen years.
+Um, it's a gorgeous plane. If you have a chance to go see it, please see it and take pictures for me.
+I might never get to Ohio.
+Let's hope not.
+It's a gorgeous, and it's one of the few planes that the air liked. Uh, it survived 250 flight hours.
+Wow.
+Wow.
+Yep. It was declassified in 96 and then in a museum about 20 years later.
+Just like in 1996 being like, check out the shit we got up to.
+Look at this.
+Do you like it?
+Yeah.
+Look at it.
+It kind of looks like a beluga whale.
+It does.
+The Airbus plane that flies around parts for other Airbus planes.
+Mmm, yeah, yeah, yeah.
+Alright, next slide please.
+They made it worse.
+They made it worse.
+They took...
+Roz, do you need coffee, buddy?
+Aye, maybe.
+In a second.
+Oh, cow.
+They took half blue and they made it black.
+They painted it black and they made it edgy.
+Oh, I've heard that Rolling Stone song.
+Yeah, I was gonna do, I saw a camo plane and I want to paint it black.
+Okay, so this is the F-1-17A Nighthawk.
+It is a not actually retired American single seat, subsonic twin engine stealth aircraft.
+Just don't know how to quit them.
+Same with the U2s, you know?
+Like...
+The Air Force.
+As with the history of governments just, you know, ending promising programs.
+Um, they stopped flying the F-117 nominally in like the 90s.
+And then somehow in September of 2021, when two F-117s landed in Fresno, um, one of them
+was observed not to be fitted with air, uh, with radar reflectors.
+Hmm.
+Hmm.
+Hmm.
+Mysterious.
+Spooky.
+And then the United States Air Force published photographs of that plane without the radar
+reflectors on somewhere.
+I don't remember where.
+Um, which was the first formal acknowledgement that the aircraft continued to fly after its
+official retirement saying, Hey, we know we told you about this cool stealth plane.
+We stopped flying it.
+Trust us.
+Don't look for it.
+It's hard to find...
+And it kind of works.
+...difficulting in the effort, because it's not flying anymore.
+I'm thinking about this.
+This kind of works.
+I'm thinking about this.
+Um, so this aircraft, uh, I loved this thing as a child.
+Like, I loved that, the shapes of it.
+I knew it didn't fly well.
+I wanted to fly it anyway.
+Um, I had a little model of it.
+The feeling of those facets under your fingers, so good.
+Mm-hmm.
+Um, very, very beautiful plane to touch.
+It's God's stim toy, you know?
+Don't try to touch them in real life.
+Um, it's lethal to do so.
+Um, you will die of bleeding out from gunshot wounds.
+Yeah.
+Oh, good to know.
+Yes.
+And then shortly afterwards from, like, all the cancer.
+Probably.
+I don't think these ones, like, they didn't have any exotic, um,
+fluids in them because they weren't doing exotic flight regimes.
+Mm-hmm.
+Um, I think the iron ball paint at this point has outgassed enough that you're not going
+to die from breathing.
+Um, it's outgassing.
+So, as I probably be fine.
+Um.
+You'll probably be fine.
+Um, yeah, just don't go near them.
+They're usually very considered secret.
+Mm-hmm.
+And they usually have bombs on them.
+Mm-hmm.
+Um, so the F-117 was a very successful aircraft for its seeded mission goals.
+Um, it was when stealth was a primary design concept.
+It didn't fly fast.
+It didn't fly very well.
+But what it did do is it would carry, like, a single bomb, uh, maybe two, deep into enemy
+territory without being seen and could drop a small volume of munitions on a very precise
+location, um, which we never really needed to do.
+Yeah.
+Just in case you want to, like...
+We used it in the Gulf War, but we could have beaten the Gulf War with way less technology
+than we used.
+Mm-hmm.
+We just, we had, we had it from...
+Yeah, it's just flexing, you know.
+Yeah, we had it from developing against the Russians, and then we just, like, well, we
+had to line around.
+What this is built for is to, like, say, say you are, like, you know, you're in the Red
+Army, you're implementing seven days to the Rhine or whatever, you're gonna, like, drive
+to Antwerp.
+This is all well and good.
+This thing is meant to, like, come into your airspace, find the, like, you know, the headquarters
+of the fucking 40th root army or whatever, and drop something directly down its urethra.
+Yeah, we had, we had developed the Smashnator 8000 or whatever from the Biodrop Press Channel,
+and we saw a problem that was a nail, and we said, why not?
+Drops, drops one enormous hammer directly onto the command post.
+Right.
+It's, it's over-engineered for what we used it for.
+Um, it wasn't...
+I, I talk about how, like, it could do with relative precision with a single bomb, and with
+a single bomb, it was relatively precise.
+That said, a single bomb isn't very big, it's not a very effective weapon, and I'm gonna quote
+Wikipedia here, early claims of the F-117's effectiveness were found to be overstated.
+They failed to hit 40% of their assigned air defense targets.
+So the mission goals during the Gulf War for this airframe were to fly in, be undetectable
+by radar, take out the radar sites so the more radar visible conventional aircraft could go in
+and do the heavy lifting of killing human beings in a conflict that was pointless anyway.
+Makes sense.
+So, good plan. Yay. Not un-Lamauable though.
+Not un-Lamauable. This is, um, this is an F-117 that did in fact get Lamaud and inspire the movie
+Behind Enemy Lines. Um, because the Serbs shot it down during the, like, NATO bombing of Yugoslavia.
+Do you sometimes see this get cited as an example of, like, anti-imperialism?
+You very much do not have to hand it to the Serbs here?
+You don't have to hand it to the Serbs, I was gonna say.
+No, this is true.
+They were mid-genocide at the point of doing this.
+Yes.
+Um, but so, uh, yeah, a couple of things going on here.
+Human intelligence, complacency, and a great case of, uh, like, sort of one, uh, mid-level officer
+making his own luck. And of course, Marxism-Leninism making you very good at developing surface-to-air
+missiles. Um, this thing got Lamaud by an SA-3 battery. Um, and part of the reason why it did
+is because they were flying very predictable routes. Um, and because, uh, the Serbs had human
+intelligence. They had spies watching the airfields in Italy where these were taking off from.
+Uh, they knew that they were gonna be sort of, like, broadly unescorted. It was horrible weather.
+Um, they hit it on the way coming back. Um, and also just, like, uh, just good officering.
+Like, being very, very good at, like, uh, moving your, like, uh, surface-to-air missile battery
+in very quick time. Uh, like, being very disciplined with the time that you have your radar on so that,
+um, like, um, seed doesn't, like, blow you up. And, uh, just also the fact that it's, it's more
+detectable on radar if you have the, uh, the, like, bomb bay open, which it did at the time.
+Sure.
+Uh, and then got rewarded by being exploded. Um, the guy didn't die as well. Um, like,
+the pilot's still, like, besties with the guy who commanded the battery who shot him down,
+which is a fun story. Eh.
+Just like, you know, uh, it's all good now, you know? Sorry about the Albanians or whatever.
+Um, which, okay, sure. I just, um, yeah, I think the lesson from this is that, like,
+yeah, it's all very well, like, having the thing, but it's, you're using it kind of outside its
+design parameters and then you're using it complacently, then someone is going to take
+advantage of it and all it takes is-
+Someone who, uh, yeah, it's just, someone's going to, like, say,
+well, it's not actually invisible and shoot it down.
+Yeah, and it's a sort of stirring in its own way, sort of, like, um, sort of, like,
+endorsement of the role of, like, you know, sort of battery commander or whatever, that, like,
+well, it takes is, like, one person and one team to be, like, switched on more than anyone expects,
+and you can really, like, you know, down the sort of, like, um, sort of stealth aircraft, which is,
+you know, credit where it's due to the Geneseed Airs, that was impressive. Um...
+Yeah.
+I said I wasn't going to give them credit, I ended up having to give them credit.
+Oh yeah, you wound up giving them credit, yeah.
+You can give the Sam site commander credit, he wasn't actively, you know, murdering people,
+I hope, not him individually.
+No, not so much. I mean, difficult to do a Genocide directly yourself with a surface-to-air missile,
+but...
+Someone's going to try.
+I feel like someone's one guy doing the Genocide.
+Yeah, yeah.
+Just doing one man Genocide.
+God.
+This did pop the US Air Force's bubble about stealth technology, though.
+This particular event was the first time a stealth aircraft had been shot down by the very thing
+it was designed to evade.
+Mm.
+Um, they worried that...
+They didn't know how it was shot down or detected, that wasn't even still available.
+They had another...
+They started to worry that there was something about the design of the aircraft that was flawed.
+Mm.
+Well, I mean, this being America, we've got to spend another, like, $100 billion on finding out.
+No, we're sure gonna...
+No, far more than $100 billion.
+Just one of the planes coming up, in part two, dear listener, please return,
+is a $200 billion defense project.
+Wow.
+Serbia's gonna find out why the US doesn't have free healthcare.
+Given that it's now coming up to like two and a half hours, I think we're gonna try something
+unprecedented, which is breaking it up into multiple episodes. So, Alea, thank you so much.
+No worries.
+A preview of future formats for our listeners as, uh...
+Yes.
+...doing these very, very...
+In our aged states, doing these very, very long podcasts is getting difficult.
+Speaking of yourself, it's 1.46 in the morning, I'm fine.
+Skill issue.
+Just to be Liam, I am sorry for making it so long.
+Well, that's okay.
+Dear viewer, you are welcome for the additional content.
+They gave me like a week to help assemble these slides, and I think I spent more than
+I should have off my break time, just assembling and adding things
+in.
+Yeah, and then I added a bunch of things that would derail you, so uh, yeah.
+Uh, looking forward to seeing you for the next episode, which will run about five hours.
+Okay.
+Works for me.
+Yeah, thank you for supporting us, thank you for subscribing to the Patreon.
+Um, do you have anything else we want to plug?
+Do you mind skipping to the very end so I can plug my thing?
+Yes!
+Yeah, absolutely.
+Just throw out the last slide, we'll plug it in both.
+Oh, I didn't know you could press it and you could just go there, damn.
+Yeah.
+Okay, so...
+Wow.
+...and I'll just go ahead and check your PowerPoint today.
+Well done.
+Yeah.
+We're at the end of the slideshow.
+Um, I run a non-profit.
+The non-profit that I run is, was intended to be like a community development for trans
+women in the sciences and academia because this is a very, this is my side of things.
+You know, the whole industry of rockets in space was founded on the backs of Nazis.
+So like we have always been historically underrepresented and it's pretty hostile in the work environment.
+As society has shifted into using trans people as a wedge issue and certain states have gotten
+very dangerous to live in as a trans person, my non-profit has started pivoting a little
+bit.
+I do have community events, but I use my house and the spare cupboard that has a mattress
+in it and my, my guest room that I would ordinarily be renting out to a student to support trans
+women who would be otherwise unhoused.
+Um, my non-profit, I provide a stipend.
+I provide assistance with connecting with state resources and I provide assistance with identity,
+identity document alignment.
+Um, where we take someone in who just has to get the heck out of Dodge.
+They come to my house.
+They have all of the bottom of Maslow's hierarchy, right?
+They can build a life with, they have housing, they have food, they have meds, they have their identity documents.
+That's my goal within 90 days.
+Um, people don't usually have to stay the full 90 days to be back on their feet.
+We're all pretty resilient.
+Um, we made it this far at least.
+And I'm supporting this with my, my day job.
+I work for, um, a national laboratory doing spacecraft flight control.
+It's pretty good pay.
+The cost of living here is pretty ridiculous.
+Um, I can support two people, but I don't have any margin left over.
+If something goes wrong with my car, I start riding my bike.
+If something goes wrong with my bike, I better be able to fix it myself.
+If I have a medical emergency or one of my guests has a medical emergency, things get really dicey really fast.
+Um, if you want to dear viewer to support this effort of helping people out,
+I currently have two guests right now in my rescue program.
+Um, both of my beds are full.
+One of them is leaving the suite.
+So I'm wishing her the best.
+Um, we will greatly appreciate any support you can offer.
+Um, this hat, there's a lot of strain on our community right now in terms of just raw resources, anything you can provide.
+I promise will be used.
+It is a registered nonprofit.
+It is on my taxes.
+It will not be misspent.
+I do have to track receipts.
+Um, the sculpture.co is the address.
+You can type it into any search bar and it should bring you bring up the site.
+Um, and then there are links to either join.
+Um, if you are in the, um, greater Denver, Boulder area, um, you can just join the community and come to my movie nights and hang out with the group.
+We're all good people.
+We're all autistic.
+We're all trans.
+Um, if not, if you just want to support us, um, my Patreon is the best way to support because that's reliable income that I can kind of count on a little bit more than one time donations.
+One time donations are great.
+Don't let that stop you.
+But the Patreon really does help me plan the budget for what I can provide to my rescue guests.
+Um, that's all I have to say.
+If you want to help, please do.
+Absolutely go and do that now.
+All right.
+Yes.
+Otherwise I'll be very, very annoyed.
+Bonus episode subscription.
+So, and you don't get what you pay for.
+Someone else gets what you pay for, which is the whole point of charity.
+The idea of charity.
+Yeah.
+Yes.
+All right.
+Perfect.
+Thank you so much.
+Thank you.
+Thanks for having me.
+Oh, it's our pleasure.
+Yeah.
+All right.
+And we will see you again in part two.
+Bye everyone.
+Bye.
+Bye everyone.

@@ -1,0 +1,2094 @@
+0.00 7.58 SPEAKER_03  A 1960 Rat Pack film in which a group of Second World War veterans planned to rob five Las Vegas casinos on New Year's Eve.
+7.90 11.32 SPEAKER_03  It was remade in 2001, starring George Clooney and Brad Pitt.
+11.76 12.36 SPEAKER_02  Ocean's Eleven.
+12.74 13.22 SPEAKER_03  Yes, indeed.
+30.00 34.64 SPEAKER_03  Hello and welcome to another episode of University Challenge.
+35.64 36.64 SPEAKER_03  November Kelly.
+37.64 38.08 SPEAKER_03  Hello.
+38.50 42.42 SPEAKER_03  Joined as always by my co-contestants, Abigail Thorne and Devon.
+42.54 43.58 SPEAKER_02  St. Andrews Thorne.
+44.34 45.10 SPEAKER_02  Devon, Devon.
+45.78 47.46 SPEAKER_02  Where did you go to uni, Devon?
+47.56 48.14 SPEAKER_03  Where did I go to uni?
+48.22 48.74 SPEAKER_03  Abarist with.
+48.92 49.72 SPEAKER_02  Abarist with Devon.
+50.06 58.30 SPEAKER_03  So we've got the Abarist with thing, and then I'm on the Glasgow team, but I dropped out, so I'm just hanging on to one corner of the set.
+58.48 59.68 SPEAKER_03  They're trying to pull me away.
+60.00 62.60 SPEAKER_03  You're sat on the floor next to the table.
+64.82 68.24 SPEAKER_03  No, they let me on the team, but I'm wearing like a big dunce cap.
+68.72 69.44 SPEAKER_02  Yeah, yeah, yeah.
+69.44 69.76 SPEAKER_02  You're the mascot?
+70.42 71.88 SPEAKER_02  University bit too challenging.
+74.60 76.86 SPEAKER_03  Almost University of Glasgow.
+77.40 80.28 SPEAKER_03  Hello and welcome to another episode of Kill James Bond.
+80.64 82.40 SPEAKER_03  It's robbery season.
+82.86 83.80 SPEAKER_03  It's heist season.
+84.20 84.82 SPEAKER_02  Hands up!
+84.82 85.26 SPEAKER_03  Yeah.
+85.72 87.96 SPEAKER_03  We're here for the bank's money, not your money.
+88.34 88.92 SPEAKER_03  It's true.
+88.92 92.56 SPEAKER_03  It's the first Kill James Bond of 2025 for us recording it.
+93.26 95.04 SPEAKER_03  And, you know, what a year already.
+95.46 96.46 SPEAKER_03  Some things have happened.
+96.70 97.74 SPEAKER_03  Some events have occurred.
+98.20 98.44 SPEAKER_03  Wonderful.
+98.60 99.32 SPEAKER_02  And they fucking have.
+100.90 101.26 SPEAKER_03  Yeah.
+101.48 103.44 SPEAKER_03  No, let's just, let's ignore those.
+103.64 105.10 SPEAKER_03  Let's just talk about the movies.
+105.10 107.34 SPEAKER_03  Let's talk about Oceans 12.
+107.78 109.34 SPEAKER_03  The sequel to Oceans 11.
+109.74 111.60 SPEAKER_02  There's not a whole lot going on.
+111.94 112.22 SPEAKER_03  No.
+112.38 113.38 SPEAKER_03  No, this is the thing.
+113.46 120.54 SPEAKER_03  I think all of us, when we watch this film, we're all independently in the group chat at one time or another going, this is not a lot here.
+120.60 123.90 SPEAKER_03  There's pretty thin gruel for us to talk about.
+123.90 132.90 SPEAKER_03  Because Oceans 11, in all of its iterations, has existed as a way for the cast to just kind of get paid to hang out.
+133.28 138.28 SPEAKER_03  And Oceans 12 is perhaps the strongest example we've yet seen of that.
+138.54 138.60 SPEAKER_02  Yeah.
+138.80 142.48 SPEAKER_02  And it's fascinating because it's just a bunch of like hot people hanging out.
+142.66 146.70 SPEAKER_02  And it struck me that this sort of movie, they wouldn't get made anymore.
+146.70 147.84 SPEAKER_03  My life like a movie.
+147.96 148.64 SPEAKER_02  Oceans 12.
+148.64 153.66 SPEAKER_02  Nowadays, like, nowadays, they'd all have to be in capes and they'd be fighting a big like purple whatever, right?
+154.04 154.22 SPEAKER_02  Yeah.
+154.46 158.10 SPEAKER_02  But you don't get this kind of movie anymore because this is, it's just a fucking Twitch stream.
+158.30 159.08 SPEAKER_02  It's just a vlog.
+159.20 161.20 SPEAKER_02  It's just a bunch of like hot people hanging out.
+161.34 161.66 SPEAKER_00  Yeah.
+161.74 163.52 SPEAKER_02  And it's like, I can watch this for free now.
+163.58 167.70 SPEAKER_02  You didn't need to like spend 120 million dollars making it, Steven Sertavik.
+168.32 171.50 SPEAKER_03  It's kind of getting parasocial with it, you know?
+171.50 182.06 SPEAKER_03  You're like, I want to see what my, like my friends, George Clooney and Matt Damon are getting up to and what they're getting up to is kind of just sitting around chatting.
+182.34 184.54 SPEAKER_03  There's like very little heist in this heist movie.
+184.66 185.88 SPEAKER_03  They're just shooting the shit largely.
+186.10 187.76 SPEAKER_02  Yeah, the heist is literally an afterthought.
+188.10 189.16 SPEAKER_03  Yeah, absolutely.
+190.10 198.46 SPEAKER_03  I mean, to be clear, they're trying to do, vaguely trying to do like Oceans 11 goes to Europe in this one, right?
+198.46 203.42 SPEAKER_03  And they'd make some nods towards your kind of like European, like white telephone films.
+203.42 208.42 SPEAKER_03  A lot of it's set in Rome, but it doesn't leave that much of an impression.
+208.70 209.84 SPEAKER_03  Because 9-11 has happened.
+210.38 214.32 SPEAKER_02  It's 2004, so 9-11 has happened, but the financial crash hasn't yet.
+214.68 215.54 SPEAKER_03  Okay, that makes sense.
+215.96 217.60 SPEAKER_02  So we're still limping along here.
+218.04 223.72 SPEAKER_03  Yeah, weird which one of those turned out to have more of an impact on movies as a cultural product, you know?
+223.98 224.54 SPEAKER_02  Yeah, I suppose.
+224.54 232.76 SPEAKER_03  But so we begin with Brad Pitt getting home from a long day at the sequel factory.
+233.04 233.22 SPEAKER_02  Yeah.
+233.58 236.30 SPEAKER_03  And waiting for him in bed as Catherine Zeta-Jones.
+237.50 240.32 SPEAKER_03  I, Catherine Zeta-Jones is in this movie.
+240.46 244.40 SPEAKER_03  I will not be talking about anyone else who is in this movie because I don't remember.
+244.88 245.62 SPEAKER_03  She's really good.
+245.84 246.68 SPEAKER_02  So she's in bed.
+246.82 249.16 SPEAKER_02  This is a flashback to three and a half years ago.
+249.16 255.50 SPEAKER_03  Did you see Americans try to like racially analyze Catherine Zeta-Jones on Twitter this week?
+255.58 259.88 SPEAKER_01  Yeah, Yank's got a glimpse of the sort of Welsh thing that...
+259.88 265.80 SPEAKER_01  People don't realize this, but one in every three Welsh people are Arab, and that's nothing to do with immigration.
+266.06 267.40 SPEAKER_01  That's like, they just look Arab.
+267.56 268.16 SPEAKER_01  It's crazy.
+268.52 274.50 SPEAKER_01  My brother-in-law looks exactly like Motaz, that Palestinian journalist that's been popping up for the last couple of years.
+274.72 274.90 SPEAKER_01  Whoa!
+274.98 276.70 SPEAKER_01  Like, I'm not fucking with you, 100%.
+276.70 284.58 SPEAKER_01  So like, you get Welsh actors who are completely at home playing characters, like we've seen with Catherine Zeta-Jones before, she was in like, The Mask of Zorro.
+285.06 285.70 SPEAKER_02  Yeah, yeah.
+286.38 287.70 SPEAKER_01  Playing a Mexican woman.
+287.70 288.16 SPEAKER_01  Yeah.
+288.84 292.06 SPEAKER_01  You got Tom Jones is a full-blooded Welsh man.
+292.32 292.56 SPEAKER_04  Hmm.
+293.00 293.28 SPEAKER_03  Like...
+293.28 301.26 SPEAKER_03  Yeah, but so people, Americans on Twitter were like, they found a couple of pictures of Catherine Zeta-Jones and they're like, there's no way she's just Welsh, right?
+301.48 305.58 SPEAKER_03  Like, they're hiding something in there and I've got this phrenology skull.
+305.58 309.84 SPEAKER_02  Like, me and me, like, you can't cut this fucking calipers out to measure this actress's head.
+310.04 310.72 SPEAKER_02  It's crazy.
+311.22 313.52 SPEAKER_02  God just rolls the dice when he makes a Welsh person.
+313.70 314.58 SPEAKER_02  It's just like, you could...
+314.58 314.66 SPEAKER_02  Yeah.
+314.66 316.68 SPEAKER_02  It just sets those sliders to random.
+316.98 322.32 SPEAKER_01  Buddy, you can look anything from Mediterranean to Mexican, just like, that's Wales, baby.
+322.44 324.46 SPEAKER_02  They've got some high elves in there, like...
+324.46 325.28 SPEAKER_01  Oh, certainly.
+325.40 327.68 SPEAKER_02  Some of them can breathe underwater, like, there's all kinds of shit.
+327.84 329.52 SPEAKER_01  Pumple any coom, honestly.
+329.52 333.94 SPEAKER_03  But so, Catherine Zeta-Jones is a cop, right?
+334.02 334.28 SPEAKER_01  Yes.
+334.28 344.52 SPEAKER_03  As Brad Pitt's getting in, she's like, we're really close on the tail of the guy who's been doing the other heist, the Bulgari heist, who has heisted a bunch of Bulgari.
+344.60 345.64 SPEAKER_03  I hope they got this a penny.
+345.84 346.48 SPEAKER_03  They're really cool watches.
+346.72 347.22 SPEAKER_03  Yeah, yeah, yeah.
+347.22 355.92 SPEAKER_03  And as she's describing the clues that they have, it becomes more and more obvious that it has been Brad Pitt just closing in on him.
+357.08 363.16 SPEAKER_03  And he just kind of, like, casually starts the shower going and then jumps out of the bathroom window to escape.
+363.62 364.54 SPEAKER_03  Yeah, he hits the bricks.
+365.00 365.68 SPEAKER_02  It's quite funny.
+365.88 366.36 SPEAKER_03  It's quite charming.
+366.96 368.32 SPEAKER_01  He feels the heat coming around the corner.
+368.96 369.62 SPEAKER_02  Gets out of there.
+369.86 370.62 SPEAKER_01  No attachments.
+371.00 371.20 SPEAKER_01  None.
+371.20 371.64 SPEAKER_01  None.
+372.14 373.52 SPEAKER_01  He passes the heat test.
+373.52 381.08 SPEAKER_01  As it will become apparent, the Oceans guys cannot stop getting attached to women in a way that ruins their plans.
+381.94 382.56 SPEAKER_01  No attachments.
+382.80 383.92 SPEAKER_03  Well, some attachments.
+384.12 389.28 SPEAKER_03  As the Buddha said, some attachment is okay if it's Catherine Zeta-Jones.
+389.74 389.96 SPEAKER_02  Yeah.
+390.08 391.14 SPEAKER_02  Well, that means to be fair.
+391.16 394.42 SPEAKER_02  We had to go back and establish that Rusty isn't gay, which I was disappointed by.
+395.04 396.12 SPEAKER_01  Yeah, come on.
+396.12 400.18 SPEAKER_01  Him and Danny Ocean have some good scenes together where it's like, what if you two just kissed?
+400.18 404.40 SPEAKER_02  You could have kept the Welsh thing and just instead of Catherine Zeta-Jones, it's Tom Jones.
+405.04 405.72 None  That's true.
+406.34 407.18 SPEAKER_02  Yeah, exactly.
+407.38 411.12 SPEAKER_01  You should have done a Mars Attacks where you just have Tom Jones show up near the end of it.
+411.14 422.62 SPEAKER_03  To be clear, the homoerotic relationship between Danny Ocean and Rusty Ryan is by far the most interesting relationship that these movies have been able to cultivate, right?
+422.72 425.96 SPEAKER_03  Anytime they're together, they're like very, very intimate with each other.
+425.96 437.54 SPEAKER_03  So we have to reintroduce Danny Ocean, who, when I was describing these movies to my wife, I called Frank Ocean without thinking, and I have never heard the end of it since.
+438.28 440.04 SPEAKER_03  So we have to reintroduce Frank Ocean.
+440.40 440.96 SPEAKER_02  Frank Ocean, yeah.
+442.12 453.76 SPEAKER_03  And he's like, he's at a bank applying for a retirement account, and you think, oh, it's some kind of a scam, because he's the scams guy, and it's George Clooney, he's doing his scam effect.
+454.30 456.28 SPEAKER_03  But no, he's just straightforwardly retired.
+456.96 465.62 SPEAKER_03  He does almost confess to the crime of the century to a bank guy because he's bored, which I kind of respect.
+465.62 465.84 SPEAKER_03  I get it.
+466.00 466.28 SPEAKER_03  Yeah.
+466.82 471.50 SPEAKER_03  This is what Robert De Niro would have been doing had he gotten away in Fiji.
+471.62 483.82 SPEAKER_03  He would be talking to a Fijian bank clerk, and he would also say the line, I was once in a vault when it was being robbed, which is the most carefully worded, non-incriminating disclosure.
+485.32 486.10 SPEAKER_03  Really good.
+486.32 486.62 SPEAKER_03  Yeah, yeah.
+486.62 490.60 SPEAKER_02  And his wife, Julia Roberts, is kind of climbing the walls at home as well.
+490.66 495.72 SPEAKER_02  She's picking out the color that walls are going to be painted in, and she's like, I don't know why she's not working.
+495.84 497.40 SPEAKER_02  She used to be an art museum curator.
+497.52 499.00 SPEAKER_02  She could do that again.
+499.40 502.98 SPEAKER_03  Yeah, but she's just picking out paint samples in their suburban home.
+502.98 507.12 SPEAKER_03  When, if we remember, the very end of Ocean's Eleven, right?
+507.58 508.14 SPEAKER_03  Of course.
+508.36 514.58 SPEAKER_03  They leave the jail, and they're being followed by the guy they robbed last time, Andy Garcia, Terry Benedict.
+514.84 517.86 SPEAKER_03  They're being followed by his goons, his two goons.
+518.06 520.50 SPEAKER_03  And these are some goons par excellence, right?
+520.68 521.16 SPEAKER_02  Yeah, yeah, yeah.
+521.32 522.02 SPEAKER_03  The Blowjob Brothers.
+522.32 523.24 SPEAKER_03  The Blowjob Brothers.
+523.46 532.40 SPEAKER_03  And so Julia Roberts sees the heat around the corner in the form of the Blowjob Brothers, who come to her front door with Andy Garcia.
+532.40 533.50 SPEAKER_02  With Casino Dracula.
+533.66 537.46 SPEAKER_01  A pair of brothers, by the way, Larry and David Sontag, playing those two goons.
+537.46 537.84 SPEAKER_01  They're real brothers?
+537.94 538.82 SPEAKER_01  They're really the Blowjob Brothers?
+538.82 539.34 SPEAKER_01  Two big guys.
+539.66 540.20 SPEAKER_01  That rules.
+540.54 541.98 SPEAKER_01  Susan's brothers?
+542.58 544.66 SPEAKER_02  These porn star motherfuckers.
+544.82 545.54 SPEAKER_02  P-A-W-N.
+545.74 549.40 SPEAKER_01  Andy Garcia looking even more like a vampire than last time.
+549.54 549.68 SPEAKER_01  Yes.
+549.68 551.08 SPEAKER_01  We remarked upon it.
+551.32 555.48 SPEAKER_01  I saw Nosferatu, and I came back here and watched this, and I was like, I'm seeing double.
+555.60 556.20 SPEAKER_01  What's going on?
+557.00 558.86 SPEAKER_03  He's looking weird as hell.
+558.86 560.56 SPEAKER_02  Because the Matrix has come out.
+560.88 566.42 SPEAKER_03  Yeah, this was your theory about this, was that this was a kind of post-Matrix turn in costuming.
+566.42 569.66 SPEAKER_02  That's why he's dressed with like the little sunglasses, and he's dressed like the Merovingian.
+569.82 570.62 SPEAKER_02  He's the Merovingian.
+570.62 571.46 SPEAKER_02  He does have the little sunglasses.
+571.46 572.00 SPEAKER_02  He's Merovingian moding.
+572.20 579.24 SPEAKER_02  There's a moment later on where he's got like red tie and like red collar, but like the tie is tied fucks, and I'm like, you've got Merovingian envy.
+579.24 584.78 SPEAKER_03  Getting gender euphoria from looking like the Merovingian.
+584.78 586.64 SPEAKER_03  I mean, I'm sure there's guys out there.
+586.64 587.70 SPEAKER_02  I would do that now.
+587.78 588.50 SPEAKER_02  Never mind as a guy.
+588.68 590.96 SPEAKER_02  Like Merovingian's got fucking drip for days.
+591.08 591.28 SPEAKER_01  Yeah.
+591.74 593.78 SPEAKER_01  Hussein's got that, but only for the reboot movie.
+594.96 604.42 SPEAKER_03  There's a bit later on, because the deal obviously is that he has found them and he's rounding up the whole gang in order to like confront them, and then it's implied like kill them.
+604.42 615.58 SPEAKER_03  There's a bit where he's like, he confronts the two Mormons, where he's wearing red leather gloves and a matching red cravat and an all black suit and tiny red sunglasses.
+615.98 616.92 SPEAKER_00  It's like, okay, man.
+617.30 621.80 SPEAKER_03  This is, you were LARPing Vampire the Masquerade in a park in that outfit.
+622.04 623.46 SPEAKER_03  Like that's, it just.
+623.88 629.58 SPEAKER_02  It's the sort of thing you can only wear on camera, because as soon as you wear it in real life under normal lighting, you've realized you look like a dipshit.
+630.68 632.44 SPEAKER_02  Everyone is yelling at you in the street.
+632.44 635.56 SPEAKER_02  The magic critic character, with the cane too, with the little cane.
+636.00 637.86 SPEAKER_02  To be fair, I think canes are cunty.
+637.90 638.90 SPEAKER_02  I'm going to bring canes back.
+640.18 642.08 SPEAKER_01  Or that's an upward battle.
+642.22 644.62 SPEAKER_01  That's a really uphill battle to bring canes back.
+645.12 646.38 SPEAKER_01  The teens in this country?
+647.24 647.88 SPEAKER_01  That's true.
+647.88 649.20 SPEAKER_03  They'd roast you alive.
+649.30 651.36 SPEAKER_03  You'd have an easier time with pocket watches, I think.
+651.78 652.10 SPEAKER_03  Yeah.
+652.40 653.28 SPEAKER_03  Also, I should say that.
+653.58 654.70 SPEAKER_03  Or both, you know, just fucking.
+654.70 659.66 SPEAKER_03  The head of his cane is literally like a putter, because he's like a golf guy.
+659.66 664.20 SPEAKER_03  So the golfing vampire is here to kind of like threaten you.
+664.30 665.34 SPEAKER_02  He only golfs at night.
+665.44 666.12 SPEAKER_02  It's very difficult.
+666.88 668.22 SPEAKER_03  He menaces Julia Roberts.
+668.22 668.88 SPEAKER_02  What's your handicap?
+669.12 669.94 SPEAKER_02  Garlic, actually.
+673.08 680.68 SPEAKER_03  And so he menaces Julia Roberts, who tips off Frank Ocean, who flees the scene via Amtrak.
+681.22 683.08 SPEAKER_03  Which is a nice use of Amtrak.
+683.22 686.64 SPEAKER_03  You never really see like American passenger rail in these things.
+686.64 687.70 SPEAKER_01  You never do.
+688.44 692.88 SPEAKER_02  At this point, one by one, Terry tracks the old gang down, and we catch up, and we see what they're up to.
+692.92 696.84 SPEAKER_02  So Yen is partying in Florida with a supermodel.
+697.18 698.78 SPEAKER_02  He's just spending his money, having a good time.
+699.10 699.68 SPEAKER_02  Yeah, that's fair.
+699.68 701.56 SPEAKER_03  Once again, untranslated dialogue.
+701.84 706.54 SPEAKER_03  This is the square brackets, man speaks Chinese scene.
+706.92 707.22 SPEAKER_03  Yippee.
+707.22 712.74 SPEAKER_03  One thing I like about Yen in this movie is now that he's got money, he's getting his fit off.
+713.00 713.24 SPEAKER_01  He is.
+713.54 714.10 SPEAKER_03  Yeah, it rocks.
+715.02 718.72 SPEAKER_03  Every Yen fit is worse than the one before.
+719.04 723.20 SPEAKER_03  He got like $10 million and he started dressing like Fred Durst.
+723.32 724.52 SPEAKER_03  It's incredible.
+724.72 725.18 SPEAKER_03  Dude's rock.
+725.38 726.46 SPEAKER_03  Dude's rock so hard.
+726.48 727.08 SPEAKER_03  The silhouettes.
+727.34 728.42 SPEAKER_03  They're so baggy.
+729.22 731.06 SPEAKER_02  Bernie Mac is getting a pedicure.
+731.20 731.92 SPEAKER_02  Don't get attached.
+731.92 734.88 SPEAKER_01  Yeah, Bernie Mac's there for a bit.
+734.90 739.14 SPEAKER_03  How does Andy Garcia introduce himself to Bernie Mac?
+739.38 745.92 SPEAKER_01  Well, he's getting the pedicure and he's got his eyes closed and he's ranting about racial politics or something, which his character is always doing.
+746.24 747.68 SPEAKER_01  Yeah, he's doing Bernie Mac bits.
+748.18 751.58 SPEAKER_01  Andy Garcia comes in and takes over for the pedicurist.
+752.32 757.50 SPEAKER_01  So he just goes over and holds his foot like a hand, just slides his fingers between the toes.
+757.76 759.10 SPEAKER_01  Hey man, you alright?
+760.42 761.52 SPEAKER_03  That's not the line.
+761.52 768.08 SPEAKER_03  The line is, seems like every time I see you, you're playing the race card, Frank.
+768.60 768.78 SPEAKER_04  Yeah.
+769.32 778.62 SPEAKER_03  And to be clear, last movie establishes that the race card is a thing that Frank consciously plays because we see him do it with Matt Damon.
+778.86 779.12 SPEAKER_03  Yes.
+779.22 780.18 SPEAKER_03  We see him like...
+780.18 780.92 SPEAKER_02  Well, he's a blackjack dealer.
+781.30 783.98 SPEAKER_02  So, I mean, like, he plays all kinds of cards.
+784.54 786.02 SPEAKER_01  I mean, that's the one that wins.
+786.46 787.26 SPEAKER_01  Logical, yeah.
+787.88 789.66 SPEAKER_01  That's one of those jokers in Bellartro.
+789.66 791.32 SPEAKER_02  Yeah, that's the 53rd card.
+791.32 793.10 SPEAKER_01  Don't say that name to me.
+793.92 794.90 SPEAKER_01  I've never played it.
+794.92 795.40 SPEAKER_01  I don't know.
+795.48 796.28 SPEAKER_01  I can't touch it.
+796.28 797.88 SPEAKER_01  I know I'll lose myself to it.
+797.90 798.86 SPEAKER_03  You're going to ruin your fucking life.
+799.16 799.26 SPEAKER_03  No.
+799.72 803.46 SPEAKER_03  Andy Garcia also finds the two Mormon brothers.
+803.78 804.46 SPEAKER_03  Yeah, this is good.
+804.52 806.58 SPEAKER_03  They introduce this by going down...
+806.58 809.42 SPEAKER_03  Because, like, what, their cousin's getting married or some shit like that, right?
+809.50 812.66 SPEAKER_02  One of them is the younger Mormon brother's getting married.
+812.66 814.20 SPEAKER_03  Yeah, the twink Mormon is getting married.
+814.62 815.02 SPEAKER_03  Sure.
+815.26 822.58 SPEAKER_03  And they go down this table of guests and naming them, and not one of the names hits as a convincingly weird Mormon name.
+822.58 822.88 SPEAKER_03  Yeah.
+822.88 828.64 SPEAKER_03  The people that brought you Mitt Romney are not sitting around a table with people named like Sarah and Mike.
+828.64 832.14 SPEAKER_03  There should be at least one Traclin in there with a Y.
+832.64 838.36 SPEAKER_01  I appreciate you trying to guess Mormon names again after we 9-11'd that one listener last time.
+838.36 843.66 SPEAKER_03  Multiple times on this podcast we have just sniped listeners, right?
+843.88 845.64 SPEAKER_03  Like, it just happens.
+846.32 847.42 SPEAKER_03  Traclin's a cool name.
+847.62 848.60 SPEAKER_02  Shout out to Traclin.
+849.08 857.74 SPEAKER_01  At the end of the last episode when we were saying that the two Mormon guys should have weirder names, we shot off one name and it was exactly one of our listeners' dead names.
+858.98 859.94 SPEAKER_02  It's so...
+859.94 862.58 SPEAKER_02  I don't even remember what it was.
+862.80 864.52 SPEAKER_02  Oh my gosh, I'm so sorry.
+864.52 868.34 SPEAKER_03  Don't go back and find out what that is, I guess.
+868.90 879.00 SPEAKER_03  The thing is, right, if you wanted to do like a Patreon reward where we like gave you a shout out at like a radio station, I would be on that instantly because I love that sensation.
+879.18 881.72 SPEAKER_03  And I'm just going to fire off some shots into the ether right now.
+881.72 883.14 SPEAKER_03  That's what the jazz outro is, I suppose.
+883.34 887.96 SPEAKER_03  Rachel, Austin, Steve, it's all for you.
+887.98 888.20 SPEAKER_02  Steve's easy.
+888.44 888.90 SPEAKER_02  Steve's easy.
+888.90 890.28 SPEAKER_03  I bet we've got a Steve.
+890.48 892.38 SPEAKER_03  We've definitely got like at least one Steve.
+892.50 892.94 SPEAKER_02  Hi, Harvey.
+893.02 893.46 SPEAKER_02  How's it going?
+893.46 895.76 SPEAKER_01  Harvey's not bad, yeah.
+896.34 897.42 SPEAKER_01  Not that one, though.
+897.50 898.80 SPEAKER_02  More esoteric than Steve.
+899.20 903.78 SPEAKER_01  You've got to be like, all right, John, can you stop doing the fucking dishes and pay attention for a second here, right?
+903.90 908.38 SPEAKER_01  In this scene, he's going down the table and he names everyone apart from his brother.
+909.02 910.22 SPEAKER_01  That's a great brother bit.
+910.32 910.98 SPEAKER_01  That's good stuff.
+911.16 911.94 SPEAKER_01  That's great gear.
+912.18 915.68 SPEAKER_03  The two brothers do have good brother bits, I will say that.
+916.46 918.18 SPEAKER_01  Meanwhile, if we remember...
+918.18 918.94 SPEAKER_01  Actually, you know what?
+919.02 920.12 SPEAKER_01  Sorry, I hate to...
+920.12 923.82 SPEAKER_01  This is one of the only convincing brother pairs I've ever seen in a film.
+924.08 924.30 SPEAKER_01  That's true.
+924.30 928.08 SPEAKER_01  They actually talk to each other like brothers and that's so difficult to fucking do.
+928.80 933.42 SPEAKER_03  I mean, one of them fully drops the arse slur at the other one later on.
+933.42 933.90 SPEAKER_03  A couple of times.
+933.90 943.66 SPEAKER_03  And I forgive the movie using it because it's like, if ever there were a pair of people who would use it to describe each other, it's these two mid kind of slap fight.
+944.66 948.82 SPEAKER_03  Meanwhile, we have to go to Cody Banks drop London.
+949.16 951.68 SPEAKER_03  The new mixer has saved you from that one.
+952.04 952.56 SPEAKER_03  Yeah, yeah.
+952.58 956.18 SPEAKER_03  Because, you remember Don Cheadle was in the last movie?
+956.48 957.20 SPEAKER_03  You having a laugh?
+957.76 958.12 SPEAKER_03  Yeah, yeah.
+958.12 959.62 SPEAKER_02  You having a fucking giggle?
+959.98 960.14 SPEAKER_03  Yeah.
+960.38 962.52 SPEAKER_03  Don Cheadle talks like this.
+962.52 968.28 SPEAKER_02  This would have been a great moment to reveal that he was doing that accent as a bit for the entire previous movie and then we just drop it for this one.
+968.40 969.72 SPEAKER_02  They could have given him an out.
+969.80 972.82 SPEAKER_02  You could have written him an out instead of making him do it for another film.
+973.20 973.46 SPEAKER_02  But he's here.
+973.46 974.16 SPEAKER_03  Act harder.
+974.42 975.36 SPEAKER_01  Just lean into it.
+975.40 976.80 SPEAKER_02  He's here with Jared Harris.
+977.40 977.80 SPEAKER_02  Yes.
+978.08 978.20 SPEAKER_01  Yeah.
+978.26 978.76 SPEAKER_01  Well, okay.
+978.80 978.94 SPEAKER_01  Yeah.
+978.98 979.78 SPEAKER_01  Let's get into that first.
+979.98 981.56 SPEAKER_03  Jared fucking Harris, baby.
+981.80 984.98 SPEAKER_03  Yo, is that Lane Price from Mad Men?
+985.40 986.84 SPEAKER_03  Like, I love Jared Harris.
+986.84 988.66 SPEAKER_03  Yo, is that Lagazov from Chernobyl?
+989.16 991.00 SPEAKER_01  Is that the guy from The Terror?
+991.00 991.62 SPEAKER_03  I forgot my name.
+991.68 993.46 SPEAKER_03  The guy from all the memes from The Terror?
+993.62 993.76 SPEAKER_02  Yeah.
+994.06 995.36 SPEAKER_03  I love Jared Harris.
+995.86 1001.30 SPEAKER_03  He's like easily the Nepo baby with the most talent, which obscures the Nepo baby-ness.
+1001.30 1001.64 SPEAKER_03  Yeah, facts.
+1001.98 1002.90 SPEAKER_03  He deserves it.
+1002.92 1004.18 SPEAKER_02  Wait, who's his parent?
+1004.38 1005.34 SPEAKER_03  I don't remember.
+1005.54 1006.14 SPEAKER_03  Fucking...
+1006.14 1006.74 SPEAKER_02  Ed Harris?
+1007.24 1008.46 SPEAKER_03  Liza Minnelli or something.
+1008.64 1009.56 SPEAKER_03  But like...
+1009.56 1009.82 SPEAKER_03  Who?
+1010.00 1011.16 SPEAKER_03  I think it's John Voight.
+1012.20 1017.02 SPEAKER_03  The thing about Jared Harris in this scene is what they use him for is to establish...
+1017.02 1017.78 SPEAKER_03  Richard Harris, of course.
+1017.94 1018.72 SPEAKER_01  Oh, yeah, yeah.
+1018.72 1022.88 SPEAKER_03  Is that they use him to establish that all British people talk like that.
+1023.14 1024.40 SPEAKER_03  So, in universe...
+1024.40 1024.66 SPEAKER_02  Yes.
+1024.90 1027.24 SPEAKER_03  In the universe of Ocean's Eleven...
+1027.24 1027.94 SPEAKER_02  That's not true.
+1028.02 1030.54 SPEAKER_03  We meet another Brit later on who doesn't...
+1030.54 1031.98 SPEAKER_03  Don Cheadle's accent's normal.
+1032.56 1034.82 SPEAKER_03  A statistically significant proportion.
+1035.06 1040.22 SPEAKER_03  66.6 recurring percent of British people talk like Don Cheadle.
+1040.54 1040.86 SPEAKER_03  Yes.
+1040.86 1044.42 SPEAKER_03  Which is a beautiful use of Jared Harris.
+1044.90 1045.44 SPEAKER_03  They also...
+1045.44 1048.94 SPEAKER_03  The character is kind of like old Austin Powers, especially with the accent.
+1049.26 1050.18 SPEAKER_03  It is a little bit.
+1050.56 1053.26 SPEAKER_01  God, he had three more years to work on that accent, man.
+1054.60 1056.28 SPEAKER_01  Who else have we got here?
+1056.28 1057.08 SPEAKER_02  Let's run down the list here.
+1057.14 1060.78 SPEAKER_02  Jason Bourne doesn't want his mom and dad to find out he's been caught.
+1060.88 1061.56 SPEAKER_02  He's embarrassed.
+1061.56 1067.36 SPEAKER_03  The one with social anxiety is doing bad stand-up comedy.
+1068.04 1069.34 SPEAKER_03  In a matador costume.
+1069.66 1073.80 SPEAKER_03  In a scene that kind of feels cut in from the Joker, to be honest.
+1073.80 1077.96 SPEAKER_03  He's doing like anti-comedy that's like weirdly sad.
+1078.20 1078.42 SPEAKER_02  Yeah.
+1078.86 1081.38 SPEAKER_02  Saul is in the Hamptons doing not much.
+1082.34 1085.06 SPEAKER_02  Ruben is getting his fortune told by a palmist.
+1085.06 1086.90 SPEAKER_02  And Brad Pitt has got an awful haircut.
+1086.90 1093.58 SPEAKER_03  Yeah, which leads you to the joke of that scene, which is the Blowjob brothers walk in with Andy Garcia and he's like, you couldn't see this coming to the fortune teller?
+1093.76 1093.98 SPEAKER_03  Yeah.
+1094.22 1095.44 SPEAKER_03  Brad Pitt's haircut.
+1095.88 1100.00 SPEAKER_03  We need to establish that like Brad Pitt in the past was, you know, in the past.
+1100.06 1102.36 SPEAKER_03  So he has to have hair and then not hair here.
+1102.86 1103.80 SPEAKER_02  He's shaved his head.
+1103.86 1104.50 SPEAKER_02  He looks awful.
+1104.78 1105.10 SPEAKER_03  Yeah.
+1105.10 1105.66 SPEAKER_03  He's awful, yeah.
+1105.90 1106.08 SPEAKER_02  Yeah.
+1106.26 1106.56 SPEAKER_02  It's real bad.
+1106.56 1107.58 SPEAKER_03  He's running a hotel.
+1107.96 1108.18 SPEAKER_02  Yes.
+1108.76 1109.74 SPEAKER_02  He's not just any hotel.
+1109.96 1112.60 SPEAKER_02  He's running The Standard, which is a very nice hotel.
+1112.74 1113.50 SPEAKER_02  Although this doesn't look like the interior of London.
+1113.50 1114.54 SPEAKER_02  Is it actually The Standard?
+1114.54 1116.14 SPEAKER_02  Yeah, he says The Standard.
+1116.26 1116.74 SPEAKER_02  Yeah, yeah, yeah.
+1116.88 1120.98 SPEAKER_02  This doesn't look like the interior of The Standard, but maybe The Standard looked like that in 2004 before it got good.
+1121.20 1123.82 SPEAKER_03  I was going to say, I've stayed in Brad Pitt's hotel.
+1124.00 1126.42 SPEAKER_03  So like Brad Pitt, he's like...
+1126.42 1128.22 SPEAKER_03  I've slept in Brad Pitt's hotel, I guess.
+1128.78 1134.34 SPEAKER_03  The interesting bit with Brad Pitt's character is that he knows all of these like real life celebrities.
+1135.24 1137.00 SPEAKER_03  That was the bit in the first one.
+1137.62 1138.08 SPEAKER_03  Yeah, exactly.
+1138.08 1142.72 SPEAKER_03  And so he's having to like take care of these like spoiled Hollywood brats.
+1142.72 1149.46 SPEAKER_03  One of them is this scene kid who I don't know who it is, but all I can say is take the estrogen.
+1150.00 1150.62 SPEAKER_03  Yeah, for real.
+1150.62 1151.30 SPEAKER_02  That's Topher Grace.
+1151.64 1152.00 SPEAKER_02  That's himself.
+1152.18 1152.32 SPEAKER_02  It's Topher Grace.
+1152.36 1155.08 SPEAKER_02  He's got a shirt that says your boyfriend wants me on it.
+1155.20 1156.68 SPEAKER_01  And I was there like, let's go.
+1156.86 1158.56 SPEAKER_02  He even calls him Topher in the scene.
+1159.04 1160.20 SPEAKER_02  It's Topher Grace as himself.
+1160.24 1161.56 SPEAKER_03  Take the fucking estrogen.
+1162.00 1162.66 SPEAKER_03  It's just Topher.
+1162.66 1164.58 SPEAKER_02  He's wearing with your boyfriend wants me.
+1164.78 1165.54 SPEAKER_02  Want that t-shirt.
+1165.60 1167.26 SPEAKER_03  More of an E-shirt, to be honest.
+1167.48 1170.72 SPEAKER_02  But also, if you don't know who Topher Grace is, then this scene just kind of...
+1170.72 1172.30 SPEAKER_03  Is this my Liza Minnelli?
+1172.84 1173.54 SPEAKER_03  Do I...
+1173.54 1173.70 SPEAKER_03  Yeah.
+1173.88 1176.76 SPEAKER_02  Yeah, he was a reasonably famous like TV actor.
+1176.88 1177.66 SPEAKER_02  Did a couple films.
+1177.80 1180.54 SPEAKER_02  He was Eddie Brock in Spider-Man 3, the original one.
+1180.74 1181.28 SPEAKER_03  Oh shit.
+1181.40 1181.54 SPEAKER_03  Okay.
+1181.54 1182.32 SPEAKER_03  I remember him from that.
+1182.54 1182.58 SPEAKER_03  All right.
+1182.66 1182.90 SPEAKER_02  Yeah.
+1183.08 1183.78 SPEAKER_03  That was better, really.
+1184.12 1187.26 SPEAKER_03  They drop a Frankie Muniz reference, which I appreciate.
+1187.70 1190.04 SPEAKER_03  And then Andy Garcia calls him on the phone.
+1190.12 1191.54 SPEAKER_03  He's like, hey, you have my money.
+1191.66 1192.72 SPEAKER_03  Give me back my money.
+1193.04 1195.94 SPEAKER_03  I'm going to performatively car bomb you.
+1196.06 1196.54 SPEAKER_00  Yeah.
+1196.80 1198.90 SPEAKER_03  To show you I'm serious.
+1199.24 1199.66 SPEAKER_03  Right.
+1199.90 1202.16 SPEAKER_03  Here's the car bombing you could have had.
+1202.72 1203.04 SPEAKER_04  Mm-hmm.
+1204.30 1205.54 SPEAKER_01  Yeah, he gets on the phone.
+1205.54 1206.60 SPEAKER_01  And then blows up his car.
+1206.70 1207.38 SPEAKER_01  Blows up his car.
+1207.38 1209.86 SPEAKER_01  So they all get together and are like, all right.
+1210.14 1210.76 SPEAKER_01  All right.
+1210.92 1211.70 SPEAKER_01  He's got us.
+1211.70 1213.94 SPEAKER_01  The Ocean's Eleven guys get together.
+1214.22 1217.28 SPEAKER_01  They say the phrase Ocean's Eleven about 50 times in a scene.
+1217.28 1219.46 SPEAKER_01  I didn't clip it ever because it annoyed me.
+1219.56 1220.08 SPEAKER_01  But yes, no.
+1220.26 1225.12 SPEAKER_01  The whole time they're arguing about the name because Andy Garcia has referred to it as Ocean's Eleven.
+1225.42 1227.04 SPEAKER_02  And they're like, you know, what the fuck, man?
+1227.52 1229.10 SPEAKER_01  You're not really in charge of it.
+1229.44 1231.04 SPEAKER_01  You were out of it for half of it.
+1231.34 1231.54 SPEAKER_02  Yeah.
+1232.36 1232.76 SPEAKER_03  Yeah.
+1232.76 1236.98 SPEAKER_03  He's like, I'm not the only one looking for Ocean's Eleven title drop.
+1237.12 1241.26 SPEAKER_03  And then later on, all these guys are like, well, where the fuck am I in an Eleven?
+1241.70 1242.82 SPEAKER_03  What number am I?
+1242.82 1244.04 SPEAKER_03  I'm an independent contractor.
+1244.18 1245.96 SPEAKER_01  I thought we were calling it the Benedict job, you know?
+1246.36 1246.98 SPEAKER_03  It's good.
+1247.06 1247.74 SPEAKER_03  It's pretty good.
+1247.94 1248.42 SPEAKER_03  Eggs Benedict.
+1248.70 1259.52 SPEAKER_03  The deal is, Terry Eggs Benedict has like demanded all the money they stole from him back with a punitive rate of interest.
+1259.76 1262.62 SPEAKER_03  And then we get to find out- On a two week limit.
+1262.62 1262.78 SPEAKER_03  Yeah.
+1262.88 1266.44 SPEAKER_03  How much they owe based on- This is kind of fun.
+1266.90 1267.30 SPEAKER_03  Yeah.
+1267.40 1269.78 SPEAKER_03  It's fun finding out how they did or didn't spend it.
+1269.84 1273.52 SPEAKER_03  Like the standup comedy kind of nebushy guy didn't spend any of it.
+1273.58 1274.86 SPEAKER_03  It's just been in the bank.
+1275.24 1278.70 SPEAKER_01  He's been living with his parents the whole time as being a failed standup comic.
+1278.86 1279.76 SPEAKER_01  I love that guy.
+1279.82 1280.84 SPEAKER_01  He really is selling me.
+1280.84 1283.84 SPEAKER_01  Yeah, this is a good way to establish their characters pretty quickly.
+1284.02 1284.12 SPEAKER_01  Yeah.
+1284.12 1286.82 SPEAKER_01  Because like, Yen owes a bunch of it, obviously.
+1287.86 1290.40 SPEAKER_01  Brad Pitt's down the most because he spent it on a hotel.
+1290.74 1290.94 SPEAKER_01  Yeah.
+1291.08 1292.14 SPEAKER_01  Well, that's exactly right.
+1292.22 1293.74 SPEAKER_01  Rusty has like 25 mil.
+1293.74 1297.54 SPEAKER_03  He owes more than they have, like considerably more than they have stolen.
+1297.78 1297.96 SPEAKER_01  Yes.
+1297.98 1298.18 SPEAKER_02  Yeah.
+1298.40 1298.54 SPEAKER_02  Yeah.
+1298.80 1301.10 SPEAKER_02  And they add it all up and it comes to $97 million.
+1301.42 1302.76 SPEAKER_01  So you've got two weeks to get it.
+1302.76 1306.28 SPEAKER_01  I owe a small amount of this, but I've got to be honest with you, I'm going to owe all of it.
+1306.54 1308.24 SPEAKER_01  My intention is to spend all of my money.
+1308.36 1308.58 SPEAKER_01  Goodbye.
+1309.12 1310.22 SPEAKER_01  Yeah, Saul fails.
+1310.62 1312.30 SPEAKER_03  I'm not going to be in this one.
+1312.34 1314.92 SPEAKER_03  You're going to have to call it Ocean's Ten and just leave.
+1315.44 1320.84 SPEAKER_03  If you're kind of like thinking at this moment, oh, this is when they kill Saul to establish the stakes.
+1321.00 1321.98 SPEAKER_03  It's not that serious.
+1321.98 1322.20 SPEAKER_03  No.
+1322.26 1323.40 SPEAKER_03  Nothing in this movie is.
+1323.68 1325.32 SPEAKER_01  The stakes are low.
+1325.88 1326.96 SPEAKER_01  No, they're in crime world.
+1326.96 1331.34 SPEAKER_01  Like, there's actually no downsides to doing crimes in this movie.
+1332.10 1332.38 SPEAKER_01  Yeah.
+1332.76 1337.48 SPEAKER_03  And so Brad Pitt is like, all right, we've got to go to Europe, specifically Amsterdam.
+1337.94 1342.76 SPEAKER_03  I've made this decision because it's my turn to have a secret B-plot in the movie.
+1342.92 1343.14 SPEAKER_03  Yes.
+1343.94 1352.32 SPEAKER_02  The saxophonist is going to be coming with us, which is why as soon as we roll up an Amsterdam, we're like, the saxophonist is noodling like fucking crazy.
+1352.32 1357.10 SPEAKER_03  That's how they get up to Ocean's Eleven is Saul leaves and the saxophonist comes with.
+1357.10 1358.16 SPEAKER_02  He's promoted to Ocean.
+1358.30 1358.74 SPEAKER_02  Yeah, yeah.
+1358.94 1360.02 SPEAKER_03  We need a whole extra guy.
+1360.10 1360.84 SPEAKER_01  It's Ocean's Twelve.
+1361.10 1361.66 SPEAKER_01  We got to...
+1361.66 1364.30 SPEAKER_02  Well, there's like two extra people who joined the crew in this one.
+1364.38 1368.42 SPEAKER_02  But anyway, meanwhile, Matt Damon is like, I'd really love a bigger role in the movie.
+1368.60 1370.02 SPEAKER_02  And Brad Pitt's like, yeah, okay, cool.
+1370.06 1371.42 SPEAKER_02  You're going to be the third thing.
+1371.66 1372.90 SPEAKER_01  This is actually kind of cute.
+1372.90 1381.98 SPEAKER_03  Yeah, this is a fun kind of bit of like meta-textual thing of being like Brad Pitt, of being like Matt Damon has become more famous since the last film.
+1382.18 1382.22 SPEAKER_03  Yeah.
+1382.42 1385.70 SPEAKER_03  And therefore, like we want to give him a bigger role.
+1385.90 1388.26 SPEAKER_03  So the character also wants a bigger role.
+1388.32 1389.00 SPEAKER_03  It's kind of neat.
+1389.00 1393.54 SPEAKER_01  To be fair though, like this actually fits with him because the character's called Linus, I think.
+1394.66 1395.76 SPEAKER_01  His dad was a famous...
+1395.76 1396.32 SPEAKER_01  Tech fan?
+1396.66 1397.56 SPEAKER_01  I think so.
+1398.20 1402.74 SPEAKER_01  His dad was a famous thief and he's like trying to live in this guy's shadow, right?
+1402.74 1407.96 SPEAKER_01  And it's very cute because you get the impression that this is not an industry, but it is easy to advance in.
+1408.18 1411.84 SPEAKER_01  It's certainly not an industry, but it's easy to get like management experience in.
+1412.26 1419.72 SPEAKER_01  So he like wakes up Rusty on the plane and is like, hey man, can you let me come with you for some of the bigger scenes in this movie?
+1419.90 1420.90 SPEAKER_01  And they're like, sure, fine.
+1421.84 1423.56 SPEAKER_01  Can I come to this meeting?
+1424.56 1426.42 SPEAKER_01  I was in a good mood at this point watching the movie.
+1426.54 1428.86 SPEAKER_01  I was like, I fucking love Matt Damon.
+1429.20 1429.98 SPEAKER_01  What a great guy.
+1429.98 1430.42 SPEAKER_01  Yeah.
+1431.18 1436.32 SPEAKER_03  So he agrees to let him come to this meeting with Matsui, this broker.
+1436.78 1437.74 SPEAKER_01  We'll talk about that.
+1437.92 1438.52 SPEAKER_03  We'll get to this.
+1439.04 1441.38 SPEAKER_03  We'll get to who Matsui may or may not be.
+1441.84 1456.50 SPEAKER_03  First of all, we have to introduce the concept of Amsterdam, which we do with a series of one, two, three, four, five, six, seven, eight, nine consecutive shots with one letter of the word Amsterdam in it each time.
+1456.58 1457.96 SPEAKER_03  Get a little tourism advert.
+1458.42 1458.70 SPEAKER_03  Wow.
+1458.70 1458.96 SPEAKER_03  Yeah.
+1459.98 1465.12 SPEAKER_03  And they check into, they check into like a really nice hotel in Amsterdam.
+1465.12 1472.16 SPEAKER_03  And I'm thinking you're on the clock for owing a lot of money and you're spending, you're spending more than you're making at this point.
+1472.40 1473.90 SPEAKER_03  Like stay in a travel lodge.
+1474.14 1479.70 SPEAKER_02  If you're like banking on making $97 million, then like a hotel bill is pretty marginal at that stage, right?
+1479.94 1481.12 SPEAKER_02  You might as well stay somewhere nice.
+1481.12 1483.00 SPEAKER_01  But like, I don't know.
+1483.00 1484.12 SPEAKER_01  I would be in a travel lodge.
+1484.56 1486.60 SPEAKER_01  Go for the budget that you've got, you know?
+1486.88 1487.04 SPEAKER_01  Yeah.
+1487.14 1488.00 SPEAKER_01  Only $90 million.
+1488.48 1488.80 SPEAKER_02  Yeah.
+1488.94 1493.74 SPEAKER_02  If you like owe $97 million and then you give them like, well, we saved a couple hundred dollars on the hotel fee.
+1493.82 1495.76 SPEAKER_02  I think Terry Benedict's still going to turn you into X.
+1495.76 1496.88 SPEAKER_03  You look after the pennies.
+1496.96 1497.42 SPEAKER_02  Listen, okay.
+1497.58 1499.52 SPEAKER_03  Maybe, maybe you don't make the money, right?
+1499.58 1500.98 SPEAKER_03  And then Terry Benedict kills you.
+1501.02 1505.94 SPEAKER_03  And then after he kills you, you get a bill from the standard in Amsterdam being like, what the fuck?
+1506.10 1507.58 SPEAKER_03  You know, you've been in that minibar.
+1507.58 1509.58 SPEAKER_02  If he kills you, he's stuck with a bill.
+1509.70 1511.10 SPEAKER_02  So I might as well fucking rack it up.
+1511.18 1512.88 SPEAKER_02  This is the last two weeks of your life.
+1513.14 1514.48 SPEAKER_02  Fuck the standard stay in the standard.
+1514.60 1515.46 SPEAKER_02  It stays up even nicer.
+1515.56 1516.92 SPEAKER_02  I would have said the fucking Bellagio.
+1517.46 1518.66 SPEAKER_02  Wait, no, he owns the Bellagio.
+1518.76 1519.56 SPEAKER_02  No, I'll stay somewhere else.
+1519.74 1519.94 SPEAKER_01  Sorry.
+1520.00 1523.36 SPEAKER_01  If you kill someone in a hotel, you have to pay their bill.
+1523.52 1525.22 SPEAKER_03  Dead man's hotel bill.
+1525.44 1525.68 SPEAKER_03  Yeah.
+1525.82 1527.10 SPEAKER_03  Is that how that works?
+1527.54 1528.12 SPEAKER_03  All right.
+1528.18 1528.80 SPEAKER_03  Fuck this.
+1528.94 1534.58 SPEAKER_03  I'm going to the fucking Sofitel and then getting someone to kill me in the bar so I don't have to worry about it.
+1534.58 1534.96 SPEAKER_03  There's a whole world out there.
+1535.84 1536.20 SPEAKER_03  Exactly.
+1536.20 1538.42 SPEAKER_03  I was not aware of this.
+1538.60 1538.90 SPEAKER_01  Okay.
+1539.24 1540.58 SPEAKER_01  I'm dying in the Ibis budget.
+1540.74 1541.18 SPEAKER_01  I don't mind.
+1541.28 1541.64 SPEAKER_01  It's fine.
+1543.94 1545.72 SPEAKER_01  Just like, are you ready to-
+1545.72 1548.54 SPEAKER_03  Just need someone to lie down. Ready to die for this travelodge.
+1549.24 1551.14 SPEAKER_03  So they go and see Crime Hagrid.
+1551.60 1552.00 SPEAKER_03  Yes.
+1552.00 1553.50 SPEAKER_03  Yes, well, that indeed.
+1554.36 1561.28 SPEAKER_03  Their guy, Matsui, and I cannot stress enough that this guy- If your name is Matsui, why are you white?
+1561.80 1563.12 SPEAKER_03  Yeah, what's going on?
+1563.12 1563.96 SPEAKER_03  This is Robert Shaw Train.
+1563.96 1567.56 SPEAKER_03  This is Vladimir Zhukovsky himself.
+1567.96 1569.20 SPEAKER_03  Yeah, just the same thing.
+1569.26 1570.04 SPEAKER_02  Is this the Gruffalo?
+1570.26 1570.70 SPEAKER_03  The capitalist system.
+1571.22 1571.38 SPEAKER_03  Yeah.
+1571.70 1572.18 SPEAKER_03  Yeah.
+1572.52 1573.10 SPEAKER_03  It is.
+1573.14 1576.88 SPEAKER_03  It's Cracker from the TV show of the same name.
+1577.20 1578.70 SPEAKER_03  Don't ask me why it's called that.
+1578.82 1581.98 SPEAKER_03  And possibly we get censored on Spotify for me saying that.
+1581.98 1585.14 SPEAKER_01  You can't be walking around being called Matsui.
+1585.30 1586.46 SPEAKER_01  You can't be talking like that, Cracker.
+1589.20 1589.94 SPEAKER_01  Really good.
+1590.20 1591.02 SPEAKER_01  Really, really good.
+1591.40 1591.86 SPEAKER_01  Thank you.
+1591.92 1593.72 SPEAKER_01  It's because I couldn't remember anyone else you'd played.
+1594.24 1601.04 SPEAKER_03  That was perfect because we supplied all the information required for you to make and then get that joke.
+1601.42 1602.50 SPEAKER_03  Thank you so much.
+1603.12 1604.22 SPEAKER_02  It's like an Ikea joke.
+1604.22 1609.36 SPEAKER_02  So the whole meeting's in this weird code language that Matt Damon can't follow.
+1609.70 1611.52 SPEAKER_03  Something like this Matsui bookshelf.
+1612.06 1613.52 SPEAKER_01  It's got a fucking line through the U.
+1613.52 1615.80 SPEAKER_01  So they go in there and it turns out that he's a Japanese room.
+1615.98 1616.86 SPEAKER_01  He's just saying shit.
+1616.96 1618.06 SPEAKER_01  Doesn't make any sense at all.
+1618.32 1618.64 SPEAKER_02  Yeah.
+1620.54 1621.02 SPEAKER_01  Sorry.
+1621.24 1621.46 SPEAKER_01  Sorry.
+1622.22 1624.46 SPEAKER_01  I'm going to sing what I fucking said.
+1624.46 1628.02 SPEAKER_03  My lap sang su chong.
+1630.66 1631.46 SPEAKER_02  That's a good choice.
+1631.56 1632.18 SPEAKER_02  That's a good tea.
+1632.40 1633.16 SPEAKER_02  That's a good tea.
+1633.24 1633.62 SPEAKER_02  Well done.
+1634.12 1634.58 SPEAKER_03  Thank you.
+1634.68 1634.94 SPEAKER_03  Thank you.
+1634.96 1635.84 SPEAKER_03  I like a lap sang su chong.
+1636.02 1636.14 SPEAKER_02  Yeah.
+1636.32 1637.02 SPEAKER_02  Smokey one.
+1637.18 1637.52 SPEAKER_03  Really nice.
+1637.60 1637.86 SPEAKER_03  But yeah.
+1637.94 1646.30 SPEAKER_03  So they are talking authentic country gibberish to each other and then turning to Matt Damon meaningfully to be like, say some gibberish.
+1646.30 1646.52 SPEAKER_03  Interesting.
+1646.80 1648.08 SPEAKER_03  Say some gibberish.
+1649.30 1650.64 SPEAKER_03  And he tries saying some gibberish.
+1650.70 1651.48 SPEAKER_03  Well, he says some poetry.
+1651.60 1652.60 SPEAKER_03  He quotes some poetry at them.
+1653.26 1654.30 SPEAKER_03  In service of gibberish.
+1654.30 1655.54 SPEAKER_02  It's Led Zeppelin.
+1656.16 1656.50 SPEAKER_03  Yeah.
+1656.70 1656.98 SPEAKER_02  Poetry.
+1657.22 1658.66 SPEAKER_02  You don't think Led Zeppelin's poetry?
+1658.88 1660.68 SPEAKER_02  It's the lyrics to Cashmere about Led Zeppelin.
+1660.76 1665.02 SPEAKER_03  Do we consider Cashmere not to be poetry just because it has music, you know?
+1665.20 1666.52 SPEAKER_03  Is opera poetry?
+1667.06 1667.46 SPEAKER_02  I don't know.
+1667.52 1669.88 SPEAKER_02  The only time I've ever tried to go to an opera I was asked to leave.
+1671.36 1672.38 SPEAKER_01  They don't appreciate.
+1672.88 1677.38 SPEAKER_02  I was two minutes late because the girl I was going with, I think I've told the story on the podcast.
+1677.38 1678.18 SPEAKER_02  Yeah, I think so, actually.
+1678.32 1679.90 SPEAKER_02  She was doing her hair.
+1680.32 1683.58 SPEAKER_02  She was in a ball gown and I was in the closet and then instead we just went and had sex.
+1683.58 1685.74 SPEAKER_01  Hey, well, you know what?
+1685.82 1687.40 SPEAKER_01  First of all, you can't get into the opera.
+1687.88 1687.96 SPEAKER_02  Yeah.
+1688.78 1690.24 SPEAKER_02  Have sex with someone in a ball gown.
+1690.32 1690.66 SPEAKER_02  It's great.
+1690.74 1690.92 SPEAKER_02  Anyway.
+1691.44 1692.20 SPEAKER_02  They get the plan.
+1692.40 1692.58 SPEAKER_01  Wow.
+1692.80 1693.34 SPEAKER_01  In the ball gown.
+1693.38 1694.30 SPEAKER_01  Yeah, really good time.
+1694.48 1694.98 SPEAKER_01  Okay, right.
+1695.34 1695.66 SPEAKER_01  Movie.
+1695.98 1701.00 SPEAKER_01  They get, they hear about the plan, which is there's this fucking recluse who's got a shitload of things.
+1701.08 1701.78 SPEAKER_01  Don't worry about it.
+1701.80 1702.90 SPEAKER_01  He's not appearing in this movie.
+1702.90 1703.22 SPEAKER_01  Yeah.
+1703.58 1706.48 SPEAKER_03  Dude, for fucking Jeeps van der Blumpken or whatever the fuck.
+1706.56 1707.44 SPEAKER_01  This Dutch guy.
+1707.56 1707.62 SPEAKER_01  Yeah.
+1707.74 1708.26 SPEAKER_01  Just someone.
+1708.26 1714.58 SPEAKER_03  They say, by the way, he's got like a severe agoraphobia.
+1715.04 1715.34 SPEAKER_03  Yes.
+1715.64 1719.22 SPEAKER_03  And what he does is, and this is the really twisted part, right?
+1719.28 1724.22 SPEAKER_03  Every night, he takes an Ambien and falls asleep listening to Beethoven's Third.
+1724.44 1731.60 SPEAKER_03  I don't know if you've heard Beethoven's Third, but that's a weird choice to like slip off to dreamland with.
+1732.12 1740.18 SPEAKER_03  It's like, you're just zanned out and the thing's going full blast on the expensive hi-fi and you're like, yep, this is relaxing.
+1740.56 1741.24 SPEAKER_03  I'm good.
+1741.48 1741.68 SPEAKER_03  Yeah.
+1742.04 1742.94 SPEAKER_03  I'm zanned out.
+1743.00 1746.44 SPEAKER_01  I'm listening to interpretive-ass saxophones.
+1746.62 1747.04 SPEAKER_01  Oh, right.
+1748.76 1749.72 SPEAKER_01  Okay, cool.
+1749.78 1754.62 SPEAKER_02  He has the first stock certificate ever, which is worth 2.5 million euros.
+1754.78 1755.16 SPEAKER_02  So we're going to steal it.
+1755.16 1774.08 SPEAKER_03  I do want to circle back a bit to this whole, this sort of gibberish scene, because there's a joke that I didn't tell, which is they essentially pull a prank on him, right, in the course of this scene, which is, to do one of my favorite tweets, after riffing with you for 15 minutes, it's actually sick what you've been saying.
+1776.76 1777.76 SPEAKER_03  That's disgusting.
+1777.76 1781.14 SPEAKER_03  They just kind of like, they like fuck with his social anxiety.
+1781.36 1786.46 SPEAKER_03  And so after they get out, they're like, I can't believe you used the lyrics to Kashmir on that man.
+1786.78 1788.86 SPEAKER_03  You badly insulted him.
+1789.90 1793.36 SPEAKER_03  You've like kind of sexually harassed his child niece.
+1793.56 1794.74 SPEAKER_03  This is an actual thing in the thing.
+1795.02 1795.16 SPEAKER_03  Yeah.
+1795.40 1798.04 SPEAKER_03  It's just like, this is, this is autism simulated.
+1798.24 1802.12 SPEAKER_03  This is like every social interaction feels this way.
+1802.12 1807.14 SPEAKER_03  It's just like, oh, you have to push this series of like nonsensical things out of nowhere.
+1807.14 1810.16 SPEAKER_03  And if you get it wrong, you've mortally offended someone.
+1810.44 1811.48 SPEAKER_03  Fuck these people.
+1811.60 1811.94 SPEAKER_03  For real.
+1812.36 1817.80 SPEAKER_03  And like, to be fair to Matt Damon, he does actually call them on the, on the ableism.
+1817.88 1819.02 SPEAKER_03  Yeah, I've got that clip.
+1819.64 1820.54 SPEAKER_03  Please, please.
+1820.68 1824.82 SPEAKER_01  This is later on when they're talking, they're planning and they keep calling the agoraphobic guy a freak.
+1824.90 1829.02 SPEAKER_01  And you can see Matt Damon in the background sort of like looking like he's wrestling with saying something.
+1829.16 1829.88 SPEAKER_01  And he goes eventually.
+1830.16 1831.88 SPEAKER_02  Hey, what?
+1832.12 1833.42 SPEAKER_02  Do we have to use that term?
+1833.58 1834.10 SPEAKER_02  What term?
+1835.26 1835.70 SPEAKER_02  Freak?
+1836.78 1839.06 SPEAKER_01  Just your friend who's too woke or whatever.
+1839.18 1841.04 SPEAKER_01  Although that being said, this is not too woke.
+1841.18 1842.28 SPEAKER_01  This is acceptably woke.
+1842.30 1843.34 SPEAKER_02  No, this is acceptably woke.
+1843.70 1844.54 SPEAKER_03  Yeah, you shouldn't be.
+1844.54 1847.02 SPEAKER_03  He is woke, but he's like too woke for the group.
+1847.18 1849.24 SPEAKER_03  He's like too woke for the times even.
+1849.42 1852.14 SPEAKER_03  And so all of these guys are just like, what?
+1852.84 1853.04 SPEAKER_01  Yeah.
+1853.32 1858.88 SPEAKER_01  Bear in mind, at least two of them have been dropping hard, sorry, I was going to say hard R's, but like not hard R's.
+1858.88 1860.00 SPEAKER_01  The R slur.
+1860.24 1860.80 SPEAKER_01  The R slur.
+1860.80 1861.16 SPEAKER_01  Yeah.
+1861.16 1867.38 SPEAKER_02  Also during this planning scene, Yen is recording them and I'm like, that's incriminating.
+1867.50 1868.12 SPEAKER_03  Don't do that pal.
+1868.38 1870.86 SPEAKER_02  Why are you just going to make it a home movie?
+1871.22 1873.34 SPEAKER_03  Taking notes on a criminal conspiracy?
+1874.96 1878.28 SPEAKER_03  He is also dressed even more like Fred Durst at this point.
+1878.46 1879.74 SPEAKER_03  It's really good.
+1879.74 1884.30 SPEAKER_03  I think he's wearing like a Jamaican national team baseball jersey.
+1884.62 1887.32 SPEAKER_03  It's really impeccable.
+1887.50 1896.28 SPEAKER_02  The plan is to like shoot a zipline into this guy's window and then slide a little keypad thing along it to open the combination to like the, to put like alarm combo in.
+1896.52 1902.18 SPEAKER_02  But the problem is that his window is like three inches too low for them to get that angle on it.
+1902.18 1907.46 SPEAKER_02  So Brad Pitt comes up with this plan to like raise the entire building by three inches.
+1907.46 1908.14 SPEAKER_02  Yeah.
+1908.14 1910.30 SPEAKER_03  Why wouldn't you just drill a hole?
+1910.92 1911.28 SPEAKER_02  Yeah.
+1911.68 1912.08 SPEAKER_02  Unusual.
+1912.08 1915.62 SPEAKER_02  But they go into the canal and then put some hydraulic jacks underneath.
+1915.78 1918.28 SPEAKER_02  Not sure how you managed to acquire those in like overnight, but whatever.
+1918.70 1921.78 SPEAKER_03  Yeah, they're doing this in a kind of like a sort of crank boat.
+1922.00 1924.14 SPEAKER_02  They jack off the house's foundations.
+1924.62 1925.04 SPEAKER_01  Yeah.
+1925.48 1925.72 SPEAKER_01  Yeah.
+1925.72 1928.16 SPEAKER_01  It's like, again, what is your budget for this guys?
+1928.38 1930.22 SPEAKER_01  I guess they've got several million each.
+1930.40 1933.52 SPEAKER_02  Even like, no, but even for like several million, you can't get that shit overnight.
+1933.72 1938.18 SPEAKER_02  Like Amazon don't do next day delivery to Amsterdam of hydraulic jacks in 2004.
+1938.62 1943.88 SPEAKER_03  They also, they also, by the way, say explicitly that they're not expecting to make very much.
+1943.92 1946.38 SPEAKER_03  It's like a million dollar total job.
+1946.50 1958.76 SPEAKER_03  And the point of this is that like, oh, maybe, maybe Robbie Coltrane will give us a, like a bigger job next and Brad Pitt is trying to hide the fact that like they're in Amsterdam for ulterior reasons.
+1959.54 1963.18 SPEAKER_02  Because meanwhile, he's been spying on Catherine Zeta-Jones, you see.
+1963.40 1963.68 SPEAKER_02  Yeah.
+1964.96 1966.32 SPEAKER_03  I like this B-plot.
+1966.38 1966.98 SPEAKER_03  I'll be honest.
+1967.22 1968.80 SPEAKER_03  Like, it's one of the things I like about the movie.
+1969.22 1969.62 SPEAKER_03  And so...
+1969.62 1971.84 SPEAKER_02  It kind of gets a bit fucking contrived by the end.
+1972.12 1973.04 SPEAKER_03  Of course, of course.
+1973.10 1973.70 SPEAKER_03  But it's a heist movie.
+1973.70 1977.52 SPEAKER_03  So she is lecturing at Europol.
+1977.84 1980.64 SPEAKER_03  At Europe's smaller, shittier Interpol.
+1981.18 1981.36 SPEAKER_03  Yeah.
+1981.82 1985.80 SPEAKER_03  About how cool criminals are, which is one of a cop's main jobs, I think.
+1986.02 1986.30 SPEAKER_03  Yeah.
+1986.38 1988.48 SPEAKER_03  This is definitely Zenegada material.
+1988.72 1990.00 SPEAKER_03  It's definitely, yeah.
+1990.16 1993.00 SPEAKER_02  She says there's two criminals in the world who have the biggest dicks.
+1993.08 1995.86 SPEAKER_02  The first is Gaspar Lamarck.
+1995.98 1997.30 SPEAKER_02  He died a few years ago.
+1997.70 1998.80 SPEAKER_02  Huge dicked criminal.
+1998.98 1999.34 SPEAKER_02  Amazing.
+1999.52 1999.94 SPEAKER_02  Fantastic.
+2000.20 2001.30 SPEAKER_02  Best Lupin III ever.
+2001.42 2008.20 SPEAKER_02  He had a protege called the Night Fox, who is a master burglar who leaves behind little figurines of foxes.
+2008.34 2009.74 SPEAKER_02  He's also pretty cool.
+2009.74 2013.62 SPEAKER_02  Those are the two criminals that you need to know, even though one of them is dead.
+2013.62 2020.16 SPEAKER_03  In the background, we get one of the all-time guy who has to deliver bad news to his boss.
+2020.16 2022.22 SPEAKER_03  Guys of all time.
+2022.22 2022.68 SPEAKER_04  Mm-hmm.
+2022.68 2028.86 SPEAKER_03  That sentence was like, so fucked by my anxiety there that it went perfectly in parallel.
+2028.86 2030.24 SPEAKER_01  No, I got it.
+2030.30 2031.40 SPEAKER_01  It was passable.
+2031.40 2036.00 SPEAKER_03  It reads from the inside out in both directions.
+2036.44 2038.48 SPEAKER_03  It's a palindrome.
+2038.78 2044.58 SPEAKER_03  Anyway, so he comes up to her, extremely nervous, to be like, uh, the extremely cool criminal struck again.
+2044.58 2045.18 SPEAKER_03  Crimes.
+2045.18 2045.40 SPEAKER_02  Yeah.
+2045.62 2046.26 SPEAKER_03  Crimes.
+2046.46 2047.26 SPEAKER_03  Crimes have happened.
+2047.26 2047.72 SPEAKER_03  Oh, shit.
+2048.24 2048.96 SPEAKER_01  Crimes have happened.
+2049.34 2051.82 SPEAKER_01  We haven't seen the heist at this point, crucially.
+2051.82 2058.36 SPEAKER_01  We see them, like, line up the shot, and we see, um, Bashar- John Cheadle pull the- John Cheadle pull the trigger.
+2058.36 2062.98 SPEAKER_01  And then it cuts to this scene of a guy who has to tell someone bad news.
+2062.98 2073.22 SPEAKER_03  So she goes to the house, which has been robbed, and the two Amsterdam cops are there, dressed inexplicably like 1930s gangsters.
+2073.22 2075.74 SPEAKER_03  They're both wearing fedoras and trench coats.
+2075.74 2077.02 SPEAKER_03  Yes, quite unusual.
+2077.02 2078.40 SPEAKER_03  Never, never comes up again.
+2078.40 2079.30 SPEAKER_02  Two Xenagardas, yeah.
+2079.30 2080.30 SPEAKER_02  Mm-hmm.
+2080.30 2092.46 SPEAKER_02  She figures out that the house has been raised by three inches, and she has this kind of nested flashback to meeting Brad Pitt in Rome years ago, and telling him, hey, once you've once upon a time, this amazing criminal jacked a house off by three inches.
+2092.46 2093.46 SPEAKER_03  Yeah.
+2093.46 2094.46 SPEAKER_03  So, wow.
+2094.46 2095.64 SPEAKER_02  That's where he got the idea.
+2095.64 2102.46 SPEAKER_03  And so, because, like, she's gonna know that it's him, this is flirting, and I kind of like that, you know?
+2102.46 2108.42 SPEAKER_03  It's still doing the thing from the first movie of, like, women are objects to be heisted, right?
+2108.42 2109.42 SPEAKER_03  Yes.
+2109.42 2112.92 SPEAKER_03  But at least here, making her a cop, there's a bit of, like, mutual kind of foreplay.
+2112.92 2115.74 SPEAKER_02  Yes, she's more of a character in this one.
+2115.74 2119.90 SPEAKER_02  Women have maybe 60 to 75% as much interiority as men in this world.
+2119.90 2120.90 SPEAKER_02  Yeah.
+2120.90 2123.90 SPEAKER_03  And, like, she's also, to be clear, super into this.
+2123.90 2124.90 SPEAKER_03  There's still only two women.
+2124.90 2129.36 SPEAKER_03  That's a detail that makes me like this, is she's, like, biting her lip, like, oh, you fucker guy.
+2129.36 2130.36 SPEAKER_03  She's like, I know it's that motherfucker, I know.
+2130.36 2135.90 SPEAKER_02  Yeah, if somebody, like, very sexy did a heist for me, that would be a bit of a turn-on.
+2135.90 2138.90 SPEAKER_02  Listeners, if you heist me something, that's a good way to get my attention.
+2138.90 2140.90 SPEAKER_02  Don't heist anything that belongs to me!
+2140.90 2146.06 SPEAKER_01  Listeners, you can impress me in a kind of Jodie Foster way.
+2146.06 2150.06 SPEAKER_03  Yeah, but so this is a kind of, like, subtype of Xenagartification.
+2150.06 2151.06 SPEAKER_03  It's like horny Xenagartification.
+2151.06 2152.06 SPEAKER_03  It is, yeah.
+2152.06 2157.96 SPEAKER_03  She even gets, like, a kind of anime, anime hair floof in the back as well.
+2157.96 2162.06 SPEAKER_03  So like, when you're looking at her, as she's like, oh, I'm gonna get that guy.
+2162.06 2163.24 SPEAKER_03  Her haircut in this is so good.
+2163.24 2167.30 SPEAKER_03  She's got the kind of, like, slightly, slightly, like, swoopy hair.
+2167.30 2167.78 SPEAKER_03  Yes.
+2167.78 2167.98 SPEAKER_02  Yeah.
+2167.98 2168.58 SPEAKER_02  It's good.
+2168.58 2170.36 SPEAKER_02  It kind of, like, sub is kind of the right word.
+2170.36 2172.74 SPEAKER_02  This is kind of like formplay, crime formplay.
+2172.74 2173.08 SPEAKER_02  Yes.
+2173.08 2173.92 SPEAKER_01  Yeah, absolutely.
+2173.92 2185.14 SPEAKER_01  But she figures it out, and she goes like, and this is where we get the flashback, which is the heist was actually interrupted because the thing had already been stolen by the Night Foxx.
+2185.14 2185.64 SPEAKER_01  Yeah.
+2185.64 2185.84 SPEAKER_01  Yeah.
+2185.84 2189.74 SPEAKER_03  They get in, you know, Beethoven's third is blasting.
+2189.74 2203.50 SPEAKER_03  They open, that's what it sounds like, they open the safe and there's this little, like, onyx fox figurine in the thing, and then they immediately get a call on a phone inside the safe from the Eurotrash arms dealer from In Bruges.
+2203.50 2205.74 SPEAKER_03  The, do you have this word in English?
+2205.74 2206.74 SPEAKER_03  Alcoves?
+2206.74 2207.74 SPEAKER_03  Guy?
+2207.74 2211.74 SPEAKER_03  Like, the most Eurotrash thief in the world.
+2211.74 2213.36 SPEAKER_02  Who met this guy before?
+2213.36 2219.58 SPEAKER_02  This is Vincent Carsell, and he was a chimp in Jason Bourne and the Goblet of Fire, or whatever the fuck that was.
+2219.58 2220.58 SPEAKER_02  He was a chimp.
+2220.58 2221.58 SPEAKER_01  He played Professor Chimp.
+2221.58 2222.58 SPEAKER_01  He was a chimp.
+2222.58 2223.58 SPEAKER_01  Yeah.
+2223.58 2224.58 SPEAKER_01  I like this actor.
+2224.58 2225.58 SPEAKER_01  I love Vincent Carsell, he's a great actor.
+2225.58 2227.58 SPEAKER_01  He's playing French Diabolic here.
+2227.58 2228.58 SPEAKER_01  Yeah.
+2228.58 2229.58 SPEAKER_03  Yeah, yeah, yeah.
+2229.58 2230.58 SPEAKER_01  Monsieur Diabolique.
+2230.58 2246.58 SPEAKER_03  He's the only thief in the world more smug than Danny Ocean, and so he kind of calls him up on the phone and is like, you have this word cuckold, because that is what you are, I put you in the little chair in the hotel room.
+2246.58 2251.58 SPEAKER_01  Tell me has the standard got their little cocktail?
+2251.58 2252.58 SPEAKER_02  Yeah.
+2252.58 2253.58 SPEAKER_02  He set this whole thing up.
+2253.58 2264.58 SPEAKER_02  So we then get another flashback within the flashback, within the flashback, it's like fucking memento, as he, the Night Fox calls Terry Bennett and is like, I know where Ocean's 11 are from Ocean's 11.
+2264.58 2269.58 SPEAKER_02  And I also planted the information on the desk in your office, Night Fox, yeah!
+2269.58 2270.58 SPEAKER_02  He's so fucking smug.
+2270.58 2271.58 SPEAKER_02  He's such a prick, yeah.
+2271.58 2277.58 SPEAKER_03  Because he's like, I will give you the information if you do not kill them and you give them the chance to pay your back.
+2277.58 2281.58 SPEAKER_03  And so Andy Garcia's like, why are you talking like that?
+2281.58 2283.58 SPEAKER_03  Fine, I agree to your conditions.
+2283.58 2286.58 SPEAKER_03  And then looks down and the thing is on his desk already.
+2286.58 2287.58 SPEAKER_03  Yeah.
+2287.58 2288.58 SPEAKER_03  With the little fucking Night Fox!
+2288.58 2291.58 SPEAKER_01  Little fucking fox figure, yeah.
+2291.58 2292.58 SPEAKER_01  It's cunty!
+2292.58 2293.58 SPEAKER_02  I'm sorry.
+2293.58 2295.58 SPEAKER_03  He's reverse pickpocketing shit into people's pockets.
+2295.58 2298.58 SPEAKER_03  Did you just have a little bandolier of those fucking things?
+2298.58 2299.58 SPEAKER_03  Like, I'm a big fan.
+2299.58 2300.58 SPEAKER_01  Where are you sourcing these?
+2300.58 2301.58 SPEAKER_01  Like, surely we could get you.
+2301.58 2303.58 SPEAKER_03  That would be my first point of investigation.
+2303.58 2304.58 SPEAKER_03  It's like, alright, where did this come from?
+2304.58 2305.58 SPEAKER_01  Maybe he is making them himself.
+2305.58 2306.58 SPEAKER_01  He doesn't go through that much onyx, yeah.
+2306.58 2307.58 SPEAKER_04  Hmm.
+2307.58 2308.58 SPEAKER_01  Yeah, who's getting...
+2308.58 2312.58 SPEAKER_01  Right, which French guy's getting onyx delivered, I guess.
+2312.58 2313.58 SPEAKER_01  Hmm.
+2313.58 2324.58 SPEAKER_03  Matsui gets arrested, and the two Dutch cops are like, they go in and they try and interrogate him and they come out and they're like, oh, he's like a stone.
+2324.58 2326.58 SPEAKER_03  She's not gonna get anything out of them.
+2326.58 2336.58 SPEAKER_03  And so Catherine Zeta-Jones walks in there, looking incredible, and whispers in his ear, you can't be calling yourself Matsui white boy, and he folds instantly.
+2336.58 2337.58 SPEAKER_03  Yeah.
+2337.58 2340.58 SPEAKER_03  She just like whispers cracker with like five K's in the middle at him.
+2340.58 2345.58 SPEAKER_03  The first cop to speak Maoist standard English.
+2346.58 2353.58 SPEAKER_01  But the thing, he starts crying, and then she just walks straight up to the one-way mirror and starts mogging the cops that she knows about.
+2353.58 2354.58 SPEAKER_01  Yeah, yeah.
+2354.58 2356.58 SPEAKER_01  Which is so fucking funny.
+2356.58 2359.58 SPEAKER_02  We never find out what she says to him, but it's a fucking incredible bit.
+2359.58 2361.58 SPEAKER_02  I would hate to get cop-mogged.
+2361.58 2363.58 SPEAKER_02  It's so fucking funny.
+2363.58 2367.58 SPEAKER_01  Like, suck it, idiot, unless you can scene cuts, it's great.
+2367.58 2389.58 SPEAKER_03  So yeah, so Bernie Mac is coming out of a nail salon, which, by the way, because the Dutch language is very real, I just paused to see the sign, and the sign says beauty salon, one word, open quotes, HOOFDSAK, H-O-O-F-D-Z-A-A-K, close quotes, and HOOFDSAK.
+2389.58 2390.58 SPEAKER_03  HOOFDSAK.
+2390.58 2394.58 SPEAKER_03  So he comes out of the HOOFDSAK and he runs straight into Catherine Zeta-Jones.
+2394.58 2395.58 SPEAKER_03  Yeah.
+2395.58 2398.58 SPEAKER_02  And she says, Bernie Mac, you are not allowed to be in the rest of this movie.
+2398.58 2399.58 SPEAKER_02  Go to jail immediately.
+2399.58 2400.58 SPEAKER_01  He's like, ah!
+2400.58 2404.58 SPEAKER_02  He's in like one or two more shots in this film.
+2404.58 2406.58 SPEAKER_02  Bernie Mac exits this movie.
+2406.58 2412.58 SPEAKER_01  Yeah, you get like one shot later on that's just of him sat in the prison cell, just to sort of remind you that he's in the movie or what.
+2412.58 2414.58 SPEAKER_01  Is Bernie Mac not available?
+2414.58 2416.58 SPEAKER_01  Like, why is he not in this movie?
+2416.58 2417.58 SPEAKER_01  Who knows?
+2417.58 2418.58 SPEAKER_01  But he's gone.
+2418.58 2419.58 SPEAKER_01  He's in jail.
+2419.58 2420.58 SPEAKER_01  He's out, whatever.
+2420.58 2424.58 SPEAKER_02  And so Catherine Zeta-Jones, she goes to see the boys at HQ.
+2424.58 2426.58 SPEAKER_02  Everyone hides except Brad Pitt.
+2426.58 2428.58 SPEAKER_02  He's like, hey, I shaved my head, it looks like shit.
+2428.58 2437.58 SPEAKER_03  They're really matching each other's freak here, because she pulls the like cop move of, I took a bunch of horny surveillance photos of you.
+2437.58 2440.58 SPEAKER_02  Of him taking horny surveillance photos of her?
+2440.58 2442.58 SPEAKER_03  Again, flirtatious, yeah.
+2442.58 2443.58 SPEAKER_03  Love it.
+2443.58 2446.58 SPEAKER_03  Here's a long lens photo of you eating an ice cream.
+2446.58 2450.58 SPEAKER_03  Like, it's just, these people are like nasty.
+2450.58 2457.58 SPEAKER_02  When you're both really good at your job and you start encoding like hidden messages within your job back and forth to each other flirting with each other, that's a really...
+2457.58 2458.58 SPEAKER_02  Oh god.
+2458.58 2459.58 SPEAKER_02  That's a really, really good time.
+2459.58 2466.58 SPEAKER_02  In my experience, it doesn't always work out great when it gets YouTube videos, but yeah, it's still very fun at the time.
+2466.58 2468.58 SPEAKER_01  Turns out the videos are still there and you're like, oh, oh.
+2468.58 2469.58 SPEAKER_01  Yeah, yeah, shit.
+2469.58 2470.58 SPEAKER_02  Oh, I'm so mad.
+2470.58 2471.58 SPEAKER_02  Night fox!
+2471.58 2472.58 SPEAKER_02  Night fox!
+2472.58 2473.58 SPEAKER_02  Night fox!
+2473.58 2475.58 SPEAKER_03  She's so zenegana for this fucking guy.
+2475.58 2479.58 SPEAKER_03  You look down and there's a small onyx fox sitting on the table in the credit sequence.
+2479.58 2480.58 SPEAKER_03  You're like, what?
+2480.58 2482.58 SPEAKER_03  I didn't put this here.
+2482.58 2488.58 SPEAKER_01  Oh yeah, she like, I don't know, she harasses him for a bit and then she steals his phone.
+2488.58 2489.58 SPEAKER_02  She steals his phone.
+2489.58 2490.58 SPEAKER_02  You're no match for the night fox.
+2490.58 2491.58 SPEAKER_01  Steals his phone on the way out.
+2491.58 2492.58 SPEAKER_02  Yeah.
+2492.58 2494.58 SPEAKER_02  And the boys are upset because Rusty concealed this.
+2494.58 2500.58 SPEAKER_02  And at this point, Rusty's just like, her dad was a master thief once upon a time.
+2500.58 2501.58 SPEAKER_02  Just write that down.
+2501.58 2502.58 SPEAKER_02  She's kind of one of us.
+2502.58 2508.58 SPEAKER_03  And he takes a stance here, which is that detectives are not included in ACAB.
+2508.58 2514.58 SPEAKER_03  Because when Danny Ocean is like, well, she's a cop, he goes, oh, she's a detective.
+2514.58 2516.58 SPEAKER_03  It's like, that's worse!
+2516.58 2517.58 SPEAKER_03  What?
+2517.58 2518.58 SPEAKER_03  Yeah, that's what's funny.
+2518.58 2521.58 SPEAKER_03  That's the kind that's supposed to arrest you specifically.
+2521.58 2522.58 SPEAKER_03  Yeah.
+2522.58 2529.58 SPEAKER_03  That's the kind that's the subspecies of cop adapted to predate on you.
+2529.58 2536.58 SPEAKER_02  It's quite a fun thing, like insight into Rusty's character that he specifically like gets off on dating a detective though.
+2536.58 2537.58 SPEAKER_02  That is quite funny.
+2537.58 2538.58 SPEAKER_02  I would also do that if I was a criminal.
+2538.58 2539.58 SPEAKER_02  That is quite funny.
+2539.58 2541.58 SPEAKER_02  I should, I would do that if I wasn't a criminal.
+2541.58 2543.58 SPEAKER_02  The danger, the cancellation, it's good.
+2543.58 2544.58 SPEAKER_02  It's funny.
+2544.58 2547.58 SPEAKER_01  The cancellation is the real threat.
+2547.58 2548.58 SPEAKER_01  Yeah.
+2548.58 2551.58 SPEAKER_02  This is like me and that crush I have on that right wing YouTube.
+2551.58 2552.58 SPEAKER_02  I'm never gonna be able to.
+2552.58 2553.58 SPEAKER_02  There's never gonna be.
+2553.58 2555.58 SPEAKER_02  What are you supposed?
+2555.58 2559.58 SPEAKER_03  By the way, by the way, when Brad Pitt goes, oh, she's not a cop.
+2559.58 2560.58 SPEAKER_03  She's a detective.
+2560.58 2566.58 SPEAKER_03  He makes the weirdest face I've ever seen Brad Pitt make in any movie.
+2566.58 2567.58 SPEAKER_02  It's kind of like...
+2567.58 2569.58 SPEAKER_02  Yeah, it's the only face I've seen him make in this movie actually.
+2569.58 2570.58 SPEAKER_03  Yeah.
+2570.58 2573.58 SPEAKER_03  And my note is simply, why did he make that face?
+2573.58 2576.58 SPEAKER_03  Why did he provide us with the episode art for Ocean's Twelve?
+2576.58 2577.58 SPEAKER_03  Thank you Brad Pitt.
+2577.58 2578.58 SPEAKER_03  Not sure.
+2578.58 2579.58 SPEAKER_03  Who knows?
+2579.58 2581.58 SPEAKER_03  So, they're trapped in the hotel, right?
+2581.58 2584.58 SPEAKER_03  Because the cops have surrounded the place and they have to escape.
+2584.58 2590.58 SPEAKER_03  Luckily, also in the hotel, are Arsenal, the football team.
+2590.58 2591.58 SPEAKER_03  Yeah.
+2591.58 2597.58 SPEAKER_03  And so, Yen has to get into an Arsenal bag.
+2597.58 2601.58 SPEAKER_03  They insert this man into the Gooner bag.
+2601.58 2604.58 SPEAKER_02  The rest of them dress up in their Gooning uniforms.
+2604.58 2611.58 SPEAKER_02  And like, they get on the team bus to leave and I'm like, yeah, I'm sure football team buses aren't strict about who they're on.
+2611.58 2613.58 SPEAKER_02  I'm sure they don't have like a list.
+2613.58 2614.58 SPEAKER_01  They're wearing the outfit, they're like, yeah.
+2614.58 2615.58 SPEAKER_01  Yeah, whatever.
+2615.58 2619.58 SPEAKER_01  You don't know the members of- sorry, I said members.
+2619.58 2621.58 SPEAKER_01  You don't know the members of Arsenal by sight, Matt?
+2621.58 2626.58 SPEAKER_01  Like, you're like, yeah, footballer, footballer, footballer, Frank Ocean, footballer, footballer.
+2626.58 2632.58 SPEAKER_01  Who are these fucking ten guys that I don't recognise who are getting on the Arsenal bus?
+2632.58 2635.58 SPEAKER_02  Who all seem quite old to be professional footballers, actually.
+2635.58 2637.58 SPEAKER_03  They're all the physios.
+2637.58 2641.58 SPEAKER_03  They're all the guys who like, jerk off your leg until you agree to play football again.
+2641.58 2643.58 SPEAKER_03  But so...
+2643.58 2644.58 None  What's that?
+2644.58 2647.58 SPEAKER_03  They lose the bag, crucially.
+2647.58 2648.58 SPEAKER_03  Very funny.
+2648.58 2654.58 SPEAKER_03  The Gooner bag gets uploaded onto the coach and is then sent around Europe.
+2654.58 2655.58 SPEAKER_03  Yes.
+2655.58 2656.58 SPEAKER_03  And they lose track of it.
+2656.58 2657.58 SPEAKER_03  Yeah.
+2657.58 2665.58 SPEAKER_01  You get all of them on a train platform talking about this and it keeps cutting to pick airport guys kicking the fucking bag with Yen in it or whatever.
+2665.58 2666.58 SPEAKER_01  Yeah.
+2666.58 2667.58 SPEAKER_01  Shot putting it over.
+2667.58 2668.58 SPEAKER_01  That's pretty good.
+2668.58 2670.58 SPEAKER_03  I like this kind of joke.
+2670.58 2676.58 SPEAKER_03  It's the same reason why my favourite bit of The Wire is the surveillance van bit in season two.
+2676.58 2677.58 SPEAKER_03  But so...
+2677.58 2679.58 SPEAKER_03  Why are they at a train station?
+2679.58 2680.58 SPEAKER_03  Don't worry about it.
+2680.58 2681.58 SPEAKER_03  Because we're going to Italy.
+2681.58 2682.58 SPEAKER_01  Don't worry.
+2682.58 2683.58 SPEAKER_03  They're just hanging out.
+2683.58 2684.58 SPEAKER_03  They hang out so much.
+2684.58 2688.58 SPEAKER_01  This will be part of the most unsatisfying thing you can fucking imagine later on.
+2688.58 2691.58 SPEAKER_03  They do so much fucking hanging out in this scene.
+2691.58 2693.58 SPEAKER_03  Like, they set up a bunch of stuff for later.
+2693.58 2699.58 SPEAKER_03  Like, Matt Damon's like, yo, doesn't Julia Roberts look like the actress Julia Roberts in real life?
+2699.58 2700.58 SPEAKER_03  Just fuck me.
+2700.58 2701.58 SPEAKER_03  Fuck me.
+2701.58 2702.58 SPEAKER_02  Yeah, it's not funny.
+2702.58 2704.58 SPEAKER_03  We'll get to this later.
+2704.58 2707.58 SPEAKER_03  They do bits about Frank Ocean looking old.
+2707.58 2708.58 SPEAKER_03  Yeah.
+2708.58 2709.58 SPEAKER_03  Yeah.
+2709.58 2710.58 SPEAKER_03  Which is just because he has grey hair.
+2710.58 2712.58 SPEAKER_03  Like Clooney was in his 40s when he made this.
+2712.58 2717.58 SPEAKER_03  But it's mostly these guys like fucking with each other, which I kind of like.
+2717.58 2719.58 SPEAKER_03  Also, right, Yen is...
+2719.58 2722.58 SPEAKER_03  He's not just getting kicked by security guys.
+2722.58 2727.58 SPEAKER_03  Like, if you think about like, checked baggage, he's been x-rayed so many times.
+2727.58 2729.58 SPEAKER_02  Yeah, he's radioactive.
+2729.58 2731.58 SPEAKER_01  Yen is getting irradiated right now.
+2731.58 2735.58 SPEAKER_03  He's coming out of there like the fucking Chernobyl miners, right?
+2735.58 2738.58 SPEAKER_03  Like, he's fucking dead in there.
+2738.58 2751.58 SPEAKER_03  And then, the other thing, this was like three years after 9-11, and you're telling me they just let like a Chinese man who's kind of short into like three different planes as baggage.
+2751.58 2752.58 SPEAKER_03  It's just fantastic.
+2752.58 2753.58 SPEAKER_03  No one noticed?
+2753.58 2754.58 SPEAKER_02  Yeah.
+2754.58 2755.58 SPEAKER_01  Strange.
+2755.58 2756.58 SPEAKER_01  Yeah, like are they not scanning those?
+2756.58 2757.58 SPEAKER_01  I guess I don't know.
+2757.58 2761.58 SPEAKER_01  Like, if you work at an airport, which I've got to assume half of you fucking listeners do, like...
+2761.58 2762.58 SPEAKER_01  Yeah.
+2762.58 2764.58 SPEAKER_01  It'll turn out that we've got like tons of guys there.
+2764.58 2766.58 SPEAKER_03  David, who works at the airport?
+2766.58 2769.58 SPEAKER_02  Like, Derek and Leonard, who work in airport security, can you...
+2769.58 2771.58 SPEAKER_01  Yeah, David, can you just fucking let us know?
+2771.58 2772.58 SPEAKER_01  Like, do you scan them?
+2772.58 2773.58 SPEAKER_03  Can you pay attention to the thing?
+2773.58 2775.58 SPEAKER_03  Shit's going past you right now.
+2775.58 2778.58 SPEAKER_02  Yeah, several Chinese men have just gone past you.
+2782.58 2783.58 SPEAKER_01  You know that last bag you scanned?
+2783.58 2785.58 SPEAKER_01  There was a Chinese guy in there, man.
+2785.58 2786.58 SPEAKER_01  You fucked up.
+2786.58 2791.58 SPEAKER_03  Looking away to listen to podcasts more intently because they just said my name.
+2791.58 2800.58 SPEAKER_03  This guy got on three separate flights and it was because people were listening to us on a Gen 1 iPod and each time we perfectly sniped their own name.
+2800.58 2801.58 SPEAKER_03  Mark!
+2801.58 2806.58 SPEAKER_02  Just yelling names at the fucking audience.
+2806.58 2807.58 SPEAKER_02  Hi, Lucy.
+2807.58 2809.58 SPEAKER_02  We should do some women's names.
+2809.58 2810.58 SPEAKER_01  Hey, Lucy, how you doing?
+2810.58 2811.58 SPEAKER_01  Yeah, what's up, Lucy?
+2811.58 2812.58 SPEAKER_03  Name a woman.
+2812.58 2813.58 SPEAKER_03  Hey!
+2813.58 2815.58 SPEAKER_03  For a dollar, name a woman.
+2815.58 2816.58 SPEAKER_03  Lucy.
+2816.58 2822.58 SPEAKER_03  So, I just fully just almost like gouged my own eye out trying to pull my fringe back there.
+2822.58 2823.58 SPEAKER_03  I'm so good at being alive.
+2823.58 2826.58 SPEAKER_03  I fully just went up with a thumb and just went...
+2826.58 2827.58 SPEAKER_02  The fringe is looking really good.
+2827.58 2829.58 SPEAKER_02  I'm here for hot November 2025.
+2829.58 2830.58 SPEAKER_02  Thank you.
+2830.58 2832.58 SPEAKER_03  I mean climate change, you know.
+2832.58 2833.58 SPEAKER_03  Yeah.
+2833.58 2841.58 SPEAKER_03  But so, then Vincent Cassel calls them and is like, how is the view from the cock chairs that they have placed you in?
+2841.58 2842.58 SPEAKER_02  Yeah.
+2842.58 2845.58 SPEAKER_02  We have a montage because they figured out who the Night Fox is.
+2845.58 2847.58 SPEAKER_02  The Night Fox, his name is Vincent Cassel.
+2847.58 2849.58 SPEAKER_02  He's a French actor or whatever.
+2849.58 2850.58 SPEAKER_02  He's a baron.
+2850.58 2852.58 SPEAKER_02  He's crime Batman.
+2852.58 2853.58 SPEAKER_02  He's super rich.
+2853.58 2854.58 SPEAKER_02  He crimes for fun.
+2854.58 2856.58 SPEAKER_02  He was trained by Lamarck.
+2856.58 2857.58 SPEAKER_02  He's got supermodels.
+2857.58 2858.58 SPEAKER_02  He's got fast cars.
+2858.58 2859.58 SPEAKER_02  He's got yachts.
+2859.58 2863.58 SPEAKER_02  This actor gets to have so much fun filming his introductory montage.
+2863.58 2867.58 SPEAKER_02  And she's just like fucking supermodels and driving supercars.
+2867.58 2868.58 SPEAKER_02  And I'm like, yeah.
+2868.58 2869.58 SPEAKER_02  Yeah.
+2869.58 2873.58 SPEAKER_03  They're like, this guy, he's kind of a spoiled brat, but he has the biggest dick of all time.
+2873.58 2874.58 SPEAKER_03  He's diabolic.
+2874.58 2875.58 SPEAKER_03  Stealing wise.
+2875.58 2876.58 SPEAKER_03  Mm-hmm.
+2876.58 2877.58 SPEAKER_03  He's Phantoma as well.
+2877.58 2881.58 SPEAKER_03  And so Vincent Cassel, I've been doing him a disservice, right?
+2881.58 2887.58 SPEAKER_03  Because I've been doing Zucard French accent, but he actually talks with this weird kind of pseudo Portuguese accent.
+2887.58 2888.58 SPEAKER_03  It's very sexy actually.
+2888.58 2889.58 SPEAKER_03  He's a very sexy man.
+2889.58 2890.58 SPEAKER_03  Yeah.
+2890.58 2891.58 SPEAKER_03  It's interesting.
+2891.58 2895.58 SPEAKER_02  He lives in a very nice house on Lake Como, which is actually in real life.
+2895.58 2896.58 SPEAKER_02  You know what?
+2896.58 2898.58 SPEAKER_02  I'm going to reveal that later on because it's funny.
+2898.58 2899.58 SPEAKER_01  Yeah.
+2899.58 2900.58 SPEAKER_01  We've saved that for the end.
+2900.58 2901.58 SPEAKER_02  It's extremely funny.
+2901.58 2902.58 SPEAKER_02  But he lives in this gorgeous house on Lake Como.
+2902.58 2903.58 SPEAKER_02  Yeah.
+2903.58 2904.58 SPEAKER_01  Beautiful house on Lake Como.
+2904.58 2905.58 SPEAKER_01  Yeah.
+2905.58 2906.58 SPEAKER_02  Really nice.
+2906.58 2910.58 SPEAKER_02  But he meets Danny Ocean at his extremely lovely villa on the shore of Lake Como.
+2910.58 2911.58 SPEAKER_02  Lake Como.
+2911.58 2913.58 SPEAKER_02  And he says, Lamarck is alive.
+2913.58 2914.58 SPEAKER_02  He's my mentor.
+2914.58 2920.58 SPEAKER_02  I was with him a while ago and, you know, we were chatting to somebody who said that you, Danny Ocean, are the greatest thief in the world.
+2920.58 2922.58 SPEAKER_02  And Lamarck didn't correct him.
+2922.58 2925.58 SPEAKER_02  And so I decided to fuck with you because fuck you.
+2925.58 2926.58 SPEAKER_02  I'm the best in the world.
+2926.58 2927.58 SPEAKER_02  Yeah.
+2927.58 2931.58 SPEAKER_03  It's an around the world and 80 days, gentleman's club style beef.
+2931.58 2932.58 SPEAKER_03  Right?
+2932.58 2933.58 SPEAKER_03  Yes.
+2933.58 2941.58 SPEAKER_03  Like we are now doing a kind of thief race where we are both going to try and steal the same object.
+2941.58 2943.58 SPEAKER_03  What object do you ask?
+2943.58 2945.58 SPEAKER_03  A Fabergé egg.
+2945.58 2946.58 SPEAKER_03  Yeah.
+2946.58 2952.58 SPEAKER_03  This leads to every character in the film saying the phrase, the egg, about 50 different times.
+2952.58 2954.58 SPEAKER_03  I didn't pull any of them.
+2954.58 2955.58 SPEAKER_03  No, me neither.
+2955.58 2958.58 SPEAKER_01  But every time I thought the phrase, the egg.
+2958.58 2959.58 SPEAKER_01  The egg.
+2959.58 2967.58 SPEAKER_02  And if you win, Danny Ocean, then I will pay your debt to Terry Benedict, who, by the way, I gave all the information to, so I have endangered your life to play this game.
+2967.58 2968.58 SPEAKER_02  Yes.
+2968.58 2969.58 SPEAKER_01  Yes.
+2969.58 2972.58 SPEAKER_01  And if I win, then I guess you'd get killed by Terry Benedict.
+2972.58 2973.58 SPEAKER_03  Yeah.
+2973.58 2974.58 SPEAKER_03  Yeah.
+2974.58 2977.58 SPEAKER_03  And Danny Ocean is like, resents this, but is like, okay, I guess there's no choice.
+2977.58 2980.58 SPEAKER_03  See you in a week when we have like beaten you to the egg.
+2980.58 2985.58 SPEAKER_02  It's going to be on display in Rome, in the Rome Art Museum for 48 hours exactly.
+2985.58 2986.58 SPEAKER_02  The Museum of Art in Rome.
+2986.58 2988.58 SPEAKER_01  That is how you do it, yes.
+2988.58 2989.58 SPEAKER_01  The Museum.
+2989.58 2990.58 SPEAKER_03  Yes, indeed.
+2990.58 2997.58 SPEAKER_03  I'm fascinated by the Museum of Art in Rome as a kind of like fictional convenience, or a kind of tulpa, right?
+2997.58 3003.58 SPEAKER_03  Like, a video game that was very influential on me back in the day was called Alpha Prozacol, right?
+3003.58 3014.58 SPEAKER_03  Very stupid game in a lot of ways, not least the fact that one of the sequences is in Rome, and has like a terrorist bomb thing that's set at what one character says is, the Museum of Art in Rome.
+3014.58 3015.58 SPEAKER_03  Hmm.
+3015.58 3021.58 SPEAKER_03  And the idea for plot purposes that there is one Museum of Art in Rome called the Museum of Art in Rome.
+3021.58 3022.58 SPEAKER_03  The Museum of Art in Rome.
+3022.58 3023.58 SPEAKER_01  Yeah, the Museum of Art in Rome.
+3023.58 3024.58 SPEAKER_01  Yeah, the Museum of Art in Rome.
+3024.58 3029.58 SPEAKER_03  Just kind of occupied a lobe of my brain as like, yeah, you actually don't need to think about this stuff too hard.
+3029.58 3030.58 SPEAKER_03  You can just, it's fine.
+3030.58 3031.58 SPEAKER_03  Yeah, for real.
+3031.58 3032.58 SPEAKER_03  The Museum of Art in Rome.
+3032.58 3033.58 SPEAKER_03  Location in location.
+3033.58 3034.58 SPEAKER_03  Great.
+3034.58 3035.58 SPEAKER_03  Yeah, exactly.
+3035.58 3037.58 SPEAKER_03  So, that's what this is.
+3037.58 3043.58 SPEAKER_03  Again, it's just like, it's not, we're not engaged in a lot of like detailed world building here.
+3043.58 3044.58 SPEAKER_03  It's a fantasy and that's okay.
+3044.58 3045.58 SPEAKER_03  That's good actually.
+3045.58 3047.58 SPEAKER_01  It's heist city, you know?
+3047.58 3053.58 SPEAKER_01  It's like, they're like, they've got a laser grid that fucking moves around, you know, the kind of thing.
+3053.58 3060.58 SPEAKER_02  You can't go in at night, you've got to go in during the day because there's a super laser grid that shoots lasers randomly and you couldn't ever get through the tripwires.
+3060.58 3061.58 SPEAKER_02  So, we're going to have to go in during the day.
+3061.58 3064.58 SPEAKER_02  So, they come up with this plan that's like, a little bit ropey.
+3064.58 3067.58 SPEAKER_02  At this point, Susie, is Art just enters the film?
+3067.58 3068.58 SPEAKER_02  Yes.
+3068.58 3073.58 SPEAKER_03  Yeah, because, because, because Catherine Zeta-Jones has stolen the phone, right?
+3073.58 3076.58 SPEAKER_03  And so, she's in her office in this incredible suit and tie.
+3076.58 3077.58 SPEAKER_03  Oh my God.
+3077.58 3078.58 SPEAKER_03  Oh my God, her fits in this.
+3078.58 3079.58 SPEAKER_02  She's great.
+3079.58 3092.58 SPEAKER_03  Yeah, but she picks up the phone to Susie Izzard, who is a guy that, at this point, that Brad Pitt had mentioned earlier, is like, trying to come up with some hologrammatic bullshit.
+3092.58 3093.58 SPEAKER_03  Yeah.
+3093.58 3094.58 SPEAKER_03  Yeah.
+3094.58 3100.58 SPEAKER_03  And Susie Izzard is like, hey, your hologrammatic bullshit is finished, come pick up your hologrammatic bullshit.
+3100.58 3105.58 SPEAKER_03  And they do a kind of cheap joke about how Brad Pitt has a sexy female assistant.
+3105.58 3109.58 SPEAKER_03  And then, Susie Izzard also has a sexy female assistant.
+3110.58 3111.58 SPEAKER_03  Oh, oh, oh.
+3111.58 3112.58 SPEAKER_02  So, what she's made is...
+3112.58 3113.58 SPEAKER_03  Shout out to women.
+3113.58 3114.58 SPEAKER_02  Yeah, shout out to women.
+3114.58 3116.58 SPEAKER_02  Nice to have them in the film, some of them.
+3116.58 3118.58 SPEAKER_03  Women in the office wear as well.
+3118.58 3119.58 SPEAKER_03  Yeah.
+3119.58 3120.58 SPEAKER_02  Shout out to women.
+3120.58 3121.58 SPEAKER_01  Hello.
+3121.58 3122.58 SPEAKER_03  How you doing out there?
+3122.58 3123.58 SPEAKER_01  Hi, women.
+3123.58 3124.58 SPEAKER_01  Lucy.
+3124.58 3125.58 SPEAKER_01  All the very different, Lucy.
+3126.58 3127.58 SPEAKER_03  Geraldine.
+3127.58 3128.58 SPEAKER_03  I named Lucy first.
+3128.58 3130.58 SPEAKER_03  Don't be saying hi to Lucy.
+3130.58 3131.58 SPEAKER_03  I named Lucy first.
+3131.58 3133.58 SPEAKER_01  I'm thinking of a different Lucy.
+3133.58 3136.58 SPEAKER_01  Who I know isn't listening, so I should probably think of a different one.
+3136.58 3137.58 SPEAKER_01  Not you, Lucy.
+3137.58 3138.58 SPEAKER_02  You, Lucy.
+3138.58 3139.58 SPEAKER_01  I guess Tony, hey, how ya?
+3139.58 3140.58 SPEAKER_01  Yeah.
+3140.58 3141.58 SPEAKER_01  What's up, mum?
+3141.58 3153.58 SPEAKER_02  So, Susie Izzard has created this holographic plate that projects an image of the Fabergé egg, it lasts two minutes, so you can steal the egg and then you've got two minutes of cover whilst everyone thinks it's still there.
+3153.58 3154.58 SPEAKER_02  Great, cool.
+3154.58 3156.58 SPEAKER_03  Yeah, it's stupid as fuck, I really like it.
+3156.58 3157.58 SPEAKER_03  Totally stupid.
+3157.58 3171.58 SPEAKER_03  Meanwhile, Catherine Zeta-Jones is onto them, she knows what they're planning, she knows a Fabergé egg, because Susie Izzard says, oh, it's good enough to fool the Romanoffs themselves, and then as if that wasn't enough of a hint, she looks out of the window to see a big Fabergé egg display.
+3171.58 3172.58 SPEAKER_03  Yeah.
+3172.58 3173.58 SPEAKER_03  And it's like, oh, a Fabergé egg!
+3173.58 3176.58 SPEAKER_03  It's like, coming soon, the Fabergé egg, or whatever.
+3176.58 3177.58 SPEAKER_03  Coming soon to the museum.
+3177.58 3193.58 SPEAKER_03  She's trying to get like a, like a warrant from her boss, and her boss who is even more Euro-pilled than the Night Fox, and so she calls him and he's just kind of like, this is an automatic reply, I'm out of the office until 2027.
+3193.58 3195.58 SPEAKER_03  Yeah, don't ask.
+3195.58 3202.58 SPEAKER_03  This is the one, like, European detail in a movie ostensibly about Europe, and it's like, I like this.
+3202.58 3217.58 SPEAKER_02  Well, she asks for the jurisdiction to follow them to Rome, and he says, all you ever do, you don't ever arrest these people, all you do is you walk around in sexy outfits and really high heels to the crime scenes, visibly getting off on the fact that Brad Pitt is crime-cucking you, so no, you don't have jurisdiction, go home.
+3217.58 3218.58 SPEAKER_02  You don't get to.
+3218.58 3221.58 SPEAKER_03  He fully calls her an auto-policephile to her face.
+3221.58 3222.58 SPEAKER_03  Yeah.
+3222.58 3225.58 SPEAKER_03  Like, my boss if I was a cop.
+3225.58 3230.58 SPEAKER_03  You don't actually do any police work, you just kind of walk around enjoying being a cop.
+3230.58 3233.58 SPEAKER_03  It's real sick shit, you have to actually work.
+3233.58 3235.58 SPEAKER_03  Yeah, you need to arrest these people.
+3235.58 3242.58 SPEAKER_02  So she forges his signature on the crime's permission slip, doctor's note, away from school day things.
+3242.58 3248.58 SPEAKER_03  So, like, she comes back to her flat wearing a fully red leather ensemble.
+3248.58 3249.58 SPEAKER_02  The red leather outfit?
+3249.58 3250.58 SPEAKER_02  Oh my god.
+3250.58 3255.58 SPEAKER_03  She looks like Carmen Sandiego, which is the highest compliment I think you can pay a woman.
+3255.58 3262.58 SPEAKER_02  See, they've accidentally done Diabolic One, and they've realised that the secret to these films is you put all of your leading ladies in fucking smoking hot fits.
+3262.58 3266.58 SPEAKER_02  They couldn't deal with Julia Roberts in the first one because they didn't know what women were.
+3266.58 3267.58 SPEAKER_02  True.
+3267.58 3270.58 SPEAKER_02  And then in this one, they've finally given Catherine Zeta-Jones some fucking fits to get off, and she looks amazing.
+3270.58 3271.58 SPEAKER_02  I'm invested.
+3271.58 3278.58 SPEAKER_03  And Brad Pitt has like, has like James Bond infiltrated her flat, and is like, ooh, isn't crime horny?
+3278.58 3279.58 SPEAKER_03  Yeah.
+3279.58 3280.58 SPEAKER_03  And to be fair, it is.
+3280.58 3281.58 SPEAKER_03  Yes.
+3281.58 3282.58 SPEAKER_03  Like, crime is horny as fuck.
+3282.58 3286.58 SPEAKER_02  Yeah, she says, next time I see you, I'm arresting you, and I'm just like, is that a promise?
+3286.58 3287.58 SPEAKER_03  No, you're not a motherfucker.
+3287.58 3289.58 SPEAKER_03  You'll never actually arrest her.
+3289.58 3291.58 SPEAKER_02  Wait, that's sorry, that's your kink, that's not mine.
+3291.58 3298.58 SPEAKER_03  But so, he's like, give me back my phone, and she's like, no.
+3298.58 3304.58 SPEAKER_03  Meanwhile, the gang are building a little scale planning model of the Museum of Art in Rome.
+3304.58 3305.58 SPEAKER_03  They love to build a little model.
+3305.58 3306.58 SPEAKER_02  They do, don't they?
+3306.58 3307.58 SPEAKER_02  So do I.
+3307.58 3311.58 SPEAKER_01  I want to know which of them is building the model, because they've done it each time thus far.
+3311.58 3312.58 SPEAKER_03  It's Basher, clearly.
+3312.58 3314.58 SPEAKER_03  Like, I've created a diorama.
+3314.58 3315.58 SPEAKER_03  What?
+3315.58 3316.58 None  What?
+3316.58 3317.58 SPEAKER_03  Oh, fucking hell, L.
+3317.58 3321.58 SPEAKER_02  Danny, you're represented by this little figurine of the Witch King.
+3321.58 3323.58 SPEAKER_02  I got the Lord of the Rings Warhammer set.
+3323.58 3325.58 SPEAKER_02  Rusty, you're this Nazgul.
+3325.58 3331.58 SPEAKER_01  Listen, I didn't have a small Faberge egg, so I've got a Catan Shard I'm putting in the middle of this here.
+3331.58 3332.58 SPEAKER_01  I wouldn't worry.
+3332.58 3334.58 SPEAKER_01  It's the Void Dragon, right?
+3334.58 3335.58 SPEAKER_02  Why am I fucking Frodo?
+3335.58 3338.58 SPEAKER_03  They call him Basher because it's short for his full nickname, Kit Basher.
+3338.58 3339.58 SPEAKER_03  Kit Basher.
+3339.58 3340.58 SPEAKER_04  What is that?
+3340.58 3341.58 SPEAKER_03  Yes!
+3341.58 3343.58 SPEAKER_04  Alright, alright, we're there.
+3343.58 3344.58 SPEAKER_03  We're there.
+3344.58 3345.58 SPEAKER_03  We've got a bit for this guy.
+3345.58 3349.58 SPEAKER_03  He's there with the little, like, static grass applicator.
+3349.58 3350.58 SPEAKER_03  Yeah.
+3350.58 3354.58 SPEAKER_01  Yeah, yeah, he's old Drax from Ronin with his little fucking, like, models.
+3354.58 3356.58 SPEAKER_02  He's always running out of Chaos Black.
+3356.58 3358.58 SPEAKER_02  You can't get any more of it.
+3358.58 3360.58 SPEAKER_02  I could never get any Chaos Blacks.
+3360.58 3362.58 SPEAKER_02  That's why he spent all of his fucking money.
+3362.58 3364.58 SPEAKER_01  That's why I'm down several million from the fucking ice.
+3364.58 3366.58 SPEAKER_01  I've been in Games Workshop.
+3366.58 3367.58 SPEAKER_03  Workshop.
+3367.58 3369.58 SPEAKER_03  It's mostly chipping fluid, to be honest.
+3369.58 3373.58 SPEAKER_02  Me and Henry Cavill have just been blowing millions on Warhammer.
+3373.58 3374.58 SPEAKER_01  Just get hairspray, mate.
+3374.58 3376.58 SPEAKER_01  You don't need to buy the chipping fluid.
+3376.58 3377.58 SPEAKER_01  It's fine.
+3379.58 3385.58 SPEAKER_03  He's got this, like, beautifully pin-washed diorama of how they're gonna do all this shit.
+3385.58 3388.58 SPEAKER_02  He's got all the fake grass dust on it that gets out of the house.
+3388.58 3391.58 SPEAKER_01  He's just watching night shift videos the whole time he's not on screen.
+3391.58 3393.58 SPEAKER_01  My friend.
+3393.58 3396.58 SPEAKER_01  Alright, alright, this is impenetrable.
+3396.58 3397.58 SPEAKER_03  Bring it back.
+3397.58 3403.58 SPEAKER_03  Adding to the official list of KJB implicit recommendations from stuff we've just referenced.
+3403.58 3404.58 SPEAKER_03  Yeah, yeah.
+3404.58 3406.58 SPEAKER_03  Check out Night Shift on YouTube, pretty good.
+3406.58 3410.58 SPEAKER_03  But so, they go through the plan, the plan is stupid, it's not important.
+3410.58 3417.58 SPEAKER_03  The next bit is, in the middle of the night, the Night Fox decides to fuck with them in the most childish way.
+3417.58 3419.58 SPEAKER_03  This is so funny.
+3419.58 3424.58 SPEAKER_03  He, like, changes the alarm on George Clooney's phone.
+3424.58 3426.58 SPEAKER_02  He, like, rings George Clooney.
+3426.58 3428.58 SPEAKER_02  Like, it's a hotel wake-up call.
+3428.58 3432.58 SPEAKER_01  Yeah, this is your 5.30am wake-up call, Mr. Frank Rochon.
+3432.58 3433.58 SPEAKER_01  Yeah.
+3433.58 3439.58 SPEAKER_02  And there's a detail I really like, which is that Clooney, Clooney then, like, hangs out the phone and then checks his wristwatch.
+3439.58 3445.58 SPEAKER_02  And then we cut to the next scene, which is, like, him knocking on Rusty's door and we're like, it's 5.30 in the morning, why aren't you awake?
+3445.58 3448.58 SPEAKER_02  And he's like, it's 11.30 the night before, what happened?
+3448.58 3453.58 SPEAKER_02  And we realize, he not only called him on the phone to wake him up, he must have broken in and changed his wristwatch.
+3453.58 3456.58 SPEAKER_02  That's so fucking intimate.
+3456.58 3457.58 SPEAKER_02  Which is so good.
+3457.58 3459.58 SPEAKER_01  They're like, oh man, this guy's such a cunt.
+3459.58 3462.58 SPEAKER_01  How many fucking, like, how many espressos did you have?
+3462.58 3464.58 SPEAKER_01  And Frank's like, fucking five.
+3464.58 3472.58 SPEAKER_03  Clooney gone off of five Nespresso's, he's been sitting around with Jean Dujardin, like, slamming these things back like Yakult.
+3472.58 3478.58 SPEAKER_01  Yeah, he woke up for my heist, I slammed three original Four Locos, it's 2004, let's go.
+3478.58 3489.58 SPEAKER_03  And so, like, Brad Pitt has to get him into his own room and, like, calm him down, and the next shot Brad Pitt is wearing a bathrobe, and I'm like, they have had sex.
+3489.58 3493.58 SPEAKER_03  These men have had sexual intercourse.
+3493.58 3495.58 SPEAKER_03  This is a post-coital scene.
+3495.58 3498.58 SPEAKER_02  And then on the day of the heist, everyone is arrested immediately.
+3498.58 3499.58 SPEAKER_02  Yeah.
+3499.58 3507.58 SPEAKER_03  They set this to a montage of Vincent Cassel doing capoeira, the, like, Brazilian kind of dance martial art thing.
+3507.58 3516.58 SPEAKER_03  Which is, it's really impressive, but it also looks a bit like he's trying to fuck the air, which is, I guess, the most Brazilian you can make a kind of dance martial art.
+3516.58 3518.58 SPEAKER_03  I've never been jealous of air before.
+3518.58 3519.58 SPEAKER_02  Yeah.
+3519.58 3522.58 SPEAKER_03  Like, La Penetrada makes sex look like a church.
+3522.58 3524.58 SPEAKER_03  This will also come back unsatisfyingly.
+3524.58 3525.58 SPEAKER_03  Yes.
+3525.58 3526.58 SPEAKER_03  Yeah.
+3526.58 3527.58 SPEAKER_03  I thought that was pretty satisfying.
+3527.58 3529.58 SPEAKER_03  Uh, no, I don't think so.
+3529.58 3532.58 SPEAKER_03  But so, everybody gets arrested apart from three of them.
+3532.58 3533.58 SPEAKER_03  One of the Mormons...
+3533.58 3534.58 SPEAKER_03  This is funny.
+3534.58 3535.58 SPEAKER_02  Yes.
+3535.58 3536.58 SPEAKER_03  Matt Damon...
+3536.58 3537.58 SPEAKER_03  And Don Cheadle.
+3537.58 3538.58 SPEAKER_03  And Don Cheadle.
+3538.58 3543.58 SPEAKER_02  Matt Damon immediately puts on a suit and starts doing a George Clooney impression, which I really like.
+3543.58 3545.58 SPEAKER_02  He's like, this is how I've seen it done.
+3545.58 3546.58 SPEAKER_03  Um, and so...
+3546.58 3553.58 SPEAKER_01  But I really like that someone, like, fuck it, like, one of the Mormon guys is like, who died and made you Frank Ocean?
+3553.58 3556.58 SPEAKER_01  And he, like, genuinely is like, I'm sorry, man.
+3556.58 3557.58 SPEAKER_01  I was just trying it.
+3557.58 3558.58 SPEAKER_01  And they're like, no, no, it's fine.
+3558.58 3559.58 SPEAKER_01  It's fine.
+3559.58 3560.58 SPEAKER_01  Come on.
+3560.58 3563.58 SPEAKER_01  We gotta get this fucking egg somehow.
+3563.58 3564.58 SPEAKER_01  Yeah.
+3564.58 3566.58 SPEAKER_01  And they're like, how are we gonna do this?
+3566.58 3567.58 SPEAKER_01  All right.
+3567.58 3575.58 SPEAKER_01  Well, you might remember that earlier on we implied we were like, you know, you know, Julia Roberts is in this movie and she looks a lot like Julia Roberts.
+3575.58 3576.58 SPEAKER_01  Mm-hmm.
+3576.58 3577.58 SPEAKER_01  What if...
+3577.58 3578.58 SPEAKER_01  Yeah.
+3578.58 3579.58 SPEAKER_01  Can we do something with that?
+3579.58 3581.58 SPEAKER_01  Can we make that a key plot point of the fucking movie?
+3581.58 3582.58 SPEAKER_02  Yeah.
+3582.58 3585.58 SPEAKER_02  But Danny's wife, Tess, looks like Julia Roberts on account if she's played by Julia Roberts.
+3585.58 3587.58 SPEAKER_03  It's metatextual.
+3587.58 3590.58 SPEAKER_03  And so they fly her out under false pretenses.
+3590.58 3591.58 SPEAKER_03  Yeah.
+3591.58 3598.58 SPEAKER_03  They cant the camera over 90 degrees when the plane gets in, which is the dutchest angle you can mathematically get.
+3598.58 3599.58 SPEAKER_03  Yeah.
+3599.58 3601.58 SPEAKER_03  Like, there is no dutcher angle, which I appreciate.
+3601.58 3602.58 SPEAKER_01  Well, we're in Amsterdam.
+3602.58 3603.58 SPEAKER_01  Yeah, that was really weird.
+3603.58 3607.58 SPEAKER_01  I was trying to figure out what was going on there, because Linus tells Tess to get a flight.
+3607.58 3608.58 SPEAKER_01  I wonder if you guys can help me here.
+3608.58 3613.58 SPEAKER_01  And then there's this fill shot of one of the New Jersey drones, and I'm trying to figure out what the connection is between that.
+3613.58 3614.58 SPEAKER_01  I'm not...
+3614.58 3615.58 None  I'm not...
+3615.58 3616.58 SPEAKER_03  I'm certain.
+3616.58 3617.58 SPEAKER_03  I'm not sure.
+3617.58 3620.58 SPEAKER_03  I think sending a complex series of messages.
+3620.58 3626.58 SPEAKER_02  So the plan is that they're gonna have Tess come and view the egg as a celebrity.
+3626.58 3634.58 SPEAKER_03  And pretend to be pregnant, which is how they work in Julia Roberts, the actress's real life pregnancy.
+3634.58 3644.58 SPEAKER_03  Like, if you notice why she's not shot from anywhere below neck level in any of the other shots, it's because she is heavily pregnant making this.
+3644.58 3645.58 SPEAKER_03  And so...
+3645.58 3646.58 SPEAKER_03  Oh!
+3646.58 3647.58 SPEAKER_03  Well, that's gross.
+3647.58 3651.58 SPEAKER_03  That's why this scam has to involve her pretending to be pregnant with a pillow.
+3651.58 3658.58 SPEAKER_03  They also do a fun joke where Don Cheadle's character is like, if you're gonna pretend to be Julia Roberts, you have to get the accent right.
+3658.58 3659.58 SPEAKER_03  The accent, right?
+3659.58 3660.58 SPEAKER_03  The accent is crucial.
+3660.58 3663.58 SPEAKER_03  Because the accent's the first thing people notice.
+3663.58 3666.58 SPEAKER_02  This coming from you, Don Cheadle, in this room.
+3666.58 3670.58 SPEAKER_01  I'm not taking accent advice from Dick Van fucking Dyke.
+3670.58 3672.58 SPEAKER_01  Gotta make sure you sound like a normal bloke, right?
+3672.58 3675.58 SPEAKER_01  They're gonna get mad suspicious if you sound like a weird bird.
+3675.58 3680.58 SPEAKER_01  And also, another thing, they don't say Julia Roberts at any point.
+3680.58 3685.58 SPEAKER_01  They just call her Julia a bunch, and they go, she looks a lot like... and then cut themselves off.
+3685.58 3688.58 SPEAKER_01  And I have to ask, why couldn't you say Julia Roberts?
+3688.58 3690.58 SPEAKER_01  Did you not get permission?
+3690.58 3692.58 SPEAKER_01  She's right there, you can ask.
+3692.58 3693.58 SPEAKER_01  She's on the set.
+3693.58 3694.58 SPEAKER_01  I must...
+3694.58 3700.58 SPEAKER_03  I do have to say, this must have been so fucking surreal for Julia Roberts to film.
+3700.58 3704.58 SPEAKER_03  The kind of like, in character, as yourself thing.
+3704.58 3707.58 SPEAKER_03  She uses a real accent, which is charming.
+3707.58 3714.58 SPEAKER_02  Yeah, there's a moment when they're giving her Julia Roberts facts, like your middle name is this, and at one point Don Cheadle says, you like croquet?
+3714.58 3719.58 SPEAKER_02  But cause he's got a fucked accent, I had to listen to it like five times, and it sounds like he says, you like cocaine?
+3719.58 3724.58 SPEAKER_02  It's just like, wow, Julia Roberts really does not mind laughing at herself.
+3724.58 3727.58 SPEAKER_02  That's so cool of her.
+3727.58 3729.58 SPEAKER_03  She's so down to earth.
+3729.58 3730.58 SPEAKER_02  Yeah.
+3730.58 3732.58 SPEAKER_03  Shout out Bruce Willis.
+3732.58 3733.58 SPEAKER_03  Yeah, Bruce Willis is here.
+3733.58 3734.58 SPEAKER_02  Uncredited cameo.
+3734.58 3735.58 SPEAKER_03  Well, I guess, yeah.
+3735.58 3737.58 SPEAKER_02  He says as himself.
+3737.58 3738.58 SPEAKER_01  Yeah.
+3738.58 3741.58 SPEAKER_01  So they're like, listen, don't worry about it, alright?
+3741.58 3742.58 SPEAKER_01  You're Julia fucking Roberts.
+3742.58 3744.58 SPEAKER_01  This is not gonna be personal, alright?
+3744.58 3746.58 SPEAKER_01  No one is gonna actually know you here.
+3746.58 3754.58 SPEAKER_01  And then it turns out that like, real guy Bruce Willis was just in the lobby and saw her go past and was like, oh shit, that's my buddy.
+3754.58 3757.58 SPEAKER_01  And he just walks into the hotel room.
+3757.58 3760.58 SPEAKER_01  This is, I think this is the funniest part.
+3760.58 3767.58 SPEAKER_03  Yeah, the bit that I really like with Bruce Willis is everybody explaining the plot of the movie The Sixth Sense to him.
+3767.58 3768.58 SPEAKER_03  Yeah, that's really funny.
+3768.58 3770.58 SPEAKER_03  And he was like, oh yeah, I figured it out.
+3770.58 3772.58 SPEAKER_03  You were a fucking ghost the whole time.
+3772.58 3773.58 SPEAKER_03  I knew.
+3773.58 3774.58 SPEAKER_03  I knew.
+3774.58 3775.58 SPEAKER_02  It's just really good.
+3775.58 3776.58 SPEAKER_02  He's just like, damn, everyone's so smart.
+3776.58 3778.58 SPEAKER_02  I didn't think it was that obvious.
+3778.58 3782.58 SPEAKER_01  But he walks in and greets her like a friend and she's like, ah, fuck!
+3782.58 3784.58 SPEAKER_01  It's fucking Bruce Willis!
+3784.58 3787.58 SPEAKER_01  So she has to like, pretend to be Julia Roberts.
+3787.58 3790.58 SPEAKER_01  This is actually a pretty solid, solid joke here.
+3790.58 3791.58 SPEAKER_01  It goes on a bit too long, but like...
+3791.58 3794.58 SPEAKER_02  But he even calls her home to be like, oh, is your husband home?
+3794.58 3795.58 SPEAKER_02  I want to talk to him.
+3795.58 3801.58 SPEAKER_02  He calls him and like, the real, like in-universe, real Julia Roberts picks up and then fake Julia Roberts has to talk to her.
+3801.58 3802.58 SPEAKER_02  Like, it's really funny.
+3802.58 3803.58 SPEAKER_02  It's funny.
+3803.58 3804.58 SPEAKER_02  It's funny.
+3804.58 3805.58 SPEAKER_02  Saul is back.
+3805.58 3809.58 SPEAKER_02  Saul comes back to pretend to be her doctor because he's like, I want to be in the movie again.
+3809.58 3810.58 SPEAKER_03  Yeah.
+3810.58 3816.58 SPEAKER_03  Meanwhile, we see occasionally the guys in Italian prison and Italian prison looks really nice.
+3816.58 3818.58 SPEAKER_03  Like, it's just kind of like stylish.
+3818.58 3819.58 SPEAKER_03  Yeah.
+3819.58 3820.58 SPEAKER_03  Like red walls.
+3820.58 3822.58 SPEAKER_03  It's like kind of medieval.
+3822.58 3827.58 SPEAKER_02  If I'm in prison, the prison cell being stylish isn't high on my list of priorities, but it is on the list.
+3827.58 3828.58 SPEAKER_02  Yeah.
+3828.58 3829.58 SPEAKER_03  It helps.
+3829.58 3830.58 SPEAKER_03  I mean, yeah.
+3830.58 3836.58 SPEAKER_03  It's like coming out of Italian prison with like a really stylish shopping bag that just says, Il Prisone or whatever on the side of it.
+3836.58 3838.58 SPEAKER_03  I'm like, I'm just going to use this for like groceries to be honest.
+3838.58 3840.58 SPEAKER_02  The jumpsuits are like really nicely fitted.
+3840.58 3841.58 SPEAKER_02  Yeah.
+3841.58 3845.58 SPEAKER_01  From an order of disappearance where they're like, prisons in Norway are so cool.
+3845.58 3846.58 SPEAKER_02  Yeah.
+3846.58 3849.58 SPEAKER_02  Prisons in Italy, the food is amazing.
+3849.58 3855.58 SPEAKER_03  We've got to end this podcast in the next half an hour or we're all going to Italian prison.
+3855.58 3859.58 SPEAKER_02  They have to do the heist because they're running up against the clock here.
+3859.58 3861.58 SPEAKER_02  And so they have to go and do the heist.
+3861.58 3864.58 SPEAKER_02  And Bruce Willis is just there himself.
+3864.58 3865.58 SPEAKER_01  Yeah.
+3865.58 3868.58 SPEAKER_01  This is the single most suspicious thing imaginable.
+3868.58 3869.58 SPEAKER_01  Yeah.
+3869.58 3875.58 SPEAKER_01  Because they're like, all right, we're going to sprint Julia Roberts to the Fabergé egg and sprint her out of the museum.
+3875.58 3881.58 SPEAKER_01  The whole time, Catherine Zeta-Jones is just watching on security camera like, I know you fuckers are stealing that egg.
+3881.58 3887.58 SPEAKER_02  They have the picture taken next to the egg and Julia Roberts like pretends to swoon, faking some pregnancy contractions.
+3887.58 3890.58 SPEAKER_02  And so they make the swap and put the holographic egg in its place.
+3890.58 3894.58 SPEAKER_02  And they go to leave and Catherine Zeta-Jones is just like, fuck off, you go to jail.
+3894.58 3895.58 SPEAKER_02  All of you go to jail, bro.
+3895.58 3896.58 SPEAKER_03  Nice try.
+3896.58 3897.58 SPEAKER_03  You all go to prison.
+3897.58 3898.58 SPEAKER_03  Yeah.
+3898.58 3908.58 SPEAKER_03  And they put Julia Roberts in vaguely predatory lesbian Italian prison, which you already kind of had me sold on Italian prison.
+3908.58 3909.58 SPEAKER_03  Yeah.
+3909.58 3910.58 SPEAKER_03  It wasn't like...
+3910.58 3912.58 SPEAKER_02  How do I get sent there?
+3912.58 3913.58 SPEAKER_02  That sounds cool.
+3913.58 3914.58 SPEAKER_03  Yeah.
+3914.58 3915.58 SPEAKER_02  I'm also asking this.
+3915.58 3917.58 SPEAKER_02  I'm bringing an energy to this podcast.
+3917.58 3918.58 SPEAKER_02  Yeah.
+3918.58 3920.58 SPEAKER_01  I don't want to go to prison.
+3920.58 3922.58 SPEAKER_01  I just want to put that out there.
+3922.58 3923.58 SPEAKER_01  My two co-hosts seem to want to.
+3923.58 3924.58 SPEAKER_01  Italian prison.
+3924.58 3925.58 SPEAKER_01  I would like to not to.
+3925.58 3928.58 SPEAKER_02  You wouldn't if your horny crime girlfriend, Catherine Zeta-Jones, put you in lesbian jail?
+3928.58 3929.58 SPEAKER_02  That sounds great.
+3929.58 3930.58 SPEAKER_02  Il prison.
+3930.58 3931.58 SPEAKER_03  Okay, well, all right.
+3931.58 3932.58 SPEAKER_03  You're selling me on it.
+3932.58 3933.58 SPEAKER_02  Carcel, whatever.
+3933.58 3934.58 SPEAKER_02  Italian prison.
+3934.58 3935.58 SPEAKER_03  Italian prison.
+3935.58 3938.58 SPEAKER_03  Actually, I saw a documentary that was filmed in an Italian prison.
+3938.58 3944.58 SPEAKER_03  It wasn't very sexy, but it was an adaptation of Julius Caesar put on by the inmates of an Italian prison.
+3944.58 3945.58 SPEAKER_03  It was really fucking good.
+3945.58 3946.58 SPEAKER_03  I can't recall the name of it.
+3946.58 3949.58 SPEAKER_02  I think my favorite production of Julius Caesar is the one where you were Brutus then.
+3949.58 3950.58 SPEAKER_02  Aw.
+3950.58 3951.58 SPEAKER_03  Thank you.
+3951.58 3952.58 SPEAKER_03  Just genuinely touching.
+3952.58 3953.58 SPEAKER_03  Thank you.
+3953.58 3954.58 SPEAKER_02  It was good.
+3954.58 3955.58 SPEAKER_03  You were good as Brutus.
+3955.58 3956.58 SPEAKER_03  Anyway.
+3956.58 3967.58 SPEAKER_03  So the feds roll in a convoy of black Land Rovers, and they pull Linus Matt Damon out, because they're like, this guy looks like a pussy.
+3967.58 3969.58 SPEAKER_03  This guy's gonna break first.
+3969.58 3977.58 SPEAKER_03  In 2004, which lends this a certain valence, they go, we will fucking torture you if you
+3977.58 3979.58 SPEAKER_01  don't make a deal. Yeah.
+3979.58 3983.58 SPEAKER_01  You have been missold how fine Italian prison is.
+3983.58 3985.58 SPEAKER_01  We're actually gonna put you in the bad Italian prison.
+3985.58 3988.58 SPEAKER_02  We're gonna put you in American prison because we're gonna extradite you.
+3988.58 3990.58 SPEAKER_02  We're gonna put you in American prison, which is very bad.
+3990.58 3991.58 SPEAKER_02  That's bad, yeah.
+3991.58 3992.58 SPEAKER_03  Yeah.
+3992.58 3993.58 SPEAKER_03  They don't have stylish cells.
+3993.58 3996.58 SPEAKER_03  We're gonna do American prison to you.
+3996.58 3999.58 SPEAKER_03  This woman isn't even intended to be hot, and yet.
+3999.58 4000.58 SPEAKER_02  Yeah.
+4000.58 4002.58 SPEAKER_03  And so he folds.
+4002.58 4003.58 SPEAKER_03  Of course he folds.
+4003.58 4004.58 SPEAKER_03  Yeah.
+4004.58 4013.58 SPEAKER_03  And we get 11 consecutive zoom shots of the Ocean's Eleven getting sort of like, extradited out of the building.
+4013.58 4014.58 SPEAKER_03  Extradited.
+4014.58 4020.58 SPEAKER_03  And Catherine Zeta-Jones being in trouble with her boss, who has found out that she has forged his signature.
+4020.58 4021.58 SPEAKER_03  Yeah.
+4021.58 4029.58 SPEAKER_02  So they're all in the convoy, back on the way to the airport, sad times, they're all gonna be extradited back to American prison, which is not sexy or fun.
+4029.58 4032.58 SPEAKER_02  I feel like Italian prison probably isn't either, in real life.
+4032.58 4033.58 SPEAKER_01  Definitely not.
+4033.58 4035.58 SPEAKER_01  They got Georgie and Maloney in charge of that fucking country.
+4035.58 4036.58 SPEAKER_01  Yeah, God.
+4036.58 4038.58 SPEAKER_02  Good friends with Keir Starmer though, that's nice.
+4038.58 4043.58 SPEAKER_02  But in the car, the section chief just like, gives Matt Damon the handcuff key and is just like, you okay?
+4043.58 4044.58 SPEAKER_02  Do you want anything?
+4044.58 4045.58 SPEAKER_02  Do you want a juice box?
+4045.58 4047.58 SPEAKER_02  Like, and he's embarrassed because it's his fucking mum, isn't it?
+4047.58 4048.58 SPEAKER_02  It's his fucking mum.
+4048.58 4049.58 SPEAKER_01  It's mum ex machina.
+4049.58 4050.58 SPEAKER_01  Yeah.
+4050.58 4053.58 SPEAKER_01  No way that you could have known about this or predicted it.
+4053.58 4055.58 SPEAKER_01  You will never guess how the movie goes.
+4055.58 4056.58 SPEAKER_01  Fuck you.
+4056.58 4057.58 SPEAKER_03  Fuck you.
+4057.58 4073.58 SPEAKER_03  It's a really fun kind of romance scene with Julia Roberts and George Clooney in the back of their car, and then we have like Brad Pitt's car peels off from the others and takes an exit at the last second, doing a three-car Monty with cars.
+4073.58 4074.58 SPEAKER_03  A three-car Monty.
+4074.58 4075.58 SPEAKER_03  Three-car Monty.
+4075.58 4079.58 SPEAKER_03  Or as Don Cheadle calls it, a three-automobile Montgomery.
+4079.58 4080.58 SPEAKER_03  And...
+4080.58 4085.58 SPEAKER_02  Shout out to you Montgomery if you're listening.
+4085.58 4091.58 SPEAKER_03  Don Cheadle in this movie calls cars motorized rollinghams.
+4091.58 4092.58 SPEAKER_03  Like...
+4092.58 4094.58 None  Whole fucking time.
+4094.58 4095.58 SPEAKER_03  Oh my god.
+4095.58 4096.58 SPEAKER_01  It's not Mr. Burns.
+4096.58 4097.58 SPEAKER_01  Yeah.
+4097.58 4100.58 SPEAKER_01  They go to a beautiful house.
+4100.58 4103.58 SPEAKER_02  No, they go to a beautiful airport, first of all.
+4103.58 4104.58 SPEAKER_01  Oh.
+4104.58 4105.58 SPEAKER_01  To be honest, I stopped taking notes at a certain point.
+4105.58 4106.58 SPEAKER_01  I'm gonna need help her.
+4106.58 4110.58 SPEAKER_02  Catherine Zeta-Jones gets out and then her car drives away so it's just her and Brad Pitt and she's like, what's going on?
+4110.58 4115.58 SPEAKER_02  And he's like, it's time for the worst and most contrived bit of the film because your dad's fucking alive.
+4115.58 4116.58 SPEAKER_02  Yeah.
+4116.58 4117.58 SPEAKER_01  Tracking him down.
+4117.58 4128.58 SPEAKER_02  Your crime dad who you thought was dead years ago, and that's why you became a cop, because he was crime dad and disappeared and you wanted to find him secretly because all women are secretly just about men.
+4128.58 4132.58 SPEAKER_02  He's alive and we know where he is, so come with us and you're in the life now.
+4132.58 4133.58 SPEAKER_02  You're a crim now.
+4133.58 4134.58 SPEAKER_02  Off we go.
+4134.58 4135.58 SPEAKER_03  Mm-hmm.
+4135.58 4136.58 SPEAKER_03  Yeah.
+4136.58 4137.58 SPEAKER_03  And she's like on board with this.
+4137.58 4138.58 SPEAKER_03  This is a bad deal.
+4138.58 4139.58 SPEAKER_02  Don't take that deal.
+4139.58 4146.58 SPEAKER_02  Now you're an accessory to like several million dollars worth of theft versus you, what, you go back and they found out you forged a form?
+4146.58 4148.58 SPEAKER_02  That's an administrative, that's like a disciplinary issue.
+4148.58 4149.58 SPEAKER_02  You're a fucking cop.
+4149.58 4150.58 SPEAKER_02  They're not gonna punish you.
+4150.58 4153.58 SPEAKER_02  You could shoot someone in broad daylight in the street and they wouldn't give a shit.
+4153.58 4154.58 SPEAKER_02  Whatever.
+4154.58 4162.58 SPEAKER_03  So Bernie Mac, meanwhile, gets busted out of Amsterdam prison by the big, like, tattooed goatee biker guy.
+4162.58 4168.58 SPEAKER_03  The blowjo, the third blowjo brother from Ocean's Eleven, to which I write down, average Amsterdam lawyer.
+4168.58 4169.58 SPEAKER_03  Yeah.
+4169.58 4171.58 SPEAKER_02  Like, Bernie Mac, welcome back to the film, you did nothing.
+4171.58 4172.58 SPEAKER_02  You did not contribute to the height.
+4172.58 4173.58 SPEAKER_02  Yeah, yeah.
+4173.58 4175.58 SPEAKER_03  You kind of checked out for most of it, to be honest.
+4175.58 4176.58 SPEAKER_03  Much like me.
+4176.58 4177.58 SPEAKER_03  Got paid though.
+4177.58 4178.58 SPEAKER_03  That's true.
+4178.58 4179.58 SPEAKER_03  Much like me.
+4179.58 4184.58 SPEAKER_02  The Night Fox comes home to his beautiful villa on the shores of Lake Como.
+4184.58 4185.58 SPEAKER_02  It's fantastic.
+4185.58 4186.58 SPEAKER_03  Gorgeous villa.
+4186.58 4187.58 SPEAKER_02  Gorgeous house on the shores of Lake Como.
+4187.58 4188.58 SPEAKER_03  Incredible house.
+4188.58 4192.58 SPEAKER_02  With the egg, which he's of course stolen, he's very, very pleased with himself.
+4192.58 4193.58 SPEAKER_03  He's like...
+4193.58 4199.58 SPEAKER_02  George Clooney and Julia Roberts are on the veranda, and he's like, how are you here and not imprisoned?
+4199.58 4202.58 SPEAKER_03  They're wearing what rich people actually wear day to day.
+4202.58 4211.58 SPEAKER_03  Like, George Clooney is wearing the rich people luxury polo shirt that rich people wear all the time.
+4211.58 4216.58 SPEAKER_03  Julia Roberts is wearing a really nice, expensive t-shirt.
+4216.58 4219.58 SPEAKER_03  And they look very at home in this location, which is fun.
+4219.58 4228.58 SPEAKER_02  Which is, there's a reason for that, which is that this beautiful villa on the shores of Lake Como is just George Clooney's actual house.
+4228.58 4231.58 SPEAKER_02  That he bought in the early 2000s.
+4231.58 4237.58 SPEAKER_02  George Clooney owns several villas on the shores of Lake Como and actually like popularized it and made it as ritzy as it is now.
+4237.58 4239.58 SPEAKER_02  But he just owns this house.
+4239.58 4240.58 SPEAKER_02  He didn't even leave his house.
+4240.58 4243.58 SPEAKER_02  He didn't even stand up to film this movie.
+4243.58 4245.58 SPEAKER_01  He's wearing his own clothes.
+4245.58 4248.58 SPEAKER_01  And he filmed this by going downstairs and sitting on his veranda.
+4248.58 4250.58 SPEAKER_01  Work from home.
+4250.58 4251.58 SPEAKER_03  Yeah.
+4251.58 4254.58 SPEAKER_02  Like, yeah, my man was working from home well before.
+4254.58 4255.58 SPEAKER_02  He just owns this house.
+4255.58 4257.58 SPEAKER_02  Fuck you, man.
+4257.58 4258.58 SPEAKER_02  Yeah.
+4258.58 4259.58 SPEAKER_02  Yeah.
+4259.58 4267.58 SPEAKER_03  Just like my life like a movie in the sense that I am making a movie with as little disruption on my life as possible.
+4267.58 4271.58 SPEAKER_02  But George Clooney is living the best possible life anyone's ever lived on planet Earth.
+4271.58 4276.58 SPEAKER_02  And that was this before he became a billionaire, which he is now off the back of his tequila business.
+4276.58 4278.58 SPEAKER_02  God knows how many Lake Como properties he owns now.
+4278.58 4280.58 SPEAKER_02  But like, no wonder he's so fucking nice.
+4280.58 4281.58 SPEAKER_01  He's got the hole outside.
+4281.58 4282.58 SPEAKER_01  He's rigged it completely.
+4282.58 4283.58 SPEAKER_01  Yeah.
+4283.58 4284.58 SPEAKER_02  I looked this up.
+4284.58 4287.58 SPEAKER_02  He's like on the board of the Lake Como like heritage association.
+4287.58 4288.58 SPEAKER_02  Oh my fucking god.
+4288.58 4292.58 SPEAKER_02  He's part of one of the people who decides who gets to like buy a house on Lake Como and what they get to do with it.
+4292.58 4295.58 SPEAKER_02  Like he's Mr. Lake Como now.
+4295.58 4301.58 SPEAKER_01  Rich people get to just like gin up feudal kingdoms anywhere they want off of like not a lot of money.
+4301.58 4312.58 SPEAKER_03  I wish that was a problem I could have in my life to be like, oh, I hope George Clooney lets me buy a house on Lake Como instead of one of the shitter lakes in Italy.
+4312.58 4313.58 SPEAKER_01  Yeah.
+4313.58 4317.58 SPEAKER_01  George Clooney's told me I have to go buy a house on like a dog shit lake.
+4317.58 4320.58 SPEAKER_03  I've been exiled to a more equitable lagoon.
+4320.58 4321.58 SPEAKER_03  Yeah.
+4322.58 4325.58 SPEAKER_01  That's the, yeah, that's the less equitable lagoon is Lake Como.
+4325.58 4330.58 SPEAKER_02  George Clooney, if you're listening, which I know you are, please like, can you speed up our application?
+4330.58 4331.58 SPEAKER_02  Yeah.
+4331.58 4336.58 SPEAKER_01  The KJB evil manor on Lake Como that we've been trying to get.
+4336.58 4337.58 SPEAKER_03  The Hype House on Lake Como.
+4337.58 4341.58 SPEAKER_03  We've been trying to go in on the house from the beginning of Quantum of Solace.
+4341.58 4342.58 SPEAKER_03  Yeah.
+4342.58 4343.58 SPEAKER_03  Just because we think it would be funny.
+4343.58 4346.58 SPEAKER_02  To be fair, that's probably George Clooney's house too.
+4346.58 4350.58 SPEAKER_02  All of these fucking houses.
+4350.58 4354.58 SPEAKER_01  In universe, right, what happens is the Night Fox is like...
+4354.58 4356.58 SPEAKER_01  The Night Fox, whose house it is in the movie.
+4356.58 4357.58 SPEAKER_03  Yeah.
+4357.58 4362.58 SPEAKER_03  You have lost, I have clearly stolen the thing before you.
+4362.58 4364.58 SPEAKER_01  Yeah, Mundu, you're a big bitch.
+4364.58 4367.58 SPEAKER_01  Please tell me that I'm the best thief ever.
+4367.58 4369.58 SPEAKER_01  And then I'll kill you.
+4369.58 4370.58 SPEAKER_01  Yeah.
+4370.58 4376.58 SPEAKER_01  And fucking Frank Ocean and his wife Julia Roberts are like, sure man, whatever, yeah, you're fine at this.
+4376.58 4380.58 SPEAKER_01  Just tell us how you did it, and then we'll admit you're the best.
+4380.58 4381.58 SPEAKER_01  Yeah.
+4381.58 4383.58 SPEAKER_02  He basically just did it by being really good.
+4383.58 4386.58 SPEAKER_02  Yeah, he just went in and just stole it, is how he did it.
+4386.58 4391.58 SPEAKER_03  He climbed in while the two brothers were slap fighting each other and calling each other the arsler.
+4391.58 4392.58 SPEAKER_03  Yeah.
+4392.58 4397.58 SPEAKER_03  And then he capoeirered his way past the laser beams like Catherine Zeta-Jones in Entrapment.
+4397.58 4399.58 SPEAKER_02  He capoeirered his way past the lasers.
+4399.58 4400.58 SPEAKER_02  Aw, adorable.
+4400.58 4410.58 SPEAKER_01  But unlike Catherine Zeta-Jones in Entrapment, this is a deeply, deeply unsatisfying scene because all the lasers are just added in post and this is just the guy doing capoeirror on a floor.
+4410.58 4411.58 SPEAKER_01  Yeah.
+4411.58 4414.58 SPEAKER_01  So it's just, there's no real sense of threat to it at all.
+4414.58 4417.58 SPEAKER_02  Yeah, the first time you see it, it's like, oh wow, that's cool.
+4417.58 4421.58 SPEAKER_02  And then the second time you see it, you're just like, oh wait, they just put those in in post.
+4421.58 4427.58 SPEAKER_01  Yeah, they just sort of had him do things and then added them afterwards so that they were just zooping past him.
+4427.58 4429.58 SPEAKER_01  Also not shot super good.
+4429.58 4430.58 SPEAKER_03  Whatever.
+4430.58 4438.58 SPEAKER_03  The thing I like about this, and a real problem with the heist movie as a genre is you kind of get the sense of when you've been outwitted.
+4438.58 4442.58 SPEAKER_03  And this would be happening to me if I lived in a heist movie all the time.
+4442.58 4445.58 SPEAKER_03  They don't tell him that like, oh we fucked you over.
+4445.58 4447.58 SPEAKER_03  They just wait and he goes, wait a second.
+4447.58 4448.58 SPEAKER_03  Wait a second.
+4448.58 4449.58 SPEAKER_03  You got me.
+4449.58 4450.58 SPEAKER_03  You got me.
+4450.58 4451.58 SPEAKER_03  How did you get me?
+4451.58 4453.58 SPEAKER_03  How did they get me?
+4453.58 4454.58 SPEAKER_03  Uh huh.
+4454.58 4459.58 SPEAKER_03  And the answer is none of the last hour of the movie counted or made sense because-
+4459.58 4460.58 SPEAKER_01  Yeah, none of that mattered.
+4460.58 4470.58 SPEAKER_03  They got a phone call from fucking Pepe Le Pew, the best thief in the world, the biggest dicked man in Europe. And he's like, I feel badly about the thing so I'm just gonna give you a cheat code.
+4470.58 4477.58 SPEAKER_03  The Fabergé egg is just gonna be in like a Belstaff bag on a train, like undercover, going to things.
+4477.58 4481.58 SPEAKER_03  And that's why they were at the train station, is because they did a little train heist which isn't really a heist.
+4481.58 4482.58 SPEAKER_03  Yeah.
+4482.58 4486.58 SPEAKER_01  They stole that fucking egg before they ever even spoke to the night box.
+4486.58 4492.58 SPEAKER_01  The entire second half of the second act and the whole third act of this movie doesn't fucking matter.
+4492.58 4493.58 SPEAKER_01  They did that as a laugh.
+4493.58 4494.58 SPEAKER_01  Yeah.
+4494.58 4499.58 SPEAKER_01  The whole thing they spent on that, all of the shit they sent to Susie Izzard to create a perfect like replica of it holographically.
+4499.58 4500.58 SPEAKER_01  Waste of money.
+4500.58 4501.58 SPEAKER_01  Yeah.
+4501.58 4502.58 SPEAKER_01  Fuck you.
+4502.58 4503.58 SPEAKER_01  Fuck you, listener.
+4503.58 4504.58 SPEAKER_01  Huge waste of time.
+4504.58 4505.58 SPEAKER_01  Were you paying attention?
+4505.58 4506.58 SPEAKER_01  Were you paying close attention?
+4506.58 4507.58 SPEAKER_01  Fucking shouldn't have.
+4507.58 4508.58 SPEAKER_01  Fucking wasted your time, didn't I?
+4508.58 4509.58 SPEAKER_03  Waste of time.
+4509.58 4510.58 SPEAKER_03  Annoying.
+4510.58 4511.58 SPEAKER_03  Just upsetting to me.
+4511.58 4513.58 SPEAKER_03  They had to go to Italian prison for a bit.
+4513.58 4514.58 SPEAKER_03  I guess this is the other thing.
+4514.58 4515.58 SPEAKER_03  They got arrested.
+4515.58 4518.58 SPEAKER_03  They had to get Linus' mum to bail them out for no reason.
+4518.58 4519.58 SPEAKER_03  You guys are not good thieves.
+4519.58 4520.58 SPEAKER_03  Pretty fucking risky too.
+4520.58 4533.58 SPEAKER_03  This whole plot was like a slap fight between two old French men using eleven Americans as a kind of like implement in a kind of poly beef.
+4533.58 4538.58 SPEAKER_02  Pretty risky gambit too, because like what if the Italian authorities said like, no, we're not going to extradite you.
+4538.58 4541.58 SPEAKER_02  Or what if they'd noticed that Linus' mum's credentials are fake?
+4541.58 4542.58 SPEAKER_02  I mean, this is a huge risk.
+4542.58 4546.58 SPEAKER_03  You have to be in a production of Julius Caesar in Rome prison, I guess.
+4546.58 4548.58 SPEAKER_01  What if they'd put someone else on the case?
+4548.58 4549.58 SPEAKER_01  Yeah.
+4549.58 4552.58 SPEAKER_02  Also like, fucking sky's- why not just say the prison was fake too?
+4552.58 4553.58 SPEAKER_02  Fucking sky's the limit.
+4553.58 4555.58 SPEAKER_02  Like those weren't real prison guards.
+4555.58 4556.58 SPEAKER_02  It was all just a set.
+4556.58 4557.58 SPEAKER_03  Like...
+4557.58 4561.58 SPEAKER_03  Does Frank Ocean dream the heist or does the heist dream Frank Ocean?
+4561.58 4562.58 SPEAKER_03  Yeah.
+4562.58 4567.58 SPEAKER_02  You know, sky's the limit when you can just, just like click undo like the last hour of
+4567.58 4570.58 SPEAKER_01  the movie, but whatever. It's like, obviously all of it was fake, you made it up.
+4570.58 4576.58 SPEAKER_01  But like, but my favourite aspect to this is Julia Roberts is in this scene doing the smug like, I outsmarted you, didn't I?
+4576.58 4582.58 SPEAKER_01  A woman whose entire intersection with this plan was done in blind panic the whole time she was present.
+4582.58 4585.58 SPEAKER_01  And then she just felt like, fuck it, I outsmarted you, didn't I?
+4585.58 4586.58 SPEAKER_01  Yeah.
+4586.58 4587.58 SPEAKER_01  I was like, I'm not doing fucking anything.
+4587.58 4588.58 SPEAKER_02  Yeah.
+4588.58 4589.58 SPEAKER_02  So he stole a replica.
+4589.58 4593.58 SPEAKER_03  You don't even have the like sensation of being fooled pleasantly.
+4593.58 4594.58 SPEAKER_03  You know?
+4594.58 4603.58 SPEAKER_03  It's like, like in three card Montgomery, you just have, you just have the sensation of being like, fooled unpleasantly by someone who hasn't told you a crucial detail.
+4603.58 4604.58 SPEAKER_03  Yeah.
+4604.58 4605.58 SPEAKER_03  It's just annoying is what it is.
+4605.58 4606.58 SPEAKER_03  They just cheated.
+4606.58 4607.58 SPEAKER_02  Anyway.
+4607.58 4614.58 SPEAKER_02  So this, this was their end of the deal because like, in exchange for this, they have reunited Lamarck with his daughter, Catherine Zeta Jones.
+4614.58 4621.58 SPEAKER_03  Yeah, Lamarck, Lamarck sounding like French Michael Gambon, Michel Jambon.
+4621.58 4623.58 SPEAKER_02  Did you recognize this man's voice?
+4623.58 4625.58 SPEAKER_02  Did you recognize this man's voice?
+4625.58 4628.58 SPEAKER_03  Yeah, it's fucking Albert Finney from Skyfall.
+4628.58 4629.58 SPEAKER_03  Will you commit to this program?
+4629.58 4630.58 SPEAKER_02  It's him!
+4630.58 4631.58 SPEAKER_02  It's him!
+4631.58 4634.58 SPEAKER_02  It's Mr. Will you commit to this program?
+4634.58 4635.58 SPEAKER_02  He's back!
+4635.58 4636.58 SPEAKER_01  Will you commit to this program?
+4636.58 4638.58 SPEAKER_01  Welcome back, Albert Finney.
+4638.58 4639.58 SPEAKER_01  Will you commit to this program?
+4639.58 4641.58 SPEAKER_01  Will you commit to this program?
+4641.58 4642.58 SPEAKER_01  We love it.
+4642.58 4643.58 SPEAKER_02  We love it.
+4643.58 4646.58 SPEAKER_01  Heisting a fucking hour of my life.
+4646.58 4647.58 SPEAKER_03  Yeah.
+4647.58 4651.58 SPEAKER_03  And instantly, she gives up on being a cop.
+4651.58 4659.58 SPEAKER_03  The thing which she seemed to really enjoy as a, like, sort of schemer for flirting with Brad Pitt and joins the like, found crime family.
+4659.58 4664.58 SPEAKER_02  Yeah, that relationship isn't gonna last because now you can't chase him around like threatening to arrest him, which was like the whole...
+4664.58 4665.58 SPEAKER_02  Yeah.
+4665.58 4668.58 SPEAKER_03  That was where the spark was, you know?
+4668.58 4669.58 SPEAKER_03  Yeah.
+4669.58 4670.58 SPEAKER_03  That was the spark.
+4670.58 4671.58 SPEAKER_03  You fucked it.
+4671.58 4675.58 SPEAKER_02  Now that's Devon said, like all those messages are still there and it's just weird now.
+4675.58 4676.58 SPEAKER_02  Yeah.
+4676.58 4677.58 SPEAKER_01  Yeah.
+4677.58 4679.58 SPEAKER_01  You just go back, you're scrolling up through the group chat like, oh.
+4679.58 4680.58 SPEAKER_01  Yeah.
+4680.58 4684.58 SPEAKER_02  People are gonna leave comments asking what it means, they're just gonna be like, eh, it doesn't matter.
+4684.58 4685.58 SPEAKER_03  Yeah, yeah.
+4685.58 4689.58 SPEAKER_03  I was just really like down really bad and I was just like, eh.
+4689.58 4699.58 SPEAKER_03  But so then, we got one last scene of them like, this is how it felt when like you and your like dipshit cousins got the like play poker set at Christmas.
+4699.58 4700.58 SPEAKER_03  Yeah.
+4700.58 4702.58 SPEAKER_03  Yeah, yeah, yeah.
+4702.58 4708.58 SPEAKER_02  Oh, Terry Benedict gets his money back by the way, but the Night Fox is scoping him out to steal shit from him.
+4708.58 4709.58 SPEAKER_02  Great.
+4709.58 4710.58 SPEAKER_03  Yeah.
+4710.58 4714.58 SPEAKER_03  And they hang out in the like found family poker game.
+4714.58 4715.58 SPEAKER_03  Yeah.
+4715.58 4717.58 SPEAKER_03  And Bernie Mac is there and they're like, who are you?
+4717.58 4718.58 SPEAKER_02  Were you in this movie?
+4718.58 4720.58 SPEAKER_02  And he's like, yeah, I was, I'm Bernie Mac.
+4720.58 4721.58 SPEAKER_02  And they're like, what?
+4721.58 4725.58 SPEAKER_02  Would have been funnier if in that scene at the end they're just going, oh shit, we have Bernie Mac in prison.
+4725.58 4726.58 SPEAKER_02  Oh, fuck!
+4726.58 4728.58 SPEAKER_02  It just like cuts back to him just in prison like, hmm.
+4728.58 4731.58 SPEAKER_02  After credits, secrets of him in jail at Amsterdam.
+4731.58 4732.58 SPEAKER_02  Home alone in Dutch prison.
+4732.58 4737.58 SPEAKER_01  Yeah, whole credits is just over him sat in prison, just like twiddling his fucking thumb.
+4737.58 4741.58 SPEAKER_03  He's the villain of the third film, he breaks out and then gets his revenge.
+4741.58 4742.58 SPEAKER_03  Pretty good.
+4742.58 4744.58 SPEAKER_03  That's a better ending, yes.
+4744.58 4747.58 SPEAKER_03  What it actually ends with is the card of the Joker.
+4747.58 4748.58 SPEAKER_03  Great.
+4748.58 4760.58 SPEAKER_01  This movie, um, received mixed reviews from critics I'm seeing, but it also grossed $362.9 million worldwide, becoming the 10th highest grossing film of 2004.
+4760.58 4763.58 SPEAKER_01  So they made another!
+4763.58 4764.58 SPEAKER_01  Wow!
+4764.58 4766.58 SPEAKER_03  You could just do anything.
+4766.58 4769.58 SPEAKER_03  You could just do whatever the fuck you wanted.
+4769.58 4770.58 SPEAKER_02  Yeah.
+4770.58 4771.58 SPEAKER_02  When was YouTube invented?
+4771.58 4772.58 SPEAKER_03  Like, 2005?
+4772.58 4774.58 SPEAKER_02  I should know this.
+4774.58 4775.58 SPEAKER_01  Yeah.
+4775.58 4776.58 SPEAKER_02  Hang on.
+4776.58 4777.58 SPEAKER_02  This is pre-YouTube, isn't it?
+4777.58 4780.58 SPEAKER_02  So this is before social media started consuming all of like low and medium budget content.
+4780.58 4782.58 SPEAKER_02  You really could just fucking make anything.
+4782.58 4783.58 SPEAKER_01  Honestly, yeah.
+4783.58 4784.58 SPEAKER_03  God.
+4784.58 4785.58 SPEAKER_02  Because no one has anything else to do.
+4785.58 4786.58 SPEAKER_03  It was a better time.
+4786.58 4787.58 SPEAKER_03  Much, much worse time.
+4787.58 4789.58 SPEAKER_03  We were born in the wrong time period.
+4789.58 4790.58 SPEAKER_03  We could be making this.
+4790.58 4794.58 SPEAKER_03  We could be administering who gets to fucking live in Lake Como.
+4794.58 4795.58 SPEAKER_03  You know?
+4795.58 4797.58 SPEAKER_03  I'd love to administer who gets to live in Lake Como.
+4797.58 4798.58 SPEAKER_03  What a podcast equivalent of this.
+4798.58 4799.58 SPEAKER_03  Excuse me, and no one else.
+4799.58 4801.58 SPEAKER_03  We gotta find a worse lake.
+4801.58 4808.58 SPEAKER_03  We could, like, decide who gets to live by the side of a big puddle in the road in England.
+4808.58 4809.58 SPEAKER_03  Yeah, absolutely.
+4809.58 4810.58 SPEAKER_01  The puddle that you have to drink from.
+4810.58 4811.58 SPEAKER_01  The puddle that you have to drink from.
+4811.58 4813.58 SPEAKER_01  On the heritage board of the puddle.
+4813.58 4814.58 SPEAKER_02  Yeah.
+4814.58 4815.58 SPEAKER_01  Some bits convergent.
+4815.58 4816.58 SPEAKER_01  Yeah.
+4816.58 4817.58 SPEAKER_01  Selling puddle-side houses.
+4817.58 4818.58 SPEAKER_02  What do we think of this movie?
+4818.58 4819.58 SPEAKER_01  Real bad.
+4819.58 4820.58 SPEAKER_01  Really bad fucking movie.
+4820.58 4821.58 SPEAKER_03  It was- it's not a movie.
+4821.58 4824.58 SPEAKER_03  It's an excuse to hang out disguised as a movie.
+4824.58 4825.58 SPEAKER_03  Much like this podcast.
+4825.58 4826.58 SPEAKER_03  It's annoying.
+4826.58 4829.58 SPEAKER_02  I've had more fun talking about it than I did watching it.
+4829.58 4830.58 SPEAKER_03  Certainly.
+4830.58 4831.58 SPEAKER_03  This is the thing.
+4831.58 4836.58 SPEAKER_03  Like, what they've done is they've figured out the same grift as us, and this is why we could have been administering Lake Como, right?
+4836.58 4844.58 SPEAKER_03  It's because we figured out that if you just kind of vaguely tie it to the notion of a movie, you can get paid to hang out with your friends.
+4844.58 4846.58 SPEAKER_03  And they figured that out too.
+4846.58 4851.58 SPEAKER_03  And they made exponentially more money off that shit than we did.
+4851.58 4852.58 SPEAKER_02  Yeah, that's true.
+4852.58 4853.58 SPEAKER_02  That's true.
+4853.58 4854.58 SPEAKER_03  I can't criticize it.
+4854.58 4855.58 SPEAKER_03  It's just us.
+4855.58 4857.58 SPEAKER_03  It's just us again.
+4857.58 4862.58 SPEAKER_03  But if like, there were 12 of us, and we all had like infinity money.
+4862.58 4863.58 SPEAKER_01  If there were 9 more of us.
+4863.58 4864.58 SPEAKER_01  If there were millions in play.
+4864.58 4865.58 SPEAKER_01  Yeah.
+4865.58 4866.58 SPEAKER_01  Fuck me.
+4866.58 4870.58 SPEAKER_01  I- The highest grossing movie of 2004 was Shrek 2.
+4870.58 4872.58 SPEAKER_02  So our conclusion to this is that we're jealous?
+4872.58 4873.58 SPEAKER_02  I guess we're haters.
+4873.58 4874.58 SPEAKER_02  Yeah, kind of.
+4874.58 4875.58 SPEAKER_02  We're jelly.
+4875.58 4876.58 SPEAKER_02  I fucking am.
+4876.58 4878.58 SPEAKER_02  We're wibbly wobbly jelly on a plate, and we're haters.
+4878.58 4879.58 SPEAKER_01  You know what?
+4879.58 4880.58 SPEAKER_01  I am a hater.
+4880.58 4881.58 SPEAKER_01  Fuck this movie.
+4881.58 4883.58 SPEAKER_01  Fuck- Fuck everyone who helped make this movie.
+4883.58 4884.58 SPEAKER_01  Fuck you, Steven Soderberg.
+4884.58 4885.58 SPEAKER_01  Fuck you, George Clooney.
+4885.58 4886.58 SPEAKER_01  You're tequila shit.
+4886.58 4889.58 SPEAKER_02  Please cast us in Oceans 14 or Oceans 9 or whatever you do next.
+4889.58 4891.58 SPEAKER_02  You've already had a trans woman in it!
+4891.58 4892.58 SPEAKER_02  You've already had one!
+4892.58 4899.58 SPEAKER_03  It's just like, back in the day, you could actually- You could just be friends with people, and you could be like, I want me and my friends to be in movie.
+4899.58 4901.58 SPEAKER_03  Call Steven fucking Soda Bread or whatever the fuck.
+4901.58 4902.58 SPEAKER_03  Yeah.
+4902.58 4910.58 SPEAKER_03  And then, as a consequence of that, not only do you not have to pay for any of the shit, they pay you hundreds of millions of dollars.
+4910.58 4914.58 SPEAKER_02  Whereas now, you can still do that, but you're doing it on YouTube for ad money.
+4914.58 4919.58 SPEAKER_02  And it's like, you're having fun, and you're doing like a fun day, having a great time being on Brandon Rogers' show.
+4919.58 4920.58 SPEAKER_02  Oh, gross.
+4920.58 4921.58 SPEAKER_02  And it's really fun.
+4921.58 4929.58 SPEAKER_02  But I'm like, hey, hey, hey, Brandon's a friend of mine, I had a great time on that show, like, cameoing on Class Acts, but like, I didn't get paid a hundred million dollars for it.
+4929.58 4934.58 SPEAKER_03  Yeah, Mr. Beast is crashing trucks into like, all the other lakes of Italy, and that's fine, I guess.
+4934.58 4935.58 SPEAKER_03  Yeah.
+4935.58 4941.58 SPEAKER_03  It probably isn't, but like, it's- Mr. Fucking Beast, I'm not talking about Mr. Beast on this fucking show.
+4941.58 4943.58 SPEAKER_03  In Italy, they call him Signior Beast.
+4943.58 4948.58 SPEAKER_02  I think Jimmy's a really nice guy, and- Oh, he's fucking evil!
+4948.58 4950.58 SPEAKER_01  He is a fucking evil man!
+4950.58 4955.58 SPEAKER_01  If you've seen the Beast games, this is a completely irredeemable piece of shit.
+4955.58 4956.58 SPEAKER_01  We are not doing this.
+4956.58 4958.58 SPEAKER_01  I've not seen the Beast games.
+4958.58 4965.58 SPEAKER_01  Well, check it out, and then feel your heart fall out of your fucking feet, and these poor bastards!
+4965.58 4966.58 SPEAKER_01  Beast philanthropy!
+4966.58 4968.58 SPEAKER_01  These poor pieces of shit!
+4968.58 4971.58 SPEAKER_01  Oh my god, fuck him, fuck him to pieces.
+4971.58 4972.58 SPEAKER_01  But regardless.
+4972.58 4975.58 SPEAKER_03  We have a science-based system on this podcast.
+4975.58 4977.58 SPEAKER_03  I'm not fucking doing this!
+4977.58 4984.58 SPEAKER_03  It's called- It's called the smartest- I can't save this on mic, I'm just turning it up, Mike.
+4984.58 4992.58 SPEAKER_03  It stands for smarm, cultural incensisivity, unprovoked violence and misogyny.
+4992.58 4997.58 SPEAKER_03  How much should Mr- How many years should Mr Beast receive an Italian prison?
+4997.58 5001.58 SPEAKER_01  I believe very firmly he should go to prison for whatever they can make stick.
+5001.58 5004.58 SPEAKER_01  Like, just fucking put him in and then figure it out afterwards.
+5004.58 5006.58 SPEAKER_01  He's gonna be president someday, man.
+5006.58 5007.58 SPEAKER_03  How smarmy is this movie?
+5007.58 5008.58 SPEAKER_03  Seven.
+5008.58 5009.58 SPEAKER_03  Eight.
+5009.58 5010.58 SPEAKER_03  I don't think there's an upper bound on this one.
+5010.58 5011.58 SPEAKER_03  I think it-
+5011.58 5015.58 SPEAKER_01  Again, it's part of the same genre as like, cannonball run, right? Yeah.
+5015.58 5020.58 SPEAKER_01  Where you get a person who is famous enough that they're like, fuck, maybe my friends have a new rat pack, you know?
+5020.58 5021.58 SPEAKER_01  Yeah.
+5021.58 5022.58 SPEAKER_01  Like, fuck off.
+5022.58 5025.58 SPEAKER_01  It's so smarmy and it's just a vehicle for like, me and my boys.
+5025.58 5027.58 SPEAKER_01  So like- It's real bad.
+5027.58 5028.58 SPEAKER_01  Nine.
+5028.58 5029.58 SPEAKER_01  Eight.
+5029.58 5030.58 SPEAKER_01  Nine.
+5030.58 5031.58 SPEAKER_01  Yeah, nine.
+5031.58 5032.58 SPEAKER_01  All right, let's do it.
+5032.58 5033.58 SPEAKER_01  Inflation.
+5033.58 5035.58 SPEAKER_01  Give it space to go up for the next one, but nine.
+5035.58 5037.58 SPEAKER_03  Cultural insensitivity.
+5037.58 5042.58 SPEAKER_03  It kind of- It glosses over everything so lightly that like, it doesn't have time.
+5042.58 5043.58 SPEAKER_03  Like, it's not interested.
+5043.58 5044.58 SPEAKER_03  Like-
+5044.58 5045.58 SPEAKER_00  It's just boring.
+5045.58 5047.58 SPEAKER_02  Yeah. It's just fucking boring.
+5047.58 5053.58 SPEAKER_02  I don't think it's insensitive against anyone except- Well, it does use the R slur a lot, but I mean like, racially it's not- Yeah.
+5053.58 5055.58 SPEAKER_02  There are like people of colour in the gang, they definitely take a back seat.
+5055.58 5056.58 SPEAKER_02  Mm-hmm.
+5056.58 5058.58 SPEAKER_02  Or literally a prison seat for most of it.
+5058.58 5059.58 SPEAKER_02  Yeah.
+5059.58 5060.58 SPEAKER_00  Oh, so true, yeah.
+5060.58 5061.58 SPEAKER_00  Yeah.
+5061.58 5064.58 SPEAKER_00  But anyway, it just has to sit in prison for the whole fucking movie.
+5064.58 5066.58 SPEAKER_03  It's- it's gonna be like, I don't know, like a two or something.
+5066.58 5067.58 SPEAKER_03  Two?
+5067.58 5068.58 SPEAKER_03  Like, it's pretty low.
+5068.58 5069.58 SPEAKER_03  Yeah.
+5069.58 5073.58 SPEAKER_03  You're not coming out of that movie thinking this was offensive, like culturally.
+5073.58 5074.58 SPEAKER_01  Yeah, it's crime-wise.
+5074.58 5078.58 SPEAKER_01  There's no actual repercussions for any of these things, so like, no one dies.
+5078.58 5079.58 SPEAKER_01  Unprovoked violence is way down.
+5079.58 5080.58 SPEAKER_01  Unprovoked violence is gonna be-
+5080.58 5081.58 SPEAKER_03  It's gotta be like a one.
+5081.58 5085.58 SPEAKER_02  Yeah, they don't knock out any guards or like- No.
+5085.58 5086.58 SPEAKER_03  Not at all.
+5086.58 5087.58 SPEAKER_02  They hurt anyone.
+5087.58 5092.58 SPEAKER_03  The security guard, our beloved security guard, completely unharmed in this one.
+5092.58 5095.58 SPEAKER_02  It's gonna be one, it's gonna save it.
+5095.58 5096.58 SPEAKER_02  Misogyny?
+5096.58 5098.58 SPEAKER_03  I mean, you can make an argument, right?
+5098.58 5099.58 SPEAKER_03  But like-
+5099.58 5100.58 SPEAKER_02  There's three women.
+5100.58 5105.58 SPEAKER_03  Yeah, Julia Roberts gets to do something, Catherine Zeta-Jones is doing something the whole way through.
+5105.58 5110.58 SPEAKER_03  It is doing the thing from the last movie of like, women are heist objects.
+5110.58 5111.58 SPEAKER_03  Mm-hmm.
+5111.58 5113.58 SPEAKER_03  It thinks it's romantic.
+5113.58 5117.58 SPEAKER_03  It's closer to being right this time, because it's mutual.
+5117.58 5118.58 SPEAKER_03  Mm-hmm.
+5118.58 5121.58 SPEAKER_03  But then it really undermines it at the last second with the whole daddy issues thing.
+5121.58 5124.58 SPEAKER_02  Yeah, women are still for and about men.
+5124.58 5126.58 SPEAKER_02  Like, even- Yeah.
+5126.58 5128.58 SPEAKER_02  Even Matt Damon's mum is like about his dad.
+5128.58 5129.58 SPEAKER_02  Yeah.
+5129.58 5130.58 SPEAKER_02  He's like a representative of his dad.
+5130.58 5131.58 SPEAKER_02  Yeah.
+5131.58 5133.58 SPEAKER_02  And the conversation they have is about his dad.
+5133.58 5136.58 SPEAKER_02  And it's like, can you have some women who are there for themselves?
+5136.58 5137.58 SPEAKER_02  I think that's-
+5137.58 5139.58 SPEAKER_03  The sexy secretary, Susie Izzard.
+5139.58 5140.58 SPEAKER_02  The sexy secretary, Susie Izzard.
+5140.58 5142.58 SPEAKER_03  2004 misogyny, right? Yeah.
+5142.58 5146.58 SPEAKER_03  We're gonna see Hollywood adapt in the course of this franchise.
+5146.58 5150.58 SPEAKER_03  We're gonna see the cynical reboot for girls, but we're not there yet.
+5150.58 5154.58 SPEAKER_03  And so on that basis, I think like a- I don't know, like a three or a four.
+5154.58 5162.58 SPEAKER_02  I wanna give it like four or five, because like, we're still all the women are four men, and I'm like, I wouldn't wanna play any of these roles except arguably Cathery Zia Jones.
+5162.58 5163.58 SPEAKER_00  Yeah, but even though there's four, I think.
+5163.58 5164.58 SPEAKER_00  Yeah.
+5164.58 5165.58 SPEAKER_02  I'll go four.
+5165.58 5166.58 SPEAKER_02  Yeah, I'll go four.
+5166.58 5167.58 SPEAKER_00  Four.
+5167.58 5168.58 SPEAKER_00  Four.
+5168.58 5169.58 SPEAKER_02  Okay.
+5169.58 5170.58 SPEAKER_02  Alright.
+5170.58 5172.58 SPEAKER_02  That gives us a total score of 16.
+5172.58 5173.58 SPEAKER_02  Pretty middle of the road, yeah.
+5173.58 5174.58 SPEAKER_01  Which is pretty darn good.
+5174.58 5176.58 SPEAKER_02  Not too bad, but again, it's because the movie doesn't do anything.
+5176.58 5177.58 SPEAKER_02  It's worse than the last one.
+5177.58 5178.58 SPEAKER_02  They're getting worse.
+5178.58 5182.58 SPEAKER_03  Yeah, it's a movie that kind of like, it passes the time for two hours.
+5182.58 5186.58 SPEAKER_03  Much like, again, it's the same grift that you figured it out.
+5186.58 5192.58 SPEAKER_03  It's like, oh, the content's mediocre, two hours of your life have gone past, you haven't even noticed, have you Fiona?
+5192.58 5194.58 SPEAKER_03  And that second hour, complete waste, wasn't it?
+5194.58 5195.58 SPEAKER_03  Yeah.
+5195.58 5199.58 SPEAKER_03  Didn't even need- you could've cut half this shit out, you know?
+5199.58 5204.58 SPEAKER_03  Like, it doesn't- it's just- it's content, it's content.
+5204.58 5206.58 SPEAKER_03  It's content before content was a thing.
+5206.58 5207.58 SPEAKER_02  It is.
+5207.58 5209.58 SPEAKER_02  It's $110 million content.
+5209.58 5210.58 SPEAKER_03  Yeah.
+5210.58 5211.58 SPEAKER_02  Slop.
+5211.58 5212.58 SPEAKER_03  It's slop, it's slop for hogs.
+5212.58 5216.58 SPEAKER_03  Normally you'd have to go to MrBeast to get that coffee.
+5216.58 5224.58 SPEAKER_03  This has been one of the, like, most nothing movies I've seen for this.
+5224.58 5232.58 SPEAKER_01  It was nice to catch up with the two of you, I've really missed you over the course of the holidays, but other than that, this has been nothing.
+5232.58 5233.58 None  The movie.
+5233.58 5251.58 SPEAKER_03  If you want, Anna, to feel more parasocially connected to us, then what you can do, Rachel, is to, like, subscribe to our Patreon, because we have a bonus episode coming out, and the next one is Escape from L.A.
+5251.58 5252.58 SPEAKER_03  Escape from L.A.
+5252.58 5254.58 SPEAKER_03  And we have a very good guest on for that episode.
+5254.58 5255.58 SPEAKER_02  We do.
+5255.58 5257.58 SPEAKER_03  I'm really excited for this one, actually.
+5257.58 5259.58 SPEAKER_02  It's such a good time with that fucking episode.
+5259.58 5262.58 SPEAKER_03  We're recording that one in, like, half an hour.
+5262.58 5263.58 SPEAKER_03  I can't wait.
+5263.58 5264.58 SPEAKER_01  Yeah.
+5264.58 5265.58 SPEAKER_01  Thank you so much.
+5265.58 5266.58 SPEAKER_01  Subscribe to the Patreon.
+5266.58 5267.58 SPEAKER_01  I never do.
+5267.58 5268.58 SPEAKER_01  Subscribe to the fucking Patreon.
+5268.58 5269.58 SPEAKER_01  It's like five pounds a month.
+5269.58 5273.58 SPEAKER_01  It's so much worse and expensive in Britain that this is getting a better deal every day.
+5273.58 5274.58 SPEAKER_01  That's just a real deal now.
+5274.58 5275.58 SPEAKER_01  Alright?
+5275.58 5276.58 SPEAKER_01  Yeah.
+5276.58 5277.58 SPEAKER_01  Yeah, yeah.
+5277.58 5278.58 SPEAKER_01  You get the whole backlog.
+5278.58 5279.58 SPEAKER_01  It's really good.
+5279.58 5280.58 SPEAKER_01  I think we make great stuff.
+5280.58 5281.58 SPEAKER_02  You should sign up, Ahmed.
+5281.58 5282.58 SPEAKER_02  Yeah.
+5282.58 5283.58 SPEAKER_01  Fucking sign up, man.
+5283.58 5287.58 SPEAKER_02  Hedging my bets and going with Muhammad.
+5287.58 5294.58 SPEAKER_03  Yeah, but thank you so much for listening, Mario, Luigi, there are others.
+5294.58 5295.58 SPEAKER_03  And we will see you, Luigi.
+5295.58 5296.58 SPEAKER_02  Hey, Luigi, if you're listening.
+5296.58 5297.58 SPEAKER_02  Thank you, Luigi.
+5297.58 5298.58 SPEAKER_03  Thanks for listening, bro.
+5298.58 5301.58 SPEAKER_03  Putting that shit on the jail iPod in American prison.
+5301.58 5302.58 SPEAKER_03  Alright.
+5302.58 5303.58 SPEAKER_03  Bye, everyone.
+5303.58 5304.58 SPEAKER_03  Bye.
+5304.58 5305.58 SPEAKER_03  Bye.
+5305.58 5315.58 SPEAKER_01  Thank you for listening to yet another episode of Kill James Bond.
+5315.58 5321.58 SPEAKER_01  Next episode on the free feed in two weeks' time is Ocean's 13.
+5321.58 5322.58 SPEAKER_01  Jeez.
+5322.58 5324.58 SPEAKER_01  Oh, my God.
+5324.58 5325.58 SPEAKER_01  I'll do it.
+5325.58 5326.58 SPEAKER_01  I'll do it.
+5326.58 5327.58 SPEAKER_01  I'll do it.
+5327.58 5328.58 SPEAKER_01  Just...
+5328.58 5329.58 SPEAKER_01  Just give me a second.
+5329.58 5330.58 SPEAKER_01  I'll do it.
+5330.58 5331.58 SPEAKER_01  Just give me a moment.
+5331.58 5344.58 SPEAKER_01  And if that is simply too long for you to wait, then next week on the bonus feed on patreon.com slash killjamesbond, all one word, we are talking about Escape from L.A.
+5344.58 5353.58 SPEAKER_01  with special guest Morgana Ignis from Dracula's Ex-Girlfriend, Hell of a Boss and Class Acts.
+5353.58 5359.58 SPEAKER_01  We just finished recording that before I recorded this jazz outro, so I can pretty safely say that it is an absolute banger.
+5359.58 5370.58 SPEAKER_01  And if that is not enough to swing you on the Patreon, last week's free episode was Star Wars Episode 2, Attack of the Clones, and that, now that is a banger.
+5370.58 5373.58 SPEAKER_01  That's worth a fiver, however you cut it.
+5373.58 5396.58 SPEAKER_01  And special thanks, of course, to our £15 and above patrons, and those are Gilded Dragon, Lo, Bjornsdotter, Candy Fox, Freya Aloysius, Gustavo Lira, Esbeth Hunt, Nick Boris, Jordan Gammy, Mike Berg, Hannah Oberhart, Naita Mori, George Roark, Drone Lover, Melody, Maura Gonzalez, Live Free or Cry, A Loyal, Fair Paying Hog.
+5396.58 5397.58 SPEAKER_01  Nice, good.
+5397.58 5419.58 SPEAKER_01  Labour Delenda Est, Trip Top, O Library Hitman, Max Gamayne Hard, Beef Crime, Jack Drummond, Kit Devine, Mia, I'm Mia, Lyndon Rose, Science Daddy, Stas, Anne Hedonia, Stay Soft or Die Hard, Jack Luvier, Gillian Owen, Forrest El Nouvelle, Molly Powerslide, Rumble is Blue, Blondage, that's funny.
+5419.58 5526.52 SPEAKER_01  Claire, Lenina, Scaehawk, Mae, Victoria Roth, The Project Project, Lady Houndstooth, Ignore all previous instructions and bring back Glamrock, Some Sort of Silly Canadian Creature, Annie, Ruby, AR16, Goin' on 17, Arthur Sex Crimes, Palpable Pip, CJ the Tiger, a trans robot, Whitney Wolverine, Goblin Queen, Olivia, Arts Modular, The Crimson Paw, Ash, Lame Ass Dork, Loretta Mazin', Lame Ass Dork, Loretta May Zurf, Committing Squid Heists, Joyous Oowoo, My Name Isn't Even James, Claire Baker, Saturdays Claire, Robert De Niro in Heat and I'm Not Apologising, Cayenne Belladonna is Stealing a Podcast, Hell, Rope Trick, Isopod Gal, Lady Ariane, Violet Cyber, Noblesse Oblahai, Wolscott, Clairvoyance, Bronan, Casquatch, John 2089, Julia, Colp, Clarification, Seng Chen, Alex, We have Frank Sinatra at home, Liz and Ash in Florida, Wolfie is normal, Al Irwin, Carriard, Philippa Smith, Finn Ross, Robert Greensmith, Loz Pycock, Goin' it slash it's for the bit slash bits, Miss Can- oh sorry, Katerina Pandora Hex, Abigail, Mistress Angela, Alus, Miss Identified Lemon is about 20% cooler, Talkative Tiger, Cassandra, Emily, Queen of Slavs, Lauren Baston, Charlotte with a D, Zoe Shepard, Josh Simmons, Maz and Terbsley, Shit and Die Alone. Kill James Bond is November, Abigail and Devon, our podcast art is by John DeLuca, our website is by Tom Allen and for some reason I do this out of order but hey, our producer is the wonderful Mr. Nate Perthay and I'll see you next time.

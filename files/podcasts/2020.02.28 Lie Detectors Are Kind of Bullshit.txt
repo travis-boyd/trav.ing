@@ -1,0 +1,138 @@
+Hey patrons, welcome to the newest mini-episode about how lie detectors are bullshit.
+How often have we watched this very scene in television and movies?
+A shadowed room with a single table and chair, a shifty character hooked up to several wires,
+a clip placed on the tip of his finger, a circle of lamplight on his face.
+Beside him, a stoic man with his glasses on the tip of his nose asks questions neutrally,
+making check marks with a red pen while the machine's meter scribbles lines across a ream of paper.
+Sweat appears on the brow of the test taker, then the question is asked,
+Did you kill her?
+The meter spikes, the red pen circles the lie.
+Polygraph examinations, also known as lie detector tests,
+have become so ingrained in our conception of criminal justice
+that most don't consider questioning their validity.
+But just how accurate are these machines?
+Though polygraph evidence is rarely permitted in court,
+it's still used to point investigators in the direction of the guilty
+and can affect their opinions of suspects.
+In ancient China and India, a test called the spitting method was used to tell if people were lying.
+They would fill the mouths of suspected liars with uncooked rice,
+and if it stuck inside their mouths or if the grains were dry when they were spat out,
+the person was suspected to have a dry mouth, a sign of lying.
+In the Middle Ages, boiling water was believed to be a good test of honesty,
+with honest men withstanding the burns better than those who were liars.
+It's kind of like the Salem witch trials, when they threw witches in the river,
+and if they lived, they were witches, and if they died, they weren't.
+The Italian criminologist Cesar Lombroso created the earliest version of the modern polygraph in 1895,
+a device that measured changes in blood pressure for police investigations.
+A 1911 article in the New York Times showed the early faith in such technologies.
+Then called the psychometer,
+the article expresses a belief that the polygraph will soon replace
+all the human aspects of the criminal justice system.
+Quote,
+The state will merely submit all suspects in a case to the tests of scientific instruments,
+and as these instruments cannot be made to make mistakes nor tell lies,
+their evidence will be conclusive of guilt or innocence,
+and the court will deliver sentences accordingly.
+Multiple people would put out similar versions of the polygraph over the next few decades.
+In fact, almost every source seems to name a different inventor.
+An incomplete project by William Marston brought the research to America,
+where Marston worked with a machine that studied blood pressure of German POWs.
+He apparently found that blood pressure and lying have a strong correlation.
+He lobbied for the courts to begin using his invention,
+and in 1938, the same year that he published his research in a book called The Lie Detector Test,
+Marston was hired by the Gillette Razor Company to star in an advertisement
+in which the lie detector was used to prove their razor's superiority over the competition.
+But I don't know how.
+It was in 1921 that the first polygraph was used by law enforcement in Berkeley, California.
+One of the competing inventors of this modern polygraph, Leonard Keillor,
+was friends with Berkeley's first police chief, August Vollmer.
+Vollmer had been seeking ways to reform police methods dealing with interrogation,
+which were often violent, and he believed he had found it in Keillor's invention.
+The belief was that, even if the truth box couldn't detect a lie,
+it could make a liar nervous enough to confess if they were made to sit all night in a cell,
+believing that they would be found out in the morning.
+To put it simply, lie detector tests don't detect lies.
+What they actually detect is nervousness, which isn't always indicative of a mistruth.
+It's believed that people who are telling the truth
+will not experience the nervous excitement of a person who's lying.
+But of course this isn't always the case.
+Simply being given a test that measures your nervousness
+may be enough to make normal people nervous, thus generating false results.
+If you hooked me up to a lie detector at generally any time, I would register as nervous.
+There are no bodily reactions that every person shares
+that can tell without a doubt that they're lying.
+Modern polygraphs test three levels of nervous system arousal.
+Heart rate and blood pressure, breathing patterns, and sweating.
+It does so with the use of several monitors.
+A sensor wrapped around the lung area to measure changes in respiration,
+one on the arm to check blood pressure changes,
+and two sensors attached to the fingers to check changes in pulse and sweat.
+The hope is still the same as the older models.
+There are a set of symptoms that prove deception.
+The examiner will ask several questions in order to measure normal bodily response rates.
+They'll also ask broad questions that will trigger a nervous response,
+such as, have you ever told a lie to a loved one?
+The idea is that an innocent person who's telling the truth
+will have a more extreme rate of reaction to these broad questions
+than to the questions that are more specific and pointed,
+such as, did you know the victim personally?
+Although in most cases polygraph results are not admissible in court,
+they do still play a serious role in determining who ends up as a defendant.
+Often, polygraphs are used as a tool to create enough apprehension to garner a confession.
+A well-known critic of the polygraph and co-founder of antipolygraph.com,
+George Maskey, considered that there was some merit to the test,
+quote,
+if a criminal can be convinced by an examiner that he's been caught in a lie,
+he might give a confession that can be corroborated by other evidence,
+like the location of a body or details about a murder weapon that only the murderer would know.
+The examiner-subject relationship can certainly alter the results of polygraphs,
+as there is a fallible human on the other side.
+If there is a negative interaction to begin with,
+say an examiner who has the air of an interrogator,
+the subject may be more nervous than if they had an examiner they believe to be neutral.
+In addition, the examiners themselves have some level of power over the results,
+as they're subjective and interpreted by them.
+The experience of being hooked up to an invasive machine can also trigger nerves in some subjects,
+as well as the duration of the test.
+These examinations usually take around two to three hours,
+which can lead to feelings of exhaustion and nervousness in more sensitive subjects, like me.
+There's also many websites and individuals touting information about how to beat these tests.
+They teach that drugs like anti-anxiety medications and sedatives can be used to calm the nervous system.
+They also teach people to envision terrifying things during the control period of the test,
+so that their typical response rates read similarly to the specific questions.
+They also tell the subjects to keep calm during the second portion, the directions verging on meditation.
+Quote,
+Picture gentle waves rolling onto a beach.
+Feel the sun on your face.
+The most famous example of the dangers of trusting in a machine to measure the truth
+came with Washington State serial killer Gary Ridgway.
+In 1987, Ridgway was given a polygraph test and was able to pass it by simply employing methods of relaxation.
+Ridgway would go on to kill 49 women in total, including multiple women after the polygraph examination.
+Another suspect failed the test and became the primary subject, but was later cleared of all charges.
+Jeff Deskovic was convicted of the rape and murder of a girl from his high school.
+The examiner told Deskovic that he had failed the test.
+He accused him of being a murderer.
+He used the fear of the test results to get a false confession from him,
+and he served 16 years in prison before being exonerated.
+Those who are in support of the polygraph, mainly the American Polygraph Association,
+claim that lie detector tests have an accuracy rate of over 90%.
+However, almost all other scientific platforms that deal with the polygraph say that it's much lower,
+sometimes by a lot.
+Andy Morgan, a forensic psychologist at Yale University,
+thinks a polygraph's accuracy is only slightly better than flipping a coin.
+He claims that it's only about 52 to 53% accurate.
+So should a tool that is so heavily debated be used in police investigations?
+The evidence may not be permissible in court, but it can be used to generate suspects long before the courts hear the evidence.
+Those in favor of the method say it's a tool, just like any other,
+that can help assess new suspects and a non-violent method of attaining confessions.
+But as many of us know, false confessions due to manipulation are far more common than they should be.
+We want to believe that we can tell when someone is lying,
+and we've long looked for and believed in the symptoms of liars.
+But the truth is, liars are as varied as the lies they tell.
+We like to believe we know a liar by their face, by their eyes, by their words, by their actions,
+but all of us at some point have been blindsided by a lie.
+It's something we have to come to terms with,
+and it's something to strongly consider when people's freedom and people's safety is at stake.
+Thanks for listening this week to our episode, and you can expect one at the end of every month.
+Just one more time, I want to thank you so much for your support, and I hope you have a very fun week.
+So here's to you, my sweet patrons, my sweet satans.

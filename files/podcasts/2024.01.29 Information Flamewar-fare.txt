@@ -1,0 +1,810 @@
+0.00 15.98 SPEAKER_02  Hi everyone, welcome to this episode of TF.
+16.64 17.54 SPEAKER_02  It's the free one.
+18.14 20.32 SPEAKER_02  That's not Milo saying it's the free one.
+20.36 22.48 SPEAKER_03  No, in an alarmingly sexual voice.
+22.74 25.70 SPEAKER_03  It's just me in my normal, not alarmingly sexual voice.
+26.10 27.16 SPEAKER_03  Although I do try it, yeah.
+27.16 29.56 SPEAKER_03  It's like cold, so it's a little bit husky and a little bit bassy.
+29.56 31.38 SPEAKER_03  It's like, it's the free one.
+31.66 33.44 SPEAKER_00  Let me try it in my best sexual voice.
+33.64 34.00 SPEAKER_00  Please.
+34.84 37.14 SPEAKER_00  It's the free one.
+38.24 38.98 SPEAKER_00  Pretty good.
+39.42 40.68 SPEAKER_02  It's the free one.
+41.24 41.92 SPEAKER_02  That's right.
+42.36 44.30 SPEAKER_02  You've heard it nine or ten times.
+44.44 45.74 SPEAKER_02  It is indeed the free one.
+46.46 47.20 SPEAKER_02  It has your money.
+48.28 52.24 SPEAKER_02  Well, yeah, we usually do that at the end, but there's a Patreon, $5 a month.
+52.40 52.82 SPEAKER_02  No, no, no.
+53.96 55.50 SPEAKER_02  Let's do the show, everybody.
+55.50 59.40 SPEAKER_02  We got a classic set of things.
+59.40 60.32 SPEAKER_02  We got news.
+60.52 66.34 SPEAKER_02  I found the easiest startup to break down and present.
+66.82 69.50 SPEAKER_02  And it's just, it's like someone started the company.
+69.64 72.54 SPEAKER_02  Well, they started it to make money, but it feels like they started it for us.
+72.90 73.46 SPEAKER_03  Perfect.
+73.46 73.58 SPEAKER_03  Perfect.
+73.98 93.52 SPEAKER_02  But first, I'd like to add another folio to our book, another folio to our bookshelf of Rishi Sunak showing us what a Ron DeSantis presidency and general election campaign would have been like.
+93.52 95.56 SPEAKER_03  Yeah, I mean, it's an interesting comparison.
+95.68 99.70 SPEAKER_03  They are both kind of like similarly rizzless people, you know?
+100.56 101.18 SPEAKER_03  Well, they are.
+101.54 103.44 SPEAKER_03  So this is- Weirdly insecure.
+103.44 107.80 SPEAKER_02  So there was this, I think this is a perfect example of that.
+108.22 110.90 SPEAKER_02  There was this sort of little to-do.
+110.90 112.82 SPEAKER_02  I mean, the things I, you know, keeping an eye on.
+113.64 125.36 SPEAKER_02  Of no sort of real significance, but sort of just what a window into this sort of degraded life of Sunak as not living as a billionaire, but instead having to be an MP and prime minister.
+126.02 132.90 SPEAKER_03  I mean, to be fair, he chose to do this, you know, in pursuit of being the head of government of the United Kingdom.
+132.90 143.98 SPEAKER_03  Not a fun country to be the head of government of, but in pursuit of that power, he chose to, like, have to live here and not live like a billionaire, but instead live like a senior politician.
+144.58 158.82 SPEAKER_02  So Rishi Sunak has, as part of his, like, you know, campaign, he's in campaign mode, the conservatives put up this website where you could basically get a personal video from the prime minister by providing your contact details.
+158.82 160.28 SPEAKER_02  So, like, you know, Riley Quinn.
+160.78 161.76 SPEAKER_03  Hello, Alice.
+162.02 162.84 SPEAKER_03  You're so good.
+162.90 164.68 SPEAKER_03  At turning me on.
+165.84 170.26 SPEAKER_02  Then revealing whether the NHS, the economy, or immigration is your priority.
+170.60 172.12 SPEAKER_02  And then, you know, Rishi will be-
+172.12 178.30 SPEAKER_03  What if my priority is none of those three, you know? I want him in the booth recording a sort of Baldur's Gate 2 level of voice lines.
+178.82 185.88 SPEAKER_00  What if it, I mean, what if, like, your main issue is the bins and you find that your prime minister- What if your prime minister doesn't care about your bins?
+186.06 192.16 SPEAKER_00  I've become one of these people because recently one of my bin lids got stolen or, like, got taken away.
+192.16 193.22 SPEAKER_00  What the fuck?
+193.58 194.28 SPEAKER_00  Jesus, okay.
+194.42 196.00 SPEAKER_03  We need to triple the Mets funding.
+196.00 203.30 SPEAKER_00  And all of a sudden, I realized, number one, I do want the police with the machine guns to come to my pocket of the London suburbs.
+203.30 209.76 SPEAKER_00  But also, I do want a personalized message from the prime minister saying that he cares about my bins and will tackle the problem.
+209.76 217.52 SPEAKER_02  Well, I think that Rishi Sunak is, like, three unfavorable polls away from being like, I will make whatever video you want.
+217.90 225.68 SPEAKER_00  I will- I will, like, Rishi Sunak will go on Cameo and he will- Yeah, he will just say whatever you want.
+226.00 228.16 SPEAKER_02  Rishi Sunak will ride the bang bus.
+228.28 229.60 SPEAKER_02  He'll get into the fake taxi.
+229.86 230.88 SPEAKER_02  Please vote for him.
+230.88 234.88 SPEAKER_02  So, basically-
+235.40 238.00 SPEAKER_03  Bang campaign bus, thank you. Bang battle bus!
+238.26 238.90 SPEAKER_02  There we go.
+239.32 240.76 SPEAKER_03  Alright, sometimes it takes two.
+240.94 245.62 SPEAKER_03  Yeah, the bang battle bus is going to drive to every constituency under threat, which is most of them.
+245.62 253.70 SPEAKER_03  And Rishi Sunak is going to get backshots in a way that sort of reassures voters that he cares about their priorities.
+253.70 257.80 SPEAKER_01  I've come to- I've come to Reading to do the crazy monkey.
+259.90 262.00 SPEAKER_03  Guys, I'm gonna ride the Sibian.
+265.92 277.14 SPEAKER_02  You know, so what they did, right, is they had this thing where you could basically get a very limited sort of- Like how, you know, like a preschool game might be limited version of a Cameo.
+277.50 282.18 SPEAKER_03  Oh, they did like a sort of full motion video, like choose your own adventure Rishi Sunak thing.
+282.18 283.88 SPEAKER_02  Yeah, choose your own Sunak.
+284.76 288.82 SPEAKER_02  And so, the system then shows a video of the Prime Minister addressing you directly.
+289.38 299.74 SPEAKER_02  And so, Sunak would have had to put on his quarter zip, sit down in the house in Yorkshire he never goes to, and then say, hi, Simon, I'm concerned about the NHS too.
+300.34 303.38 SPEAKER_02  And then it shows like, you know, things like the Simon Times, right?
+303.48 305.02 SPEAKER_02  The NHS solved, you know.
+305.26 309.48 SPEAKER_02  Again, completely baffling, just totally toadying.
+309.48 312.58 SPEAKER_03  Whose vote would have been swayed off of that?
+312.72 318.82 SPEAKER_03  What kind of, like, seal-brained imbecile would watch this and be like, that's my name.
+318.94 322.64 SPEAKER_03  He said the name that I have, so I should vote for him now.
+322.98 324.24 SPEAKER_02  But of course, right?
+324.48 327.38 SPEAKER_02  This is sort of where the DeSantis comparison came for me.
+327.38 346.94 SPEAKER_03  I mean, like, this is the other thing too, is that, like, the other end of that is, if you're already commissioning a video from Rishi Sunak, if you're messaging Rishi Sunak that's like, can I get two photos of you fixing the NHS, one with your panties pulled to the side, you're already gonna fucking vote for him because you're, like, invested in that too much.
+347.30 357.86 SPEAKER_03  Unless he's, like, reaching out and, like, depositing those videos in, like, sort of, like, a broader way, then this is just weird fan service.
+357.86 364.38 SPEAKER_02  So I think you're meant to put them on social media and be like, wow, the prime minister said, promised me he's gonna fix the NHS.
+365.10 374.50 SPEAKER_02  So, of course, this is where the DeSantis comparison comes in, though, which is Guido Fox then signed up as Nigel Farage.
+374.82 380.46 SPEAKER_02  So it says, hi, Nigel, I too think immigration is too high, the Farage Times, blah, blah, blah.
+380.98 381.14 SPEAKER_02  Right?
+381.60 382.18 SPEAKER_02  Very funny.
+382.44 383.04 SPEAKER_02  Yeah, good.
+383.04 387.68 SPEAKER_02  But then it's, um, number one, how do you not notice that?
+388.00 394.36 SPEAKER_02  But number two, that is just the dynamic of Ron DeSantis, of being constantly, um, bounced into...
+394.36 395.56 SPEAKER_02  Cocked and owned, yeah.
+395.82 406.42 SPEAKER_02  Yeah, because basically, the whole Tory party has always said to Nigel Farage, we please join the Tory party, we'd welcome you in the Tory party, for the love of God, we'll do anything you want.
+407.00 412.86 SPEAKER_02  And then it's just being pranked by a newsletter, essentially, right, by a sort of right-wing blogger.
+413.04 420.48 SPEAKER_03  I'm gonna, I'm gonna sort of refine the point here a bit, because I don't think this is DeSantis so much as this is Jeb Bush shit, you know?
+422.24 461.30 SPEAKER_02  So, it's, I think he's a, it's not a perfect comparison, but the reason I talk about the DeSantis thing is that this is someone who is desperate for your support, and will do anything on the internet to get it, and who lives on the internet, who responds to everything from the internet, who can be bounced into any, like, I think that the whole, the whole Rwanda thing becoming a, um, like, the whole sort of plan, right, to crack down on immigration so much that you're breaking international law, that you're breaking the UK's treaty commitments, to say nothing of the, um, I'd say, sort of human costs imposed of it, just from the perspective of the people who think that those are the most important things, right?
+461.30 470.50 SPEAKER_03  You're doing that because you're chasing, sort of, irrelevances, or former irrelevances, like Lee Anderson, or, like, any of the other ERG people, or just fucking groipers on the internet, you know?
+470.76 483.14 SPEAKER_03  And I think that is the DeSantis thing, of being, like, based Kerkestani 1488 is gonna love me, and vote for me, and that's gonna swing things my way, providing I'm, you know, sort of debased myself enough.
+483.30 498.44 SPEAKER_00  Not the issue that I have, but the sort of, minor disagreement I have, read the DeSantis thing, is that it kind of, it feels like with DeSantis, from what, like, and bearing in mind I didn't pay attention to him for, like, a while, so this is based on the very little that I know about him.
+498.92 513.40 SPEAKER_00  Like, DeSantis very much, sort of, went in on a culture war, um, flirting, and it may have worked, like, on a state level, but what he sort of finds out is that, like, when you sort of expand it beyond these very, kind of, minor state-related issues, it doesn't quite work.
+513.66 517.88 SPEAKER_00  But with Sunak, he, I don't think, like, the thing with Sunak is that he never really, wanted to do that.
+517.96 525.90 SPEAKER_00  Like, he's sort of taken over the Tory party, which is, I imagine, something that he's kind of wanted to do purely for, like, the reasons of his CV, more than anything else.
+526.24 541.30 SPEAKER_00  And so he kind of thinks that, like, okay, he can sort of get away with the technocratic management, you know, things ticking along just as the way that they are, only to, like, have taken over the Tory party when, uh, everything has basically gone to shit and they're going insane.
+541.30 550.66 SPEAKER_00  And so he now has to kind of, like, capitulate to the most insane people, both in his party and, like, whatever is left of the people supporting him.
+551.46 555.40 SPEAKER_00  Um, and what you can see throughout is that he's just not convinced by any of it.
+555.44 565.66 SPEAKER_00  And I feel like if you're going to do, if you're going to do something like that, especially if you're going to do it on, like, a highly personalized level, you've at least got to, like, pretend that you're sort of, like, you're convinced by it.
+565.66 567.40 SPEAKER_03  No, he just wants to get out of here.
+567.48 573.32 SPEAKER_03  He just wants to do the, like, get done with it, be an ex-prime minister, go to California.
+573.78 573.92 SPEAKER_02  Yeah.
+574.08 575.10 SPEAKER_03  Uh, yeah.
+575.22 578.30 SPEAKER_02  I think that's, that's, this is the, you're right.
+578.44 582.44 SPEAKER_02  DeSantis is a much more enthusiastic culture warrior than Sunak.
+582.58 594.44 SPEAKER_02  Sunak was bounce, again, bounced into it, but just the propensity to be bounced into stuff, uh, by opponents who you're trying to suck up to and also hate you is very amusing.
+594.44 602.72 SPEAKER_00  I'm looking forward to when Keir Starmer sort of has to do this for, like, a much longer period, because at least with, like, Rishi Sunak, like, there is sort of, like, an end game approaching, right?
+603.18 620.78 SPEAKER_00  Like, he doesn't have to do, he doesn't have to debase himself for that long, but, like, Keir Starmer's entering this, like, for the long haul, and he's going to really have to sort of, kind of, capitulate to the worst fucking tendencies of these people, and I'm both horrified but extremely excited for how he's going to handle this.
+620.78 624.48 SPEAKER_02  Let's see what, like, what ninja weapon he bans next.
+625.86 634.22 SPEAKER_02  For listeners in the States who might not have seen this, Keir Starmer has come out on a full-throated ban on ninja swords.
+635.06 636.04 SPEAKER_02  Ninja swords.
+636.32 638.04 SPEAKER_03  Really, the really pressing information.
+638.20 640.02 SPEAKER_03  My question is, how are you going to enforce that?
+640.06 640.78 SPEAKER_03  How are you going to find them?
+641.56 642.26 SPEAKER_02  That's right.
+642.26 644.26 SPEAKER_02  Like, you know, they're...
+644.26 658.34 SPEAKER_03  The shogun has ordered a sword hunt, you know, to bring an end to the warring states period, well and truly, and unify the country, and that's going to be fine.
+658.50 659.48 SPEAKER_03  It's going to work perfectly.
+659.74 662.12 SPEAKER_02  How are you going to find the ninjas to arrest?
+662.20 665.40 SPEAKER_02  Because most of them are just moving the scenery in the play.
+665.40 666.66 SPEAKER_02  They're not actually...
+666.66 668.54 SPEAKER_03  Imagining...
+668.54 675.74 SPEAKER_03  Imagining Starmer as a kind of, like, Tokugawa-like figure is very funny, you know.
+677.08 691.20 SPEAKER_03  Just like, he's come out the end of this, like, three-way factional war, you know, and was lucky enough to stay out of the invasion of Korea, which I guess is Brexit here, and now his reward is become obsessed with ninja swords.
+691.20 695.66 SPEAKER_03  I've got 30 Dutch cannon that I'm going to use.
+700.08 704.30 SPEAKER_02  No, the, um, look at this is, but it's, I think it's like, it's similar.
+704.60 704.86 SPEAKER_03  It is...
+704.86 706.08 SPEAKER_03  Corbyn Oden Obenaga, then.
+706.26 709.90 SPEAKER_03  Sorry, I'm not, I'm not going to just do this for the rest of the episode, but it is
+709.90 710.24 SPEAKER_02  tempting.
+710.70 711.70 SPEAKER_03  Yeah. Why not?
+712.12 713.50 SPEAKER_03  Shouldn't have attacked those monasteries.
+714.16 725.22 SPEAKER_02  No, the, but this is, again, like, this is someone who is consistently, not saying that Starmer has to be bounced into any kind of, like, cruel or authoritarian position or...
+725.22 726.48 SPEAKER_02  No, it's instinctive for him.
+726.58 731.72 SPEAKER_02  It's instinctive, but which cruel and authoritarian position he does go into is kind of a bounce.
+732.16 745.24 SPEAKER_02  Um, that, yeah, again, responding to people being less safe in Britain, for we all know fucking why, being like, well, we're going to ban more kinds of sword, which, we were talking about this earlier, Alice.
+745.24 745.68 SPEAKER_02  Yes.
+745.68 751.46 SPEAKER_02  Really, what that has been is an expansion of police power to go into your house and take your kitchen knives if they want to.
+751.86 759.56 SPEAKER_03  Yeah, I mean, this is the thing that sounds like, properly, like, civil libertarian, is, uh, knife law in the UK is absolutely incoherent.
+759.76 765.36 SPEAKER_03  And the thing is, right, we have to take this as a kind of failure of every other possible policy.
+765.36 777.58 SPEAKER_03  We can't do any of the stuff that we know alleviates crime and alleviates violent crime, like, for instance, alleviating poverty, um, or, like, anything else good to build social cohesion.
+777.96 784.48 SPEAKER_03  Now, we can't even do the stuff that we know doesn't work, like more cops or stop and frisk, because that costs money, too.
+784.72 791.20 SPEAKER_03  So all we can do is give the five cops who are left more powers to, like, uh, take your nail scissors away.
+791.74 812.68 SPEAKER_03  And it just kind of, it's at a point now where we're so focused on whatever kind of, like, ninja swords, zombie knife bullshit, instead of any of the material reasons why people are more likely to commit crime, that it just kind of profoundly depresses me, apart from anything else.
+813.18 819.18 SPEAKER_00  Surely, like, a better approach would be to, like, train your own sort of, like, elite samurai unit to take on the ninja swords.
+819.18 823.84 SPEAKER_03  I think the Met Police should have, should hire some ronin, yes.
+824.18 842.02 SPEAKER_03  What you need to do, right, clearly, is, is, is you take the, you take the people who are best at doing knife crime, you make them cops in the anti-knife crime unit, because, clearly, you know, you're taking the, sort of, best swordsmen off the street, and, and you sort of bring them inside the imperial fold.
+842.44 844.40 SPEAKER_02  You know what you've just proposed the formation of?
+844.76 847.76 SPEAKER_02  You've just proposed the formation of the British Shinsengumi.
+847.76 848.48 SPEAKER_00  Mm-hmm.
+849.18 850.64 SPEAKER_00  Yeah, let's do it.
+850.96 864.44 SPEAKER_00  Or you just need, like, one guy who's, like, modeled on, like, guts from Berserk, like, the dark sword, like, the black swordsman, and every, and, like, the black swordsman job is to just go around London with his giant sword, uh, to take out everyone with, like, the zombie knives.
+864.76 865.04 SPEAKER_03  Yeah.
+865.04 866.78 SPEAKER_00  And he becomes, like, a legend, right?
+866.86 871.54 SPEAKER_00  So it's just, like, you know, um, you know, it's, it's not even, like, the elite, the elite unit.
+871.54 871.92 SPEAKER_00  Pays for itself.
+872.46 872.60 SPEAKER_00  Yeah.
+872.74 877.74 SPEAKER_00  You solve, you solve the crimes by, like, building up the mythology of the black swordsman who roams around Whitechapel.
+877.74 880.68 SPEAKER_03  All right.
+880.68 884.34 SPEAKER_03  Well, we've solved knife crime, which is pretty good for the first 15 minutes of the episode.
+885.34 888.50 SPEAKER_02  The only way to solve knife crime is with knife law.
+890.04 891.28 SPEAKER_02  The knife cop.
+891.52 892.28 SPEAKER_00  The knife's cop.
+892.28 892.70 SPEAKER_00  This is it.
+892.76 893.10 SPEAKER_00  This is it.
+893.14 893.92 SPEAKER_00  I'm, like, half serious.
+894.02 897.94 SPEAKER_00  Like, you need to bring honor back into knife, like, into, into knife wielding.
+898.02 910.88 SPEAKER_00  And if there is a sense of honor, um, then at the very, you know, you can sort of minimize the sort of, uh, yeah, you can, you can minimize it by turning it into a noble art of which, like, there is, like, a gentleman's code to doing.
+911.10 912.34 SPEAKER_03  You're not actually right.
+912.40 916.78 SPEAKER_03  It's, it's, like, mostly it's just this new phrase that, you know, everyone's using, but it's not right.
+916.88 917.90 SPEAKER_03  It's social cohesion, right?
+917.90 932.64 SPEAKER_03  Like, there are tons of societies where fucking everyone has knives, where the knife crime rate is significantly lower because people don't want to stab each other because their lives are, you know, more consistent and coherent and better in that way, you know?
+933.18 940.48 SPEAKER_03  You have to embrace Finnish mentality where the knife crime rate drops precipitously and the suicide rate goes up hugely, you know?
+941.14 944.28 SPEAKER_03  You can carry a knife around, but you do have to have depression.
+945.86 950.02 SPEAKER_02  It's, it's, it's either that or have a second Ikedaia Inn incident, uh, in Whitechapel.
+951.08 952.16 SPEAKER_02  Yeah, let's do it.
+952.26 955.20 SPEAKER_02  So, anyway, anyway, I want to move on, though.
+955.76 960.42 SPEAKER_02  Um, I want to talk about one new friend who's associating with some old friends.
+960.84 963.54 SPEAKER_02  So, now, a prelude to this.
+963.66 977.64 SPEAKER_02  As you know, we do not talk directly about American politics, um, unless it is a useful comparator case for something else or people who we're familiar with in other ways are getting directly involved.
+977.64 983.92 SPEAKER_02  So, bearing that in mind, having done a little bit of the former, it's now time to do a little bit of the latter.
+984.86 992.22 SPEAKER_02  Because DeSantis out isn't the only, um, sort of relevant U.S. primary season comparator for us to talk to.
+992.32 994.54 SPEAKER_02  Who do we know in U.S. primaries right now?
+994.54 999.90 SPEAKER_02  Well, so, we don't know Dean Phillips yet, but Dean Phillips knows some of our friends.
+1000.36 1000.68 SPEAKER_03  Ah.
+1000.98 1003.92 SPEAKER_03  Well, any friend of our friend is a friend, you know?
+1004.28 1008.04 SPEAKER_03  That classic saying expressed as elegantly as possible.
+1008.04 1015.98 SPEAKER_02  Um, you know, if, if Dean Phillips is willing to draw the sword for the Met Police Shogun, then, uh, he is welcome in my, uh.
+1015.98 1020.88 SPEAKER_03  Yeah, Dean Phillips is sort of, like, in our, like, extended clan network now.
+1020.88 1021.14 SPEAKER_03  Yes.
+1021.20 1025.00 SPEAKER_03  You know, he's, he's not one of our retainers, but our retainers know him.
+1025.16 1027.22 SPEAKER_03  So, he's sort of like, he's a bannerman.
+1027.34 1027.86 SPEAKER_03  He's an ally.
+1028.14 1033.88 SPEAKER_02  So, our, our retainers, um, Bill Ackman, Elon Musk, and Jason Kalkanis are all friends.
+1033.88 1037.64 SPEAKER_03  Oh, that's a fucking powerful triad of samurai right there, you know?
+1038.18 1043.18 SPEAKER_03  They, they are, they are some of, some of the greatest mind samurai that we have access to.
+1043.78 1049.32 SPEAKER_03  Of those, how many do you think own a katana for real, and why is the answer 100%?
+1050.66 1051.90 SPEAKER_02  It's, it's 100%.
+1051.90 1054.64 SPEAKER_02  I think Bill Ackman is the most recent katana purchaser.
+1055.28 1055.68 SPEAKER_03  True.
+1056.28 1058.82 SPEAKER_03  Elon Musk has been on that katana shit for a long time.
+1059.06 1059.22 SPEAKER_03  Yeah.
+1059.68 1062.98 SPEAKER_02  Jason Kalkanis says he has a katana, but he's actually never bought one.
+1063.88 1074.44 SPEAKER_02  So, no, so, um, Dean Phillips is, uh, a, a democratic senator who is primarying Biden, um, who just got 20% in New Hampshire.
+1074.84 1075.82 SPEAKER_02  Question mark?
+1076.14 1081.36 SPEAKER_02  And he is filling what you might call the yang hole in the democratic government.
+1081.36 1083.04 SPEAKER_02  I don't want to fill the yang hole.
+1083.70 1084.80 SPEAKER_02  So, he is.
+1084.88 1086.48 SPEAKER_02  So, so, so, so, so from the right then?
+1087.00 1087.38 SPEAKER_02  Well, indeed.
+1087.44 1090.02 SPEAKER_02  Well, he's finally going to be a fiscally responsible Democrat.
+1090.02 1100.50 SPEAKER_02  And he's going, but instead of being an outsider who's going to bring Silicon Valley in, um, he is an insider who's going to bring Silicon Valley in from outside.
+1101.02 1105.48 SPEAKER_02  Um, so Steve Schmidt from the Lincoln Project is managing his campaign.
+1106.22 1106.68 SPEAKER_03  Oh, fantastic.
+1106.80 1112.12 SPEAKER_03  I look forward to this being as impactful and meaningful as Lincoln Project 1.0 was.
+1112.50 1116.36 SPEAKER_03  What do you even call the Lincoln, the Lincoln Project down on the democratic party?
+1116.36 1117.72 SPEAKER_03  Like the Van Buren Project?
+1118.22 1118.54 None  Yeah.
+1119.38 1130.08 SPEAKER_02  Uh, so, this is, so Phillips basically is running as a Democrat who's finally going to be technically minded, business focused, and fiscally responsible.
+1130.20 1131.52 SPEAKER_03  Oh, the Jackson Project.
+1131.90 1133.40 SPEAKER_02  Someone had to do it.
+1133.62 1133.84 SPEAKER_03  Mm.
+1134.30 1142.30 SPEAKER_02  And so, he, like all successful political candidates, launched his campaign on a Twitter space, or an X space.
+1142.40 1143.76 SPEAKER_02  The kiss of death.
+1143.76 1146.50 SPEAKER_02  I mean, this is what did for DeSantis as well, you know?
+1146.86 1154.76 SPEAKER_02  He, where he was interviewed by Elon Musk, Bill Ackman, and Jason Kalkanis about things like, what would he do in his first 100 days?
+1155.22 1158.60 SPEAKER_03  Yeah, how are you going to expel the foreign barbarians from the island of Dojima?
+1159.08 1162.78 SPEAKER_02  Yeah, well, or specifically, how are you going to expel the DEI barbarians?
+1162.86 1166.20 SPEAKER_02  Because he's running as the anti-DEI candidate?
+1166.46 1168.60 SPEAKER_03  No one knows or cares what that is.
+1168.60 1178.66 SPEAKER_03  This was DeSantis' thing as well, is to, like, try and appeal to people who, you know, trying to push, like, DEI or ESG or some shit like that that no one cares about.
+1178.76 1184.68 SPEAKER_03  And then, meanwhile, you see any of the Vox Pops and people going to a Trump rally, and he's like, yeah, he makes me feel good, so I'm voting for him.
+1184.98 1186.36 SPEAKER_03  I think the economy was better.
+1186.92 1190.56 SPEAKER_03  And I can't, I will not be proved wrong about that, because it feels like it was better.
+1190.56 1201.94 SPEAKER_02  Well, when Phillips is, of course, president, then Bill Ackman, Elon Musk, and Jason Kalkanis have all been tapped for major roles.
+1202.34 1208.46 SPEAKER_03  Yeah, when this guy is president, all of Bill Ackman's critics are going to be extrajudicially assassinated by SEAL Team 6.
+1208.92 1212.48 SPEAKER_03  Business Insider is going to get fucking hit with a JDAM.
+1212.84 1213.34 SPEAKER_03  It's, yeah.
+1214.14 1219.12 SPEAKER_02  Nary Oxman's going to get to throw the lever on the electric chair in a gigantic marble run.
+1219.12 1225.22 SPEAKER_02  I also love the idea of making Musk the head of State Department and then just nuclear war immediately.
+1225.80 1226.44 SPEAKER_02  Like, right away.
+1227.50 1228.82 SPEAKER_02  It's like he was too annoying.
+1229.44 1230.38 SPEAKER_00  Looking into this.
+1230.74 1234.60 SPEAKER_03  Yeah, trying to imagine what the funniest cabinet position to put Elon Musk in.
+1235.10 1236.56 SPEAKER_03  It's probably HUD, you know?
+1237.24 1239.16 SPEAKER_03  There's tubes everywhere.
+1239.42 1242.92 SPEAKER_02  No, no, we get, we've actually gotten, like, a celebrity shot.
+1243.06 1246.16 SPEAKER_02  We've brought in Mohammed bin Salman to be HUD secretary.
+1246.16 1253.66 SPEAKER_03  Yeah, I love to, I love to sort of live in my Section 8 housing that has a, you know, an upscale dining district.
+1254.78 1262.82 SPEAKER_02  So anyway, these, but these guys, these three are deeply influencing his campaign and like other Silicon Valley people, like they've all given millions to a super PAC.
+1263.22 1269.54 SPEAKER_03  It's cool how this is just like a sort of like overflow vent for money running for president is that you can just kind of burn.
+1269.72 1270.66 SPEAKER_03  I mean, DeSantis too.
+1270.84 1279.70 SPEAKER_03  DeSantis spent like, you know, thousands of dollars per vote and spent like, you know, he spent more than his net worth on private jets even.
+1281.20 1281.70 SPEAKER_02  That's so cool.
+1281.78 1282.30 SPEAKER_02  Hey, you know what?
+1282.32 1283.46 SPEAKER_02  He finally got high up.
+1284.02 1290.30 SPEAKER_02  So he said after New Hampshire, I've built businesses and brands and studied the best successes in marketing history.
+1290.66 1296.12 SPEAKER_02  And I've never known one that generated 20% market share in just 10 weeks as we did last evening in New Hampshire.
+1296.56 1300.98 SPEAKER_02  He then said, I will build the most extraordinarily bipartisan cabinet in American history.
+1300.98 1303.46 SPEAKER_03  But Biden, Biden wasn't on the ballot.
+1303.76 1314.42 SPEAKER_03  Like this was a thing due to some like procedural rat fuckery with the Democratic Party that you had to write in Biden because he wasn't running because the party had like sort of boycotted the primary.
+1315.00 1328.76 SPEAKER_03  So this is like saying like no business ever builds sort of like this amount of vote share and not mentioning the fact that your competitor has been like sort of legally barred from opening its stores or putting signs on them.
+1329.26 1329.34 SPEAKER_02  Yeah.
+1329.38 1334.18 SPEAKER_02  It's like, wow, my small business has really taken off ever since the Walmart's all burned down.
+1335.30 1344.02 SPEAKER_02  So Philip said that he would use zero based budgeting and hire an international consulting firm to conduct a top down assessment of the federal government day one.
+1344.02 1345.40 SPEAKER_03  I consider all zero.
+1345.70 1348.16 SPEAKER_03  I consider all budget things to be zero based.
+1348.54 1349.38 SPEAKER_03  Very cringe.
+1349.38 1353.40 SPEAKER_03  Do you do you do you both know what zero based budgeting is?
+1353.72 1355.36 SPEAKER_02  I don't, but I can lie and say that I do.
+1355.58 1357.22 SPEAKER_02  Okay, so zero based budgeting.
+1357.56 1358.44 SPEAKER_02  It's so stupid.
+1358.56 1362.86 SPEAKER_02  It's a thing that lots of companies did before money was free and they stopped doing once money was free.
+1363.02 1372.30 SPEAKER_02  But it's basically an exercise where you go through everything your company spends, like on pens or travel or whatever.
+1372.86 1373.00 SPEAKER_02  Yeah.
+1373.00 1379.14 SPEAKER_02  And then you establish what you've spent in every category and then you read less on candles.
+1379.38 1379.82 SPEAKER_02  Yes.
+1380.04 1380.40 SPEAKER_02  Yes.
+1380.40 1384.60 SPEAKER_02  It is the spend less on candles, like business thing.
+1385.08 1387.38 SPEAKER_03  Spend less on Casey DeSantis's private jets.
+1387.38 1392.58 SPEAKER_00  So is it just like a formalization of that, um, about like help my family is dying meme?
+1392.58 1393.58 SPEAKER_02  Yes, exactly.
+1393.58 1405.40 SPEAKER_02  So like, but any company, any company that ever goes through a zero based budgeting exercise loses a huge number of staff because they're like, yeah, you have to buy your own stationary now here at fucking Pfizer.
+1405.68 1406.12 SPEAKER_02  Basically.
+1406.12 1409.40 SPEAKER_02  That's like, that's the outcome.
+1409.50 1413.56 SPEAKER_02  So he's like, yeah, we're going to crack down on the pen budget at the federal government.
+1414.12 1424.26 SPEAKER_03  I mean, to be fair, the federal government does spend a huge amount of money on trivial bullshit, but that's because it's a huge bureaucracy and huge bureaucracies need to do that in order to function.
+1424.26 1440.60 SPEAKER_03  Like this, this is like a recurring sort of bugbear for me is that anytime conservatives talk about government waste, it's like often there is huge waste, but as often as not, it's just stuff that is like a requirement of perpetuating bureaucracy that seems wasteful.
+1440.96 1445.68 SPEAKER_03  All those guys need the fucking skill craft pens, which by the way, the federal government gets a deal on.
+1446.00 1448.40 SPEAKER_03  I have, I have a whole thing about federal, about fed pens.
+1448.40 1449.96 SPEAKER_03  Cause it's, um, cause autism.
+1450.62 1451.70 SPEAKER_03  I really want some.
+1451.82 1455.96 SPEAKER_03  If you work in the federal government, defraud your employer, send me a box of skill craft pens.
+1456.04 1457.44 SPEAKER_03  Cause I really want some and you can't buy them.
+1458.82 1465.92 SPEAKER_02  Uh, Phillips basically has a kind of, uh, grab bag of, um, a grab bag of policies.
+1466.04 1466.42 SPEAKER_02  Yeah.
+1466.42 1471.50 SPEAKER_03  We're going to run the government like a business, which has never been tried before or since.
+1472.02 1479.74 SPEAKER_02  Uh, and you know, I wanted to focus and basically like what we saw the last time as an American primary is that everyone said they were all for Medicare for all.
+1479.88 1482.90 SPEAKER_02  And then as soon as like they got closer to wing, they were like, no, I never said that.
+1483.36 1498.66 SPEAKER_02  Uh, so, you know, we can, um, we can, we can sort of gloss over that, uh, his solution to ending the housing and homelessness crisis because he is funded by people like Ackman and Musk is we must incentivize the building of more housing.
+1498.96 1500.14 SPEAKER_02  He is a Yimby.
+1500.56 1501.40 SPEAKER_03  Okay, cool.
+1501.48 1504.08 SPEAKER_03  I mean, I'd never thought about that building more housing sounds cool.
+1504.08 1507.14 SPEAKER_03  Um, how does he want to do that?
+1507.58 1512.14 SPEAKER_02  Uh, oh, um, well, he certainly doesn't want, I mean, obviously nothing that's going to work, right?
+1512.28 1512.88 SPEAKER_02  Not, not public.
+1512.88 1513.18 SPEAKER_03  Oh, of course.
+1513.40 1513.58 SPEAKER_03  Yeah.
+1513.70 1513.90 SPEAKER_03  Yeah.
+1513.90 1514.08 SPEAKER_03  Yeah.
+1514.14 1514.34 SPEAKER_03  Yeah.
+1514.48 1514.70 SPEAKER_02  Yeah.
+1514.70 1514.92 SPEAKER_02  Yeah.
+1515.36 1518.10 SPEAKER_02  He wants to work with the private sector to build 7 million new homes.
+1518.40 1518.66 SPEAKER_02  Right.
+1518.68 1519.50 SPEAKER_02  I'll tell you that.
+1519.82 1522.74 SPEAKER_02  And also, um, that apparently it's all about zoning.
+1522.86 1523.76 SPEAKER_02  He needs to up zone.
+1524.62 1526.86 SPEAKER_02  This is purely Yimby, right?
+1526.92 1529.54 SPEAKER_02  It is purely basic Twitter Yimby shit.
+1530.10 1530.50 SPEAKER_02  Right.
+1530.50 1540.12 SPEAKER_02  Um, but what I think is the most, uh, the most fun one is, uh, that he wants to, uh, he's, he's a big AI guy.
+1540.60 1542.20 SPEAKER_02  Of course he fucking is.
+1542.40 1551.60 SPEAKER_02  But also the other, but before we go to the AI though, uh, I want to talk about is his platform included diversity, equity, inclusion and inclusion.
+1551.60 1558.66 SPEAKER_02  Um, however, it no longer does because what do you mean when you say that his platform
+1558.66 1560.06 SPEAKER_03  included it? Was he woke?
+1560.12 1561.86 SPEAKER_03  And then Bill Ackman made him stop being woke.
+1561.86 1563.50 SPEAKER_02  So this is from Axios.
+1563.72 1565.18 SPEAKER_02  This is Democratic presidential candidate.
+1565.28 1575.58 SPEAKER_02  Dean Phillips removed a reference to promoting diversity, equity, inclusion on his website after one of his top financial backers, a leading DEI opponent, uh, prodded him publicly on the subject.
+1575.58 1584.30 SPEAKER_02  In recent days, users on X, formerly Twitter, alerted Bill Ackman on the inclusion of DEI language as part of the platform section of Phillips's campaign site.
+1585.00 1586.64 SPEAKER_03  Weird little snitches.
+1587.14 1595.86 SPEAKER_03  Like he's, he's, he's just copied and pasted the likes of corporate, like the modern slavery statement, effectively, the like thing that you have to put in your website.
+1596.10 1599.46 SPEAKER_03  If you're a corporate entity, that's like, yeah, we're going to do some woke shit, whatever.
+1599.72 1603.22 SPEAKER_03  Um, which is a locus of ideology, right?
+1603.22 1606.46 SPEAKER_03  Bill Ackman is not wrong about that being an ideological thing.
+1606.82 1617.30 SPEAKER_03  It's just that Bill Ackman's response to it is to, I guess, completely fly off the handle and be like, no, you must update this boilerplate statement so that you don't do any woke shit whatsoever.
+1617.66 1625.44 SPEAKER_02  So on Sunday, Ackman replied that he believed Dean, Dean Phillips, quote, didn't understand what DEI was when he made it part of his website.
+1625.64 1627.16 SPEAKER_02  I made the same mistake before.
+1627.50 1629.40 SPEAKER_03  Oh, he's learning and growing, you know?
+1629.40 1636.08 SPEAKER_02  Well, no, he said, he then said minutes later, he posted saying Phillips was now getting educated as we speak.
+1636.22 1637.56 SPEAKER_02  Let's look at what he has to say.
+1637.98 1638.62 SPEAKER_00  That's so funny.
+1638.72 1642.72 SPEAKER_00  They're doing, they're like so close to basically doing like Instagram apology slides.
+1642.94 1643.20 SPEAKER_03  Yeah.
+1643.60 1652.34 SPEAKER_03  Do you think there's right wing people who are like, it's not my job to educate you about the like, uh, you know, Zionist occupation government, whatever the crank theory is.
+1652.34 1656.70 SPEAKER_02  Um, or is it like a right wing, uh, like safety pin box?
+1658.80 1659.60 None  You know?
+1660.16 1664.36 SPEAKER_03  I actually don't want to do the emotional labor of explaining the protocols to you.
+1664.98 1674.06 SPEAKER_02  So this is, um, and then on Tuesday morning, um, Ackman said that, yeah, he didn't understand a DEI until recently.
+1674.06 1676.66 SPEAKER_02  And he expected this statement will be revised promptly.
+1676.66 1680.60 SPEAKER_02  On Tuesday, the language had been changed to equity and restorative justice.
+1680.60 1682.30 SPEAKER_02  Wait, but that's worse.
+1682.40 1683.18 SPEAKER_02  That's more woke.
+1683.48 1683.70 SPEAKER_02  Surely.
+1684.20 1686.50 SPEAKER_02  Well, cause it's the belief that is the belief here, right?
+1686.58 1690.28 SPEAKER_02  Isn't about the individual semantic content of diversity, equity, and inclusion.
+1690.54 1698.60 SPEAKER_02  It's the belief that capital D capital E capital I diversity, equity, and inclusion is not just an HR bit of boilerplate.
+1698.72 1704.24 SPEAKER_02  It's actually a like sort of critical theory conspiracy that's designed to sap our martial
+1704.24 1710.58 SPEAKER_03  spirit. You're like, when you say DEI specifically, you are casting a spell.
+1710.60 1711.16 SPEAKER_03  Yes.
+1711.22 1713.84 SPEAKER_03  Talk to you by the majors at the Frankfurt school.
+1714.16 1714.62 SPEAKER_02  Correct.
+1714.74 1715.10 SPEAKER_03  Yes.
+1715.30 1715.62 SPEAKER_03  Gotcha.
+1716.04 1718.16 SPEAKER_03  And the same with ESG and stuff, I assume.
+1718.78 1728.28 SPEAKER_02  So of course, obviously yet, yet another president, uh, put a politician who is unable to stop being bounced into things by the internet.
+1728.28 1729.04 SPEAKER_03  Hmm.
+1729.28 1735.64 SPEAKER_03  I mean, at least you've got, uh, Robert F. Kennedy, who is just personally getting bounced into things by the internet.
+1736.14 1742.96 SPEAKER_03  Like not even donors, just like shit that he like sees from based Kekistani groper 1488 or whatever.
+1742.96 1746.74 SPEAKER_02  Um, oh, that guy, Sunak's going after everyone wants him.
+1746.96 1749.38 SPEAKER_03  He's kind of the new cat to two in many ways.
+1749.58 1750.14 SPEAKER_02  Cat to three.
+1750.52 1759.84 SPEAKER_02  Uh, so this is, but the, the funniest thing on, on Phillips before we sort of leave him for a time, um, is that he had this policy on, on AI, but it was not clear.
+1759.88 1771.08 SPEAKER_02  He doesn't elaborate on sort of what he thinks he wants to do, but there's a little bit of a hint that came in one of the things he did to, to campaign, which was he, he created via open AI.
+1771.28 1782.04 SPEAKER_02  So like a startup built something for him on top of the open AI interface, um, a startup called Delphi, um, and was contracted to build something called the Dean bot.
+1783.40 1784.72 SPEAKER_02  Say again?
+1785.02 1791.84 SPEAKER_03  The Dean bot, you know, when you automate the Dean, um, uh, I, I think I saw that episode of community.
+1791.84 1792.24 SPEAKER_03  Yeah.
+1792.24 1803.88 SPEAKER_02  So open AI basically, um, so he created a, uh, a chat bot of himself that voters could talk to in real time via a website.
+1804.70 1808.52 SPEAKER_03  That's just a more pathetic version of the thing that Sunak was doing.
+1808.74 1809.18 SPEAKER_02  Yeah.
+1809.26 1815.48 SPEAKER_02  It's, it's, I, I want to be elected, but I don't want to interact directly with any of you filthy people.
+1815.56 1815.96 SPEAKER_02  Yeah.
+1816.02 1816.20 SPEAKER_02  Yeah.
+1816.20 1816.42 SPEAKER_02  Yeah.
+1816.76 1825.76 SPEAKER_02  And of course the hilarious thing is that chat GBT doesn't allow political campaigning, like doesn't allow the use of their program for political or open AI doesn't allow the use of chat GBT for political campaigning.
+1825.82 1827.36 SPEAKER_02  So it's gotten taken down.
+1827.36 1830.96 SPEAKER_02  So the Dean bot has, it, it, they killed the Dean bot.
+1831.06 1831.22 SPEAKER_02  Yeah.
+1831.22 1831.64 SPEAKER_02  They killed it.
+1831.64 1832.56 SPEAKER_03  It was like Hitch bot.
+1832.64 1834.36 SPEAKER_03  They found it by the side of the road.
+1834.46 1838.62 SPEAKER_03  You know, Sam Altman, like beat its legs off the baseball bat and it's gone.
+1839.14 1841.16 SPEAKER_02  So, but they said, right.
+1841.20 1842.78 SPEAKER_02  They said, we envision a world.
+1842.78 1846.32 SPEAKER_02  This is on the Dean bot website, which now says, apologize, apologies.
+1846.62 1848.50 SPEAKER_02  Dean bot is away campaigning right now.
+1848.78 1850.54 SPEAKER_02  It's like, no, it's been killed.
+1850.88 1852.50 SPEAKER_02  They killed the fucking Dean bot.
+1853.78 1857.44 SPEAKER_03  First assassination of the presidential candidate of this, this campaign.
+1858.46 1860.46 SPEAKER_02  They got the Dean bot with the doohickey.
+1861.12 1870.24 SPEAKER_02  Uh, it says, but it says on the website, we envision a world in the next five years where anyone will be able to use AI to speak directly to the president at any time.
+1870.24 1874.48 SPEAKER_02  And the president can learn from the aggregated feedback of those conversations.
+1874.62 1876.24 SPEAKER_03  President Eden, fallout three real.
+1876.44 1876.66 SPEAKER_03  Cool.
+1876.84 1877.16 SPEAKER_03  Okay.
+1877.40 1877.80 SPEAKER_03  Fantastic.
+1878.02 1879.74 SPEAKER_03  It's just going to be a big computer.
+1880.30 1884.10 SPEAKER_03  I mean, listen, I'm not against that kind of direct democracy consensus bullshit.
+1884.64 1886.86 SPEAKER_03  Um, we, we, we could do that.
+1886.94 1891.38 SPEAKER_03  I'm not sure why there needs to be a vestigial human Dean in the White House.
+1891.38 1892.66 SPEAKER_03  If it's just going to be the computer.
+1892.98 1893.16 SPEAKER_02  Yeah.
+1893.20 1897.34 SPEAKER_02  Let's just, well, maybe like Dean is the human face of chat GPT.
+1897.40 1902.08 SPEAKER_03  I don't need that to be a face for, I don't, I don't think that the, the computer needs a Metatron in that way.
+1902.14 1914.20 SPEAKER_03  Like if you want to send something out to like, you know, um, sort of shake hands or like sign the letters to like, uh, families of troops who have gotten killed after we invaded somewhere, just get Asimo to do it.
+1914.28 1916.92 SPEAKER_03  You know, president Asimo.
+1917.06 1918.30 SPEAKER_03  This is, this is my contention.
+1918.30 1918.78 SPEAKER_02  Yeah.
+1919.38 1922.58 SPEAKER_02  Dean Phillips, you're going to lose to Asimo on the write ends.
+1922.58 1930.52 SPEAKER_03  Uh, but you know what the, if you are voting in a democratic primary, write in either ceasefire or Asimo.
+1931.10 1931.50 SPEAKER_02  Yeah.
+1932.10 1938.10 SPEAKER_02  Um, so that's the, this is, that's Dean and his fabulous band of merry men and his loyal retainers.
+1938.14 1938.72 SPEAKER_02  Excuse me.
+1939.24 1942.14 SPEAKER_02  Um, I expect to see much more of him in future.
+1942.64 1943.34 SPEAKER_02  Uh, however.
+1943.42 1943.52 SPEAKER_02  Yeah.
+1943.52 1946.82 SPEAKER_03  We have our protagonist for, uh, for indecision 2024.
+1946.82 1948.82 SPEAKER_02  Um, all right.
+1948.82 1952.82 SPEAKER_02  So I want to do a quick startup and then we're going to read an article startup.
+1952.98 1957.58 SPEAKER_02  It's called Scylla S C Y double L A.
+1958.94 1959.38 SPEAKER_03  Okay.
+1959.98 1964.70 SPEAKER_03  I mean, so, so we're in the realm of like education and training surely.
+1965.42 1966.90 SPEAKER_02  No, but it does.
+1966.96 1968.28 SPEAKER_02  It is often used in schools.
+1968.28 1975.24 SPEAKER_02  No, it's a Scylla, the legendary monster, um, in, uh, like, like Scylla, like Scylla and
+1975.24 1975.78 SPEAKER_03  Charybdis.
+1975.78 1976.68 SPEAKER_02  Yes. That's right.
+1976.72 1977.42 SPEAKER_02  Well, Scylla, yes.
+1977.80 1978.04 SPEAKER_02  Scylla.
+1978.04 1978.28 SPEAKER_02  Gotcha.
+1978.44 1978.62 SPEAKER_02  Excuse me.
+1979.06 1979.40 SPEAKER_04  Mm-hmm.
+1979.64 1981.14 SPEAKER_02  Um, sorry.
+1981.20 1983.36 SPEAKER_02  I don't mean to like humiliate you on a classics beef.
+1983.80 1984.38 SPEAKER_02  That's fine.
+1984.48 1987.82 SPEAKER_02  It's a, it's a, it's a name I more frequently read than say.
+1988.32 1988.64 SPEAKER_04  Mm-hmm.
+1988.66 1993.26 SPEAKER_02  Uh, so this is, uh, this is who we're talking about.
+1993.50 1995.52 SPEAKER_02  It is named after the legendary sea monster.
+1996.14 2006.32 SPEAKER_02  And I can tell you actually that, uh, their values are, um, discipline, teamwork, and, uh, what's the, what's the third value?
+2007.12 2009.50 SPEAKER_02  Uh, uh, being yourself and having fun with it.
+2009.58 2010.04 SPEAKER_02  I don't know.
+2010.28 2010.68 SPEAKER_02  Yeah.
+2010.68 2012.12 SPEAKER_02  I, I had it up in front of me.
+2012.58 2013.82 SPEAKER_02  Um, this should help though.
+2013.82 2016.32 SPEAKER_02  Uh, collaboration, discipline, collaboration, and teamwork.
+2016.32 2017.60 SPEAKER_02  So, and it's called.
+2017.98 2023.34 SPEAKER_03  That's kind of like quite dystopian near future sort of governing ideology, right?
+2023.42 2028.14 SPEAKER_03  Like, I feel like I want to see that projected like 200 feet tall on the side of a skyscraper.
+2029.00 2029.20 SPEAKER_02  Hmm.
+2029.46 2038.74 SPEAKER_02  Well, um, I can also tell you, um, that they're laser focused to use advanced AI powered video analytics to protect human life.
+2039.10 2039.68 SPEAKER_03  Oh boy.
+2039.68 2050.02 SPEAKER_03  I mean, so it's going to do, you said in schools, it's the AI that watches CCTV footage to see if there is a fight happening.
+2050.50 2050.80 SPEAKER_03  Correct.
+2050.98 2051.24 SPEAKER_02  Yes.
+2051.64 2052.92 SPEAKER_02  That's incredible what it is.
+2053.56 2055.78 SPEAKER_03  I, I, I, sure.
+2056.20 2056.50 SPEAKER_03  Yeah.
+2056.84 2057.20 SPEAKER_03  Fuck it.
+2057.24 2057.62 SPEAKER_03  Why not?
+2057.80 2059.56 SPEAKER_03  We've, we've already got the vape detector.
+2059.76 2062.74 SPEAKER_03  We're now going to get the like, uh, pushing and shoving detector.
+2063.10 2069.34 SPEAKER_02  Uh, so I, I sent a, um, I sent a, uh, an image to our group chat earlier.
+2069.34 2071.80 SPEAKER_02  Anomaly detection and behavior recognition.
+2072.20 2075.00 SPEAKER_02  Hussein, could you please describe to me what's in that image?
+2075.48 2080.44 SPEAKER_00  Um, uh, it is.
+2080.60 2089.00 SPEAKER_00  So the, the image that you sent, uh, see, is it, is describe itself as a identify high impact anomalous events as they occur.
+2089.44 2095.06 SPEAKER_00  And the picture is of a guy who is trying to fight three other guys.
+2095.06 2107.26 SPEAKER_00  And there's a red square where part of the guy's head, like the guy, we'll call him guy, the one who's fighting the other, you know, it, it, it looks like a scene from like the power rangers when they're sort of fighting the pussies.
+2107.52 2107.62 SPEAKER_03  Yeah.
+2107.68 2113.28 SPEAKER_03  What they've done is they've drawn a red box around a guy who is throwing a like really high kick.
+2113.28 2119.76 SPEAKER_03  So what it kind of suggests to me is that the AI is going to detect if you are like moving on some John wick shit.
+2120.16 2120.46 SPEAKER_00  Yeah.
+2120.82 2122.38 SPEAKER_00  Uh, except like no one's really hitting each other.
+2122.44 2128.64 SPEAKER_00  I mean, like on the left hand side, there's like one of his opponents, but he's got his fist, like a bit too high up to really do anything.
+2128.76 2130.04 SPEAKER_00  It's, it's, it's very strange.
+2130.08 2138.26 SPEAKER_00  It does sort of remind me a lot of like, it does remind me a lot of like, like old power rangers where you could see that they weren't actually really hitting anyone.
+2138.26 2141.42 SPEAKER_00  So their kicks were like not landing anywhere close.
+2141.92 2143.98 SPEAKER_00  It, yeah, it looks like a bit, it looks like a bit kayfabe.
+2144.24 2148.98 SPEAKER_03  But I mean, if, if, if that happens in your school, then this thing will alert the school cops.
+2149.44 2149.60 SPEAKER_03  You know?
+2149.64 2157.12 SPEAKER_00  I mean this, I mean, what, what is, is the premonition that like it will do something if it detects that one person is trying to take on three guys?
+2157.74 2164.74 SPEAKER_03  Like I just, I just, I just like the idea of the new conservative, like hysteria being that kids in schools are identifying as power rangers.
+2164.74 2168.52 SPEAKER_03  Well, it's that we need a John Wick detector in the schools.
+2169.08 2169.42 SPEAKER_02  Yeah.
+2169.76 2176.70 SPEAKER_02  So they say the leading real time physical threat detection solutions, they're not just for schools, they're for anything, right?
+2176.70 2177.60 SPEAKER_02  They just have a school.
+2177.60 2179.22 SPEAKER_00  I mean, you could be John Wick anywhere.
+2179.42 2181.42 SPEAKER_00  You could be in the museum, the library.
+2181.80 2185.14 SPEAKER_03  You have been identified as doing sick John Wick moves.
+2186.80 2196.56 SPEAKER_03  But the thing is, right, if you do that in Britain, right, you, you buy all of this software wholesale from, I presume the U S which means it comes with a cool American voice.
+2196.64 2198.76 SPEAKER_03  So it will be like citizen stop that.
+2199.14 2205.68 SPEAKER_03  And then because you're in Britain, it will have to be like, please wait 60 to 90 minutes for a PCSO to show up.
+2206.36 2208.56 SPEAKER_02  So, uh, but it, it does.
+2208.64 2210.90 SPEAKER_02  It's for alerting private security, right?
+2210.96 2212.92 SPEAKER_03  Most of course it fucking is.
+2212.94 2214.44 SPEAKER_02  We can't do anything publicly anymore.
+2214.44 2216.06 SPEAKER_02  Law enforcement can use it.
+2216.12 2218.14 SPEAKER_02  It's one of these things where it's just an AI system.
+2218.54 2222.20 SPEAKER_02  Whoever wants to buy it, whoever wants to get alerted, they'll put it together for you.
+2222.78 2223.68 SPEAKER_02  Um, pretty standard.
+2224.02 2228.20 SPEAKER_02  So they process, so they, so they have a video stream on any camera.
+2228.20 2238.54 SPEAKER_02  They process the video stream to, uh, to develop meaningful insights, but activity and objects and their algorithm, uh, chair on, uh, the ferryman who crosses you over the river stick.
+2239.06 2243.44 SPEAKER_03  Um, I think, I think we need to do something about people who know about classics.
+2243.44 2246.98 SPEAKER_03  And I, I realized that includes myself, but I'm willing to take one for the team, you
+2246.98 2257.48 SPEAKER_02  know? So they verify suspicious content in real time through the smart decision-making algorithm char on information on the object activity or identity is retrieved and forwarded to the alerting protocols.
+2257.48 2261.64 SPEAKER_02  So if you're a school, it might be like in the U S cause this is where this is mostly marketed.
+2261.64 2264.28 SPEAKER_02  It would be the like school cops.
+2264.94 2274.74 SPEAKER_02  You know, if you're a private company and you have like a watch list of employees that you think might be like, you know, doing something that you don't like, then if they meet together, you'll get a ping.
+2275.28 2276.16 SPEAKER_02  Security will get a ping.
+2276.16 2280.88 SPEAKER_02  So it's, it's a very broad use cases if it works, which is always doubtful.
+2281.48 2281.56 SPEAKER_01  Sure.
+2281.72 2289.78 SPEAKER_02  Um, so, so, uh, testimonials come from, um, James McJunkin, who's the VP.
+2291.00 2291.52 SPEAKER_02  Sorry.
+2291.98 2292.92 SPEAKER_02  Come on.
+2293.44 2300.40 SPEAKER_02  James McJunkin, the former VP of security for the Chicago Cubs baseball club.
+2300.40 2309.62 SPEAKER_03  Again, going to Chicago and seeing that like, yeah, perfectly matched name, job and location,
+2309.92 2314.54 SPEAKER_02  you know, as well as Gary Slater, the CEO of the Iowa state fair.
+2315.38 2320.08 SPEAKER_03  Yeah. I mean, listen, shit has not popped off John Wickstuff at the Iowa state fair.
+2320.08 2329.18 SPEAKER_03  And as far as I'm aware ever, right, no one's been doing like sort of like dives through the air that, you know, uh, shooting people in the head next to the butter cow.
+2329.18 2330.40 SPEAKER_03  Well, not yet.
+2330.72 2334.36 SPEAKER_03  Well, and this is the thing, the price of the watchword of Liberty is eternal vigilance.
+2334.84 2343.54 SPEAKER_02  Um, so they say we are living in times of social unrest, which compels law enforcement professionals to risk their lives in order to protect the life and property of millions of citizens.
+2343.92 2344.08 SPEAKER_03  Yeah.
+2344.12 2348.28 SPEAKER_03  I mean that every, every cop at the Iowa state fair is taking their life in their fucking hands.
+2348.64 2352.50 SPEAKER_02  Uh, from monitoring protests to nabbing, apprehending those committing crimes.
+2352.58 2354.34 SPEAKER_02  Oh, little typo there.
+2354.62 2359.16 SPEAKER_03  So maybe your AI couldn't decide which one of those was in the right register, I guess.
+2359.18 2362.04 SPEAKER_02  You know, there is so much that these agencies must do.
+2362.12 2369.78 SPEAKER_02  And with so much to be done, these agencies should examine the choice between recruiting more officers or deploying AI and machine learning technologies to decrease crime.
+2370.20 2370.30 SPEAKER_03  Yeah.
+2370.38 2370.64 SPEAKER_03  Great.
+2370.74 2372.10 SPEAKER_03  Automate the panopticon show.
+2372.20 2373.46 SPEAKER_03  I've been here a thousand times before.
+2373.46 2386.16 SPEAKER_02  But the, uh, the school I think is an interesting, um, an interesting use case because they're not just monitoring now for, uh, vaping or for people gathering.
+2386.58 2393.50 SPEAKER_02  Uh, they say due to the large number of students in each school, it would be unrealistic to expect only a handful of security guards to monitor each one of them.
+2393.84 2394.04 SPEAKER_03  Yes.
+2394.10 2406.92 SPEAKER_03  I mean, I think that kind of illustrates to me the futility of trying to do this shit in the first place, you know, maybe, maybe not every child in the school needs constant 24 seven oversight.
+2407.06 2408.22 SPEAKER_03  Maybe that's bad for them.
+2408.54 2421.00 SPEAKER_03  Maybe one of the reasons why we invented schools is that it would be a safer environment where you wouldn't need to like watch a child constantly to see if they were engaging in like unsafe or unwanted or dangerous behaviors.
+2421.22 2422.52 SPEAKER_03  Or check this out.
+2422.52 2428.62 SPEAKER_02  What if instead of having a handful of security guards to monitor each one of them, each child gets a retainer?
+2428.74 2429.16 SPEAKER_02  Oh boy.
+2430.02 2430.42 None  Okay.
+2430.70 2431.30 SPEAKER_02  Yeah, sure.
+2431.32 2439.06 SPEAKER_02  That's not what they're proposing, but you know, let's, let's, you know, each child is his own Damio and he gets a samurai and he or she gets a samurai to protect them.
+2439.66 2444.60 SPEAKER_03  I think that there have probably been multiple animes made with this premise.
+2445.28 2452.82 SPEAKER_02  So, um, stationary security cameras not make this any easier because their digital video recording only gathers information and stores it for later use.
+2452.88 2454.62 SPEAKER_03  My samurai could beat up your samurai.
+2455.48 2462.32 SPEAKER_02  Therefore, the need of the hour is security infrastructure capable of mitigating a wide variety of risks, such as school shootings, and this can be made possible.
+2462.44 2464.42 SPEAKER_03  That's not going to mitigate shit, dude.
+2464.48 2473.14 SPEAKER_03  Like if someone's starting a school shooting, then like you get a pretty good indication of that because the people are getting shot.
+2473.28 2478.76 SPEAKER_03  Like the problem is not people not knowing to call the cops in that situation.
+2478.76 2483.02 SPEAKER_03  The problem is the cops showing up and being on their phones outside for an hour and a half.
+2483.52 2487.84 SPEAKER_02  Well, they say that they can use AI to detect guns unless the gun is concealed.
+2488.34 2488.78 SPEAKER_03  Great.
+2488.88 2489.16 SPEAKER_03  Perfect.
+2489.48 2490.94 SPEAKER_03  No one's ever concealed a gun.
+2491.18 2491.54 SPEAKER_03  They say.
+2491.92 2501.34 SPEAKER_03  And if you're not concealing a gun going into a school, then as, as I say, things are probably about to escalate to a point that someone is like a human is going to call the cops anyway.
+2501.78 2506.06 SPEAKER_02  They say to be able to detect a firearm, we require a minimum of 30 pixels per feet.
+2506.06 2515.14 SPEAKER_02  So long as this resolution is met for the maximum distance to the subject for our camera, our algorithm to detect firearms at virtually any angle, so long as the firearm is not concealed.
+2515.70 2516.06 SPEAKER_03  Okay.
+2516.50 2516.90 SPEAKER_03  Sure.
+2517.12 2517.56 SPEAKER_02  Which is great.
+2517.60 2525.80 SPEAKER_02  So it's like, well, I guess if the firearm is concealed, we just have to like monitor the vibes, like see if they're doing high kicks or John Wick shit.
+2526.24 2526.48 SPEAKER_02  Yeah.
+2526.48 2528.92 SPEAKER_02  And then we can say, check this guy's bag for a firearm.
+2529.10 2529.30 SPEAKER_03  Yeah.
+2529.36 2534.00 SPEAKER_03  We've, we've detected that this child is about to pay for something using a gold pirate coin.
+2534.00 2535.82 SPEAKER_03  So I think that's probably a good indication.
+2535.94 2537.64 SPEAKER_03  He's got a Kimber warrior in the backpack.
+2538.20 2552.28 SPEAKER_02  So they say, uh, we use cameras to detect visible firearms and trigger a response, such as issuing text alerts to security staff or emergency personnel, sounding audible doors, locking down doors, or even connecting with an existing system.
+2552.36 2556.80 SPEAKER_02  I love that the lockdown doors that they can, they can do like the geo front locking down animation.
+2556.80 2558.44 SPEAKER_02  If someone comes in with a gun.
+2558.96 2559.08 None  Yeah.
+2559.38 2565.38 SPEAKER_02  Um, we also say that they can monitor for people from watch lists, identify aggressive behavior.
+2565.60 2569.56 SPEAKER_02  Again, I wonder how they're going to determine whether behavior is aggressive.
+2570.14 2570.72 SPEAKER_02  I don't know.
+2570.92 2572.66 SPEAKER_02  Uh, probably nothing sinister.
+2573.18 2573.36 SPEAKER_04  Yeah.
+2573.50 2574.22 SPEAKER_02  Oh, heavens no.
+2574.74 2577.56 SPEAKER_02  And of course they can, they can, I love this.
+2577.60 2578.68 SPEAKER_02  This is my favorite sentence.
+2579.20 2589.22 SPEAKER_02  Silla works as a piece of software that detects, identifies and reports to left directly to law enforcement every time a gun is drawn in a school as though, again, no one else is going to do that.
+2589.30 2590.22 SPEAKER_02  You won't just call them.
+2590.56 2590.86 SPEAKER_02  Hmm.
+2591.28 2591.58 SPEAKER_03  Yeah.
+2591.74 2598.26 SPEAKER_03  No, I mean, also don't a ton of American schools already have metal detectors and shit in the first place.
+2598.64 2607.16 SPEAKER_03  Like, unless, unless your kid is bringing in the fucking diehard to, you know, Glock nine porcelain gun from Germany that doesn't, uh, set off your airport metal detectors.
+2607.46 2609.18 SPEAKER_03  Like what the fuck?
+2609.18 2614.50 SPEAKER_03  Uh, this is just, it, it just seems like such a nonsense to me.
+2614.94 2616.00 SPEAKER_02  Well, you're right.
+2616.06 2616.94 SPEAKER_02  It is right.
+2616.98 2617.88 SPEAKER_02  It is a nonsense.
+2618.02 2625.18 SPEAKER_03  It's just like harvesting school budgets for the, uh, for the ability to like surveil kids slightly more.
+2625.58 2626.02 SPEAKER_03  Yes.
+2626.52 2628.72 SPEAKER_02  That is quite literally what it is doing.
+2629.16 2629.42 SPEAKER_02  Hmm.
+2629.62 2634.86 SPEAKER_02  Um, they even say, yes, Silla seems very expensive, but can you really put a price on safety?
+2634.98 2636.10 SPEAKER_02  Plus you can save money.
+2636.52 2637.02 SPEAKER_02  How expensive is it?
+2637.02 2642.08 SPEAKER_02  Um, well, they don't say on their website, you probably, it's probably one of these things where it's like, if you have to ask, you can't afford it.
+2642.36 2642.48 SPEAKER_02  Yeah.
+2642.52 2645.10 SPEAKER_02  But it's, it's, that's how a lot of stuff is priced up now.
+2645.22 2648.42 SPEAKER_02  It's just like, oh yeah, it's, it costs something.
+2649.20 2658.62 SPEAKER_02  Um, anyway, anyway, just shall we, shall we end on, um, a little article I'm calling the Hasbara factory.
+2659.22 2659.64 SPEAKER_02  Yeah.
+2659.66 2660.30 SPEAKER_02  Let's do it.
+2660.30 2660.74 SPEAKER_02  Yeah.
+2660.86 2667.62 SPEAKER_02  So I don't know if you, uh, I don't know if you've heard of this, but Israel has, uh,
+2667.62 2669.06 SPEAKER_03  I've heard, I've heard of Israel. Yeah.
+2669.08 2670.06 SPEAKER_02  Heard of this Israel stuff.
+2670.64 2673.02 SPEAKER_03  Um, Israel with the big air quotes.
+2673.10 2673.60 SPEAKER_02  It's like, no.
+2673.60 2680.14 SPEAKER_02  Uh, so this is, this is from, um, the paper Haaretz, which cites like numerous sources with knowledge of the matter.
+2680.14 2695.50 SPEAKER_02  Um, and the article opens, Israel has responded to its clear loss to Hamas on the digital battlefield by making its first ever purchase of a technological system capable of conducting mass online influence campaigns, according to numerous sources with knowledge of the matter.
+2695.50 2707.62 SPEAKER_03  Listen, you know, who's conducting a mass online influence campaign is unintentionally the IDF soldiers who can't stop filming themselves, committing war crimes.
+2707.80 2717.94 SPEAKER_03  And the reason why they can't stop committing war crimes and filming it isn't just because the IDF is a kind of like undisciplined colonial police force that's been let wildly off the leash.
+2717.94 2727.82 SPEAKER_03  It's because Israeli society in general to a sort of vast majority, not only approves of the war crimes and the genocide, but thinks that they should go further.
+2728.26 2733.74 SPEAKER_03  Uh, thinks that like the woke Americans are the only things holding them back and thinks that more of them should happen.
+2734.24 2751.66 SPEAKER_03  Um, that's the kind of like thing underlying all of the technology and all of the like cyber war public relations, psyop shit happening here is that like, ultimately the, the facts on the ground are that Israel is committing a genocide and the majority of the Israeli population like it and want it to be worse.
+2752.36 2752.40 SPEAKER_03  Hmm.
+2752.40 2755.04 SPEAKER_03  And this is, we talked about this before, right?
+2755.08 2765.76 SPEAKER_02  This is a familiar pattern to us, which is trying to solve what is essentially a political problem using technology and not acknowledging.
+2766.04 2766.80 SPEAKER_03  It's like, what the fuck?
+2766.82 2768.26 SPEAKER_03  We're getting owned on our posts.
+2768.44 2783.70 SPEAKER_03  And the, you know, the reason why we're getting owned on our posts is because like of the Al Qasem cyber brigades, instead of the fact that people can go on their phones and see a video of like three grinning dipshits detonating an entire apartment block.
+2783.76 2785.90 SPEAKER_00  Well, this is, this is, this is also like another part of it too.
+2785.98 2791.50 SPEAKER_00  Like the, they like, they just can't get, I don't know whether there's been an effort to try and get them to start posting.
+2791.92 2792.54 SPEAKER_00  I don't think so.
+2792.80 2797.74 SPEAKER_00  But the fact is that like, they just keep posting the worst and most heinous shit.
+2797.88 2804.92 SPEAKER_00  And like someone made a point, I can't remember who it was, but like they made a quite a good point, which is like a lot of these posts are sort of like not really designed for us.
+2804.92 2809.20 SPEAKER_00  Ah, so they are designed for like other people in like mostly Israelis.
+2809.48 2809.62 SPEAKER_00  Right.
+2810.10 2825.56 SPEAKER_00  And so when they sort of like break the brick, when they break the barrier, because to bear in mind, like a lot of the sort of like Israel PR has rested on the basis that, or like one of the sort of like strengths behind it has been like, oh, you know, they're much more like the West than other Middle Eastern countries.
+2825.94 2831.00 SPEAKER_00  Something that you can obviously like unpack, like you can unpack that in whatever way you want.
+2831.00 2835.02 SPEAKER_00  Like that has been one of the driving forces of like the Israeli PR campaign.
+2835.68 2841.90 SPEAKER_00  So once that sort of permeates and you have, you know, a good amount of Westerners being like, oh, hey, that's sort of fucked up.
+2841.90 2849.18 SPEAKER_00  But like you dress up in like a dinosaur costume and fire missiles into into a place where like children are starving.
+2849.18 2857.06 SPEAKER_00  Um, and then like the only response you can get from that is just like, oh no, this must all be convoluted.
+2857.12 2863.86 SPEAKER_00  This must all be sort of like, you know, actually like it is a social media war against, you know, uh, kids in Qatar or whatever.
+2864.26 2869.08 SPEAKER_00  Um, and it's just, and it's sort of been interesting just to sort of see how they've tried to rationalize.
+2869.14 2877.54 SPEAKER_00  I think Alice, as you mentioned, just the fact that like there are many sort of like young dipshits in the IDF, uh, who just cannot stop posting.
+2877.54 2880.06 SPEAKER_02  Well, so the article, the article goes on.
+2880.20 2885.44 SPEAKER_02  And I mean, I think much of what you're saying is saying is going to get borne out by what's discussed here.
+2885.58 2901.82 SPEAKER_02  It says the system can, among other things, automatically create content tailored to specific audiences purchased as a wider part, a wider attempt by Israeli bodies, civilian and military to address what sources termed as quote, Israel's public diplomacy failure following October 7th.
+2901.82 2904.86 SPEAKER_03  Again, there's no diplomacy that can cover for this shit.
+2904.96 2906.20 SPEAKER_03  Like it just doesn't exist.
+2906.28 2907.08 SPEAKER_03  It isn't possible.
+2907.08 2908.86 SPEAKER_03  It certainly isn't possible anymore.
+2908.86 2909.42 SPEAKER_03  Right?
+2909.44 2912.16 SPEAKER_03  Like this is a, a drum that I keep banging.
+2912.16 2912.64 SPEAKER_03  Right.
+2912.68 2925.00 SPEAKER_03  Is that like, um, I said this last time as well, that like the war crimes aren't necessarily any worse than war crimes in the past, but like the video footage is so ubiquitous and irrefusable.
+2925.38 2928.14 SPEAKER_03  And they're being committed so gleefully as well.
+2928.14 2928.58 SPEAKER_03  Yeah, exactly.
+2928.70 2932.00 SPEAKER_03  Like back in the day, you used to be able to do all of the same shit.
+2932.00 2939.66 SPEAKER_03  Maybe you would film it and like distribute those films to like a select audience of your friends or whatever, or people you knew could be politically reliable.
+2939.96 2944.94 SPEAKER_03  And then your country or your group's diplomats could get up and lie through their teeth and say, no, that isn't happening.
+2945.34 2948.50 SPEAKER_03  Uh, and everyone is being hysterical about it because they hate us.
+2948.50 2956.58 SPEAKER_03  And now you try that same shit and did sort of like obvious insincerity of it just is, is like so clear as to make it useless.
+2957.48 2963.74 SPEAKER_02  And, and the idea then that like you can counter this just with more posting is.
+2963.74 2963.98 SPEAKER_02  Yeah.
+2964.04 2978.14 SPEAKER_03  Like you're going to see like, uh, you know, a kid with like all four of their limbs blown off and then some promoted account is going to be like, did you know that the occupied Galan Heights has an excellent winery and you'll be like sick, this cancels out perfectly.
+2978.34 2980.46 SPEAKER_03  I love a like nice dry white.
+2981.14 2989.02 SPEAKER_02  Did you, did you know that, um, that ways was invented to, um, actually, uh, get Judean rebels out from Roman encampments?
+2989.64 2991.42 SPEAKER_02  You want a soda stream?
+2991.42 3002.06 SPEAKER_02  Um, so according to eight different sources active in the worlds of intelligence, technology, influence, and public diplomacy, Israel was described as ill-equipped for the social media war that erupted on, on black Saturday.
+3002.28 3009.62 SPEAKER_02  This resulted in a quote credibility crisis that has from their perspective hindered the IDF's ability to act against Hamas on the actual battlefield.
+3010.32 3011.24 SPEAKER_03  Well, I mean, not really.
+3011.28 3013.40 SPEAKER_03  They're still doing all the shit that they want to do.
+3013.64 3018.82 SPEAKER_03  Like the fact that it's embarrassing, it's not like the Americans are stopping them and they're the only people who plausibly can.
+3018.82 3022.68 SPEAKER_03  But, but people aren't cheering for them when they post their TikToks.
+3022.80 3026.32 SPEAKER_03  The biggest fucking victim complex in the world, I swear to God.
+3026.68 3029.60 SPEAKER_03  Like, literally, you could just do that.
+3029.66 3031.02 SPEAKER_03  You are doing this.
+3031.40 3036.00 SPEAKER_03  Um, like you're fucking blowing up entire neighborhoods because you feel like it.
+3036.00 3053.24 SPEAKER_03  Um, and then you're mad because on social media, the people who you already hate and have contempt for are expressing kind of like the minimum amount of hesitation to be like, this seems kind of fucked up, you know, because you want that prestige and you want that idea of westernity or whatever.
+3053.24 3061.98 SPEAKER_02  But also, it's the, um, you know, it's the, because you are, you exist in the victim complex, right?
+3062.26 3066.00 SPEAKER_02  And you have the whole time, it's been your whole way of being for decades.
+3066.32 3072.28 SPEAKER_02  You know, it's that you're not able to square that that doesn't match up with what you've been doing.
+3072.38 3072.84 SPEAKER_02  Yeah.
+3073.10 3073.38 SPEAKER_02  Right.
+3073.38 3089.84 SPEAKER_02  And, and so the idea that you're going to be able to buy some poorly defined suite of auto posting tools, basically like tweet deck, you know, like a private tweet deck to sort of somehow solve that is, you know, it would be laughable if it weren't sort of so tragic at the same time.
+3089.96 3115.34 SPEAKER_00  All I sort of wanted to add to that, and it does, this sort of seems to be contradictory as well, uh, in terms of like what the content strategy is, because like the issue and correct me if I'm wrong here, but the, like one of the issues I've sort of pointed out to them is that, is like an issue to do with exposure, like their sort of argument, um, the very bad faith argument, their argument, like working on their logic is that too many people are sort of seeing, um, pro so they sort of classify as like pro Palestine.
+3115.44 3125.62 SPEAKER_00  And these are like, you know, posts that are really, really amount to like, this is sort of fucked up, but so many children are dying or like, or are dead and like everything is basically rubble.
+3126.28 3142.34 SPEAKER_00  Um, so this proposed solution to that is to sort of try and ramp up the amount of pro Israeli tweets and like propaganda because they think that like, if more people are exposed to that, then that will sort of benefit them.
+3142.34 3154.46 SPEAKER_00  But at the same time, like a lot of how this war is kind of, especially like in Israel, that the war is being sold as far as I'm aware is through these kind of camp through demonstrating like the power of the idea.
+3154.70 3155.00 SPEAKER_00  Right.
+3155.34 3183.76 SPEAKER_00  And that sort of feels where the contradiction is not just in terms of like, I think the social media component of it is really just one lens to look at it, but like on a political level where there seems to sort of be a struggle to sort of triangulate the attempt abroad to sort of present Israel as being like the sort of victims in this, the sort of, um, you know, the underdogs in this, uh, while at the same time also needing to prove it, like, no, we are like this mighty, like military force and we can sort of take out anyone.
+3183.76 3199.40 SPEAKER_00  Like, and it feels like that contradiction is something that they are struggling to resolve, especially considering that, like, in sort of speaking about like politics in Israel, there is very much of this, there is very much as pushed to like, no, we have to sort of continue the war.
+3199.76 3202.66 SPEAKER_00  We have to sort of continue sort of like bombing and destroying people.
+3203.12 3207.88 SPEAKER_00  And I don't know how, like how they are sort of trying to like conceptualize this.
+3207.88 3217.90 SPEAKER_02  Well, I think it's the, um, Hey, wait a minute. Um, the other, other observers of this haven't realized that our enemy is both pathetically weak and terrifyingly strong at the same time.
+3217.94 3232.14 SPEAKER_02  We have to post more until they agree. Um, they say this is supposed to counter the well-oiled hate machine systematically pushing out anti-Israel disinformation, misinformation, as well as blatantly antisemitic context, content, excuse me. And they say the way to influence key events.
+3232.14 3249.46 SPEAKER_03  For like, okay, fine. Like for every antisemitic post, like whether that's sort of done cryptically or openly, there are a hundred things that are just flatly documenting things that the IDF is doing often at their own hands, often posted by them.
+3250.46 3255.66 SPEAKER_02  So the, uh, the, the examples that they give, they give a few examples, such as the Al-Ali hospital.
+3256.20 3259.14 SPEAKER_02  Um, but when I want to say the give it's highlight.
+3259.14 3265.16 SPEAKER_03  Yeah. Very weird that all of the OSINT guys went completely silent about this entire conflict after that, by the way.
+3265.58 3277.44 SPEAKER_02  So the October 27th battle over Al-Shiva hospital while Hamas floods social media with raw and graphic footage, the IDF responds with 3d models and highly designed infographics of terror infrastructure.
+3277.68 3283.96 SPEAKER_03  Yeah. They were ridiculous. The fucking Hamas conference room, the red barrel room, the like tunnel network of nothing.
+3283.96 3295.92 SPEAKER_02  Yeah. But that's the thing is right. Hey, they, they posted a bunch of, of, of footage and we did a drawing and nobody cared. We need an AI machine to fix this.
+3296.28 3301.20 SPEAKER_03  Yeah. It's like, again, there is no technology that can make these claims plausible, right?
+3301.20 3314.58 SPEAKER_03  Like now that they've searched and in many cases destroyed, as far as I'm aware, damn near every hospital in Gaza and still haven't found the kind of, uh, the bamboo Pentagon, right?
+3314.62 3329.78 SPEAKER_03  Like the, the Hamas conference room, the red barrel room, Yaya Sinwa's office. Um, and presumably they didn't stop looking and haven't found them. It just, there's no way of putting that sort of toothpaste back in the tube. There's no way of making it not be ridiculous.
+3329.78 3342.40 SPEAKER_02  Well, and they, so they, they also talk about like the bin Laden letter on November 16th, which again, it was like a small number of TikToks that journalists saw and then decided to start panicking about.
+3342.48 3343.64 SPEAKER_02  I don't even know what this one is.
+3343.90 3349.78 SPEAKER_02  I remember the, um, when Obama, Osama bin Laden's letter to America went viral, quote unquote viral on November 16th.
+3349.78 3350.12 SPEAKER_02  Yeah.
+3350.12 3370.98 SPEAKER_02  That is cited some TikTok nonsense that some, that columnists got very head up about is cited as like, well, we, as this part of this like network of things we have to counter because all opposition to us must come from the same dark cloud, the same people who were tricked into not believing our helpful infographics.
+3371.32 3379.84 SPEAKER_03  Yeah. I mean, listen, if you want to stop people from like sympathizing with Hamas or joining Hamas, I think maybe the more proximate option there is to not kill.
+3379.84 3382.34 SPEAKER_03  Also many of their relatives, you know?
+3382.76 3388.46 SPEAKER_02  Well, um, they say they've decided to purchase an existing technology instead of risking developing one independently.
+3388.68 3389.62 SPEAKER_02  It's like, well, hang on.
+3389.66 3393.52 SPEAKER_02  I thought you guys were supposed to be like, that was like one of the things that you say, right? Is that, well, we have apps.
+3393.52 3394.10 SPEAKER_03  This is the thing.
+3394.16 3401.96 SPEAKER_03  It's like Israel is the like startup nation that does all the surveillance technology and security technology and like influence, uh, forming and like sign up stuff.
+3402.10 3404.06 SPEAKER_03  And yeah, it turns out all of that shit, the bad.
+3404.50 3407.70 SPEAKER_03  So, uh, we, we bought whatever this is off the shelf.
+3407.84 3409.02 SPEAKER_03  What did they buy off the shelf?
+3409.02 3410.48 SPEAKER_03  It's not clear.
+3411.06 3411.48 SPEAKER_03  Oh, okay.
+3411.58 3423.02 SPEAKER_03  So they just bought like something off of like American presidential campaigns that they bought, like they got Hillary's old fucking license for like opinion maker with like no vowels in it.
+3423.38 3427.72 SPEAKER_02  A number of civilian tools and programs developed for business and political campaigns were procured.
+3427.84 3439.38 SPEAKER_02  So they got a bunch, a system for mapping online audiences, a system capable of automatically creating websites as well as content tailored to specific audiences, a system for monitoring social media and messaging platforms and others.
+3439.38 3443.00 SPEAKER_02  So yeah, they basically got like, um, like clout tracker.
+3443.50 3443.52 SPEAKER_03  Yeah.
+3443.60 3450.96 SPEAKER_03  We, we found out how many people were posting the word Hamas versus posting the word Sahal and we're sort of counting likes on those.
+3451.06 3453.14 SPEAKER_03  And it turns out we're getting our shit kicked in.
+3453.52 3455.54 SPEAKER_03  Uh, this is a new front of the cyber war.
+3455.54 3474.50 SPEAKER_02  Well, those camp, well, the, well, previous campaigns, because like Haaretz is sort of a, you know, Israel's like centrist newspaper say, well, those camp, well, previous campaigns, um, uh, such as groups of Israelis selling disinformation election interference services to private clients, parts of which also included the use of never before seen software for online influence campaigns.
+3474.50 3489.22 SPEAKER_02  Sources stress that this is not the case of Israel now, because while those campaigns were political, acting in bad faith and use fake information to deceive people, the goal here is the opposite, to amplify real information in the face of disinformation, enjoying inauthentic support.
+3489.50 3489.82 SPEAKER_03  Uh huh.
+3489.98 3490.34 SPEAKER_03  Sure.
+3490.86 3499.42 SPEAKER_03  We're going to, we're going to get real information like, um, this sort of little baggy of three bullets they found in the back of a functioning MRI scanner.
+3499.78 3501.32 SPEAKER_03  That's, that's news that you can use.
+3501.48 3502.94 SPEAKER_03  You know, you take that to the bank.
+3502.94 3515.94 SPEAKER_02  The first campaign created by the system is already running online, which is not in fact in Hebrew and doesn't focus on the war at all, but instead on antisemitism and countering anti-Zionist narratives for the first time ever.
+3516.24 3517.68 SPEAKER_02  This is the Hezbollah factory.
+3518.12 3534.88 SPEAKER_02  Um, it seems to me again as this, yeah, we're, we, we have a political problem to which we are applying, applying a technical solution that only serves to underscore the ludicrousness, um, uh, cruelty and, uh, sort of nonsense of the political problem itself.
+3535.56 3538.84 SPEAKER_02  Um, any case, I think that's probably about all we have time for today.
+3538.84 3543.82 SPEAKER_02  So I want to, uh, thank our reduced crew today.
+3544.10 3545.64 SPEAKER_03  Hey, you're, you're, you're most welcome.
+3545.76 3547.18 SPEAKER_03  I literally get paid to be here.
+3547.80 3552.94 SPEAKER_00  I've got to, I've got to like go to my shift, uh, working in the, uh, working in the IDF click farm.
+3552.94 3559.46 SPEAKER_00  Um, uh, we're gonna, we're gonna, we're gonna, we're gonna like call some, we're gonna call some, uh, some, some pro Palestinian, uh, groups.
+3559.56 3560.82 SPEAKER_00  We're gonna call them fams.
+3560.98 3563.42 SPEAKER_00  And, uh, yeah, it'll be, yeah.
+3564.10 3566.38 SPEAKER_03  The thing about Hamas is that they look like him.
+3566.80 3572.56 SPEAKER_03  Uh, the thing is obviously Hussein, you and I, we both joined the IDF, uh, together a month ago.
+3572.56 3583.72 SPEAKER_03  And as major generals now, um, with our sort of like long time in service, we've, we've got to go and command this like, um, sort of Hasbara factory.
+3584.02 3585.50 SPEAKER_00  We're in, we're in the posters corpse.
+3585.90 3588.06 SPEAKER_00  Uh, it's an important job.
+3588.14 3591.46 SPEAKER_00  We were like preparing, we're preparing Taylor Swift reaction gifts.
+3594.10 3596.00 SPEAKER_03  Bestie Hamas is not a slave.
+3598.08 3600.42 SPEAKER_02  Yeah, but what if your jobs get automated?
+3600.56 3602.08 SPEAKER_02  They'll have you busted down to Colonel.
+3602.56 3605.14 SPEAKER_02  All right.
+3605.18 3605.42 SPEAKER_02  All right.
+3605.84 3607.42 SPEAKER_02  Um, I think that's, is all we have time for.
+3607.56 3611.40 SPEAKER_02  So, uh, I also want to thank the audience and not to forget there is a page.
+3611.52 3614.14 SPEAKER_03  Those guys, those guys don't even get paid to be here.
+3614.60 3616.72 SPEAKER_02  Well, there's a $5 a month.
+3616.80 3619.38 SPEAKER_02  You can get a second episode every week for $10 a month.
+3619.42 3624.10 SPEAKER_02  Also, uh, which I'm bringing up because there's going to be a very special left on red coming to the $10 tier.
+3624.22 3624.68 SPEAKER_02  That's right.
+3624.68 3626.94 SPEAKER_02  We are doing blindsight again.
+3627.14 3627.24 SPEAKER_03  Yeah.
+3627.24 3628.52 SPEAKER_03  You finally dragooned me into doing it.
+3628.52 3632.44 SPEAKER_03  I will also say your Patreon tier does reflect the rank that you will be given.
+3632.98 3637.92 SPEAKER_03  Uh, so if you want to get, if you want to get commissioned as a major general, get in at that $10 tier.
+3638.38 3638.76 SPEAKER_02  Yeah.
+3638.80 3643.48 SPEAKER_02  If you're a five, if you start at the $5 tier, you only can start as a normal major.
+3643.90 3644.22 SPEAKER_03  Yeah.
+3645.22 3647.60 SPEAKER_03  Your promotion will come after like one month.
+3648.14 3650.46 SPEAKER_02  Uh, one month or two, two weeks for good behavior.
+3650.98 3653.80 SPEAKER_02  Um, so, uh, all of that being the case.
+3653.80 3655.50 SPEAKER_02  Uh, yeah, I think that's it.
+3655.90 3656.42 SPEAKER_02  Bye everybody.
+3656.84 3657.06 SPEAKER_02  Bye.
+3657.70 3658.32 SPEAKER_02  Bye.
+3658.32 3658.98 None  Bye.
+3661.80 3663.44 None  Bye.
+3663.44 3663.86 None  Bye.
+3664.32 3676.82 None  Bye.
+3676.82 3677.32 None  Bye.
+3677.38 3677.42 None  Bye.
+3677.42 3677.88 None  Bye.
+3677.88 3678.30 None  Bye.
+3678.56 3678.62 None  Bye.
+3678.72 3679.26 None  Bye.
+3679.26 3679.30 None  Bye.

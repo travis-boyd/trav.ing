@@ -1,0 +1,915 @@
+0.00 18.90 SPEAKER_02  Hello everyone and welcome to this, the first free episode of 2024.
+18.90 22.72 SPEAKER_06  It's the 2024 one. You made it through another year.
+22.82 28.34 SPEAKER_06  Yeah, you've watched the Hootenanny and now you're here. Jules Holland is in the guest chair. Hello Jules.
+28.34 36.84 SPEAKER_04  Is it okay if I play a honky-tonk version of Here We Go by Ginseng and we all put our head in our hands and we go, yes that's fine.
+36.84 45.84 SPEAKER_06  We've got a fantastic trash shooter here tonight. We've got C6 Steve over in the corner. We've got Jamie Cullum.
+45.84 51.14 SPEAKER_04  There's a whole ecosystem of guys living under one rock who you only see at New Year.
+51.14 56.84 SPEAKER_04  Who you only ever see in a Hootenanny related context. What does C6 Steve do the rest of the fucking year? I don't know.
+56.84 61.54 SPEAKER_04  What does Jules Holland do the rest of the year? Make noise complaints about his neighbors.
+61.54 67.34 SPEAKER_04  Which is ironic. Yeah, that's right. So congratulations to 2023 survivors.
+67.34 76.34 SPEAKER_04  We're not among them yet. We are recording. That's true. We could all die before 2023 is out and this could be our final message.
+76.34 83.28 SPEAKER_04  Which is potentially a really compelling idea. Do you want to do like a Heaven's Gate mass suicide?
+84.28 86.38 SPEAKER_04  I don't want to do that one.
+86.64 90.12 SPEAKER_06  Riley poisoning the fine recult that he's passing around the table.
+90.12 95.92 SPEAKER_02  What I do want to do, however, is say that this is going to be the first half of the episode.
+95.92 105.40 SPEAKER_02  We're going to be talking about a few, just a few of the things that have come into the Christmas period for domestic sort of UK politics news.
+106.20 115.82 SPEAKER_02  Do a startup and then I'm going to hand over to myself and I will be talking to Dr. Gareth Fern about planning.
+115.82 124.24 SPEAKER_02  Because every party, every political party, right? They say the thing that we're going to do in order to fix Britain is we're going to finally fix planning.
+124.64 126.26 SPEAKER_02  And that's going to make all the investment happen.
+127.10 140.52 SPEAKER_02  And what we're going to talk about with Gareth, and I've already had this conversation, so I do know that this does occur, is establish, okay, well, what would actually, what kind of a change to the way we plan towns and stuff?
+140.52 144.24 SPEAKER_02  What would actually be enough to solve the problem that we've got?
+144.74 146.42 SPEAKER_02  And I'll give you a hint.
+146.78 150.22 SPEAKER_02  It's not, quote unquote, streamlining this process.
+150.40 151.98 SPEAKER_02  It's turning into an actual public service.
+152.34 153.96 SPEAKER_02  So we're going to talk about what that looks like.
+154.22 154.54 SPEAKER_02  How interesting.
+154.54 177.30 SPEAKER_02  However, I want to talk a little bit about a hearty further congratulations to Rishi Sunak for single-handedly making global fuel prices smaller and therefore ensuring that his promise to voters to have inflation by sitting around and just waiting for it to do so itself will have work.
+177.30 178.94 SPEAKER_06  He's been pumping oil out of his back garden.
+179.06 180.66 SPEAKER_06  That's what people won't tell you about, Rishi Sunak.
+180.82 182.72 SPEAKER_06  He's been doing his best to fuck OPEC.
+182.72 184.32 SPEAKER_04  Some backyard fracking.
+184.48 189.86 SPEAKER_04  I mean, this is all highly contingent on the Houthis and the Bab al-Mandab.
+190.64 193.98 SPEAKER_04  So maybe fuel prices just go up a bunch.
+194.46 200.86 SPEAKER_04  But yeah, for now, it seems that Rishi has, at time of recording, been turning the big inflation dial down.
+201.14 202.22 SPEAKER_02  Yeah, that's right.
+202.54 204.40 SPEAKER_02  I've been working with the Houthis.
+204.40 234.90 SPEAKER_02  Although it is certainly quite interesting to see, and we'll sort of talk about this more in the coming weeks for sure, just how much the global economy has been able to be disrupted by people who have been, let's say, on the receiving end of quite a bit of Anglo-American technology flown and dropped by guys whose combat uniform includes a white Fendi belt.
+234.90 242.98 SPEAKER_04  Yeah, there's a few pinch points on this international system of trade and navigation we've built up, and this is a big one of them.
+242.98 243.42 SPEAKER_04  Yeah.
+244.34 255.42 SPEAKER_02  Anyway, but also, I think one of the other things to consider is we haven't learned much about the global economy, or at least the UK's economy.
+255.42 262.88 SPEAKER_02  Other than that, a very small number of companies are able to just capitalize on supply shocks to fuck everyone else.
+263.44 276.04 SPEAKER_02  Basically, the way that our economy is set up, especially with our energy companies, is designed to look at supply shocks in the rest of the world and make sure we feel them 10 times as much as we otherwise could.
+276.62 276.78 SPEAKER_06  Yeah.
+276.92 282.74 SPEAKER_06  Can we cut in the bit of Michael Gamble and Layer Cake saying, the art of good business is being a good middleman.
+282.74 283.02 SPEAKER_06  Ta-da!
+283.02 293.64 SPEAKER_02  So, I think this is what we have learned, of course, is it wasn't, there's no evidence at all.
+293.90 296.96 SPEAKER_02  Now that the inflation is now falling, we can look back on it.
+297.16 305.10 SPEAKER_02  Zero evidence at all that any sort of more generous social security spending during COVID had anything to do with it at all, right?
+305.10 312.60 SPEAKER_02  This was just fuel prices got more expensive, and then nine guys were able to turn generational wealth into bunker wealth because of that.
+312.60 315.14 SPEAKER_04  Five guys plus four more guys.
+315.34 315.58 SPEAKER_04  Yeah.
+315.90 316.66 SPEAKER_06  Yeah, that's right.
+316.72 319.64 SPEAKER_06  Yeah, the burger chain got really rich, and also four other guys.
+319.84 322.44 SPEAKER_02  The burger chain got so rich, they added four guys.
+322.86 323.58 SPEAKER_06  That's right.
+323.68 323.90 SPEAKER_06  Yeah.
+324.40 325.22 SPEAKER_06  Yeah, yeah, yeah.
+325.92 327.80 SPEAKER_06  They created jobs at five guys.
+329.50 331.50 SPEAKER_04  We're not dead naming nine guys here.
+331.50 343.88 SPEAKER_02  Well, speaking of that, though, I did also want to talk about one of the things that we've seen in the distance coming down the kind of legislative pipe.
+343.88 353.44 SPEAKER_02  We've talked about it on a few episodes, which is the new guidance that forces schools to be weird about gender with children.
+353.44 358.86 SPEAKER_04  Hello and welcome to the Transgender Half Hour with Alice Gordor Kelly and Friends.
+359.36 372.12 SPEAKER_04  Yeah, so this is kind of the sum total of the effects of having ruthlessly but incompetently politicized the EHRC and a bunch of equality stuff.
+372.12 386.88 SPEAKER_04  is that now Kemi Badenok has announced a bunch of guidance at schools, which, as you say, tries to make life more miserable for trans kids in schools.
+386.88 387.28 SPEAKER_04  Right.
+388.02 394.72 SPEAKER_04  But I think the main takeaway from this is obviously this is very, very bad.
+394.84 397.64 SPEAKER_04  It's going to immiserate a lot of people.
+398.58 411.66 SPEAKER_04  But it strikes me that we're dealing with the same thing as the Rwanda deal, where you're pushing up against the limits of this envelope of what parliamentary democracy, as currently constituted, you can make happen within it.
+412.26 414.52 SPEAKER_04  And you're trying to deliver the impossible.
+414.52 426.10 SPEAKER_04  Right. The thing that they actually want to do instead of the admittedly shitty compromise that this is, is, you know, I think it was Janice Raymond who said, like, morally mandate transgenderism out of existence.
+426.10 435.28 SPEAKER_04  Right. And much like just putting people on planes to Rwanda, you can't really do that legally within this framework that we've constructed.
+435.28 455.38 SPEAKER_04  And I think part of the point of doing this is so that you can like push further and further and further up against it so that once you're in opposition as a conservative party, you can then say from the right, well, this whole, this whole envelope, this whole like framework of liberal democracy or like liberalism in the broadest sense, this is all fucked.
+455.38 458.92 SPEAKER_04  And it has to go so that we can immiserate these people properly.
+459.52 468.52 SPEAKER_04  And the thing is, that's very compelling to people because the like the strictures of that envelope of that kind of liberalism do make everybody miserable.
+468.76 471.42 SPEAKER_02  Just not in that way.
+471.62 471.96 SPEAKER_02  Right.
+471.96 475.86 SPEAKER_02  It's we want to turn the incipient fascism into much more full bore.
+476.56 496.14 SPEAKER_04  Exactly. Exactly. And I mean, sort of the pressing question I submit to any kind of like trans rights movement or anything like that is whether this is the time to, and I don't really take a position on this, make like urgent common cause with the liberalism because the liberalism has a lot of establishment power and people are very fond of it.
+496.14 505.04 SPEAKER_04  And you have these kind of like weird soft Tories who met like one nice trans person once and I like, well, I don't see why we should be doing the exterminate the brute stuff on them.
+505.04 516.82 SPEAKER_04  Or whether you should be doing the more radical route, which is this whole like system of liberalism is fucked from the left and that's more emancipatory.
+517.52 529.40 SPEAKER_04  But in the meantime, I think it's, it's, this is best understood as an, as a drive towards a, like an insurgent sort of like anti-democratic way of doing this.
+529.40 541.36 SPEAKER_02  Well, and I think we can look at this as well in the, and we'll, we'll clarify what this is, what the guidance mandates and, and it's not a law, it's guidance and it's guidance that actually breaks a lot of laws, which is great.
+542.14 547.28 SPEAKER_04  See, again, the envelope, it like pushes up against the existing constraints of the, you know, the system that we've built.
+547.50 548.30 SPEAKER_04  But before we get to this.
+548.38 549.28 SPEAKER_00  We're stuck in a big envelope.
+550.16 552.44 SPEAKER_00  We need to get out of the envelope.
+552.44 561.42 SPEAKER_02  Before we get to the actual, actual description of the, of the, the guidance, it's, it's pretty much what you'd expect, right?
+561.66 566.32 SPEAKER_02  No social duty to facilitate, no duty to facilitate social transitioning.
+566.32 570.22 SPEAKER_02  So just like wearing a different school uniform, being called a different name and so on.
+570.84 576.00 SPEAKER_02  A kind of duty to inform parents as well as their children are like LGBT.
+576.00 576.78 SPEAKER_04  Blatly terrible.
+577.20 580.56 SPEAKER_04  The, the, the, the soul saving grace of all of this is that none of this is statutory.
+580.56 584.94 SPEAKER_04  Um, and schools, school leaders are cowards on this largely.
+585.52 588.32 SPEAKER_04  Um, but if you want to, you can ignore this.
+588.42 592.86 SPEAKER_04  And I think some schools will, which ought to the good.
+593.08 593.58 SPEAKER_02  But also, right.
+593.58 605.18 SPEAKER_02  We think about if we, we thought, thought about like the roots of sort of specifically of English transphobia and how it, it, it kicked into overdrive in 2015.
+605.18 620.10 SPEAKER_02  And what the function of all those columns was really, whether or not the people writing them knew that, was to get people emotional enough, to angry enough about this, um, and to feel a sense of, of fear about this.
+620.48 630.40 SPEAKER_02  Enough that when it comes time to say, well, we need to repeal the Human Rights Act so that, um, you know, they're, so that the children will be protected from the brutes.
+630.40 633.64 SPEAKER_02  Um, even though in many cases the brutes are the children, right?
+633.92 635.98 SPEAKER_02  Because the Human Rights Act has quite good branding.
+636.16 636.62 SPEAKER_02  That's the problem.
+637.04 638.30 SPEAKER_02  And we need to do that, right?
+638.36 642.72 SPEAKER_02  That they, they have spent the last eight years gathering that base of support.
+643.48 644.08 SPEAKER_02  Yeah, absolutely.
+644.28 644.40 SPEAKER_02  Yeah.
+644.54 649.98 SPEAKER_04  And not just on this, like also on migration, also on like prison stuff, any number of things.
+649.98 662.68 SPEAKER_04  Um, and, and I think the, the push to like really do away with these, these things of like, of liberalism, of, of like getting us out of the ECHR, uh, and like, uh, repealing the Human Rights Act.
+662.98 667.12 SPEAKER_04  Uh, that's, that's the sort of much darker even than this path.
+667.12 680.04 SPEAKER_04  And I, I feel terrible for the, the children most of all, because like you already, if you're a school child in this country, you already go to something called the like business schools grind set academy, right?
+680.20 684.08 SPEAKER_04  Where they make you wear some kind of insane uniform and, you know, enforce like.
+684.08 687.12 SPEAKER_06  Well, you go to the Hustlers Academy where the headmaster is Andrew Tate.
+687.12 692.30 SPEAKER_04  You go to the Hustlers Academy and they enforce like Victorian rules of silence on you.
+692.70 696.68 SPEAKER_04  You, you can't piss at any point during the day because it will disrupt your learning.
+697.14 700.04 SPEAKER_06  But even if you could piss, you'd have to go into a specific bathroom.
+700.36 700.64 SPEAKER_04  Yeah.
+700.72 703.96 SPEAKER_04  We've, we've made all of that a bunch more humiliating.
+704.10 705.80 SPEAKER_04  At the end of that, you get out of it.
+705.88 707.98 SPEAKER_04  Uh, university is incredibly expensive.
+708.12 709.02 SPEAKER_04  There are no jobs.
+709.44 712.72 SPEAKER_04  Uh, and then on top of all of that, we're going to get your ass with the climate.
+712.88 713.74 SPEAKER_04  I mean, it's.
+713.94 716.28 SPEAKER_06  And also the school might collapse on you and kill you, of course.
+716.28 716.60 SPEAKER_06  Yeah.
+716.74 717.22 SPEAKER_04  Yeah, exactly.
+717.44 720.66 SPEAKER_04  So, so absolutely, absolutely miserable existence.
+720.74 722.28 SPEAKER_04  Even if you're not trans.
+722.48 723.64 SPEAKER_06  School's not transphobic.
+723.74 725.44 SPEAKER_06  It collapsed and killed all the children equally.
+725.62 736.34 SPEAKER_04  But the, the other, the, the, the, the, the, like the sole trans, uh, trans student escapes by being sent to the like special trans port-a-loo outside while the entire school collapses.
+737.26 743.90 SPEAKER_02  The, the other thing I want to note, just going, coming back to the guidance itself is how fucking weird it is.
+743.90 744.30 SPEAKER_02  Yeah.
+744.48 744.62 SPEAKER_02  Yeah.
+744.62 745.44 SPEAKER_02  It is weird.
+745.44 755.76 SPEAKER_02  One of the, one of the, the things it mandates is that if a student has a preferred pronoun, you can't, you're not being forced to use it, but also it would be bullying to use the wrong one.
+755.82 757.96 SPEAKER_02  So you should just always refer to them by name.
+758.08 759.22 SPEAKER_02  It's weird.
+759.46 761.26 SPEAKER_02  It's so fucking odd.
+761.26 761.98 SPEAKER_04  Yeah.
+761.98 767.36 SPEAKER_04  I mean, part of it, part of the weirdness of this is, as you say, the compromise of not being able to-
+767.36 769.38 SPEAKER_02  Abolition of pronouns in general. Yeah.
+769.52 769.66 SPEAKER_02  Yeah.
+769.66 773.18 SPEAKER_04  Of like, not being able to do the stuff that you really want to do.
+773.18 788.32 SPEAKER_04  I think part of it is also that the government here has been radicalized by some very, very strange people who have like imported wholesale these like strange concepts of like, you know, their idea of what biological sex is, for instance.
+788.46 800.18 SPEAKER_04  And so you have this guidance that is full of the, you know, the phrase biological sex in reference to stuff that like doesn't matter, would never come up, would never occur to anyone other than people who are already obsessed with it.
+800.18 800.80 SPEAKER_04  You know?
+801.30 801.52 SPEAKER_06  Yeah.
+801.70 809.68 SPEAKER_06  Well, I've always long thought this about all of this weird transphobia stuff is that the best argument against it is just how weird it is.
+809.80 816.42 SPEAKER_06  It's just how straightforwardly just odd it is to care that much about what someone else is doing with their genitals.
+816.58 819.72 SPEAKER_06  How just like obviously perverse it is on the face of it.
+819.82 827.58 SPEAKER_06  Like you can make any number of moral arguments or whatever, but I feel like the one that cuts through the most just seems to be just like these people are freaks.
+827.66 829.20 SPEAKER_06  They're so obviously freaks.
+829.20 831.04 SPEAKER_06  Like do we need to go any further than that?
+832.24 832.68 SPEAKER_04  Yeah.
+832.88 833.60 SPEAKER_04  Yeah, absolutely.
+834.18 839.10 SPEAKER_04  And I mean, I don't, I'm sort of of two minds about this, right?
+839.10 845.42 SPEAKER_04  Because I know we've said before that like the key to sort of political success on this one is to be normal.
+845.66 845.80 SPEAKER_04  Right.
+845.86 849.94 SPEAKER_04  And I don't think, I don't think normal has to be like strict normal.
+849.94 850.24 SPEAKER_04  Right.
+850.26 852.68 SPEAKER_04  I don't mean that in like an assimilationist way.
+852.68 871.94 SPEAKER_04  I just mean that like, however weird and fucking queer and like diverse in your like presentation of it you want to get, it will always be more normal than anyone who is like, yeah, no, we need to be doing like genital checks in like primary school bathrooms.
+871.94 872.64 SPEAKER_04  You know?
+872.78 873.18 SPEAKER_02  Yeah.
+873.18 873.60 SPEAKER_02  Like that.
+873.66 873.78 SPEAKER_02  Yeah.
+873.90 876.86 SPEAKER_02  So this is what Maya Forstater said welcoming the guidance.
+876.98 884.72 SPEAKER_02  She said, the most important takeaway is that the normalization of so-called social transition, lying about children's sex is indefensible within a school environment.
+884.72 887.22 SPEAKER_02  To which I just have to say, well, wait, why?
+887.90 888.26 SPEAKER_02  Why?
+888.60 890.82 SPEAKER_02  Why do you need to know that?
+891.28 891.40 SPEAKER_04  Yeah.
+891.50 900.08 SPEAKER_04  Again, this is a woman who is like famous for being fired, which is an incredible career sort of parlay there.
+901.12 902.90 SPEAKER_04  And I just, I did.
+902.98 903.16 SPEAKER_04  Why?
+903.30 906.00 SPEAKER_04  Why do they need to like justify themselves to you?
+906.06 906.86 SPEAKER_04  Mind your own business.
+907.26 909.34 SPEAKER_02  Well, the other, the other note on this as well, right?
+909.34 918.92 SPEAKER_02  You said this is a compromise position because this is mostly, as I understand it, Jillian Keegan, the education secretary rather than Kemi Badenock.
+919.52 928.30 SPEAKER_02  And now because Kemi Badenock, it's interesting to see like Kemi Badenock is now being shown by the right of the party as like, oh, this is a big loss for her.
+928.30 928.90 SPEAKER_02  Right.
+928.98 939.70 SPEAKER_02  Because she had to do the, she had to do the impossible, which is legislate the legislate, like sort of 33% of the Tory, the sort of this specific kind of Tory dream.
+939.90 940.10 SPEAKER_02  Right.
+940.52 946.62 SPEAKER_02  Of everyone, of boys wear blue, girls wear pink, everybody, there are no immigrants ever.
+946.78 948.34 SPEAKER_02  And trustonomics is back.
+948.46 948.58 SPEAKER_02  Right.
+948.66 948.80 SPEAKER_02  Yeah.
+948.88 954.56 SPEAKER_04  Being, being a Tory minister is miserable because you just get sacrificed on the altar of some like impossible goal.
+954.56 960.34 SPEAKER_04  Whether that's, uh, that you have to do like considerable shitty things to try and achieve and then it doesn't work.
+960.46 971.12 SPEAKER_04  Like whether that's pretty Patel or Suella Braverman on, on like stopping the boats or migrants, uh, or whether it's Kemi Badenock on this, even Nadine Dorries on the online safety bill, something else was impossible.
+971.12 971.80 SPEAKER_04  Speaking of Nadine Dorries though.
+972.18 972.46 SPEAKER_02  Yeah.
+972.54 973.44 SPEAKER_04  This is the thing, right?
+973.48 976.74 SPEAKER_04  Cause we, we did the live show and we, we read her book.
+976.74 983.94 SPEAKER_04  And the only interesting thing in Nadine Dorries's book is in the course of all of this, like sour grapes off of office gossip bullshit.
+984.16 985.50 SPEAKER_04  She goes, Oh yeah.
+985.50 990.44 SPEAKER_04  By the way, Kemi Badenock is being groomed by like a cabal of hard, right.
+990.52 998.78 SPEAKER_04  Tory, like dark arts operators to run as like future leader based almost exclusively on, uh, like a transphobic culture war.
+998.78 1000.54 SPEAKER_04  And she writes that down and she's like, yeah.
+1000.60 1006.72 SPEAKER_04  Oh, and by the way, uh, fucking, uh, MPs having sex on pool tables or whatever.
+1007.04 1014.00 SPEAKER_04  So like the fact that it doesn't interest Nadine Dorries and she just mentions it in passing to me speaks much more highly of it.
+1014.08 1016.76 SPEAKER_04  Sort of like, uh, veracity, you know?
+1017.28 1017.44 SPEAKER_06  Well, yeah.
+1017.46 1024.04 SPEAKER_06  Cause I mean, we've talked before about how this stuff is kind of alienating to a lot of the electorate because it is, it is at the end of the day freak shit.
+1024.04 1033.36 SPEAKER_06  But it's also like, as much as like, it's not unusual for the Tory party to pick up on any culture war issue in order to like use it to push things further to the right.
+1033.70 1039.94 SPEAKER_06  It is quite alien to a lot of the Tory party who are just, they're just right wing in a very different way.
+1040.04 1045.66 SPEAKER_06  Like this isn't, if the average Tory MP, this isn't really what you got into being a Tory for.
+1045.92 1047.46 SPEAKER_06  Like we kind of were alluding to it earlier.
+1047.46 1054.42 SPEAKER_06  Like a lot of Tories are like weirdly liberal about a lot of things because they're, they're kind of like, yeah, be gay, just don't pay tax.
+1054.50 1057.18 SPEAKER_06  Like that, that is kind of like a strong Tory bent.
+1057.30 1057.84 SPEAKER_06  Like, yeah.
+1058.24 1060.46 SPEAKER_06  Well, I love to be at the no tax orgy.
+1061.46 1063.06 SPEAKER_04  That's the, the Marx quote, right?
+1063.08 1067.00 SPEAKER_04  Is that the end of the day, the English Tory is only enthusiastic about ground rents.
+1067.00 1067.28 SPEAKER_06  Yeah.
+1067.28 1080.28 SPEAKER_06  Like it has a bit of a, like, and all of the most vocal turfs are kind of like more like liberal, like liberals in the kind of, in the more American sense of being like kind of, second wave feminists who've like gone insane.
+1080.54 1084.98 SPEAKER_06  And so, and that's like a really weird marriage because most of those people aren't Tories.
+1084.98 1089.40 SPEAKER_06  They're kind of more like Blairite labor people, uh, in the vague sense.
+1089.40 1092.46 SPEAKER_06  So it's a very weird, it feels very sort of American.
+1093.10 1093.22 SPEAKER_04  Yeah.
+1093.34 1103.30 SPEAKER_04  And there's, there's, there's some other stuff going on here too with, um, so, so Scotland has like now dropped the Scottish government has now dropped its appeal on its, uh, gender recognition bill.
+1103.30 1108.16 SPEAKER_04  And because I have this like heterodox opinion that this is good because the gender recognition bill was a waste of time.
+1108.28 1109.32 SPEAKER_04  It was never going to pass anyway.
+1109.86 1120.54 SPEAKER_04  Um, but the point of doing it was also to like push that sort of constitutional envelope in a kind of like orthogonal liberal direction of Scotland should be an independent country.
+1120.54 1120.98 SPEAKER_04  Right.
+1120.98 1136.64 SPEAKER_04  Um, and you know, now, now that's sort of been abandoned, uh, and yeah, I, I, I, I find sort of the political division on that quite unusual, you know, that you, you have these sort of like SNP sort of leftish liberals.
+1136.64 1148.80 SPEAKER_04  Um, and then, uh, like who, who were sort of determined to push this thing forward, um, having had this like really long bullshit parliamentary, like, uh, like passage with it.
+1148.80 1160.58 SPEAKER_04  Um, and then, and then you have like Scottish labor dismal as they are going, uh, no, this is not only will we not do it because we're like always pandering to transphobia, but we specifically won't do it because we love the envelope.
+1160.58 1166.02 SPEAKER_04  And this envelope has like Scotland and, uh, like the rest of the UK in together.
+1166.02 1168.06 SPEAKER_04  And we're not, we're not sort of tampering with that.
+1168.28 1170.18 SPEAKER_06  We need to keep Julie Birchall in that envelope.
+1170.44 1170.84 SPEAKER_06  Exactly.
+1170.84 1171.90 SPEAKER_06  She cannot be released.
+1172.16 1172.60 SPEAKER_06  Exactly.
+1172.74 1172.90 SPEAKER_04  Yeah.
+1172.98 1182.04 SPEAKER_04  So it's, uh, this is the thing I, I, I sort of, one of the things about that bill that I sort of was against was I resented being made into a constitutional issue like that.
+1182.30 1186.68 SPEAKER_04  Um, and, and now it seems that I'm, I'm destined to be a constitutional issue either way.
+1187.20 1199.00 SPEAKER_04  Um, and I think when the Tories are in opposition, as seems likely, uh, and they're, they're sort of like trying to do the, we should burn this whole system down because it doesn't work and makes everyone miserable from the right.
+1199.16 1206.70 SPEAKER_04  That's going to be a lot more dangerous for me than whatever like legislation they're doing, especially when they have a labor government as malleable as Keir Starmer's is going to be.
+1206.70 1207.18 SPEAKER_02  Yeah.
+1207.32 1211.14 SPEAKER_02  Cause they're, they are going to any outrageous claim they make.
+1211.20 1212.66 SPEAKER_02  I'm sort of putting my marker down on this.
+1212.78 1220.44 SPEAKER_02  Any outrageous claim they make about a group labor considers to be unimportant, which is a very high number of people, whether that's ethnic minority.
+1220.46 1224.42 SPEAKER_02  LGBT people, the left in general, whatever you want.
+1224.50 1225.44 SPEAKER_02  And anyone who isn't.
+1225.48 1226.32 SPEAKER_02  Almost everyone.
+1226.72 1226.82 SPEAKER_02  Yeah.
+1226.86 1238.60 SPEAKER_02  Almost everyone is that Starmer's instinct every single time is to say, well, actually, actually, I think you'll find that we are going to crack down harder and he's going to try to outflank them for the right.
+1238.66 1239.52 SPEAKER_02  Every single time.
+1239.52 1242.32 SPEAKER_05  People have accused my government of being malleable.
+1242.58 1251.54 SPEAKER_05  Well, Mr. Speaker, I would like, if the prime minister thinks I'm made of such a fine clay, that I will, I will, I will riposter him by baking myself in a kiln.
+1251.78 1253.94 SPEAKER_05  This will be broadcast live on TV.
+1254.12 1255.46 SPEAKER_05  I will become so firm.
+1255.52 1265.00 SPEAKER_05  I will become brittle and I will have Rachel Reeves apply a fine bone china glaze to me so that I cannot be bent or moved in any way without shattering.
+1265.00 1267.22 SPEAKER_04  I think we can get Roe Schmitz to do this.
+1267.34 1277.12 SPEAKER_04  Yeah, no, but I think the thing is, too, that this sort of speaks to the general arc of British transphobia, where it's more dismal, right?
+1277.16 1290.12 SPEAKER_04  The American culture war stuff, they've tried, the Tory right have had these dalliances with mass mobilization, and TERFs are always trying to radicalize each other to grab people of suspicious genders in bathrooms and stuff.
+1290.12 1293.76 SPEAKER_04  But it doesn't really translate to the British mindset as much, I don't think.
+1294.36 1309.06 SPEAKER_04  And part of the reason why is that, like, in the US, right, because you have this kind of, like, interventionalist, already radicalized, heavily armed in places kind of, like, movement ready to go, as a trans woman, I would worry about getting, like, murdered, getting murdered, murdered.
+1309.06 1312.44 SPEAKER_04  Whereas in Britain, I mostly worry about getting socially murdered.
+1313.40 1318.94 SPEAKER_04  We have had an actual trans murder, right, with the sort of, like, consequent horrible press around it.
+1318.96 1321.40 SPEAKER_04  And that's thrown all of these people into kind of disarray.
+1321.48 1325.80 SPEAKER_04  They don't know exactly how to feel about this kind of, like, maybe Matthew Shepard moment that's happening.
+1325.80 1338.54 SPEAKER_04  But meanwhile, they're all quite content for the government to sort of, like, look at, you know, a teenager who wants to transition and sort of hand them the service revolver with one bullet and a glass of whiskey, you know?
+1338.62 1341.12 SPEAKER_04  And be like, well, just do for yourself, you know?
+1341.68 1342.74 SPEAKER_02  We're not going to do it.
+1342.82 1345.02 SPEAKER_02  We're not going to deputize anyone else to do it.
+1345.06 1347.96 SPEAKER_02  Yeah, because we're repulsed by that to a point.
+1347.96 1356.30 SPEAKER_04  Like, at least now, at least at the moment, we don't want to hear about, like, sort of interpersonal rather than state violence against transphobia.
+1356.30 1367.06 SPEAKER_02  So one of the other things I think is sort of that I've noticed about sort of driving British transphobia specifically is how much of it involves deference and sort of people giving improper deference.
+1367.20 1369.60 SPEAKER_02  Like, for example, a lot of people are like, well, I didn't have an opinion.
+1369.68 1372.80 SPEAKER_02  And I saw how poorly J.K. Rowling was treated, you know?
+1372.80 1377.88 SPEAKER_02  Or, oh, well, students should be obeying, you know, their schools.
+1378.22 1382.40 SPEAKER_02  And you're able to make this a kind of...
+1382.40 1383.70 SPEAKER_02  You're able to make this...
+1383.70 1392.28 SPEAKER_02  You're able to shoehorn gender into lots of other issues around hierarchy in the ways that are commonly understood by people, right?
+1392.44 1394.80 SPEAKER_02  You're able to say, oh, well, people are being...
+1394.80 1396.20 SPEAKER_02  I don't have any problem with it.
+1396.24 1397.26 SPEAKER_02  They're just so disrespectful.
+1397.46 1398.62 SPEAKER_02  Or I don't have any problem with it.
+1398.64 1399.98 SPEAKER_02  Just children need to fall in line.
+1399.98 1402.58 SPEAKER_02  Because how much of the...
+1402.58 1408.26 SPEAKER_02  I think one of the most dangerous bits of the school's guidance is all about informing parents.
+1408.46 1412.30 SPEAKER_02  Because it comes back to, well, parents should be in control of their children.
+1412.80 1435.78 SPEAKER_02  And so I think that here, one of the things is there's less of a sense, except among like the big vocal mouthpieces of this whole movement, that there's like, there needs to be an arm, some kind of like, you know, immediate political mobilization, and more of just a sense of tutting that people are not respecting their sort of social betters or people who they should be deferring to in the hierarchy.
+1435.78 1444.94 SPEAKER_04  Yeah, yeah. And as with the left, more generally, the only tool that they have for that is we need to make your life sort of like in the round more miserable, you know?
+1445.06 1446.54 SPEAKER_02  That's why it's in schools.
+1446.98 1455.86 SPEAKER_02  Because in British society, there are a lot of institutions that can compel you in very specific ways.
+1455.86 1462.78 SPEAKER_02  But some of the only institutions that can compel you to like dress differently other than jail are schools.
+1463.58 1464.06 SPEAKER_04  Yeah, absolutely.
+1464.36 1468.68 SPEAKER_02  And so that's where the tool is to sort of force people to be deferential in the way that they want.
+1468.96 1471.14 SPEAKER_02  And that's why I think it has this kind of resonance.
+1471.38 1475.86 SPEAKER_02  But the resonance is so sort of prickly and resentful and not sort of mass mobilizing.
+1476.70 1479.94 SPEAKER_04  Also, because as with the migration stuff, it's futile.
+1479.94 1482.56 SPEAKER_04  There is like a demographic thing happening.
+1483.14 1487.52 SPEAKER_04  The government is sort of like powerless to stand a thought where it's like migration will increase.
+1488.54 1490.62 SPEAKER_04  Trans people will continue to exist.
+1490.72 1493.54 SPEAKER_04  And you can try and sort of like force those things not to happen.
+1493.64 1497.58 SPEAKER_04  But you're kind of like you're, you know, it's like forcing back the tide, you know?
+1497.80 1498.42 SPEAKER_02  It is.
+1498.54 1498.78 SPEAKER_02  It is.
+1499.02 1506.16 SPEAKER_02  The English governments have a long and proud history of instructing their soldiers to try and fight the sea.
+1506.80 1507.42 SPEAKER_06  Well, yeah.
+1507.42 1508.26 SPEAKER_06  I mean, I think you're right.
+1508.32 1515.32 SPEAKER_06  You're completely right in that sort of like basically if you want to make anything into a big social issue in Britain, you have to fundamentally make it about whether it's cricket or not.
+1515.38 1515.58 SPEAKER_06  Right.
+1515.60 1516.60 SPEAKER_06  Like that has to be there.
+1516.80 1519.72 SPEAKER_06  It has to like play into that kind of sense of social hierarchy or whatever.
+1520.06 1528.26 SPEAKER_06  Because if you go to a bunch of like to like Britain is not like a kind of Puritan founded country in the way that America is, where people are scandalized by stuff in the same way.
+1528.52 1533.90 SPEAKER_06  Like you can't shock a bunch of Tory backbench MPs by going, by God, there's a bunch of boys at this school dressed up as women.
+1534.00 1535.46 SPEAKER_06  That's just a rugby team at a social.
+1535.68 1536.14 SPEAKER_06  Like, you know what I mean?
+1536.14 1538.90 SPEAKER_06  Like it's not like that's not shocking to people.
+1539.08 1543.44 SPEAKER_06  You have to like create this sense of it like undermining the fabric of society somehow.
+1544.18 1544.78 SPEAKER_06  Yeah, absolutely.
+1545.22 1550.88 SPEAKER_02  So we move on to to a startup or shall we talk about the new Tory losers caucus?
+1551.30 1552.14 SPEAKER_02  A palette cleanser.
+1552.82 1553.14 SPEAKER_02  Yeah.
+1553.42 1553.88 SPEAKER_02  Why don't we start?
+1553.92 1555.08 SPEAKER_02  Let's kick off the year with a startup.
+1555.24 1556.68 SPEAKER_02  We know the Tory losers caucus.
+1556.68 1566.08 SPEAKER_02  It's like they're trying to create a sixth family that's like socially liberal and has a constituency of exactly zero people.
+1566.08 1568.96 SPEAKER_04  The socially liberal Tories are such sweethearts.
+1569.06 1573.16 SPEAKER_04  I can't wait for them all to like defect off to the Lib Dems or something.
+1573.34 1574.10 SPEAKER_02  That immediately lose.
+1574.10 1575.10 SPEAKER_04  Exactly.
+1575.10 1575.54 SPEAKER_04  Exactly.
+1575.68 1578.74 SPEAKER_04  Listen, I you know my feelings about Penny Morden.
+1579.04 1579.26 SPEAKER_04  Right.
+1579.32 1583.90 SPEAKER_04  And I hope that she remains politically harmless for many years to come.
+1583.90 1594.60 SPEAKER_02  You know, it is very funny, though, seeing like after the experience of the last several elections, seeing Simon Fell, the MP for Barrow and Furnace, saying elections are won in the center ground.
+1594.66 1598.76 SPEAKER_02  And after a divisive few years, the people of Britain are craving a calmer, more pragmatic politics.
+1598.84 1599.60 SPEAKER_02  It's like, no, they're not.
+1599.66 1600.38 SPEAKER_02  They want fun.
+1600.76 1602.08 SPEAKER_02  They want the fun.
+1602.08 1604.64 SPEAKER_02  And it's like we are going to do no fun.
+1604.74 1605.74 SPEAKER_02  We're going to be the end.
+1606.06 1608.08 SPEAKER_02  They're desperate for the fun to come back.
+1608.42 1611.40 SPEAKER_04  If Corbyn had had jokes and he kind of does have jokes.
+1611.40 1618.94 SPEAKER_04  But if Corbyn had been like more of a Boris figure who was a laugh, I think we would be living in a kind of socialist utopia at this point.
+1619.30 1621.80 SPEAKER_06  Yeah, I honestly, that is my most cranked opinion.
+1621.96 1631.00 SPEAKER_06  If Jeremy Corbyn had had more of a like Bernie Sanders energy, if he'd have just refused to answer the stupid questions and called people fucking cretins live on air.
+1631.00 1632.12 SPEAKER_06  I don't know.
+1632.20 1633.34 SPEAKER_06  I think it could have gone differently.
+1633.64 1634.58 SPEAKER_04  Should have listened to us.
+1634.58 1637.40 SPEAKER_04  Should have listened to us about bringing the nonce detector into the comments.
+1639.32 1641.40 SPEAKER_06  It's going beep, beep, beep, beep, beep.
+1641.46 1641.94 SPEAKER_04  I'm sorry.
+1643.94 1647.52 SPEAKER_06  My honorable friend is being beeped at by the nonce detector.
+1647.98 1648.58 SPEAKER_06  Look, I don't.
+1648.66 1649.64 SPEAKER_06  I can't retract it.
+1649.70 1650.62 SPEAKER_06  It's the nonce detector.
+1652.30 1655.68 SPEAKER_02  I would like to advance that my honorable friend has dropped his pocket.
+1657.56 1658.28 SPEAKER_02  All right.
+1658.30 1659.44 SPEAKER_02  Let's talk about Honu.
+1659.44 1662.48 SPEAKER_02  And then I'll hand off to myself in the future past.
+1662.92 1664.38 SPEAKER_02  They can call you Honu.
+1665.00 1665.36 SPEAKER_02  Yes.
+1665.66 1666.66 SPEAKER_02  Yeah, it's Honu.
+1666.84 1668.16 SPEAKER_02  And they're calling Milo Honu.
+1668.62 1669.06 SPEAKER_02  That's right.
+1669.42 1670.14 SPEAKER_04  What do we think?
+1670.22 1670.56 SPEAKER_04  Come on.
+1670.72 1671.00 SPEAKER_04  Hit me.
+1671.44 1671.92 SPEAKER_04  Honu.
+1672.00 1675.10 SPEAKER_04  Honu sounds like the name of an individual robot to me.
+1675.56 1675.96 SPEAKER_04  Yeah.
+1676.18 1676.40 SPEAKER_04  Yeah.
+1676.42 1677.30 SPEAKER_06  Like a Sony iBone.
+1677.56 1681.26 SPEAKER_06  It sounds like something Hussain would talk to me about and I wouldn't be completely listening.
+1683.46 1684.34 SPEAKER_04  Boston Honu.
+1684.62 1685.68 SPEAKER_04  Boston Honu.
+1685.68 1691.06 SPEAKER_02  It's actually a new paradigm that will underpin an AI first economy that's also entirely new.
+1691.24 1691.74 SPEAKER_02  Oh, fuck.
+1691.78 1695.12 SPEAKER_04  If it's a new paradigm, I feel bad for making fun of it now.
+1695.24 1699.54 SPEAKER_04  Because the thing about me is in my daily life, I can't get enough paradigms.
+1699.58 1699.78 SPEAKER_04  Yeah.
+1700.04 1700.64 SPEAKER_04  Big paradigm head.
+1700.88 1706.94 SPEAKER_02  Although, I think sometimes if someone's too into paradigms, it can show that they're kind of a bit right wing.
+1706.94 1714.86 SPEAKER_04  A lot of paradigm heads are right wing, but I don't accept that that's determinative.
+1715.26 1718.42 SPEAKER_02  So, no, it is the next generation of business, they say.
+1718.74 1721.58 SPEAKER_02  We built on AI and inspired by human passions.
+1721.98 1724.24 SPEAKER_02  We sit at the forefront of what is possible.
+1724.58 1726.70 SPEAKER_02  Sorry, inspired by human passions.
+1726.88 1728.42 SPEAKER_04  Yes, inspired by human passions.
+1728.64 1729.80 SPEAKER_04  I love to be inspired.
+1729.82 1731.32 SPEAKER_04  Your human feelings.
+1731.32 1733.80 SPEAKER_05  This does read like it was written by AI.
+1733.80 1733.92 SPEAKER_04  I'm a normal man.
+1734.06 1735.74 SPEAKER_05  I'm inspired by human passions.
+1736.00 1736.96 SPEAKER_05  As we all are.
+1738.76 1744.60 SPEAKER_05  But I think there's a more important issue here, which is that there is a paradigm, shall we say, shifting.
+1746.80 1747.70 SPEAKER_02  The vibe shift.
+1747.80 1748.92 SPEAKER_02  This is the vibe shift, though.
+1749.02 1750.72 SPEAKER_02  Yeah, well, they're trying to do another one.
+1750.72 1758.88 SPEAKER_02  Which is they're pioneering a new paradigm that lays the next generation rails for autonomous agents and transforms the entire economic ecosystem.
+1759.44 1764.30 SPEAKER_04  If Corbyn had like got up at the dispatch box and said, like, Mr. Speaker, vibes are fucked.
+1764.82 1765.80 SPEAKER_04  The vibes have shifted.
+1766.36 1767.80 SPEAKER_02  Again, socialist utopia.
+1768.52 1772.80 SPEAKER_02  And transforms the entire economic ecosystem into a smart connective tissue.
+1772.80 1781.84 SPEAKER_02  We will forever transform how all businesses work with HONU autonomous agents working in symbiosis with humans at the right time and place.
+1781.96 1785.10 SPEAKER_02  It's like the universe conspiring to make your business the best it can be.
+1787.40 1790.98 SPEAKER_04  Again, there's something about the way this is written that I can't quite put my finger on.
+1791.18 1796.86 SPEAKER_04  Between human passions and the universe conspiring to make your business better.
+1796.86 1803.52 SPEAKER_04  It's just kind of like someone has read a lot of E&M banks before sitting down to write this.
+1803.66 1813.46 SPEAKER_02  I think the universe conspiring to make your business the best it can be is kind of one of those, an extension of a kind of multi-billion year Wiggism that a lot of AI people have.
+1813.96 1819.94 SPEAKER_04  Which is that the moral arc of history may be a billion years long, but it tends towards justice.
+1820.38 1822.32 SPEAKER_02  It tends towards making your business.
+1822.90 1826.18 SPEAKER_02  Yeah, it tends towards a technological singularity.
+1826.18 1838.66 SPEAKER_02  So it's like they say, their argument basically is that, well, if there was enough hydrogen in the universe that it eventually collapsed into other elements and eventually out of that arose life and eventually out of life arose sentient life.
+1839.10 1843.22 SPEAKER_02  And sentient life inevitably created AI, which means that God is real.
+1843.36 1844.40 SPEAKER_02  We just haven't invented him yet.
+1844.46 1847.70 SPEAKER_02  And he's there to make your dropshipping business way better and more automated.
+1849.70 1850.14 SPEAKER_02  Awesome.
+1851.70 1853.84 SPEAKER_04  Yeah, I'm thinking about the climate again.
+1853.94 1854.18 SPEAKER_04  Sorry.
+1854.18 1857.40 SPEAKER_04  Yeah, there is no God but Allah and Shopify is his prophet.
+1858.30 1867.94 SPEAKER_02  So this is called, they call it the OS for an AI first economy, where the idea is that you, in order to make a business, you need people.
+1868.50 1868.68 SPEAKER_02  Sure.
+1869.10 1870.36 SPEAKER_02  For now, Mr. Shopper.
+1870.36 1870.88 SPEAKER_02  Yeah, well, exactly.
+1871.08 1876.80 SPEAKER_02  What if you can make an entire business that's just AI agents mostly working with one another and other people's AI agents?
+1876.80 1879.56 SPEAKER_04  Oh, so it's like an ant farm of bullshit.
+1879.56 1882.86 SPEAKER_04  And you just look into it and be like, oh, this is probably making money.
+1883.26 1884.06 SPEAKER_04  Ant farm of bullshit.
+1884.18 1886.06 SPEAKER_04  They're the ones that did the cover of Smooth Criminal.
+1887.90 1893.40 SPEAKER_02  CEO Imad Riachi says the idea for Hochu was inspired by watching his father build a small business while he was growing up.
+1893.78 1897.62 SPEAKER_02  He said he saw his father make many preventable mistakes and eventually realized.
+1897.76 1902.08 SPEAKER_04  This kid just like watching his dad start a business selling like printer toner or some shit like that.
+1902.10 1903.66 SPEAKER_04  And he's like, yo, this guy's a dumbass.
+1903.66 1905.16 SPEAKER_04  Why isn't he building an ant farm?
+1905.46 1905.66 SPEAKER_06  Yeah.
+1906.06 1908.80 SPEAKER_06  His spreadsheets are all over the shop.
+1910.04 1913.24 SPEAKER_06  His ROI ratios are fucked.
+1914.04 1918.18 SPEAKER_04  Imagine being this kid's dad.
+1918.60 1927.00 SPEAKER_04  And then you see he's giving interviews and he's like, yeah, my dad was such a fucking dipshit at running a business that I thought that predictive text could do it better.
+1927.56 1929.66 SPEAKER_02  This is in an interview with Preseed Now.
+1929.74 1932.28 SPEAKER_02  There's very little information about this business otherwise.
+1932.28 1937.12 SPEAKER_02  Otherwise, I just thought it was interesting because the drive, right?
+1937.82 1941.96 SPEAKER_02  It's the same drive that happened with the steam loom, right?
+1942.18 1946.22 SPEAKER_02  Which is to create more things more quickly, automate more.
+1946.38 1951.04 SPEAKER_02  And the more things are automated, then the more value the people who own the automators take.
+1951.42 1957.64 SPEAKER_02  So the play here is to automate everything and then claim the value from all businesses or at least all back office functions.
+1957.64 1960.96 SPEAKER_06  Something, something about the tendency of the rate of profit is something.
+1962.46 1966.86 SPEAKER_02  Riachi says he sees a future where highly autonomous businesses are built on top of the infrastructure.
+1967.52 1971.42 SPEAKER_02  But remember, like, we never talk about economic planning, right?
+1971.48 1974.22 SPEAKER_02  It's just that you can never talk about a planned economy.
+1974.22 1978.84 SPEAKER_02  Even though we do live in a planned economy, it's just the planning is slightly decentralized.
+1979.30 1984.58 SPEAKER_04  The envelope again, you know, the back of the envelope, like, calculations, you know.
+1985.14 1987.42 SPEAKER_00  Please stop writing on the back of the envelope.
+1987.68 1988.28 SPEAKER_00  It hurts.
+1990.16 1995.14 SPEAKER_02  And so what you're basically saying is, look, we want to, and this is something we even saw in the Henry Kissinger article.
+1995.14 2001.28 SPEAKER_02  The goal here is I want to build an infrastructure that seeds a huge amount of economic planning to an AI.
+2001.92 2008.00 SPEAKER_04  Yeah, you'd like stake as much of this territory out as you can ahead of time, as you say.
+2008.20 2014.98 SPEAKER_02  Building a high-level autonomy into businesses is really going to pave the way towards the democratization of business creation and entrepreneurship across the world.
+2015.72 2016.50 SPEAKER_02  But does what?
+2016.94 2023.56 SPEAKER_02  Well, basically, what's stopping someone who, like, I don't know, a subsistence farmer, for example, in West Africa.
+2023.56 2031.70 SPEAKER_02  What's stopping them from also living like the head of HSBC is that it's too difficult to recruit a human resources department.
+2032.36 2041.56 SPEAKER_02  But if that person is able to create a business just of AI agents, then what's going to happen is all of the people who are...
+2042.10 2050.66 SPEAKER_02  That the world will become a perfect meritocracy where everyone is ranked by their ideas because all execution just happens via autonomous agents.
+2050.66 2059.66 SPEAKER_02  And so long as you're good at spinning them up and instructing them and you have a good idea, then we will actually live in a kind of libertarian utopia of constant contracting.
+2060.74 2068.64 SPEAKER_06  A lone subsistence farmer who employs an HR person so that he can complain about the hours his boss is making him work, but his boss is also him.
+2069.66 2072.72 SPEAKER_04  Yeah, I do all of my banking with Kenyan subsistence farmer.
+2073.30 2073.70 SPEAKER_02  That's right.
+2073.70 2074.30 SPEAKER_04  Goat standard.
+2074.84 2080.78 SPEAKER_02  I feel this is very important because I'm an entrepreneur, but I feel like creating and running your own business is a form of expression.
+2081.16 2083.68 SPEAKER_02  And I'd like to give many people that voice as possible.
+2083.88 2084.66 SPEAKER_06  It's vibes.
+2084.76 2085.72 SPEAKER_04  It's all vibes.
+2085.94 2086.34 SPEAKER_04  Yeah.
+2086.78 2087.06 SPEAKER_04  Yeah.
+2087.28 2090.20 SPEAKER_04  Everyone should have the chance to be a kind of, like, bullshit entrepreneur.
+2090.44 2091.40 SPEAKER_04  And this is the thing, right?
+2091.40 2101.66 SPEAKER_04  The way that these guys live as, like, startup people in, like, the Bay Area or Miami or whatever, it seems so shit.
+2102.08 2106.58 SPEAKER_04  Like, luxurious at times, but also, like, deeply, deeply miserable.
+2106.96 2113.86 SPEAKER_04  And I don't just mean in terms of, like, being crammed into, like, some tiny apartment and then going out to, like, do coke with VCs.
+2113.86 2118.50 SPEAKER_04  And then eventually one of them gets, like, stabbed in a, like, polycule bullshit thing.
+2118.80 2122.86 SPEAKER_04  No, what I mean is that, like, the whole lifestyle, even the successful ones, right?
+2123.26 2127.78 SPEAKER_04  To say that, like, everyone deserves the chance to live like fucking, I don't know, Mark Zuckerberg or whatever.
+2128.08 2130.66 SPEAKER_04  So I've seen the way Mark Zuckerberg lives and it looks fucking awful.
+2130.92 2131.90 SPEAKER_04  What if I don't want to?
+2131.96 2142.76 SPEAKER_04  What if I don't want to, like, turn my subsistence farming podcast into sort of, like, an international bank so that I can go buy a sort of, like, survivalist bunker in Hawaii?
+2142.76 2152.36 SPEAKER_02  Well, I think the other thing that they're saying, right, is that a business, whatever it is, the ultimate form of self-expression, the ultimate form of self-actualization is to be a CEO.
+2153.16 2153.88 SPEAKER_04  And so long as...
+2153.88 2155.84 SPEAKER_04  Jeff Bezos is the most self-actualized man in history.
+2155.94 2157.22 SPEAKER_04  He might believe this of himself.
+2157.36 2162.76 SPEAKER_02  I actually, I mean, that is a man who is, of all of the CEOs, he is the closest to Buddha nature.
+2163.70 2165.10 SPEAKER_02  But he says, He's bold.
+2165.38 2169.42 SPEAKER_02  We'll be moving towards AI-first businesses, which paved the way for an AI-first economy.
+2169.42 2177.58 SPEAKER_02  And I see a world not very far from today where a non-negotiable chunk of GDP is created by highly autonomous businesses.
+2178.38 2182.78 SPEAKER_02  So basically, the idea is you can create a business without employees just by having agents.
+2183.34 2186.72 SPEAKER_04  We've got the car on this highway, right?
+2187.10 2190.48 SPEAKER_04  And we're pretty certain if we just take our hands off the wheel.
+2190.88 2192.94 SPEAKER_04  Listen, it's been going far and it's fine.
+2193.08 2196.36 SPEAKER_04  Someone will probably invent cruise control, like, as it's being driven.
+2196.70 2197.46 SPEAKER_02  Yeah, don't worry about it.
+2197.46 2202.56 SPEAKER_02  And they say, when you're building autonomous agents or autonomous businesses, you need to optimize for a certain objective.
+2202.78 2210.58 SPEAKER_02  And it's going to be very interesting to see the governance shifting a bit and having stakeholders have much more of a say in the value alignment with what these businesses are trying to create.
+2211.02 2213.72 SPEAKER_06  I love it when stakeholders have a say in the value alignment, personally.
+2213.96 2216.58 SPEAKER_06  This whole thing reads like it's been written by an AI.
+2216.84 2217.46 SPEAKER_06  I'll say that.
+2217.64 2220.76 SPEAKER_06  I think this guy might have already AI-ed himself out of existence.
+2221.02 2221.04 SPEAKER_03  Yeah.
+2221.30 2222.10 SPEAKER_06  Maybe he is an AI.
+2222.16 2225.24 SPEAKER_06  Maybe it's like a Blade Runner situation where he doesn't even know he's an AI.
+2225.24 2225.96 SPEAKER_05  Hmm.
+2226.60 2232.44 SPEAKER_02  Well, and so we have the AI creating the other AIs that are going to take over the economy.
+2232.98 2237.62 SPEAKER_02  But I just find it very interesting that the ambition expressed here, right?
+2237.76 2244.78 SPEAKER_02  The ambition is, look, we could have the entire competitive economy just have no people in it.
+2244.78 2246.84 SPEAKER_02  And instead, there's just CEOs and stakeholders.
+2247.32 2256.86 SPEAKER_04  And with this dream of a perfectly frictionless, humanless, it's like a, you know, like an assembly line or like a clean room with only robots in it.
+2257.16 2257.38 SPEAKER_06  Yeah.
+2257.38 2264.98 SPEAKER_06  And also, again, as with all this AI stuff, it comes down to like, like in so many cases, it's like this is a thing you could just do with a computer before.
+2265.46 2275.12 SPEAKER_06  This is like these guys who have businesses on like fucking like Redbubble or Shopify or whatever, where they just like put a load of drop shipping stuff up for sale, where they get a percentage.
+2275.12 2281.94 SPEAKER_06  And then they just list it on other websites where people end up buying and they just make money for doing nothing just by like hosting a website.
+2282.12 2285.74 SPEAKER_06  But what if the entire economy was run on that logic?
+2286.18 2289.18 SPEAKER_06  Well, you'd get a lot of t-shirts about welders who were born in July.
+2289.34 2289.90 SPEAKER_06  I'll say that.
+2290.10 2291.94 SPEAKER_06  That'll be the only form of clothing.
+2292.40 2293.78 SPEAKER_06  The army will wear that.
+2293.86 2294.76 SPEAKER_02  That will be the uniform.
+2294.76 2298.30 SPEAKER_02  What about food production, all this stuff, AI?
+2298.66 2299.56 SPEAKER_02  And how do you get it?
+2299.64 2301.14 SPEAKER_02  You influence it.
+2301.20 2301.94 SPEAKER_02  You interpret it.
+2302.28 2303.40 SPEAKER_02  You know how to tweak.
+2303.58 2305.68 SPEAKER_02  A secret priesthood knows how to talk about it.
+2305.68 2306.00 SPEAKER_02  Oh, yeah.
+2306.04 2307.12 SPEAKER_02  We're going to go agnostic.
+2307.58 2308.24 SPEAKER_02  God damn it.
+2308.26 2309.70 SPEAKER_02  The secret priesthood again.
+2310.06 2310.66 SPEAKER_02  Well, that's the thing.
+2310.78 2319.50 SPEAKER_02  If you want to, if you could, I think you can link this company and that Henry Kissinger article from like, well, later, earlier this year from last year.
+2319.50 2320.56 SPEAKER_02  It's a real, real like tentpole.
+2320.56 2332.68 SPEAKER_02  Yeah, which is, which, and that's what, because this is what, this is the practical application of what that would look like, which is we, it's, this is, this is someone saying, you wanted to hand over control of the economy to computer.
+2332.90 2337.08 SPEAKER_02  Okay, hand it to my computer or I'll build the computers you can hand it to.
+2337.70 2345.44 SPEAKER_02  And then all of a sudden, instead of just, it becomes about how well can you interact with the distributed God, basically.
+2345.72 2347.68 SPEAKER_02  That's the, again, I'm not saying that's what's going to happen.
+2347.72 2349.04 SPEAKER_02  I'm saying that's the belief system.
+2349.04 2349.38 SPEAKER_02  Yeah, yeah, yeah.
+2349.38 2350.26 SPEAKER_06  Yeah, the economy.
+2350.42 2351.76 SPEAKER_06  Yeah, it's all on computers now, isn't it?
+2351.78 2352.40 SPEAKER_06  Yeah, it's not a shop.
+2352.46 2353.20 SPEAKER_06  It's just a computer.
+2353.32 2354.06 SPEAKER_06  You don't go to a shop.
+2354.12 2356.46 SPEAKER_06  There's just a computer down the street and you go and log on.
+2357.14 2362.94 SPEAKER_04  The distributed God loves me because it gave me a t-shirt that says, don't mess with a welder born in January.
+2363.48 2363.60 SPEAKER_02  Yeah.
+2363.94 2367.70 SPEAKER_04  And though I neither know how to weld, nor was I born in January.
+2367.70 2369.46 SPEAKER_02  The distributed God loves me.
+2369.60 2374.54 SPEAKER_02  This I know because chat GPT told me so.
+2374.54 2377.70 SPEAKER_04  It's a mysterious act of divine love and grace.
+2377.70 2381.64 SPEAKER_04  And I myself feel that I'm sort of one of the elect in this.
+2382.28 2385.36 SPEAKER_02  Anyway, anyway, I think that's all for Honu for today.
+2385.80 2386.40 SPEAKER_02  A-I-R.
+2386.50 2388.20 SPEAKER_02  Me with crap at GPT.
+2389.36 2389.80 SPEAKER_02  Anyway.
+2390.40 2391.70 SPEAKER_02  That's all for Honu for today.
+2391.70 2399.44 SPEAKER_02  I'd now like to hand to myself in the past from my perspective, but the future in your perspective, for a little talk about planning.
+2400.36 2401.80 SPEAKER_02  A little talk about planning.
+2408.14 2410.90 SPEAKER_02  Hello, everyone joining us from the first half of the episode.
+2411.14 2413.46 SPEAKER_02  It is just me, Riley, this time.
+2413.46 2424.56 SPEAKER_02  That means it's time for another interview with an academic who actually knows what they're talking about, as opposed to us, you know, vaguely guessing, doing a Keir Starmer impression.
+2424.78 2429.28 SPEAKER_02  I'm sure Milo probably did the Georgian Peter Griffin thing, and he seems to like that one.
+2430.14 2431.74 SPEAKER_02  So we're leaving all of that.
+2431.80 2434.34 SPEAKER_02  We're leaving childish things behind us in the first half.
+2434.34 2450.96 SPEAKER_02  And instead, I'm going to have a conversation with Dr. Gareth Fern, who is at the Environment, Education, and Development Faculty at the University of Manchester, who has, among others, written a new paper called Planning for the Public, Why Labor Should Support a Public Planning System.
+2451.40 2461.40 SPEAKER_02  And one of the reasons that I wanted to talk to Gareth today was that every single party has, in every sense, promised, we are going to change Britain.
+2461.40 2463.64 SPEAKER_02  We're going to resolve its productivity crisis.
+2463.64 2469.40 SPEAKER_02  We're going to solve its affordability crisis, all these things, by finally streamlining the planning system.
+2469.80 2484.34 SPEAKER_02  Now, we've always tended to leave those things to the side, knowing intuitively that they're horse shit, but not necessarily knowing exactly why, other than that they're being sold by, I'd say, career charlatans.
+2484.34 2495.18 SPEAKER_02  So to now help us understand what planning reform that would be worth the paper it's printed on would look like, easy sentence there, it is Gareth Fern.
+2495.32 2496.28 SPEAKER_02  Gareth, welcome to the show.
+2497.18 2497.70 SPEAKER_01  Thank you very much.
+2497.76 2498.44 SPEAKER_01  Thank you for having me on.
+2498.52 2504.14 SPEAKER_01  I hope I can bring the level of decorum and sort of astutis that you sat at the beginning.
+2504.30 2505.00 SPEAKER_01  It's a lot to look up to.
+2505.00 2509.84 SPEAKER_02  So let's hear your best George and Peter Griffin.
+2510.56 2511.42 SPEAKER_02  No, no, no.
+2511.54 2513.14 SPEAKER_01  I've been practicing all day, so yeah.
+2513.14 2522.38 SPEAKER_02  So, as I said, right, it costs enormous sums of money to build anything in the UK from a wind turbine to a section of train track.
+2522.90 2528.88 SPEAKER_02  And much of that, I think, is commonly believed to come down to our, frankly, insane planning system.
+2528.88 2539.92 SPEAKER_02  And I can also say, as a big fan of techno, that planning frequently ends up closing my favorite venues, meaning I have to travel further and further out of town in order to access the music that I like so well.
+2541.32 2558.42 SPEAKER_02  And I think, going back to something I was saying at the beginning, we encounter, whenever we look at these assessments of the UK's ills drawn up by people who often have no desire to fix them, so they say they will fix the planning system, and everything will more or less right itself from there as private investment is unleashed, which has been held back by red tape.
+2558.88 2566.98 SPEAKER_02  And the universal fix for this, mostly on the Tory side, but also somewhat, with some exceptions on the labor side, is to, quote, streamline our inefficient planning system.
+2567.44 2586.52 SPEAKER_02  So, can you please tell me and our listeners a little bit of what our planning system is looking like now, why people think it might need streamlining, and how some of the ills that we experience are related to the, what I find to be a, frankly, Kafkaesque nightmare of bureaucracy, the private bureaucracy?
+2586.52 2633.56 SPEAKER_01  Yeah, so I think, I mean, yeah, the sort of project of streamlining planning is something that's been going on for about 40 years, and it gets brought up every maybe five or 10 years as a kind of project, usually when there's a crisis of some sort, or there's some sort of economic slowdown, for the exact reason you said, that kind of outline idea of like, yeah, we're going to unleash this market that's sort of hidden away and has been hitherto not able to produce housing, or infrastructure, or whatever it is, right? And they've actually tried to do that in the last maybe 10 years or so, and arguably that's created some of the problems we've had now. So, ever since the Conservatives got in in 2010, they've been trying to find ways to kind of streamline planning, so they've done so through national planning system policy, which was incredibly slimmed down from the previous Labor government in 2011-12.
+2633.56 2668.62 SPEAKER_01  They've introduced what's called permitted development, which is, or extended, sorry, not introduced, extended permitted development, which is basically where you don't have to go through a full planning kind of committee to get a decision on a site, but into things like converting offices to residential, which is in turn led to like lots of very poor quality housing, particularly in London. So, streamlining is something they've been doing anyway, but what they've also been doing, and this is probably speaks to the problems and the sort of mess that we have at the moment within planning, is also cutting significantly financially the budgets of planning departments.
+2669.30 2684.16 SPEAKER_01  So, 50% plus cuts to most planning departments, it's the biggest hit area of local government, because it doesn't, you know, it's not something like social care, which you, is much harder, which you have statutory sort of obligations to, and also that you, you know, obviously councils are less, are more reticent to kind of cut back on.
+2684.16 2693.28 SPEAKER_01  So, planning has taken the brunt of the sort of public sector, local government cuts, which is, you know, the biggest cuts section of the public sector as well, right?
+2693.30 2695.94 SPEAKER_01  So, it's like the sort of most cut bit within the most cut bit.
+2696.82 2708.38 SPEAKER_01  And that's also, you know, not just in terms of overall funding, but also in terms of like paying conditions for people who work in planning, and really actually also, perhaps most dramatically, it's been like privatization of planning.
+2708.38 2713.24 SPEAKER_01  So, that's like planners, so there's RTPI, which is the professional body for planning.
+2713.56 2716.86 SPEAKER_01  They kind of every few years do a report on the planning profession.
+2717.20 2723.58 SPEAKER_01  And a few months ago, the report said that we've now got over 50% of professional planners work in the private sector.
+2723.96 2725.52 SPEAKER_01  They don't work exclusively in the private sector.
+2725.62 2727.36 SPEAKER_01  They often work within the public sector as well.
+2727.78 2738.30 SPEAKER_01  So, they'll work on a contract doing policy for a council, and then they'll work on another contract or in another team at some point later in the future, putting applications into planning departments.
+2738.38 2738.64 SPEAKER_01  Right?
+2738.96 2746.00 SPEAKER_01  So, all of these kind of things, I think, the sort of deregulation, the privatization, and also the sort of austerity, basically.
+2746.68 2750.82 SPEAKER_01  All of these things have kind of combined to create a lot of the, like some of the problems you talked about at the beginning, right?
+2752.24 2762.22 SPEAKER_01  Whether, you know, whether it's in housing, whether it's infrastructure, whatever, it means that the basic stuff that the planning system, even as it's currently constituted, is supposed to do is very difficult.
+2762.22 2765.34 SPEAKER_01  So, like making a plan, for example, which you would think is quite difficult.
+2765.34 2767.70 SPEAKER_02  Sounds like a basic task of the planning system.
+2768.38 2771.84 SPEAKER_01  Like most plans are going to be out of date in a year or so in the UK.
+2771.98 2773.50 SPEAKER_01  Like most local plans, like 70-odd percent.
+2773.84 2783.06 SPEAKER_01  So, like just that basic ability to be able to do those kind of functional things, even like the things, even from a really neoliberal perspective, right, of actually delivering planning decisions quickly.
+2783.70 2788.52 SPEAKER_01  Well, most planning decisions, like 70-odd percent, again, were delivered within the government's timeframes 10 years ago.
+2788.52 2792.00 SPEAKER_01  And now it's like 20% because there's just not enough people to do the job.
+2792.18 2793.74 SPEAKER_01  Like it's pretty straightforward why that's happened.
+2793.94 2795.44 SPEAKER_01  Like it's not a new development.
+2796.12 2797.16 SPEAKER_01  Sorry, it is a new development.
+2797.28 2799.00 SPEAKER_01  It's not something that's been happening for a long time.
+2800.14 2814.50 SPEAKER_02  And just to understand as well, right, like what we're talking about is, this is an explanation of the profusion of developments like one famously in Greenwich that had to then be torn down because it was given...
+2814.50 2830.96 SPEAKER_02  My understanding is that it was kind of given quite slapdash approval that didn't actually meet any of the other requirements of the area or developers building buildings where they're able to wink and nudge at other planners saying, oh, yeah, there's going to be half affordable housing.
+2830.96 2833.32 SPEAKER_02  And then they're all sort of...
+2833.32 2844.00 SPEAKER_02  It's either a kayfabe or quite simply, the developers are managing to buffalo the sort of stretched thin planning staff so that they can once again have like...
+2844.00 2858.10 SPEAKER_02  In some of Battersea developments with like the sort of insane sky pool, they're able to have affordable housing that's still like 750,000 pounds for a two-bed flat that's accessed via a poor door.
+2858.10 2866.16 SPEAKER_02  You know, you can see that in all of these senses, things are getting approved that have sort of either no basis in law or no basis in common sense.
+2866.60 2869.70 SPEAKER_02  And I think you can very squarely lay it at the door of what you're describing.
+2870.60 2871.10 SPEAKER_01  Yeah, absolutely.
+2871.32 2878.54 SPEAKER_01  And I think it's like that kind of speaks to a kind of relative and increasing weakness of the public sector in this regard, right?
+2878.62 2884.36 SPEAKER_01  So it's not to say like, and I certainly don't want to say this, and I don't think many of the authors on the paper that we did would...
+2884.36 2888.84 SPEAKER_01  are people that would argue that the planning system was great 10 years ago, right?
+2888.86 2889.68 SPEAKER_01  Everything was fantastic.
+2889.96 2893.66 SPEAKER_01  And, you know, all the developments that were done with that were fine and etc.
+2894.16 2905.54 SPEAKER_01  But there was at least like some capacity to contest or to shape decisions, even with that kind of more limited, even within the kind of, you know, new labor years, there was still some potential for that to happen.
+2905.54 2925.90 SPEAKER_01  But now, like the idea that the, you know, the only real times that we see, and this is probably the genesis of like the sort of current debates about NIMBIs and NIMBIs and such like that, is that the only time you really see regularly people who are able to actually oppose the development is often very wealthy people in the sort of like home counties or something like that trying to oppose housing development.
+2926.24 2927.54 SPEAKER_01  But when it's a working class community...
+2927.54 2932.16 SPEAKER_02  Or MPs stopping a piece of railway from being put down in their constituency.
+2932.16 2933.44 SPEAKER_01  Yeah, that sort of thing.
+2933.68 2942.76 SPEAKER_01  Whereas, you know, when you see like, and I mean, I live in Manchester, various like kind of working class communities trying to oppose various developments that they think are going to be disruptive to the area.
+2943.14 2944.42 SPEAKER_01  Obviously, they just get ignored, right?
+2944.48 2945.44 SPEAKER_01  Most of it's by and large.
+2946.18 2947.16 SPEAKER_01  So it...
+2947.86 2952.30 SPEAKER_01  And then we've got ourselves in this position where the former people are kind of foregrounded as a problem.
+2952.68 2956.48 SPEAKER_01  And there's the kind of main problem and main issue that needs to be sort of bypassed, I guess, within planning.
+2956.78 2966.30 SPEAKER_01  Whereas actually, what's simultaneously happening, and indeed, perhaps the reason that certain like think tanks use that kind of language is because actually a lot of the time developers are getting their way.
+2966.60 2967.14 SPEAKER_01  And they are.
+2968.76 2972.40 SPEAKER_01  Certainly in like big cities like Manchester or London, like they certainly are getting their way.
+2972.52 2980.38 SPEAKER_01  And they certainly are producing things, whether it's like you say, shutting down nightclubs, which I appreciate it's not always developers, but it can be led by sort of new developments.
+2981.00 2982.76 SPEAKER_01  And then people move in and then they want the nightclub shut.
+2983.64 2986.88 SPEAKER_01  Like, yeah, that process, I think, is an outgrowth of...
+2986.88 3004.98 SPEAKER_01  Whereas at least, I think you can say at least very much intensified by the weakness of like planners, both in their kind of quasi-judicial role, but also in like the actual process of making a plan and actually doing the hard and complicated work of like working with different people in the community, right, which does take time and it takes money.
+3005.48 3013.24 SPEAKER_01  And if you don't have that, then you're already starting from a very difficult position if you're like at least more progressive in your sort of aims for a city or for a region or whatever.
+3013.24 3024.02 SPEAKER_02  Yeah. So I'd like to talk as well about like what you described mostly in the paper is what an actually functional planning system would look like, right?
+3024.14 3026.24 SPEAKER_02  Because you talk about...
+3027.44 3036.86 SPEAKER_02  I think I like talking about this because I like to understand what a plan that is actually worthwhile would look like.
+3036.86 3052.10 SPEAKER_02  And some of the points that you hit are to actually revitalize and reprofessionalize planning as a public sector activity, which to me speaks to a lot of kind of minimum requirements for any solution to the hollowing out of the UK public sector.
+3052.38 3064.88 SPEAKER_02  Whether you're talking about teaching, whether you're talking about like the rail industry, like anything that we frequently talk about in all senses, we've decided to stop hiring and stop paying people enough.
+3064.88 3066.62 SPEAKER_02  And so people aren't working in it.
+3067.36 3074.28 SPEAKER_02  And to be able to act as a public sector body, you need to have people and you need to have people who are qualified.
+3074.58 3094.58 SPEAKER_02  Like I'm also put in mind of when we talked to yet another Gareth, Gareth Davies about the goings on in Thurrock Council, where, you know, some basically people from the town had to sort of engage in asset management, working against like sharks from the city in Mayfair, right?
+3094.58 3105.56 SPEAKER_02  You're not going to be able to have a local government that say, invests in the market that doesn't constantly get taken advantage of unless they're hiring those sharks.
+3105.94 3107.44 SPEAKER_02  And I think it's the same thing with planning.
+3107.58 3121.46 SPEAKER_02  We need to hire more, more qualified, not to put too fine a point on it, sharks who are able to actually significantly check developer ambitions.
+3122.26 3122.42 SPEAKER_01  Yeah.
+3122.88 3123.50 SPEAKER_01  Yeah, absolutely.
+3123.64 3133.88 SPEAKER_01  I think like, not to get too much into this, but like, you know, I've obviously I've worked in planning, a few different planning schools, universities and like, you know, the universities are training people as planners, right?
+3133.94 3136.28 SPEAKER_01  There's like plenty of people still being trained.
+3136.36 3138.88 SPEAKER_01  It's still, you know, a fairly popular degree for young people to do.
+3139.02 3141.64 SPEAKER_01  So, and it's like a professional qualification in most cases.
+3141.64 3145.12 SPEAKER_01  So there are people being trained as professional planners, but then most of them go and work.
+3145.12 3153.34 SPEAKER_01  And like, and I think, I think a lot of them are being trained with it, with a kind of public sector ethos because most of the people training them were people who worked in the public sector years ago, usually.
+3154.46 3161.14 SPEAKER_01  So, you know, in terms of like younger people that is happening, but then often then what they do is they go and work in a consultancy, right?
+3161.84 3167.58 SPEAKER_01  And, you know, there are some consultancies that do better work than others, but like that, that, you know, is a very different ethos.
+3167.66 3168.80 SPEAKER_01  It's a very different way of thinking.
+3169.34 3180.98 SPEAKER_01  And yeah, there's actually not always, it can be quite, and if you're not like, you know, it's necessarily about the highest performer, for example, it can actually be a really unstable career, like in terms of contracts and, you know, moving from one place to the other and that kind of thing.
+3181.76 3182.86 SPEAKER_01  So, yeah.
+3182.94 3202.70 SPEAKER_01  And I think that for me is what opens up this, as I sort of touched on before, is that it's, you know, it's both lacking the capacity to actually do the, so as a consequence, the public sector lacks the kind of capacity to engage in the more complicated work of not just like, you know, signing off developments, but maybe like designing a, an area or locality that's like well connected.
+3202.94 3207.04 SPEAKER_01  Or has like good community infrastructure or has like GPs and all these kinds of things, right?
+3207.10 3218.78 SPEAKER_01  Like, you know, it has that kind of, those kinds of things can be factored in, which increasingly doesn't, you know, it's harder to do in terms of making a plan, the spatial kind of, you know, both in this sort of sense of mapping out where things go.
+3218.92 3225.90 SPEAKER_01  I know it sounds very simplistic, but like just be able to do that properly as well as, you know, policies and, you know, what you want to prioritize in an area and things like this.
+3225.98 3226.14 SPEAKER_01  Right.
+3226.52 3235.30 SPEAKER_02  As opposed to just being like, Oh, well, we hired the three best people at cities skylines, and we're hoping that they'll be able to create a functional community here.
+3235.60 3235.82 SPEAKER_05  Yeah.
+3235.92 3236.04 SPEAKER_05  Yeah.
+3236.18 3246.90 SPEAKER_02  We, we also, we talk about revitalizing planning as a profession and making a public sector that can be adversarial and be challenging as well as actually just get stuff done.
+3246.90 3247.42 SPEAKER_02  Yeah.
+3247.42 3252.64 SPEAKER_02  We're also talking as well about, you talk a great deal about democratizing planning.
+3252.82 3255.46 SPEAKER_02  That means ensuring gains from planning equally distributed.
+3256.12 3263.52 SPEAKER_02  And that right now the planning profession, shock horror, serves largely to serve the interests of the extremely rich.
+3263.90 3274.58 SPEAKER_02  So I'd like to just sort of take a step back and ask, how exactly does the planning system right now sort of just consistently give returns to the people who are already very wealthy?
+3274.58 3280.06 SPEAKER_02  And what would a more democratic distribution of gains from planning actually look like?
+3282.32 3282.72 SPEAKER_01  Yeah.
+3282.84 3297.56 SPEAKER_01  Well, I would say that like the, you know, the gains, and I guess it's really an important point to mention when talking about planning any, a lot of the time is that like what the planning system is and can do even, you know, both ideally and in its current like, you know, form.
+3298.32 3305.98 SPEAKER_01  And it's, it's often attributed to be able to do things that it can't do, or it's often like given too much priority and reasons things aren't working.
+3305.98 3306.24 SPEAKER_01  Right.
+3306.28 3309.24 SPEAKER_01  So for example, like why the UK isn't building so much infrastructure?
+3309.76 3312.40 SPEAKER_01  Well, it's because the government gave up on public investment for 10 years.
+3312.42 3314.94 SPEAKER_01  That's why, that's why we don't have good electricity infrastructure.
+3315.04 3317.02 SPEAKER_01  That's why we don't have good train infrastructure, et cetera, et cetera.
+3317.02 3318.82 SPEAKER_01  Like, like that's the core reason.
+3319.12 3323.96 SPEAKER_01  And like, um, planning is then used as an excuse for why those things haven't happened.
+3324.06 3324.24 SPEAKER_01  Right.
+3324.24 3337.22 SPEAKER_01  So I think it's important just, just to firstly kind of like, and I would say the same in, in terms of like wealth and in terms of gains of, um, you know, people being able to make money off land, basically, you know, that the reasons for that happening are much more external to planning.
+3337.32 3341.64 SPEAKER_01  It's obviously to do with the financial crisis, quantitative easing, all these kinds of background economic conditions, right.
+3341.68 3343.74 SPEAKER_01  That are driving land prices up.
+3344.20 3348.50 SPEAKER_01  Um, particularly, and obviously like, you know, speculation from, um, and planning is part of this.
+3348.54 3357.70 SPEAKER_01  I'm not trying to say planners aren't part of this, particularly in terms of signing off, like off plan, um, uh, buy to rent, like huge apartment blocks and things like this.
+3357.76 3357.88 SPEAKER_01  Right.
+3357.88 3359.16 SPEAKER_01  Like obviously planning is part of that.
+3359.70 3361.12 SPEAKER_01  Um, but that's the sort of driving thing.
+3361.20 3364.76 SPEAKER_01  What planning can do though, even within this kind of, uh, limited context.
+3364.76 3371.52 SPEAKER_01  And I guess we could try to say planning and local government more widely is through, yeah, trying to capture some of the gains that are being made.
+3371.52 3371.78 SPEAKER_01  Right.
+3371.80 3390.32 SPEAKER_01  And presently that happens through what's called, which a lot of people probably have heard of in planning, if they've heard of anything, which is called section 106, which is, uh, usually a negotiated, um, agreement between a developer and a local authority to either provide sometimes money, but often it's like, uh, social housing, right.
+3390.36 3394.66 SPEAKER_01  Or affordable housing, or even sometimes it could be like a park or something like that.
+3394.72 3403.44 SPEAKER_01  It's an agreement that the developer will pay for, or even do, um, even produce one of these things in order to offset the kind of impacts of their development.
+3403.68 3413.04 SPEAKER_01  Now the problem with that system, you know, in some cases it can work, but in, uh, a lot of the time, obviously it can be negotiated down or it can be offered.
+3413.54 3423.82 SPEAKER_01  Um, and from what I understand, uh, you know, there's, I think there was, maybe it was a BBC documentary, but, uh, there's this cans like property festival councils turn up there.
+3423.82 3425.96 SPEAKER_01  They try and get international investors to come to the city.
+3426.52 3428.64 SPEAKER_01  Like this happens every couple of years, I think.
+3428.84 3432.28 SPEAKER_01  And, you know, one of the things that you can say is like, you know, I was kind of off the record.
+3432.54 3433.02 SPEAKER_01  Oh yeah.
+3433.04 3436.12 SPEAKER_01  Well, you know, maybe the section 106 won't be as bad or something like this.
+3436.20 3439.26 SPEAKER_01  And, you know, this is probably also a function of cities competing with each other as well, right.
+3439.26 3440.96 SPEAKER_01  To try and attract like global investment.
+3441.84 3444.18 SPEAKER_01  So it's kind of flexible, right.
+3444.24 3453.02 SPEAKER_01  And the government of, and then they, so the government introduced 10, 15 years ago, community infrastructure levy, which is supposed to be a bit more rigid, uh, which councils can set out.
+3453.02 3458.12 SPEAKER_01  Uh, and now they've introduced another levy or the framework for another levy recently in the recent legislation.
+3458.38 3461.08 SPEAKER_01  So they seem to be trying to make that a bit more solid.
+3461.20 3472.46 SPEAKER_01  And that seems to be, I mean, I guess I saw moving the right direction, but it still seems that like this money is either often just going in, maybe just going into, sometimes if it's money in terms of levies, just going into councils because they need the money anyway.
+3472.46 3474.44 SPEAKER_01  So it's not necessarily just going to things that's needed,
+3474.72 3481.54 SPEAKER_02  but it's kind of a stealth tax, which is fine, but it doesn't do the thing it's supposed to do.
+3481.54 3487.84 SPEAKER_02  And so it gives, I think it gives central government a way to say, Hey, we're doing all of this stuff.
+3487.92 3493.82 SPEAKER_02  And then local governments frequently have to like, not deliver the thing in order just to deliver other things in a minimum level.
+3493.94 3494.08 SPEAKER_01  Yeah.
+3494.20 3495.44 SPEAKER_01  Well, it was designed at a time.
+3495.98 3498.94 SPEAKER_01  Well, yeah, I mean the first, the sexual assaults comes from 1990.
+3499.46 3505.22 SPEAKER_01  So it was designed at a time when it's not exactly like local governments were amazingly funded then, but they were a lot better funded than they are now.
+3505.22 3505.44 SPEAKER_01  Right.
+3505.44 3508.96 SPEAKER_01  It was based on an idea that we hadn't completely destroyed local government, I assume.
+3509.18 3523.76 SPEAKER_01  So, so now when you've got, you know, sexual assaults additional to like full local government funding, maybe, maybe that's, you know, not a disaster, but if you, and you know, these community levies as well, but when you've taken so much money out, putting this money in doesn't make a huge difference, I don't think.
+3524.24 3529.34 SPEAKER_01  So yeah, what we call for our paper was a more like, and this would even work for developers as well.
+3529.42 3529.56 SPEAKER_01  Right.
+3529.56 3538.12 SPEAKER_01  It's not some necessarily some radical sort of position that's used in other countries as to, you know, we didn't go into all the specifics because there's like a few different versions that it would have taken up too much time to debate them all.
+3538.92 3552.74 SPEAKER_01  Have either land value tax or land, a more clear kind of percentage land value capture system for, for like any sort of development or at least any development over a certain scale or value where you sort of say, right, you know, this is how much you get as a landowner.
+3552.74 3552.78 SPEAKER_01  Yeah.
+3552.86 3561.68 SPEAKER_01  And what we're talking about particularly is what's called planning game, which is where the value that you get from land is turning from what it was before into, you know, when it gets permission, it usually makes land more valuable.
+3561.82 3561.98 SPEAKER_01  Right.
+3562.04 3563.94 SPEAKER_01  So it's how you capture some of that gain.
+3564.04 3568.40 SPEAKER_01  Some of it can get developers fine, but actually we need to have a much clearer sense of how much of that goes to the public.
+3568.62 3570.38 SPEAKER_01  And that makes them more redistributive effective.
+3570.38 3581.22 SPEAKER_02  And we're not being Georgists here, crucially, because we're talking specifically about land value taxes to offset problems created by high land values.
+3581.52 3582.00 SPEAKER_01  Yeah, exactly.
+3582.16 3582.28 SPEAKER_01  Yeah.
+3582.36 3582.54 SPEAKER_01  Yeah.
+3582.54 3586.22 SPEAKER_01  It's capturing that rising land value for the public because it's not great.
+3586.34 3588.88 SPEAKER_01  You know, people aren't creating that wealth by doing anything like that.
+3589.00 3589.98 SPEAKER_01  They're just getting it by accident.
+3590.46 3594.96 SPEAKER_02  And this, and we're saying that planning is just one way we could possibly do that.
+3595.50 3595.72 SPEAKER_01  Yeah.
+3595.84 3596.00 SPEAKER_01  Yeah.
+3596.00 3599.70 SPEAKER_01  I mean, through, through plan value capture specifically is something you could do through planning land values.
+3599.78 3605.32 SPEAKER_01  We talk within the paper about property, like reforming council tax and property tax, which is obviously a local government thing.
+3605.32 3610.80 SPEAKER_01  So, yeah, I mean, that for, you know, that's a kind of wider kind of issue, I think, to do with it.
+3610.86 3613.54 SPEAKER_01  And again, this comes back to planning and it's kind of political space, right?
+3613.58 3619.54 SPEAKER_01  Like, obviously, and this is why we took target the paper towards labor, because obviously the conservatives is never going to do any of this.
+3619.76 3629.14 SPEAKER_01  And the people, and the people, and the people, and the people, and the people, we're going to do it either, but like, you know, like obviously any of these kind of planning reforms would fit within, only make sense within a wider shift in local government.
+3629.56 3633.00 SPEAKER_01  And, you know, an actual, you've got to want to redistribute wealth basically.
+3633.44 3635.20 SPEAKER_01  And obviously at the moment we don't, but we do.
+3636.70 3637.54 SPEAKER_02  I'll say this.
+3638.02 3644.38 SPEAKER_02  As someone who was writing a paper targeting labor, you probably can't say that they're unlikely to do it either.
+3644.82 3646.14 SPEAKER_02  Let's just leave it at that.
+3647.40 3651.68 SPEAKER_02  So the other thing we talked about though, is making the process of planning more accountable, right?
+3651.70 3657.52 SPEAKER_02  We're capturing the value, but also is it democratizing the gains, but also democratizing inputs.
+3657.52 3669.10 SPEAKER_02  And this is not about just allowing more veto players in just, but rather allowing, as you say, for example, much, much more consultation.
+3669.50 3674.18 SPEAKER_02  So can you talk about what you think a better consultative process would look like?
+3674.98 3677.94 SPEAKER_02  Or have I missed, have I misportrayed you?
+3677.94 3684.30 SPEAKER_01  I would say more like deliberative or democratic, I guess, in the sense that like, you know, consultations as they use now can be kind of like quite box sticky.
+3685.74 3686.86 SPEAKER_01  I don't, I'm not really sure.
+3686.98 3697.14 SPEAKER_01  So even though, like often quite an elite thing, I think, particularly on a lot of issues, like it's, you know, it's, it's for like established groups and stuff to sort of debate things, which, you know, is fine, whatever.
+3697.34 3724.92 SPEAKER_01  But I guess I would say that like, so, and this is probably important in terms of like the, the sort of opposing view or the proposed reform from the kind of more neoliberal, also think tanks is that we move towards what's more, a more regulatory system rather than what we have at the moment, which is very discretionary, which means that decisions are taken at people's sort of judgment discretion in either elected or sort of public officials, to a more regulatory system like they have in say France or the US where it's more sort of rules up front.
+3725.06 3740.96 SPEAKER_01  Now, the reason that we have local plans so important was because this was a compromise made in 1990 to allow some of that more regulatory approach in, whereby the plan is the sort of defining, allows, allows developers or anyone else to look at something and go, okay, well, this is what we can do here.
+3741.38 3742.48 SPEAKER_01  These are the things we're allowed to do.
+3742.56 3744.46 SPEAKER_01  These are the things that kind of encourages to do, et cetera, et cetera.
+3744.46 3745.42 SPEAKER_01  That's kind of the idea.
+3747.00 3753.56 SPEAKER_01  So for me, like the kind of democratic aspects enhancing really is in that bit, is in that bit of that's where the work can go in.
+3753.72 3763.04 SPEAKER_01  That's where you can have like these kind of antagonistic discussions about, you know, and obviously local officials and elected officials and the public can then decide what it is, you know, they want to do.
+3763.08 3764.98 SPEAKER_01  And then obviously the costs and benefits of doing that, right.
+3765.00 3766.74 SPEAKER_01  If you don't want to build new housing, okay, fine.
+3766.78 3773.70 SPEAKER_01  But then like, you know, what's going to happen to your like schools or to your, you know, your area if like people can't live there, like, or families can't live there, et cetera.
+3773.70 3780.14 SPEAKER_01  Like, so I think there's, I think, I think that is where you have a better democratic opportunity.
+3780.40 3784.62 SPEAKER_01  And I think that's where, and you know, but again, as I was kind of emphasizing before that requires work, right.
+3784.62 3798.76 SPEAKER_01  Because that requires not only like the process of developing those plans and policies, but also requires like, actually you've got to actively go and find people to get them involved because, you know, people aren't just walking into planning meetings, you know, it's only a certain type of person who tends to do that.
+3798.86 3802.28 SPEAKER_01  So that requires like, again, significant resources and work to actually do that properly.
+3802.28 3806.08 SPEAKER_01  And, you know, in the past, like there have been sort of reasonable attempts to do that.
+3806.16 3812.82 SPEAKER_01  They've not always been perfect, but like, it's not like that's some sort of, you know, unfathomable like process.
+3812.96 3815.06 SPEAKER_01  Like, I mean, again, other people in other countries do do this.
+3815.06 3815.72 SPEAKER_01  So it's not like,
+3816.80 3822.90 SPEAKER_02  this comes back down, I think to building public capacity, right.
+3822.94 3839.44 SPEAKER_02  Which is in order to go and get people, as you say, you can't just wait for them to come to you because the only people who are constantly paying attention to that and coming to you are either landlords or insane, like, you know, touring land owning NIMBYs who want to stop trains being built.
+3839.62 3840.44 SPEAKER_02  If you get my meaning.
+3840.78 3840.88 SPEAKER_03  Yeah.
+3840.88 3868.60 SPEAKER_02  Um, so how, and this comes back to, as we say, actually making the public sector work again, which is going to require, as you say, actually hiring people, actually, um, giving them a remit to engage with the public and do things in the public interest, which is so far away from where we've come, where we come from, or maybe really ever have been in quite a long time.
+3869.32 3879.18 SPEAKER_02  Um, and this is where I think we want to come to come back to what other, what otherwise is suggested to fix the planning system by the mainstream parties, which is to streamline it.
+3879.44 3887.64 SPEAKER_02  Really, what you're saying is needed is a significant bulking up, but to make it better rather than to make it disappear.
+3888.08 3889.06 SPEAKER_01  Yeah, I think so.
+3889.16 3894.70 SPEAKER_01  I mean, like, I mean, like I think what's developed and this, this is, this was actually prior to the, the coalition of conservatives.
+3894.88 3904.04 SPEAKER_01  I think this was happening in the labor too, which is the, yeah, I would say it's kind of like, there's a lot of bureaucracy, but a lot of it's, it's very, it, it's kind of box sticking, right?
+3904.08 3908.22 SPEAKER_01  A planning process becomes more box sticking, which is in the sense of like, okay, we have to do this thing.
+3908.26 3908.98 SPEAKER_01  We have to do this review.
+3909.04 3909.88 SPEAKER_01  We have to do this assessment.
+3910.00 3910.54 SPEAKER_01  We have to do that.
+3910.54 3911.58 SPEAKER_01  And that kind of goes on forever.
+3912.02 3920.28 SPEAKER_01  But like, that's actually not, I mean, I've sat and watched and, you know, researched, analyzed several multiple, like different planning decisions.
+3920.28 3924.40 SPEAKER_01  And actually like, you know, that's, it's almost like a bit of a charade sometimes.
+3924.40 3938.42 SPEAKER_01  Like it's like, they go through the motions, but what decides the issue is actually just to do with, you know, you know, say I'm fracking, for example, like, yeah, there was lots of like technical issues discussed about noise and pollution, all these kinds of things.
+3938.42 3944.72 SPEAKER_01  But at the end of the day, like it was the fact that it was, there was clear issues with the process and that people in the area worried about it.
+3944.74 3946.38 SPEAKER_01  And that's eventually why they ended up rejecting it.
+3946.42 3946.54 SPEAKER_01  Right.
+3946.56 3947.08 SPEAKER_01  And that's fine.
+3947.14 3948.96 SPEAKER_01  Like, I don't have a problem with that.
+3949.02 3949.92 SPEAKER_01  I think that's perfectly reasonable.
+3949.92 3954.42 SPEAKER_01  Like, like people have like substantive disagreements about what can be done with land.
+3954.80 3968.66 SPEAKER_01  And I think the problem with the, I don't think there's an easy way out of that, but I, what I don't agree with is this kind of very neoliberal perspective that you can just, hide those things away and just pretend they don't exist and just come up with a way of bypassing all of those like antagonisms.
+3968.80 3968.92 SPEAKER_01  Right.
+3968.96 3970.64 SPEAKER_01  And there's the real like disagreements.
+3970.82 3978.88 SPEAKER_01  Like, what you need to do is try and think of a way to have those more constructively and in ways that we can, you know, and some people will win and some people will lose at the end of the day.
+3978.94 3980.80 SPEAKER_01  But like, I think we can do that.
+3980.86 3985.24 SPEAKER_01  And we can't just pretend those things don't exist because then obviously all that happens is that, you know, it'll be the developers that win.
+3985.32 3985.46 SPEAKER_01  Right.
+3985.46 3985.76 SPEAKER_01  Like,
+3986.08 3998.12 SPEAKER_02  so effectively what we're saying is, um, uh, a, a bulky and powerful planning system that's, um, able to actually, uh, stand in the way of an influence and influence development.
+3998.52 3998.88 SPEAKER_02  Great.
+3998.98 3999.84 SPEAKER_02  When do we get one?
+4000.46 4000.82 SPEAKER_02  Effectively.
+4001.06 4018.30 SPEAKER_01  I think it's, well, like, so I say about the importance of actual plan making, I guess, is that, you know, if, if you, I think if you had better and more substantive like plans and you were able to do it in a more sort of inclusive way, then it would be a lot easier to turn around to people and say no, or like to, you know, either people objecting for like sort of trivial reasons, right?
+4018.30 4027.68 SPEAKER_01  Like if it's like say the kind of archetypal NIMBY in the home counties, if you've had a sort of, uh, I don't know, a wider discussion in the kind of wider region.
+4027.90 4036.72 SPEAKER_01  So you could, you know, we talk about regional planning and that's, that's a huge problem that we don't have that, I think in the UK, but, uh, or in the wider county in the case of say, I don't know, Oxfordshire or something.
+4037.32 4048.28 SPEAKER_01  Um, like if you've, if, if that has then led to a set of principles about how much housing needs to be developed and like, that's been sort of developed as a policy and there's areas, you know, you talk about areas that you would like it to happen and you have to discuss that.
+4048.30 4052.22 SPEAKER_01  Not on an individual basis, but you have to discuss that on a regional basis or a county basis.
+4052.40 4054.00 SPEAKER_01  That becomes a bit of a different issue, doesn't it?
+4054.02 4056.40 SPEAKER_01  Because you're not just arguing about whether this one thing can happen.
+4056.98 4062.06 SPEAKER_01  And then if someone comes and rejects this to housing, that you've had this like two year planning process to, you know, plan making process.
+4062.52 4063.18 SPEAKER_01  Well, that's tough.
+4063.24 4064.46 SPEAKER_01  Like, unless they've got a really good reason.
+4064.96 4077.64 SPEAKER_01  Like, but I think if you're just doing that to people without that basis, that, that, that's when it becomes a lot more fraught and a lot more, yeah, a lot more like a lot more like, well, I guess they have some basis for saying that they're just being stomped upon, right?
+4077.64 4085.58 SPEAKER_01  Rather than, um, there being some sort of much stronger foundation, democratic foundation for you to have to say, well, I'm sorry, but you're just gonna have to put up with this inconvenience for a period of time.
+4085.58 4098.82 SPEAKER_02  So I think both before we end here, you know, I want to, um, I want to talk about another thing that is, I think a real, uh, important motivator to deprivatize and re-regulate planning.
+4098.96 4100.92 SPEAKER_02  This is from your planning and climate section.
+4101.04 4106.26 SPEAKER_02  What you say, the problem of flooding is emblematic of the privatization and deregulation of planning.
+4106.46 4121.84 SPEAKER_02  A focus on simply adding additional housing units is resulting in developments completely unsuited to the changing climate and the annual site of people being ferried away from their homes and dinghies should make it a clear that the planning system desperately needs to be reformed towards a public system that has the right skills and resources to act strategically.
+4122.62 4124.90 SPEAKER_02  And I mean, I think that's the, that's the vision.
+4125.08 4126.78 SPEAKER_02  I think we can leave ourselves on, right?
+4126.82 4137.42 SPEAKER_02  Which is we talk all the time on the show about whether or not something is going, some measure, some measure is going to be enough to deal with whatever crises are going to come down the pipe.
+4137.74 4157.12 SPEAKER_02  And I think we can just say for any reform of the planning system, will this meaningfully stop people from being put in dinghies when their homes are flooded, or will it allow developers to profit off of homes that will one day be required to be emptied via dinghy?
+4157.68 4158.32 SPEAKER_01  Yeah, that's right.
+4158.38 4158.80 SPEAKER_01  I think that's it.
+4158.84 4162.06 SPEAKER_01  We can set that up as a metric and as a test for all future proposals.
+4162.20 4165.34 SPEAKER_01  I think it might actually, yeah, we could go a long way with that at least.
+4165.34 4167.12 SPEAKER_01  Um, um,
+4167.18 4169.60 SPEAKER_02  it's the, the patented trash future dinghy test.
+4169.70 4170.36 SPEAKER_01  Yeah, yeah, yeah.
+4170.42 4170.88 SPEAKER_01  No, that's it.
+4170.90 4171.40 SPEAKER_01  That's all we need.
+4171.44 4171.62 SPEAKER_01  Actually.
+4171.66 4171.92 SPEAKER_01  I don't know.
+4171.96 4172.96 SPEAKER_01  We've wasted half an hour.
+4173.04 4173.20 SPEAKER_01  Really.
+4173.26 4174.94 SPEAKER_01  We can just start starting to finish with that.
+4175.90 4176.26 SPEAKER_02  Yeah.
+4176.28 4178.52 SPEAKER_02  Anything less, not worth the paper it's printed on.
+4179.26 4186.24 SPEAKER_02  Uh, so I think that about wraps up this half episode, but Gareth, I just want to thank you so much for coming and talking to us today.
+4186.46 4194.52 SPEAKER_02  Um, I've found it very interesting to be able to have much more evidence for my contempt of people hand-waving that they'll streamline the planning system.
+4194.52 4195.96 SPEAKER_02  I always knew it was bullshit.
+4196.14 4197.04 SPEAKER_02  I'm glad to know why.
+4197.82 4198.30 SPEAKER_01  Thank you.
+4198.34 4198.94 SPEAKER_01  Well, thank you very much.
+4198.98 4199.48 SPEAKER_01  It's been a pleasure.
+4199.56 4200.36 SPEAKER_01  And thanks for inviting me on.
+4200.70 4201.06 SPEAKER_01  It's been great.
+4201.18 4201.32 SPEAKER_02  Yeah.
+4201.54 4202.06 SPEAKER_02  All right.
+4202.10 4206.32 SPEAKER_02  Well, I'm going to hand back, uh, to past slash future.
+4206.38 4212.16 SPEAKER_02  Well, past for you, future for me, um, of the, uh, TF team for the sign off.
+4212.20 4212.96 SPEAKER_02  Bye everybody.
+4213.36 4215.52 SPEAKER_02  Ah, well, thank you very much to Dr.
+4215.68 4217.14 SPEAKER_02  Gareth Fern for talking to me.
+4217.32 4218.26 SPEAKER_02  What a conversation.
+4218.40 4220.42 SPEAKER_02  I didn't have much to say, but it was great.
+4220.68 4220.70 SPEAKER_04  Yeah.
+4220.70 4223.58 SPEAKER_04  It was a reliably great time when we talked to an academic named Gareth.
+4223.58 4224.14 SPEAKER_04  Gareth.
+4224.28 4225.28 SPEAKER_04  That's true.
+4225.50 4228.30 SPEAKER_04  Actually, a hundred percent hit rate on academics named Gareth.
+4228.46 4230.26 SPEAKER_04  If you are an academic named Gareth.
+4230.56 4230.96 SPEAKER_06  Yeah.
+4231.04 4232.12 SPEAKER_06  And you want to be on the podcast.
+4232.50 4233.70 SPEAKER_06  Maybe it's anyone called Gareth.
+4233.76 4235.04 SPEAKER_06  You could get Gareth Gates on.
+4235.04 4235.24 SPEAKER_02  Ooh,
+4235.48 4236.64 SPEAKER_04  Gareth future.
+4237.18 4240.26 SPEAKER_02  Anyway, anyway, um, we have a Patreon.
+4240.60 4242.54 SPEAKER_02  It is $5 a month to subscribe.
+4242.68 4244.74 SPEAKER_02  However, we're going to keep saying this.
+4245.08 4246.36 SPEAKER_02  It will be more expensive.
+4246.36 4257.10 SPEAKER_02  If you subscribe from within the iOS app, subscribe, not from within the iOS app, or it will cost more because we'll see how antitrust goes, but Apple is trying to leverage its market power.
+4257.10 4258.84 SPEAKER_04  So please do not do that.
+4258.84 4260.92 SPEAKER_04  Tim Apple will take some of your money.
+4261.04 4270.14 SPEAKER_06  If you subscribe on like within the app, it's like from like March, if you have an existing subscription, but that you subscribe before then it shouldn't increase.
+4270.14 4272.48 SPEAKER_06  But if you subscribe, I think it's from March.
+4272.56 4276.92 SPEAKER_06  This is Googleable information, but it's going to, they're going to put like a 30% surcharge on it.
+4276.98 4281.72 SPEAKER_06  So our recommendation is subscribe directly on the Patreon website or through other apps.
+4281.96 4282.86 SPEAKER_06  Anything else you want.
+4282.86 4288.30 SPEAKER_02  So yeah, aside from that, I also want to say thank you very much for listening.
+4289.80 4294.10 SPEAKER_02  We're looking forward to another year of being in your ears.
+4294.42 4302.38 SPEAKER_02  So we will see you on the bonus episode, which was a Balthazar that Milo and I just recorded earlier today with Tom Walker and Demi Lardner.
+4302.84 4304.58 SPEAKER_06  This was my fourth podcast of the day.
+4304.90 4305.62 SPEAKER_02  Yeah, absolutely.
+4305.92 4307.94 SPEAKER_02  So we will see you in a few days.
+4308.30 4308.56 SPEAKER_02  Bye, bye.
+4308.56 4308.70 SPEAKER_02  Bye.
+4309.18 4309.36 SPEAKER_04  Bye.
+4312.86 4313.86 None  Bye.
