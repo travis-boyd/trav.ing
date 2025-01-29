@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom"
       xmlns:thr="http://purl.org/syndication/thread/1.0"
       xml:lang="en-us">
-  <link rel="self" href="http://www.trav.ing/lazyblorg/feeds/lazyblorg-all.atom_1.0.links-and-content.xml" />
+  <link rel="self" href="http://trav.ing/lazyblorg/feeds/lazyblorg-all.atom_1.0.links-and-content.xml" />
   <title type="text">trog</title>
-  <id>https://www.trav.ing/lazyblorg/</id>
-  <link href="http://www.trav.ing/lazyblorg" />
+  <id>https://trav.ing/lazyblorg/</id>
+  <link href="http://trav.ing/lazyblorg" />
   <icon>/favicon.ico</icon>
-  <updated>2025-01-29T14:42:41-05:00</updated>
+  <updated>2025-01-29T17:18:25-05:00</updated>
   <author>
     <name>Travis</name>
   </author>
@@ -17,7 +17,7 @@
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Placeholder: How to Use This Blog Efficiently</title>
-    <link href='http://www.trav.ing/lazyblorg/how-to-use-this-blog' />
+    <link href='http://trav.ing/lazyblorg/how-to-use-this-blog' />
     <published>2017-01-03T12:07:00-05:00</published>
     <updated>2017-01-03T12:07:00-05:00</updated>
     <summary type='xhtml'>
@@ -39,15 +39,15 @@ This is a placeholder entry in order to be able to test internal links.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/how-to-use-this-blog-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/how-to-use-this-blog-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Placeholder: About</title>
-    <link href='http://www.trav.ing/lazyblorg/about' />
+    <link href='http://trav.ing/lazyblorg/about' />
     <published>2014-03-09T14:57:00-05:00</published>
     <updated>2014-03-09T14:57:00-05:00</updated>
-    <category scheme='http://www.trav.ing/lazyblorg/tags/lazyblorg' term='lazyblorg' />
+    <category scheme='http://trav.ing/lazyblorg/tags/lazyblorg' term='lazyblorg' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
@@ -67,12 +67,12 @@ This is a placeholder entry in order to be able to test internal links.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/about-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/about-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Mini blog entry</title>
-    <link href='http://www.trav.ing/lazyblorg/2013\08\22\testid' />
+    <link href='http://trav.ing/lazyblorg/2013\08\22\testid' />
     <published>2013-08-22T21:06:00-05:00</published>
     <updated>2013-08-22T21:06:00-05:00</updated>
     <summary type='xhtml'>
@@ -94,16 +94,16 @@ Just for testing.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/2013\08\22\testid-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/2013\08\22\testid-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">This is an example blog entry</title>
-    <link href='http://www.trav.ing/lazyblorg/2013\02\14\lazyblorg-example-entry' />
+    <link href='http://trav.ing/lazyblorg/2013\02\14\lazyblorg-example-entry' />
     <published>2013-02-14T19:02:00-05:00</published>
     <updated>2013-02-14T19:02:00-05:00</updated>
-    <category scheme='http://www.trav.ing/lazyblorg/tags/mytest' term='mytest' />
-    <category scheme='http://www.trav.ing/lazyblorg/tags/programming' term='programming' />
+    <category scheme='http://trav.ing/lazyblorg/tags/mytest' term='mytest' />
+    <category scheme='http://trav.ing/lazyblorg/tags/programming' term='programming' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
@@ -194,12 +194,12 @@ bar<br />
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/2013\02\14\lazyblorg-example-entry-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/2013\02\14\lazyblorg-example-entry-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry14</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry14' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry14' />
     <published>1985-01-01T15:14:00-05:00</published>
     <updated>1985-01-01T15:14:00-05:00</updated>
     <summary type='xhtml'>
@@ -221,12 +221,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry14-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry14-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry13</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry13' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry13' />
     <published>1985-01-01T15:13:00-05:00</published>
     <updated>1985-01-01T15:13:00-05:00</updated>
     <summary type='xhtml'>
@@ -248,12 +248,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry13-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry13-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry12</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry12' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry12' />
     <published>1985-01-01T15:12:00-05:00</published>
     <updated>1985-01-01T15:12:00-05:00</updated>
     <summary type='xhtml'>
@@ -275,12 +275,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry12-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry12-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry11</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry11' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry11' />
     <published>1985-01-01T15:11:00-05:00</published>
     <updated>1985-01-01T15:11:00-05:00</updated>
     <summary type='xhtml'>
@@ -302,12 +302,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry11-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry11-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry10</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry10' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry10' />
     <published>1985-01-01T15:10:00-05:00</published>
     <updated>1985-01-01T15:10:00-05:00</updated>
     <summary type='xhtml'>
@@ -329,12 +329,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry10-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry10-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry9</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry9' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry9' />
     <published>1985-01-01T15:09:00-05:00</published>
     <updated>1985-01-01T15:09:00-05:00</updated>
     <summary type='xhtml'>
@@ -356,12 +356,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry9-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry9-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry8</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry8' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry8' />
     <published>1985-01-01T15:08:00-05:00</published>
     <updated>1985-01-01T15:08:00-05:00</updated>
     <summary type='xhtml'>
@@ -383,12 +383,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry8-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry8-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry7</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry7' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry7' />
     <published>1985-01-01T15:07:00-05:00</published>
     <updated>1985-01-01T15:07:00-05:00</updated>
     <summary type='xhtml'>
@@ -410,12 +410,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry7-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry7-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry6</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry6' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry6' />
     <published>1985-01-01T15:06:00-05:00</published>
     <updated>1985-01-01T15:06:00-05:00</updated>
     <summary type='xhtml'>
@@ -437,12 +437,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry6-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry6-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry5</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry5' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry5' />
     <published>1985-01-01T15:05:00-05:00</published>
     <updated>1985-01-01T15:05:00-05:00</updated>
     <summary type='xhtml'>
@@ -464,12 +464,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry5-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry5-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry4</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry4' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry4' />
     <published>1985-01-01T15:04:00-05:00</published>
     <updated>1985-01-01T15:04:00-05:00</updated>
     <summary type='xhtml'>
@@ -491,12 +491,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry4-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry4-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry3</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry3' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry3' />
     <published>1985-01-01T15:03:00-05:00</published>
     <updated>1985-01-01T15:03:00-05:00</updated>
     <summary type='xhtml'>
@@ -518,12 +518,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry3-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry3-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry2</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry2' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry2' />
     <published>1985-01-01T15:02:00-05:00</published>
     <updated>1985-01-01T15:02:00-05:00</updated>
     <summary type='xhtml'>
@@ -545,12 +545,12 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry2-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry2-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">old blog entry1</title>
-    <link href='http://www.trav.ing/lazyblorg/1985\01\01\old-entry1' />
+    <link href='http://trav.ing/lazyblorg/1985\01\01\old-entry1' />
     <published>1985-01-01T15:01:00-05:00</published>
     <updated>1985-01-01T15:01:00-05:00</updated>
     <summary type='xhtml'>
@@ -572,5 +572,5 @@ Test entry.
 
       </div>
     </content>
-    <id>https://www.trav.ing/lazyblorg/1985\01\01\old-entry1-from-feed-with-content</id>
+    <id>https://trav.ing/lazyblorg/1985\01\01\old-entry1-from-feed-with-content</id>
 </entry></feed>
