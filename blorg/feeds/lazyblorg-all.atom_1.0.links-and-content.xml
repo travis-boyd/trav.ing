@@ -2,12 +2,12 @@
 <feed xmlns="http://www.w3.org/2005/Atom"
       xmlns:thr="http://purl.org/syndication/thread/1.0"
       xml:lang="en-us">
-  <link rel="self" href="http://trav.ing/lazyblorg/feeds/lazyblorg-all.atom_1.0.links-and-content.xml" />
+  <link rel="self" href="http://trav.ing/blorg/feeds/lazyblorg-all.atom_1.0.links-and-content.xml" />
   <title type="text">trog</title>
-  <id>https://trav.ing/lazyblorg/</id>
-  <link href="http://trav.ing/lazyblorg" />
+  <id>https://trav.ing/blorg/</id>
+  <link href="http://trav.ing/blorg" />
   <icon>/favicon.ico</icon>
-  <updated>2025-01-30T17:31:32-05:00</updated>
+  <updated>2025-01-30T19:17:21-05:00</updated>
   <author>
     <name>Travis</name>
   </author>
@@ -17,10 +17,10 @@
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Test post</title>
-    <link href='http://trav.ing/lazyblorg/2025\01\30\test-post-please-ignore' />
+    <link href='http://trav.ing/blorg/2025\01\30\test-post-please-ignore' />
     <published>2025-01-30T17:31:00-05:00</published>
     <updated>2025-01-30T17:31:00-05:00</updated>
-    <category scheme='http://trav.ing/lazyblorg/tags/test' term='test' />
+    <category scheme='http://trav.ing/blorg/tags/test' term='test' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'></div>
     </summary>    <content type='xhtml'>
@@ -41,12 +41,12 @@ Ist nicht fur gewerken by das Dummkopfen.  Das rubbernecken
 
       </div>
     </content>
-    <id>https://trav.ing/lazyblorg/2025\01\30\test-post-please-ignore-from-feed-with-content</id>
+    <id>https://trav.ing/blorg/2025\01\30\test-post-please-ignore-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Placeholder: How to Use This Blog Efficiently</title>
-    <link href='http://trav.ing/lazyblorg/how-to-use-this-blog' />
+    <link href='http://trav.ing/blorg/how-to-use-this-blog' />
     <published>2017-01-03T12:07:00-05:00</published>
     <updated>2017-01-03T12:07:00-05:00</updated>
     <summary type='xhtml'>
@@ -68,15 +68,15 @@ This is a placeholder entry in order to be able to test internal links.
 
       </div>
     </content>
-    <id>https://trav.ing/lazyblorg/how-to-use-this-blog-from-feed-with-content</id>
+    <id>https://trav.ing/blorg/how-to-use-this-blog-from-feed-with-content</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Placeholder: About</title>
-    <link href='http://trav.ing/lazyblorg/about' />
+    <link href='http://trav.ing/blorg/about' />
     <published>2014-03-09T14:57:00-05:00</published>
     <updated>2014-03-09T14:57:00-05:00</updated>
-    <category scheme='http://trav.ing/lazyblorg/tags/lazyblorg' term='lazyblorg' />
+    <category scheme='http://trav.ing/blorg/tags/lazyblorg' term='lazyblorg' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
@@ -96,5 +96,5 @@ This is a placeholder entry in order to be able to test internal links.
 
       </div>
     </content>
-    <id>https://trav.ing/lazyblorg/about-from-feed-with-content</id>
+    <id>https://trav.ing/blorg/about-from-feed-with-content</id>
 </entry></feed>
