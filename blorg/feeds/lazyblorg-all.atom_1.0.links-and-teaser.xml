@@ -2,36 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom"
       xmlns:thr="http://purl.org/syndication/thread/1.0"
       xml:lang="en-us">
-  <link rel="self" href="http://trav.ing/blorg/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml" />
-  <title type="text">trog</title>
-  <id>https://trav.ing/blorg/</id>
-  <link href="http://trav.ing/blorg" />
+  <link rel="self" href="http://Karl-Voit.at/feeds/lazyblorg-all.atom_1.0.links-and-teaser.xml" />
+  <title type="text">public voit</title>
+  <id>https://karl-voit.at/</id>
+  <link href="http://Karl-Voit.at" />
   <icon>/favicon.ico</icon>
-  <updated>2025-01-30T19:23:43-05:00</updated>
+  <updated>2025-02-02T17:21:13+01:00</updated>
   <author>
-    <name>Travis</name>
+    <name>Karl Voit</name>
   </author>
-  <subtitle type="text">trog</subtitle>
-  <rights>All content written by Travis</rights>
+  <subtitle type="text">public voit</subtitle>
+  <rights>All content written by Karl Voit</rights>
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Test post</title>
-    <link href='http://trav.ing/blorg/2025\01\30\test-post-please-ignore' />
-    <published>2025-01-30T17:31:00-05:00</published>
-    <updated>2025-01-30T17:31:00-05:00</updated>
-    <category scheme='http://trav.ing/blorg/tags/test' term='test' />
+    <link href='http://Karl-Voit.at/2025\01\30\test-post-please-ignore' />
+    <published>2025-01-30T17:31:00+01:00</published>
+    <updated>2025-01-30T17:31:00+01:00</updated>
+    <category scheme='http://Karl-Voit.at/tags/test' term='test' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'></div>
     </summary>
-    <id>https://trav.ing/blorg/2025\01\30\test-post-please-ignore-from-feed-with-teaser</id>
+    <id>https://karl-voit.at/2025\01\30\test-post-please-ignore-from-feed-with-teaser</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Placeholder: How to Use This Blog Efficiently</title>
-    <link href='http://trav.ing/blorg/how-to-use-this-blog' />
-    <published>2017-01-03T12:07:00-05:00</published>
-    <updated>2017-01-03T12:07:00-05:00</updated>
+    <link href='http://Karl-Voit.at/how-to-use-this-blog' />
+    <published>2017-01-03T12:07:00+01:00</published>
+    <updated>2017-01-03T12:07:00+01:00</updated>
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
@@ -41,15 +41,15 @@ This is a placeholder entry in order to be able to test internal links.
 </p>
 </div>
     </summary>
-    <id>https://trav.ing/blorg/how-to-use-this-blog-from-feed-with-teaser</id>
+    <id>https://karl-voit.at/how-to-use-this-blog-from-feed-with-teaser</id>
 </entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Placeholder: About</title>
-    <link href='http://trav.ing/blorg/about' />
-    <published>2014-03-09T14:57:00-05:00</published>
-    <updated>2014-03-09T14:57:00-05:00</updated>
-    <category scheme='http://trav.ing/blorg/tags/lazyblorg' term='lazyblorg' />
+    <link href='http://Karl-Voit.at/about' />
+    <published>2014-03-09T14:57:00+01:00</published>
+    <updated>2014-03-09T14:57:00+01:00</updated>
+    <category scheme='http://Karl-Voit.at/tags/lazyblorg' term='lazyblorg' />
     <summary type='xhtml'>
 <div xmlns='http://www.w3.org/1999/xhtml'>
 <p>
@@ -59,5 +59,5 @@ This is a placeholder entry in order to be able to test internal links.
 </p>
 </div>
     </summary>
-    <id>https://trav.ing/blorg/about-from-feed-with-teaser</id>
+    <id>https://karl-voit.at/about-from-feed-with-teaser</id>
 </entry></feed>
