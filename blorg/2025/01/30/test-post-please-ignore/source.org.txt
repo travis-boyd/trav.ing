@@ -7,7 +7,9 @@
 :CREATED:  [2025-01-30 Thu 17:25]
 :END:
 *** This is a test post
+
 #+begin_center
+
 ACHTUNG!
 			--------
 Das machine is nicht fur gerfingerpoken und mittengrabben.\\
@@ -16,6 +18,7 @@ Das machine is nicht fur gerfingerpoken und mittengrabben.\\
 Ist nicht fur gewerken by das Dummkopfen.  Das rubbernecken\\
 	 sightseeren keepen hands in das Pockets.\\
 	  Relaxen und watch das blinkenlights...
+
 #+end_center
 
 #+BEGIN_CENTER
@@ -28,3 +31,4 @@ It is not a tool for block-heads.\\
 Rubber-neckin' sight-seers: keep yer hands in yer pockets.\\
 Relax and watch the blinking lights...\\
 #+END_CENTER
+
