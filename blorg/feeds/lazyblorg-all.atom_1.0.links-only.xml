@@ -7,13 +7,24 @@
   <id>https://trav.ing/blorg/</id>
   <link href="http://trav.ing/blorg" />
   <icon>/favicon.ico</icon>
-  <updated>2025-02-03T21:16:43-05:00</updated>
+  <updated>2025-02-03T21:19:57-05:00</updated>
   <author>
     <name>Travis</name>
   </author>
   <subtitle type="text">trog</subtitle>
   <rights>All content written by Travis</rights>
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
+<!-- ############################################################################################# -->
+<entry>
+    <title type="text">2025 early February Weekend</title>
+    <link href='http://trav.ing/blorg/2025\02\03\free-stuff-report' />
+    <published>2025-02-03T21:15:00-05:00</published>
+    <updated>2025-02-03T21:15:00-05:00</updated>
+    <category scheme='http://trav.ing/blorg/tags/free_stuff' term='free_stuff' />
+    <category scheme='http://trav.ing/blorg/tags/books' term='books' />
+    <category scheme='http://trav.ing/blorg/tags/free_little_library' term='free_little_library' />
+    <id>https://trav.ing/blorg/2025\02\03\free-stuff-report-from-feed-with-links</id>
+</entry>
 <!-- ############################################################################################# -->
 <entry>
     <title type="text">Test post</title>
