@@ -18,9 +18,9 @@ While out on a run a few days ago, I saw a "FREE" sign and went to check it out.
 - Typewriter stand
 
   #+begin_src html
-  <img src="http://trav.ing/blorg/images/cabinets.bmp"/>
-  <img src="http://trav.ing/blorg/images/bitterblood.bmp"/>
-  <img src="http://trav.ing/blorg/images/dahl.bmp"/>
-  <img src="http://trav.ing/blorg/images/handtrucks.bmp"/>
+  <img src="http://trav.ing/blorg/images/cabinets.webp" style="width:500px;"/>
+  <img src="http://trav.ing/blorg/images/bitterblood.webp" style="width:500px;"/>
+  <img src="http://trav.ing/blorg/images/dahl.webp" style="width:500px;"/>
+  <img src="http://trav.ing/blorg/images/handtrucks.webp" style="width:500px;"/>
   #+end_src
 
