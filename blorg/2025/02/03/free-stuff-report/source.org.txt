@@ -6,7 +6,7 @@
 :ID: 2025-02-03-free-stuff-report
 :CREATED:  [2025-02-03 Mon 17:36]
 :END:
-****
+**** February Free Sign
 While out on a run a few days ago, I saw a "FREE" sign and went to check it out. There was a man slowly putting out stuff from his father's house. I grabbed as many totebags as I could run with, and came back later with my car.
 - A bunch of nice tote bags from Riverrun, etc
 - Riverrun rubber tube posters
@@ -17,10 +17,10 @@ While out on a run a few days ago, I saw a "FREE" sign and went to check it out.
 - Old wooden utility cabinet
 - Typewriter stand
 
-  #+begin_src html
+
   <img src="http://trav.ing/blorg/images/cabinets.webp" style="width:500px;"/>
   <img src="http://trav.ing/blorg/images/bitterblood.webp" style="width:500px;"/>
   <img src="http://trav.ing/blorg/images/dahl.webp" style="width:500px;"/>
   <img src="http://trav.ing/blorg/images/handtrucks.webp" style="width:500px;"/>
-  #+end_src
+
 
