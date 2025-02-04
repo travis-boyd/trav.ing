@@ -7,7 +7,7 @@
   <id>https://trav.ing/blorg/</id>
   <link href="http://trav.ing/blorg" />
   <icon>/favicon.ico</icon>
-  <updated>2025-02-03T21:25:27-05:00</updated>
+  <updated>2025-02-03T21:27:09-05:00</updated>
   <author>
     <name>Travis</name>
   </author>
@@ -16,7 +16,7 @@
   <generator uri='https://github.com/novoid/lazyblorg'>Generated from Org-mode source code using lazyblorg which is written in Python. Industrial-strength technology, baby.</generator>
 <!-- ############################################################################################# -->
 <entry>
-    <title type="text">2025 early February Weekend</title>
+    <title type="text">Free Stuff report</title>
     <link href='http://trav.ing/blorg/2025\02\03\free-stuff-report' />
     <published>2025-02-03T21:15:00-05:00</published>
     <updated>2025-02-03T21:15:00-05:00</updated>
@@ -96,16 +96,24 @@ with newspaper clippings with articles about the case and the book</li>
 	
 	  <header><h2 class="section-title">This is a test post</h2></header>
 
+<p>ACHTUNG!</p>
+<hr />
+<p>Das machine is nicht fur gerfingerpoken und mittengrabben.<br />
+Ist easy schnappen der Sprinngwerk, blowenfusen und<br />
+poppencorken mit spitzensparken.<br />
+Ist nicht fur gewerken by das Dummkopfen. Das rubbernecken<br />
+sightseeren keepen hands in das Pockets.<br />
+Relaxen und watch das blinkenlights…</p>
 
-<blockquote>ACHTUNG!
-			--------
-Das machine is nicht fur gerfingerpoken und mittengrabben.
-   Ist easy schnappen der Sprinngwerk, blowenfusen und
-	     poppencorken mit spitzensparken.
-Ist nicht fur gewerken by das Dummkopfen.  Das rubbernecken
-	 sightseeren keepen hands in das Pockets.
-	  Relaxen und watch das blinkenlights...
-</blockquote>
+<p>Careful!</p>
+<hr />
+This here machine isn't meant for no finger-pokin' or
+hand-grabbin'.<br />
+It's mighty easy to snap the innards and blow a fuse,<br />
+complete with sparks a-spittin' and corks a-poppin'.<br />
+It is not a tool for block-heads.<br />
+Rubber-neckin' sight-seers: keep yer hands in yer pockets.<br />
+Relax and watch the blinking lights…<br />
 
       </div>
     </content>

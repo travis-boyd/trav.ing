@@ -1,4 +1,4 @@
-*** DONE 2025 early February Weekend :blog:free_stuff:books:free_little_library:
+*** DONE Free Stuff report      :blog:free_stuff:books:free_little_library:
 :LOGBOOK:
 - State "DONE"       from ""           [2025-02-03 Mon 21:15]
 :END:

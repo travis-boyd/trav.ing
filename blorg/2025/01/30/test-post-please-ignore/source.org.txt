@@ -7,14 +7,24 @@
 :CREATED:  [2025-01-30 Thu 17:25]
 :END:
 *** This is a test post
-#+begin_quote
+#+begin_center
 ACHTUNG!
 			--------
-Das machine is nicht fur gerfingerpoken und mittengrabben.
-   Ist easy schnappen der Sprinngwerk, blowenfusen und
-	     poppencorken mit spitzensparken.
-Ist nicht fur gewerken by das Dummkopfen.  Das rubbernecken
-	 sightseeren keepen hands in das Pockets.
+Das machine is nicht fur gerfingerpoken und mittengrabben.\\
+   Ist easy schnappen der Sprinngwerk, blowenfusen und\\
+	     poppencorken mit spitzensparken.\\
+Ist nicht fur gewerken by das Dummkopfen.  Das rubbernecken\\
+	 sightseeren keepen hands in das Pockets.\\
 	  Relaxen und watch das blinkenlights...
+#+end_center
 
-#+end_quote
+#+BEGIN_CENTER
+Careful!
+			--------
+This here machine isn't meant for no finger-pokin' or hand-grabbin'.\\
+It's mighty easy to snap the innards and blow a fuse,\\
+complete with sparks a-spittin' and corks a-poppin'.\\
+It is not a tool for block-heads.\\
+Rubber-neckin' sight-seers: keep yer hands in yer pockets.\\
+Relax and watch the blinking lights...\\
+#+END_CENTER
