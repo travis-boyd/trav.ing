@@ -1,6 +1,6 @@
 export default {
 	title: "travising",
-	url: "trav.ing/",
+	url: "https://trav.ing/",
 	language: "en",
 	description: "This is my personal website.",
 	author: {
