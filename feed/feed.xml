@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+  <title>Blog Title</title>
+  <subtitle>This is a longer description about your blog.</subtitle>
+  <link href="https://example.com/11ty-blog/feed/feed.xml" rel="self" />
+  <link href="https://example.com/11ty-blog/" />
+  <updated>2025-08-08T20:48:00Z</updated>
+  <id>https://example.com/11ty-blog/</id>
+  <author>
+    <name>Your Name</name>
+  </author>
+  <entry>
+    <title>August 8, 2025 at 4:48:00 PM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lvw4u2iaac2y/" />
+    <updated>2025-08-08T20:48:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lvw4u2iaac2y/</id>
+    <content type="html">&lt;p&gt;neighbor&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>July 21, 2025 at 4:32:00 PM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3luitjzouys2x/" />
+    <updated>2025-07-21T20:32:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3luitjzouys2x/</id>
+    <content type="html">&lt;p&gt;busy woman. qu&#39;est-ce que c&#39;est&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>July 21, 2025 at 10:22:00 AM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lui6uvn75k2b/" />
+    <updated>2025-07-21T14:22:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lui6uvn75k2b/</id>
+    <content type="html">&lt;p&gt;(explaining hamburger prices to an American) imagine the price of eggs,&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>June 29, 2025 at 6:03:00 AM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lsqg5cgi7c2c/" />
+    <updated>2025-06-29T10:03:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lsqg5cgi7c2c/</id>
+    <content type="html">&lt;p&gt;starting a NG+ run of The Wire&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>June 24, 2025 at 11:06:00 AM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lseepqv2ak25/" />
+    <updated>2025-06-24T15:06:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lseepqv2ak25/</id>
+    <content type="html">&lt;p&gt;Dark, Unholy, Nuclear, Piedmont&lt;/p&gt;
+&lt;p&gt;[contains quote post or other embedded content]&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>June 11, 2025 at 5:21:00 PM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lrednkh4u22n/" />
+    <updated>2025-06-11T21:21:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lrednkh4u22n/</id>
+    <content type="html">&lt;p&gt;&amp;quot;A Little Life&amp;quot; sounds like an indie game about a young witch trying to solve the disappearance of her neighbor&#39;s cat in a small village in the Alps. But it&#39;s not&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>June 9, 2025 at 2:37:00 PM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lr6zk55j4227/" />
+    <updated>2025-06-09T18:37:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lr6zk55j4227/</id>
+    <content type="html">&lt;p&gt;I’m caught up on podcast but need  something to listen to… let’s check in on NYT The Daily. oh. ok&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>May 24, 2025 at 11:15:00 AM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lpwgrurpos22/" />
+    <updated>2025-05-24T15:15:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lpwgrurpos22/</id>
+    <content type="html">&lt;p&gt;(gonnna keep on dancing at the)
+Pink Pony Club, your back on each other /
+Pink Pony Club, break a promise to your mother&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>May 14, 2025 at 11:03:00 AM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lp5bhp4nfc2n/" />
+    <updated>2025-05-14T15:03:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lp5bhp4nfc2n/</id>
+    <content type="html">&lt;p&gt;@thefuzzymaskedman.bsky.social @worstpossible.world incredible music choice in the interstitial -- instantly recognize Goldfinger&#39;s Superman (from Tony Hawk&#39;s Pro Skater, of course)&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>May 14, 2025 at 9:00:00 AM EDT</title>
+    <link href="https://example.com/11ty-blog/blog/trav.ing/3lp52khru6k2i/" />
+    <updated>2025-05-14T13:00:00Z</updated>
+    <id>https://example.com/11ty-blog/blog/trav.ing/3lp52khru6k2i/</id>
+    <content type="html">&lt;p&gt;in 1791 George Washington stopped in Charlotte, North Carolina and all he had to say about it in his diary was &amp;quot;Charlotte is a very trifling place.&amp;quot;&lt;/p&gt;
+</content>
+  </entry>
+</feed>
