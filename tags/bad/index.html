@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>some stuff that sucks</title>
-		<meta name="description" content="some stuff that I&#39;ve read lately. some if it sucks.">
+		<title>Tagged &#39; bad&#39;</title>
+		<meta name="description" content="This is my personal website.">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="travising">
 		
 		
@@ -307,173 +307,57 @@ header {
 .post-metadata time {
 	margin-right: 1em;
 }
-/**
- * okaidia theme for JavaScript, CSS and HTML
- * Loosely based on Monokai textmate theme by http://www.monokai.nl/
- * @author ocodia
- */
 
-code[class*="language-"],
-pre[class*="language-"] {
-	color: #f8f8f2;
-	background: none;
-	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
-	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
-	font-size: 1em;
-	text-align: left;
-	white-space: pre;
-	word-spacing: normal;
-	word-break: normal;
-	word-wrap: normal;
-	line-height: 1.5;
 
-	-moz-tab-size: 4;
-	-o-tab-size: 4;
-	tab-size: 4;
+/* Non-Template CSS by user */
 
-	-webkit-hyphens: none;
-	-moz-hyphens: none;
-	-ms-hyphens: none;
-	hyphens: none;
+/* Conversational styles */
+.left {
+  align-self: flex-start;
+}
+.right {
+  align-self: flex-end;
+}
+/* Generic Dialogue */
+.dialogue {
+  display: flex;
+  flex-direction: column;
+  font-style: italic;
+}
+.dialogue .right {
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+  margin: .5em 0;
+}
+.dialogue .left {
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+  margin: .5em 0;
 }
 
-/* Code blocks */
-pre[class*="language-"] {
-	padding: 1em;
-	margin: .5em 0;
-	overflow: auto;
-	border-radius: 0.3em;
+/* iMessage Chat Bubbles */
+.ichat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  font-family: sans-serif;
 }
 
-:not(pre) > code[class*="language-"],
-pre[class*="language-"] {
-	background: #272822;
+.bubble {
+  max-width: 75%;
+  padding: 0.6rem 1rem;
+  border-radius: 1rem;
+  line-height: 1.4;
 }
 
-/* Inline code */
-:not(pre) > code[class*="language-"] {
-	padding: .1em;
-	border-radius: .3em;
-	white-space: normal;
+.ichat .left {
+  background: #f0f0f0;
 }
 
-.token.comment,
-.token.prolog,
-.token.doctype,
-.token.cdata {
-	color: #8292a2;
-}
-
-.token.punctuation {
-	color: #f8f8f2;
-}
-
-.token.namespace {
-	opacity: .7;
-}
-
-.token.property,
-.token.tag,
-.token.constant,
-.token.symbol,
-.token.deleted {
-	color: #f92672;
-}
-
-.token.boolean,
-.token.number {
-	color: #ae81ff;
-}
-
-.token.selector,
-.token.attr-name,
-.token.string,
-.token.char,
-.token.builtin,
-.token.inserted {
-	color: #a6e22e;
-}
-
-.token.operator,
-.token.entity,
-.token.url,
-.language-css .token.string,
-.style .token.string,
-.token.variable {
-	color: #f8f8f2;
-}
-
-.token.atrule,
-.token.attr-value,
-.token.function,
-.token.class-name {
-	color: #e6db74;
-}
-
-.token.keyword {
-	color: #66d9ef;
-}
-
-.token.regex,
-.token.important {
-	color: #fd971f;
-}
-
-.token.important,
-.token.bold {
-	font-weight: bold;
-}
-.token.italic {
-	font-style: italic;
-}
-
-.token.entity {
-	cursor: help;
-}
-/*
- * New diff- syntax
- */
-
-pre[class*="language-diff-"] {
-	--eleventy-code-padding: 1.25em;
-	padding-left: var(--eleventy-code-padding);
-	padding-right: var(--eleventy-code-padding);
-}
-.token.deleted {
-	background-color: hsl(0, 51%, 37%);
-	color: inherit;
-}
-.token.inserted {
-	background-color: hsl(126, 31%, 39%);
-	color: inherit;
-}
-
-/* Make the + and - characters unselectable for copy/paste */
-.token.prefix.unchanged,
-.token.prefix.inserted,
-.token.prefix.deleted {
-	-webkit-user-select: none;
-	user-select: none;
-	display: inline-flex;
-	align-items: center;
-	justify-content: center;
-	padding-top: 2px;
-	padding-bottom: 2px;
-}
-.token.prefix.inserted,
-.token.prefix.deleted {
-	width: var(--eleventy-code-padding);
-	background-color: rgba(0,0,0,.2);
-}
-
-/* Optional: full-width background color */
-.token.inserted:not(.prefix),
-.token.deleted:not(.prefix) {
-	display: block;
-	margin-left: calc(-1 * var(--eleventy-code-padding));
-	margin-right: calc(-1 * var(--eleventy-code-padding));
-	text-decoration: none; /* override del, ins, mark defaults */
-	color: inherit; /* override del, ins, mark defaults */
+.ichat .right {
+  background: #007aff;
+  color: white;
 }</style>
 		
 	</head>
@@ -495,55 +379,27 @@ pre[class*="language-diff-"] {
 
 		<main id="main">
 			<heading-anchors>
-				
+				<!-- Delete this block, which will also remove the component CSS from the bundle -->
+<!-- Stop deleting -->
+
+<h1 id="tagged-bad">Tagged “ bad”</h1>
 
 
-<h1 id="some-stuff-that-sucks">some stuff that sucks</h1>
+<ol reversed="" class="postlist" style="--postlist-index: 2">
+	<li class="postlist-item">
+		<a href="/blog/bestworst/01/" class="postlist-link">some of the worst things I&#39;ve read recently</a>
+		<time class="postlist-date" datetime="2025-10-15">October 2025</time>
+	</li>
+</ol>
 
-<ul class="post-metadata">
-	<li><time datetime="2025-10-15">15 October 2025</time></li>
-	<li><a href="/tags/best/" class="post-tag">best</a>, </li>
-	<li><a href="/tags/worst/" class="post-tag"> worst</a></li>
-</ul>
 
-<h2 id="some-of-the-worst-things-i-ve-read-recently">some of the worst things I've read recently</h2>
-<h3></h3>
-<blockquote>
-<p><a href="https://defector.com/the-annotated-history-of-a-slur">The Annotated History Of A Slur</a> by Stefan Fatsis (Defector)</p>
-<blockquote>
-<p>Donald Trump this July threatened to withhold funding for a new stadium in D.C.—on the site of the team's old one, built back when George Preston Marshall still fielded an all-white team—if the current rich-dude owners didn't revert to the racist nickname the team sported for almost 90 years.</p>
-<p>&quot;This is Trump's whole movement in rancid miniature: extolling and bringing back the bad times, one reflexive trip on Beelzebub's hamster wheel after another,&quot; Ray Ratto wrote.</p>
-</blockquote>
-</blockquote>
-<h2 id="some-of-the-best-things-i-ve-read-recently">some of the best things I've read recently</h2>
-<blockquote>
-<p>West Side Story, Act I Scene IV</p>
-<p>Tony and Maria's first encounter</p>
-<blockquote>
-<p>TONY: You're not thinking I'm someone else?</p>
-<p>MARIA: I know you are not.</p>
-<p>TONY: Or that we have met before?</p>
-<p>MARIA: I know we have not.</p>
-<p>TONY: I felt, I knew something-never-before was going to happen, had to
-happen. But this is-</p>
-<p>MARIA [interrupting]: My hands are cold. [He takes them in his.] Yours, too. [He moves
-her hand to his face.] So warm. [She moves his hands to her
-face.]</p>
-<p>TONY: Yours, too.</p>
-<p>MARIA: But of course. They are the same.</p>
-<p>TONY: It's so much to believe-you're not joking me?</p>
-<p>MARIA: I have not yet learned how to joke that way. I think now I never
-will.</p>
-</blockquote>
-</blockquote>
+<p>See <a href="/tags/">all tags</a>.</p>
 
-<ul class="links-nextprev"><li class="links-nextprev-prev">← Previous<br> <a href="/blog/trav.ing/3lvw4u2iaac2y/">August 8, 2025 at 4:48:00 PM EDT</a></li>
-</ul>
 
 			</heading-anchors>
 		</main>
 
-		<!-- This page `/blog/bestworst/first_post/` was built on 2025-10-16T11:19:18.475Z -->
+		<!-- This page `/tags/bad/` was built on 2025-10-16T13:15:47.401Z -->
 		<script type="module" src="/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>

@@ -306,6 +306,58 @@ header {
 }
 .post-metadata time {
 	margin-right: 1em;
+}
+
+
+/* Non-Template CSS by user */
+
+/* Conversational styles */
+.left {
+  align-self: flex-start;
+}
+.right {
+  align-self: flex-end;
+}
+/* Generic Dialogue */
+.dialogue {
+  display: flex;
+  flex-direction: column;
+  font-style: italic;
+}
+.dialogue .right {
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+  margin: .5em 0;
+}
+.dialogue .left {
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+  margin: .5em 0;
+}
+
+/* iMessage Chat Bubbles */
+.ichat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  font-family: sans-serif;
+}
+
+.bubble {
+  max-width: 75%;
+  padding: 0.6rem 1rem;
+  border-radius: 1rem;
+  line-height: 1.4;
+}
+
+.ichat .left {
+  background: #f0f0f0;
+}
+
+.ichat .right {
+  background: #007aff;
+  color: white;
 }</style>
 		
 	</head>
@@ -335,13 +387,13 @@ header {
 <ul>
 
 	
-	<li><a href="/tags/worst/" class="post-tag"> worst</a></li>
+	<li><a href="/tags/bad/" class="post-tag"> bad</a></li>
 
 	
 	<li><a href="/tags/another-tag/" class="post-tag">another tag</a></li>
 
 	
-	<li><a href="/tags/best/" class="post-tag">best</a></li>
+	<li><a href="/tags/good/" class="post-tag">good</a></li>
 
 	
 	<li><a href="/tags/number-2/" class="post-tag">number 2</a></li>
@@ -358,7 +410,7 @@ header {
 			</heading-anchors>
 		</main>
 
-		<!-- This page `/tags/` was built on 2025-10-16T11:19:18.474Z -->
+		<!-- This page `/tags/` was built on 2025-10-16T13:15:47.298Z -->
 		<script type="module" src="/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>

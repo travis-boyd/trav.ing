@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Tagged &#39;best&#39;</title>
+		<title>Tagged &#39;good&#39;</title>
 		<meta name="description" content="This is my personal website.">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="travising">
 		
@@ -306,6 +306,58 @@ header {
 }
 .post-metadata time {
 	margin-right: 1em;
+}
+
+
+/* Non-Template CSS by user */
+
+/* Conversational styles */
+.left {
+  align-self: flex-start;
+}
+.right {
+  align-self: flex-end;
+}
+/* Generic Dialogue */
+.dialogue {
+  display: flex;
+  flex-direction: column;
+  font-style: italic;
+}
+.dialogue .right {
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+  margin: .5em 0;
+}
+.dialogue .left {
+  border-left: 3px solid #ccc;
+  padding-left: 1em;
+  margin: .5em 0;
+}
+
+/* iMessage Chat Bubbles */
+.ichat {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin: 1rem 0;
+  font-family: sans-serif;
+}
+
+.bubble {
+  max-width: 75%;
+  padding: 0.6rem 1rem;
+  border-radius: 1rem;
+  line-height: 1.4;
+}
+
+.ichat .left {
+  background: #f0f0f0;
+}
+
+.ichat .right {
+  background: #007aff;
+  color: white;
 }</style>
 		
 	</head>
@@ -330,12 +382,12 @@ header {
 				<!-- Delete this block, which will also remove the component CSS from the bundle -->
 <!-- Stop deleting -->
 
-<h1 id="tagged-best">Tagged “best”</h1>
+<h1 id="tagged-good">Tagged “good”</h1>
 
 
 <ol reversed="" class="postlist" style="--postlist-index: 2">
 	<li class="postlist-item">
-		<a href="/blog/bestworst/first_post/" class="postlist-link">some stuff that sucks</a>
+		<a href="/blog/bestworst/01/" class="postlist-link">some of the worst things I&#39;ve read recently</a>
 		<time class="postlist-date" datetime="2025-10-15">October 2025</time>
 	</li>
 </ol>
@@ -347,7 +399,7 @@ header {
 			</heading-anchors>
 		</main>
 
-		<!-- This page `/tags/best/` was built on 2025-10-16T11:19:18.573Z -->
+		<!-- This page `/tags/good/` was built on 2025-10-16T13:15:47.398Z -->
 		<script type="module" src="/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>
