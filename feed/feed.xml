@@ -11,12 +11,11 @@
     <name>Your Name</name>
   </author>
   <entry>
-    <title>some of the worst things I&#39;ve read</title>
+    <title>some of the worst things I&#39;ve read this week</title>
     <link href="https://example.com/blog/bestworst/01/" />
     <updated>2025-10-15T00:00:00Z</updated>
     <id>https://example.com/blog/bestworst/01/</id>
     <content type="html">&lt;h2 id=&quot;some-stuff-that-sucks&quot;&gt;some stuff that sucks&lt;/h2&gt;
-&lt;h3 id=&quot;testing&quot;&gt;testing&lt;/h3&gt;
 &lt;p&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;div class=&quot;quote&quot;&gt;
 [Owner] George Preston Marshall renamed the team in 1933. He chose [&amp;quot;The Washington Redskins&amp;quot;] in order to keep the team&#39;s red-and-white logo, a profile of a Native American in a headdress. Marshall was an avowed segregationist who went on to football infamy: He was the last NFL owner to sign African American players, in 1962, and then only after President John F. Kennedy threatened to evict the team from its brand-new home, District of Columbia Stadium (later renamed for the slain Robert F. Kennedy), which sat on federal land.
@@ -32,6 +31,7 @@ Donald Trump this July threatened to withhold funding for a new stadium in D.C.â
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+&lt;h2 id=&quot;some-stuff-that-doesnt&quot;&gt;some stuff that doesn&#39;t&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;div class=&quot;quote&quot;&gt;
 &lt;div class=&quot;ichat&quot;&gt;&lt;p&gt;&lt;/p&gt;
@@ -58,7 +58,6 @@ Donald Trump this July threatened to withhold funding for a new stadium in D.C.â
 &lt;/div&gt;
 &lt;/div&gt;
 &lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
-&lt;h3 id=&quot;test-done&quot;&gt;test done&lt;/h3&gt;
 </content>
   </entry>
   <entry>
