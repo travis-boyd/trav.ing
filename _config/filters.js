@@ -1,4 +1,5 @@
 import { DateTime } from "luxon";
+import markdownIt from "markdown-it";
 
 export default function(eleventyConfig) {
 	eleventyConfig.addFilter("readableDate", (dateObj, format, zone) => {
@@ -40,4 +41,13 @@ export default function(eleventyConfig) {
 	eleventyConfig.addFilter("sortAlphabetically", strings =>
 		(strings || []).sort((b, a) => b.localeCompare(a))
 	);
+
+
+	// Use markdown-it to render frontmatter content
+	const md = markdownIt({ html: true, linkify: true });
+	// Add a filter to render inline Markdown (good for short text, links, bold, etc.)
+	eleventyConfig.addFilter("markdown", content => {
+		if (!content) return "";
+		return md.renderInline(content);
+	});
 };
