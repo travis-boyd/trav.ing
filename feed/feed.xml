@@ -5,11 +5,48 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2025-08-08T20:48:00Z</updated>
+  <updated>2025-10-15T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>some stuff that sucks</title>
+    <link href="https://example.com/blog/bestworst/first_post/" />
+    <updated>2025-10-15T00:00:00Z</updated>
+    <id>https://example.com/blog/bestworst/first_post/</id>
+    <content type="html">&lt;h2 id=&quot;some-of-the-worst-things-i-ve-read-recently&quot;&gt;some of the worst things I&#39;ve read recently&lt;/h2&gt;
+&lt;h3&gt;&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https://defector.com/the-annotated-history-of-a-slur&quot;&gt;The Annotated History Of A Slur&lt;/a&gt; by Stefan Fatsis (Defector)&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Donald Trump this July threatened to withhold funding for a new stadium in D.C.—on the site of the team&#39;s old one, built back when George Preston Marshall still fielded an all-white team—if the current rich-dude owners didn&#39;t revert to the racist nickname the team sported for almost 90 years.&lt;/p&gt;
+&lt;p&gt;&amp;quot;This is Trump&#39;s whole movement in rancid miniature: extolling and bringing back the bad times, one reflexive trip on Beelzebub&#39;s hamster wheel after another,&amp;quot; Ray Ratto wrote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&quot;some-of-the-best-things-i-ve-read-recently&quot;&gt;some of the best things I&#39;ve read recently&lt;/h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;West Side Story, Act I Scene IV&lt;/p&gt;
+&lt;p&gt;Tony and Maria&#39;s first encounter&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;TONY: You&#39;re not thinking I&#39;m someone else?&lt;/p&gt;
+&lt;p&gt;MARIA: I know you are not.&lt;/p&gt;
+&lt;p&gt;TONY: Or that we have met before?&lt;/p&gt;
+&lt;p&gt;MARIA: I know we have not.&lt;/p&gt;
+&lt;p&gt;TONY: I felt, I knew something-never-before was going to happen, had to
+happen. But this is-&lt;/p&gt;
+&lt;p&gt;MARIA [interrupting]: My hands are cold. [He takes them in his.] Yours, too. [He moves
+her hand to his face.] So warm. [She moves his hands to her
+face.]&lt;/p&gt;
+&lt;p&gt;TONY: Yours, too.&lt;/p&gt;
+&lt;p&gt;MARIA: But of course. They are the same.&lt;/p&gt;
+&lt;p&gt;TONY: It&#39;s so much to believe-you&#39;re not joking me?&lt;/p&gt;
+&lt;p&gt;MARIA: I have not yet learned how to joke that way. I think now I never
+will.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;/blockquote&gt;
+</content>
+  </entry>
   <entry>
     <title>August 8, 2025 at 4:48:00 PM EDT</title>
     <link href="https://example.com/blog/trav.ing/3lvw4u2iaac2y/" />
@@ -83,14 +120,6 @@ Pink Pony Club, break a promise to your mother&lt;/p&gt;
     <updated>2025-05-14T15:03:00Z</updated>
     <id>https://example.com/blog/trav.ing/3lp5bhp4nfc2n/</id>
     <content type="html">&lt;p&gt;@thefuzzymaskedman.bsky.social @worstpossible.world incredible music choice in the interstitial -- instantly recognize Goldfinger&#39;s Superman (from Tony Hawk&#39;s Pro Skater, of course)&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>May 14, 2025 at 9:00:00 AM EDT</title>
-    <link href="https://example.com/blog/trav.ing/3lp52khru6k2i/" />
-    <updated>2025-05-14T13:00:00Z</updated>
-    <id>https://example.com/blog/trav.ing/3lp52khru6k2i/</id>
-    <content type="html">&lt;p&gt;in 1791 George Washington stopped in Charlotte, North Carolina and all he had to say about it in his diary was &amp;quot;Charlotte is a very trifling place.&amp;quot;&lt;/p&gt;
 </content>
   </entry>
 </feed>
