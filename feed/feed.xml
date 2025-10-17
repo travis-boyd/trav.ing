@@ -5,7 +5,7 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2025-10-15T00:00:00Z</updated>
+  <updated>2025-10-13T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
@@ -13,28 +13,43 @@
   <entry>
     <title>some of the worst things I&#39;ve read this week</title>
     <link href="https://example.com/blog/bestworst/01/" />
-    <updated>2025-10-15T00:00:00Z</updated>
+    <updated>2025-10-13T00:00:00Z</updated>
     <id>https://example.com/blog/bestworst/01/</id>
     <content type="html">&lt;h2 id=&quot;some-stuff-that-sucks&quot;&gt;some stuff that sucks&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;div class=&quot;quote&quot;&gt;
-[Owner] George Preston Marshall renamed the team in 1933. He chose [&amp;quot;The Washington Redskins&amp;quot;] in order to keep the team&#39;s red-and-white logo, a profile of a Native American in a headdress. Marshall was an avowed segregationist who went on to football infamy: He was the last NFL owner to sign African American players, in 1962, and then only after President John F. Kennedy threatened to evict the team from its brand-new home, District of Columbia Stadium (later renamed for the slain Robert F. Kennedy), which sat on federal land.
+&lt;section class=&quot;goodbadbubble&quot;&gt;The rate of productivity growth has been in sharp decline since 2003, and today sits where it stood before the widespread adoption of the personal computer.&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;
+            &lt;div class=&quot;quote attribution&quot;&gt;
+                &lt;small&gt;
+                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://www.techpolicy.press/generative-ais-productivity-myth/&quot;&gt;Generative AI&#39;s Productivity Myth&lt;/a&gt; (Tech Policy Press) by Eryk Salvaggio
+&lt;/span&gt;
+                    &lt;span class=&quot;date&quot;&gt;added on 2025-10-17 &lt;/span&gt;
+                &lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;div class=&quot;quote&quot;&gt;
+&lt;section class=&quot;goodbadbubble&quot;&gt;[Owner] George Preston Marshall renamed the team in 1933. He chose [&amp;quot;The Washington Redskins&amp;quot;] in order to keep the team&#39;s red-and-white logo, a profile of a Native American in a headdress. Marshall was an avowed segregationist who went on to football infamy: He was the last NFL owner to sign African American players, in 1962, and then only after President John F. Kennedy threatened to evict the team from its brand-new home, District of Columbia Stadium (later renamed for the slain Robert F. Kennedy), which sat on federal land.
 &lt;br&gt;&lt;br&gt;[...]&lt;br&gt;&lt;br&gt;
 Donald Trump this July threatened to withhold funding for a new stadium in D.C.—on the site of the team&#39;s old one, built back when George Preston Marshall still fielded an all-white team—if the current rich-dude owners didn&#39;t revert to the racist nickname the team sported for almost 90 years.&lt;br&gt;&lt;p&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&amp;quot;This is Trump&#39;s whole movement in rancid miniature: extolling and bringing back the bad times, one reflexive trip on Beelzebub&#39;s hamster wheel after another&lt;/strong&gt;,&amp;quot; Ray Ratto wrote.&lt;/p&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;quote attribution&quot;&gt;
-&lt;small&gt;
-&lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://defector.com/the-annotated-history-of-a-slur&quot;&gt;The Annotated History Of A Slur&lt;/a&gt; (Defector) by Stefan Fatsis
+&lt;/section&gt;
+            &lt;div class=&quot;quote attribution&quot;&gt;
+                &lt;small&gt;
+                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://defector.com/the-annotated-history-of-a-slur&quot;&gt;The Annotated History Of A Slur&lt;/a&gt; (Defector) by Stefan Fatsis
 &lt;/span&gt;
-&lt;span class=&quot;date&quot;&gt;added on 2025-10-16 &lt;/span&gt;
-&lt;/small&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+                    &lt;span class=&quot;date&quot;&gt;added on 2025-10-16 &lt;/span&gt;
+                &lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/ul&gt;
 &lt;h2 id=&quot;some-stuff-that-doesnt&quot;&gt;some stuff that doesn&#39;t&lt;/h2&gt;
 &lt;p&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;div class=&quot;quote&quot;&gt;
-&lt;div class=&quot;ichat&quot;&gt;&lt;p&gt;&lt;/p&gt;
+&lt;section class=&quot;goodbadbubble&quot;&gt;&lt;h4 id=&quot;tony-and-marias-first-encounter-in-west-side-story&quot;&gt;Tony and Maria&#39;s first encounter in West Side Story&lt;/h4&gt;&lt;p&gt;&lt;/p&gt;
+&lt;div class=&quot;ichat&quot;&gt;
 &lt;div class=&quot;bubble left&quot;&gt; &lt;strong&gt;Tony&lt;/strong&gt;: You&#39;re not thinking I&#39;m someone else? &lt;/div&gt;
 &lt;div class=&quot;bubble right&quot;&gt; &lt;strong&gt;Maria&lt;/strong&gt;: I know you are not. &lt;/div&gt;
 &lt;div class=&quot;bubble left&quot;&gt; &lt;strong&gt;Tony&lt;/strong&gt;: Or that we&#39;ve met before? &lt;/div&gt;
@@ -49,15 +64,16 @@ Donald Trump this July threatened to withhold funding for a new stadium in D.C.�
 &lt;div class=&quot;bubble left&quot;&gt; &lt;strong&gt;Tony&lt;/strong&gt;: You&#39;re not joking me? &lt;/div&gt;
 &lt;div class=&quot;bubble right&quot;&gt; &lt;strong&gt;Maria&lt;/strong&gt;: I have not yet learned how to joke that way. I think now I never will. &lt;/div&gt;
 &lt;/div&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div class=&quot;quote attribution&quot;&gt;
-&lt;small&gt;
-&lt;span class=&quot;context&quot;&gt;— West Side Story, Act I Scene IV &lt;br&gt; Tony and Maria&#39;s first encounter
+&lt;/section&gt;
+            &lt;div class=&quot;quote attribution&quot;&gt;
+                &lt;small&gt;
+                    &lt;span class=&quot;context&quot;&gt;— West Side Story, Act I Scene IV &lt;br&gt; Tony and Maria&#39;s first encounter
 &lt;/span&gt;
-&lt;span class=&quot;date&quot;&gt;added on 2025-10-16 &lt;/span&gt;
-&lt;/small&gt;
-&lt;/div&gt;
-&lt;/div&gt;
-&lt;/ul&gt;&lt;p&gt;&lt;/p&gt;
+                    &lt;span class=&quot;date&quot;&gt;added on 2025-10-16 &lt;/span&gt;
+                &lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/ul&gt;
 </content>
   </entry>
   <entry>

@@ -12,17 +12,18 @@
 		<style>/* This is an arbitrary CSS string added to the bundle */
 /* Defaults */
 :root {
-	--font-family: -apple-system, system-ui, sans-serif;
+	--font-family: "Standard", -apple-system, system-ui, sans-serif;
 	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
 /* Theme colors */
+/* borrowing a lot from https://jamesg.blog/ for now */
 :root {
 	--color-gray-20: #e0e0e0;
 	--color-gray-50: #C0C0C0;
 	--color-gray-90: #333;
 
-	--background-color: #f8f8f8;
+	--background-color: light-dark(oklch(0.98 0 0), oklch(0.16 0.11 266.88));
 
 	--text-color: var(--color-gray-90);
 	--text-color-link: #4169e1;
@@ -30,7 +31,75 @@
 	--text-color-link-visited: #17050F;
 
 	--syntax-tab-size: 2;
+
+	--background-color: light-dark(oklch(0.98 0 0), oklch(0.16 0.11 266.88));
+  	--foreground-color: light-dark(black, oklch(0.83 0.0833 266.57));
+ 	--border-color: light-dark(oklch(0.87 0 0), oklch(0.68 0.1704 266.34));
+	--focus-color: light-dark(oklch(0.91 0.1327 94.23), oklch(0.42 0.1882 266.4));
+	--code-color: light-dark(oklch(0.9 0.0011 17.18), oklch(0.25 0.1665 266.52));
+
+	--primary-color: oklch(0.56 0.1882 266.4);
+
+	--small-space: 0.1rem;
+	--medium-space: 0.5rem;
+	--large-space: 1rem;
+
+
+	/* bubble defaults */
+	--bubble-bg: oklch(0.8266 0 0);          /* default bubble bg for light mode */
+	--bubble-bg-alt: #f2f6ff;      /* alternate bubble */
+	--bubble-padding: 1.25rem;
+	--bubble-radius: 12px;
+	--bubble-gap: -2rem;
+	--bubble-border: 1px solid rgba(0,0,0,0.04);
+	--bubble-shadow: 0 6px 18px rgba(6,8,15,0.06);
 }
+
+/* badgoodthing bubbles */
+
+	/* container behavior so bubbles don't run full width on wide screens */
+.post { max-width: 50rem; margin: 0 auto; padding: 2rem; }
+
+.goodbadbubble {
+  background: light-dark(var(--bubble-bg), #1a1a1f);
+  color: inherit;
+  padding: var(--bubble-padding);
+  padding-top: 1.25em;
+  border-radius: var(--bubble-radius);
+  margin: var(--bubble-gap) 0;
+  box-shadow: var(--bubble-shadow);
+  border: var(--bubble-border);
+  line-height: 1.5;
+  overflow: hidden;            /* helps if something floats/overflows */
+}
+
+html {
+	color-scheme: light dark;
+	font-family: "Standard", sans-serif;
+	border-top: var(--medium-space) solid var(--primary-color);
+}
+
+h1, h2, h3, h4, h5, h6, a {
+  	color: light-dark(var(--primary-color), var(--border-color));
+}
+
+h1, h2, h3, h4, h5, h6{
+	border-bottom: var(--small-space) solid var(--primary-color);
+	width: fit-content;
+}
+
+@font-face {
+	font-family: "Standard";
+	src: url("/assets/fonts/standard-book-webfont.woff2");
+	font-display: swap;
+}
+
+
+
+
+
+
+
 
 @media (prefers-color-scheme: dark) {
 	:root {
@@ -370,6 +439,7 @@ header {
   margin: 0;              /* remove default paragraph margin */
   padding-left: 2em;      /* space for hyphen */
   white-space: pre-wrap;  /* respect line breaks in text */
+  margin-top: 0;
 }
 
 .quote .context {
@@ -379,6 +449,11 @@ header {
 
 .quote .date {
   font-style: italic;
+}
+
+
+.goodbadbubble p:last-child {
+  margin-bottom: 0;
 }
 /**
  * okaidia theme for JavaScript, CSS and HTML
@@ -585,7 +660,7 @@ pre[class*="language-diff-"] {
 			</heading-anchors>
 		</main>
 
-		<!-- This page `/blog/trav.ing/3lrednkh4u22n/` was built on 2025-10-16T23:02:29.612Z -->
+		<!-- This page `/blog/trav.ing/3lrednkh4u22n/` was built on 2025-10-17T21:47:14.019Z -->
 		<script type="module" src="/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>
