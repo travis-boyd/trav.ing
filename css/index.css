@@ -443,3 +443,11 @@ header {
 .goodbadbubble p:last-child {
   margin-bottom: 0;
 }
+
+.fll_booktitle {
+  font-weight: bold;
+}
+
+.fll_bookauthor {
+  font-style: italic;
+}
