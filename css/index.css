@@ -451,3 +451,49 @@ header {
 .fll_bookauthor {
   font-style: italic;
 }
+
+
+
+/* photo grid for including images in blog posts */
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.photo-grid img {
+  width: 100%;
+  display: block;
+  border-radius: 0.5rem;
+  cursor: zoom-in;
+}
+
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,0.85);
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+}
+
+.lightbox:target {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 90vw;
+  max-height: 90vh;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.5);
+}
+
+.lightbox a {
+  display: block;
+  width: 100%;
+  height: 100%;
+  text-decoration: none;
+}
