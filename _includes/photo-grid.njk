@@ -1,23 +1,26 @@
+{% set galleryId = image_gallery.id or 'gallery-' + loop.index %}
 {% if image_gallery.caption %}
-  <h3 class="photo-grid-caption">{{ image_gallery.caption }}</h3>
+  <h4 class="photo-grid-caption">{{ image_gallery.caption }}</h4>
 {% endif %}
-
-
-
-
 <div class="photo-grid">
   {% for img in image_gallery.images %}
-    <a href="#{{ img.id }}">
+    {% set fullId = galleryId + '-' + img.id %}
+    <a href="#{{ fullId }}">
       <img src="{{ img.src | url }}" alt="{{ img.alt }}">
     </a>
   {% endfor %}
 </div>
 
-{# lightbox overlays #}
 {% for img in image_gallery.images %}
-  <div class="lightbox" id="{{ img.id }}">
-    <a href="#">
-      <img src="{{ img.src | url }}" alt="{{ img.alt}}">
+  {% set fullId = galleryId + '-' + img.id %}
+  <div class="lightbox" id="{{ fullId }}">
+    <a href="#_">
+      <figure>
+        <img src="{{ img.src | url }}" alt="{{ img.alt }}">
+        {% if img.caption %}
+          <figcaption class="lightbox-caption">{{ img.caption }}</figcaption>
+        {% endif %}
+      </figure>
     </a>
   </div>
 {% endfor %}
