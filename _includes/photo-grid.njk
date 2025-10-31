@@ -1,0 +1,23 @@
+{% if image_gallery.caption %}
+  <h3 class="photo-grid-caption">{{ image_gallery.caption }}</h3>
+{% endif %}
+
+
+
+
+<div class="photo-grid">
+  {% for img in image_gallery.images %}
+    <a href="#{{ img.id }}">
+      <img src="{{ img.src | url }}" alt="{{ img.alt }}">
+    </a>
+  {% endfor %}
+</div>
+
+{# lightbox overlays #}
+{% for img in image_gallery.images %}
+  <div class="lightbox" id="{{ img.id }}">
+    <a href="#">
+      <img src="{{ img.src | url }}" alt="{{ img.alt}}">
+    </a>
+  </div>
+{% endfor %}

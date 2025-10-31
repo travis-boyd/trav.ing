@@ -3,13 +3,15 @@ import { feedPlugin } from "@11ty/eleventy-plugin-rss";
 import pluginSyntaxHighlight from "@11ty/eleventy-plugin-syntaxhighlight";
 import pluginNavigation from "@11ty/eleventy-navigation";
 import { eleventyImageTransformPlugin } from "@11ty/eleventy-img";
-
+import Image from "@11ty/eleventy-img";
 import pluginFilters from "./_config/filters.js";
 
 /** @param {import("@11ty/eleventy").UserConfig} eleventyConfig */
 export default async function(eleventyConfig) {
 	// Custom domain instead of github.io
 	eleventyConfig.addPassthroughCopy("CNAME");
+	// Blog content
+	// eleventyConfig.addPassthroughCopy("content/blog");
 
 	// Drafts, see also _data/eleventyDataSchema.js
 	eleventyConfig.addPreprocessor("drafts", "*", (data, content) => {
@@ -129,6 +131,31 @@ export default async function(eleventyConfig) {
 	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+
+
+	// Travis added
+	eleventyConfig.addNunjucksAsyncShortcode(
+    "image",
+		async function (src, alt, sizes = "100vw") {
+		let metadata = await Image(src, {
+			widths: [400, 800, 1200],
+			formats: ["webp", "jpeg"],
+			outputDir: "./_site/images/",
+			urlPath: "/images/",
+		});
+
+		let imageAttributes = {
+			alt,
+			sizes,
+			loading: "lazy",
+			decoding: "async",
+		};
+
+		return Image.generateHTML(metadata, imageAttributes);
+		}
+  	);
+	
+
 };
 
 export const config = {
