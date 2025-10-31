@@ -462,6 +462,64 @@ header {
 
 .fll_bookauthor {
   font-style: italic;
+}
+
+
+
+/* photo grid for including images in blog posts */
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  cursor: zoom-in;
+}
+
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.lightbox:target {
+  display: flex;
+}
+
+.lightbox figure {
+  max-width: 90vw;
+  max-height: 90vh;
+  margin: 0;
+}
+
+.lightbox img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.6);
+  cursor: zoom-out;
+}
+
+.lightbox figcaption {
+  color: #ddd;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.lightbox-backdrop {
+  position: fixed;
+  inset: 0;
 }</style>
 		
 	</head>
@@ -506,7 +564,7 @@ This is compatible with:
 			</heading-anchors>
 		</main>
 
-		<!-- This page `/404.html` was built on 2025-10-29T22:42:45.363Z -->
+		<!-- This page `/404.html` was built on 2025-10-31T22:06:20.133Z -->
 		<script type="module" src="/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>

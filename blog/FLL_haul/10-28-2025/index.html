@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>Free Little Library Haul</title>
+		<title>Free Little Library Haul (10-28-25)</title>
 		<meta name="description" content="Here&#39;s some stuff I got out of Free Little Libraries lately">
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="travising">
 		
@@ -463,6 +463,64 @@ header {
 .fll_bookauthor {
   font-style: italic;
 }
+
+
+
+/* photo grid for including images in blog posts */
+
+.photo-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.photo-grid img {
+  width: 100%;
+  height: auto;
+  border-radius: 0.5rem;
+  cursor: zoom-in;
+}
+
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.85);
+  align-items: center;
+  justify-content: center;
+  z-index: 1000;
+}
+
+.lightbox:target {
+  display: flex;
+}
+
+.lightbox figure {
+  max-width: 90vw;
+  max-height: 90vh;
+  margin: 0;
+}
+
+.lightbox img {
+  max-width: 100%;
+  max-height: 100%;
+  border-radius: 0.5rem;
+  box-shadow: 0 0 20px rgba(0,0,0,0.6);
+  cursor: zoom-out;
+}
+
+.lightbox figcaption {
+  color: #ddd;
+  font-size: 0.9rem;
+  text-align: center;
+  margin-top: 0.5rem;
+}
+
+.lightbox-backdrop {
+  position: fixed;
+  inset: 0;
+}
 /**
  * okaidia theme for JavaScript, CSS and HTML
  * Loosely based on Monokai textmate theme by http://www.monokai.nl/
@@ -654,7 +712,7 @@ pre[class*="language-diff-"] {
 				
 
 
-<h1 id="free-little-library-haul">Free Little Library Haul</h1>
+<h1 id="free-little-library-haul-10-28-25">Free Little Library Haul (10-28-25)</h1>
 
 <ul class="post-metadata">
 	<li><time datetime="2025-10-28">28 October 2025</time></li>
@@ -676,13 +734,13 @@ pre[class*="language-diff-"] {
 </ul>
 <picture><source type="image/avif" srcset="/blog/FLL_haul/10-28-2025/CQvLMKO5mE-1536.avif 1536w"><source type="image/webp" srcset="/blog/FLL_haul/10-28-2025/CQvLMKO5mE-1536.webp 1536w"><img loading="lazy" decoding="async" src="/blog/FLL_haul/10-28-2025/CQvLMKO5mE-1536.jpeg" alt="Three books: Eric Carles The Very Busy Spider by Eric Carle, Exploring North Carolinas Natural Areas edited by Dirk Frankenberg, and Please Kill Me: The Uncensored History of Punk by Legs McNeil and Gillian McCain" width="1536" height="2048"></picture>
 
-<ul class="links-nextprev"><li class="links-nextprev-prev">← Previous<br> <a href="/blog/worst_sentences/">some of the worst things I&#39;ve ever read (lately)</a></li>
+<ul class="links-nextprev"><li class="links-nextprev-prev">← Previous<br> <a href="/blog/worst_sentences/">some of the worst things I&#39;ve ever read (lately)</a></li><li class="links-nextprev-next">Next →<br><a href="/blog/weekly_post/1/week_1/">weekly update</a></li>
 </ul>
 
 			</heading-anchors>
 		</main>
 
-		<!-- This page `/blog/FLL_haul/10-28-2025/` was built on 2025-10-29T22:42:45.361Z -->
+		<!-- This page `/blog/FLL_haul/10-28-2025/` was built on 2025-10-31T22:06:20.130Z -->
 		<script type="module" src="/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>

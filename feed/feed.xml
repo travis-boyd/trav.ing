@@ -5,13 +5,95 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2025-10-28T00:00:00Z</updated>
+  <updated>2025-10-31T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
   <entry>
-    <title>Free Little Library Haul</title>
+    <title>Free Little Library Haul (10-31-25)</title>
+    <link href="https://example.com/blog/FLL_haul/10-31-2025/" />
+    <updated>2025-10-31T00:00:00Z</updated>
+    <id>https://example.com/blog/FLL_haul/10-31-2025/</id>
+    <content type="html">&lt;p&gt;When I go for a run, I check the libraries. Here&#39;s what I&#39;ve found recently.&lt;/p&gt;
+&lt;ul&gt;
+&lt;p&gt;&lt;li&gt; &lt;span class=&quot;fll_booktitle&quot;&gt; The Stranger
+&lt;/span&gt; by &lt;span class=&quot;fll_bookauthor&quot;&gt;Albert Camus
+&lt;/span&gt; &lt;/li&gt;&lt;/p&gt;
+&lt;p&gt;&lt;li&gt; &lt;span class=&quot;fll_booktitle&quot;&gt; Killers of the Flower Moon: The Osage Murders and the Birth of the FBI
+&lt;/span&gt; by &lt;span class=&quot;fll_bookauthor&quot;&gt;David Grann
+&lt;/span&gt; &lt;/li&gt;&lt;/p&gt;
+&lt;p&gt;&lt;li&gt; &lt;span class=&quot;fll_booktitle&quot;&gt; Magic Eye: A New Way of Looking at the World
+&lt;/span&gt; by &lt;span class=&quot;fll_bookauthor&quot;&gt;N.E Thing Enterprises
+&lt;/span&gt; &lt;/li&gt;&lt;/p&gt;
+&lt;/ul&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/FLL_haul/10-31-2025/EvSt8sa6_w-1200.avif 1200w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/FLL_haul/10-31-2025/EvSt8sa6_w-1200.webp 1200w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/FLL_haul/10-31-2025/EvSt8sa6_w-1200.jpeg&quot; alt=&quot;Three books&quot; width=&quot;1200&quot; height=&quot;1600&quot;&gt;&lt;/picture&gt;
+</content>
+  </entry>
+  <entry>
+    <title>weekly update</title>
+    <link href="https://example.com/blog/weekly_post/1/week_1/" />
+    <updated>2025-10-30T00:00:00Z</updated>
+    <id>https://example.com/blog/weekly_post/1/week_1/</id>
+    <content type="html">&lt;h2 id=&quot;some-stuff-i-did&quot;&gt;some stuff I did&lt;/h2&gt;
+&lt;h3 id=&quot;wunderkammer-2025&quot;&gt;Wunderkammer 2025&lt;/h3&gt;
+&lt;p&gt;Last week, Isabelle and I drove to Brooklyn so that Isabelle could present two of their pieces at Wunderkammer, described both as (when it was initially pitched to me) an &quot;art show&quot; and (by the time we arrived at the venue) a &quot;taxidermy competition.&quot; For a three day trip that included two full days of driving, it was a great way to spend twenty four vacation hours.  
+&lt;/p&gt;&lt;p&gt;Wunderkammer -- in its fifth year -- was being filmed for a feature documentary. Isabelle and their work were professionally photographed for the documentary, and also for a magazine feature in a new taxidermy arts magazine. I don&#39;t know when we&#39;re going to see those pictures, but they will be very cool whenever we do. The venue was dark and the A/V setup inadequate and everybody seemed to agree afterwards that we wanted, needed a better look at just about every piece that was presented.  
+&lt;/p&gt;&lt;p&gt;Isabelle&#39;s *My Beautiful Sons*, cast-iron dead-baby chickens in handmade bird nests of found materials -- robbed in its category and, as always, underappreciated by all. Their *Self Portrait*, a found and tattered taxidermy fox repaired unnaturally with sheets of plasma cut metals, won First Runner Up for Best in Show (2nd best piece in the entire show!). So proud of them.  
+&lt;/p&gt;&lt;p&gt;I wish I could post better pictures of the event and, particularly, Isabelle&#39;s work.&lt;/p&gt;
+  &lt;h4 class=&quot;photo-grid-caption&quot; id=&quot;wunderkammer-photos&quot;&gt;Wunderkammer Photos&lt;/h4&gt;
+&lt;div class=&quot;photo-grid&quot;&gt;
+&lt;p&gt;&lt;a href=&quot;https://example.com/blog/weekly_post/1/week_1/#wunderkammer-img1&quot;&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/--BPFtC9N8-3000.avif 3000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/--BPFtC9N8-3000.webp 3000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/--BPFtC9N8-3000.jpeg&quot; alt=&quot;img1 description&quot; width=&quot;3000&quot; height=&quot;2001&quot;&gt;&lt;/picture&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://example.com/blog/weekly_post/1/week_1/#wunderkammer-img2&quot;&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/QgyPvwD5Nv-4212.avif 4212w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/QgyPvwD5Nv-4212.webp 4212w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/QgyPvwD5Nv-4212.jpeg&quot; alt=&quot;img2 description&quot; width=&quot;4212&quot; height=&quot;3159&quot;&gt;&lt;/picture&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://example.com/blog/weekly_post/1/week_1/#wunderkammer-img3&quot;&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/rxyYpGiA6s-2000.avif 2000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/rxyYpGiA6s-2000.webp 2000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/rxyYpGiA6s-2000.jpeg&quot; alt=&quot;img3 description&quot; width=&quot;2000&quot; height=&quot;3000&quot;&gt;&lt;/picture&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://example.com/blog/weekly_post/1/week_1/#wunderkammer-img4&quot;&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/Emu6lP33El-3000.avif 3000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/Emu6lP33El-3000.webp 3000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/Emu6lP33El-3000.jpeg&quot; alt=&quot;img4 description&quot; width=&quot;3000&quot; height=&quot;2000&quot;&gt;&lt;/picture&gt;
+&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;
+  &lt;div class=&quot;lightbox&quot; id=&quot;wunderkammer-img1&quot;&gt;
+    &lt;a href=&quot;https://example.com/blog/weekly_post/1/week_1/#_&quot;&gt;
+      &lt;figure&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/--BPFtC9N8-3000.avif 3000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/--BPFtC9N8-3000.webp 3000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/--BPFtC9N8-3000.jpeg&quot; alt=&quot;img1 description&quot; width=&quot;3000&quot; height=&quot;2001&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;/p&gt;&lt;figcaption class=&quot;lightbox-caption&quot;&gt;Isabelle&#39;s &lt;em&gt;Self-Portrait&lt;/em&gt;, first runner-up for Best in Show&lt;/figcaption&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;lightbox&quot; id=&quot;wunderkammer-img2&quot;&gt;
+    &lt;a href=&quot;https://example.com/blog/weekly_post/1/week_1/#_&quot;&gt;
+      &lt;figure&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/QgyPvwD5Nv-4212.avif 4212w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/QgyPvwD5Nv-4212.webp 4212w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/QgyPvwD5Nv-4212.jpeg&quot; alt=&quot;img2 description&quot; width=&quot;4212&quot; height=&quot;3159&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;/p&gt;&lt;figcaption class=&quot;lightbox-caption&quot;&gt;The Best in Show winner, &lt;em&gt;Guardian Angel&lt;/em&gt;&lt;/figcaption&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;lightbox&quot; id=&quot;wunderkammer-img3&quot;&gt;
+    &lt;a href=&quot;https://example.com/blog/weekly_post/1/week_1/#_&quot;&gt;
+      &lt;figure&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/rxyYpGiA6s-2000.avif 2000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/rxyYpGiA6s-2000.webp 2000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/rxyYpGiA6s-2000.jpeg&quot; alt=&quot;img3 description&quot; width=&quot;2000&quot; height=&quot;3000&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;/p&gt;&lt;figcaption class=&quot;lightbox-caption&quot;&gt;the Frank Frock&lt;/figcaption&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;lightbox&quot; id=&quot;wunderkammer-img4&quot;&gt;
+    &lt;a href=&quot;https://example.com/blog/weekly_post/1/week_1/#_&quot;&gt;
+      &lt;figure&gt;
+        &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/img/Emu6lP33El-3000.avif 3000w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/img/Emu6lP33El-3000.webp 3000w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/img/Emu6lP33El-3000.jpeg&quot; alt=&quot;img4 description&quot; width=&quot;3000&quot; height=&quot;2000&quot;&gt;&lt;/picture&gt;
+&lt;p&gt;&lt;/p&gt;&lt;figcaption class=&quot;lightbox-caption&quot;&gt;I don&#39;t know what this is. It&#39;s cool though.&lt;/figcaption&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;&lt;/p&gt;&lt;/figure&gt;
+&lt;/a&gt;&lt;p&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;h3 id=&quot;made-the-above-photo-grid&quot;&gt;made the above photo grid&lt;/h3&gt;
+&lt;p&gt;I spent way too long today fiddling with this css-only grid. I&#39;m calling it done, first draft, publish&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Free Little Library Haul (10-28-25)</title>
     <link href="https://example.com/blog/FLL_haul/10-28-2025/" />
     <updated>2025-10-28T00:00:00Z</updated>
     <id>https://example.com/blog/FLL_haul/10-28-2025/</id>
@@ -189,22 +271,6 @@ Donald Trump this July threatened to withhold funding for a new stadium in D.C.�
     <id>https://example.com/blog/trav.ing/3lseepqv2ak25/</id>
     <content type="html">&lt;p&gt;Dark, Unholy, Nuclear, Piedmont&lt;/p&gt;
 &lt;p&gt;[contains quote post or other embedded content]&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>June 11, 2025 at 5:21:00 PM EDT</title>
-    <link href="https://example.com/blog/trav.ing/3lrednkh4u22n/" />
-    <updated>2025-06-11T21:21:00Z</updated>
-    <id>https://example.com/blog/trav.ing/3lrednkh4u22n/</id>
-    <content type="html">&lt;p&gt;&amp;quot;A Little Life&amp;quot; sounds like an indie game about a young witch trying to solve the disappearance of her neighbor&#39;s cat in a small village in the Alps. But it&#39;s not&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>June 9, 2025 at 2:37:00 PM EDT</title>
-    <link href="https://example.com/blog/trav.ing/3lr6zk55j4227/" />
-    <updated>2025-06-09T18:37:00Z</updated>
-    <id>https://example.com/blog/trav.ing/3lr6zk55j4227/</id>
-    <content type="html">&lt;p&gt;I’m caught up on podcast but need  something to listen to… let’s check in on NYT The Daily. oh. ok&lt;/p&gt;
 </content>
   </entry>
 </feed>
