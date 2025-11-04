@@ -5,11 +5,84 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2025-10-31T00:00:00Z</updated>
+  <updated>2025-11-04T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Some of the Worst Things I&#39;ve Ever Read (lately)</title>
+    <link href="https://example.com/blog/worst_sentences/" />
+    <updated>2025-11-04T00:00:00Z</updated>
+    <id>https://example.com/blog/worst_sentences/</id>
+    <content type="html">&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;div class=&quot;quote&quot;&gt;
+&lt;section class=&quot;goodbadbubble&quot;&gt;We had another strong quarter -- with 3.5 billion people using at least one of our apps every day.&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;
+            &lt;div class=&quot;quote attribution&quot;&gt;
+                &lt;small&gt;
+                    &lt;span class=&quot;context&quot;&gt;— Mark Zuckerberg (&lt;a href=&quot;https://s21.q4cdn.com/399680738/files/doc_financials/2025/q3/META-Q3-2025-Earnings-Call-Transcript.pdf&quot;&gt;Meta Platforms, Inc. Third Quarter 2025 Results Conference Call&lt;/a&gt;)
+&lt;/span&gt;
+                    &lt;span class=&quot;date&quot;&gt;- 10-29-25 (added 11-02) &lt;/span&gt;
+                &lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;div class=&quot;quote&quot;&gt;
+&lt;section class=&quot;goodbadbubble&quot;&gt;Most of the spending was on guns and armor, but there have also been significant purchases of chemical weapons and “guided missile warheads and explosive components.&amp;quot;&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;
+            &lt;div class=&quot;quote attribution&quot;&gt;
+                &lt;small&gt;
+                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://popular.info/p/ice-boosts-weapons-spending-700&quot;&gt;Ice Boosts Weapons Spending 700%&lt;/a&gt; (Popular Information) by Judd Legum
+&lt;/span&gt;
+                    &lt;span class=&quot;date&quot;&gt;- 10-20-25 (added 10-20) &lt;/span&gt;
+                &lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;div class=&quot;quote&quot;&gt;
+&lt;section class=&quot;goodbadbubble&quot;&gt;The rate of productivity growth has been in sharp decline since 2003, and today sits where it stood before the widespread adoption of the personal computer.&lt;p&gt;&lt;/p&gt;
+&lt;/section&gt;
+            &lt;div class=&quot;quote attribution&quot;&gt;
+                &lt;small&gt;
+                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://www.techpolicy.press/generative-ais-productivity-myth/&quot;&gt;Generative AI&#39;s Productivity Myth&lt;/a&gt; (Tech Policy Press) by Eryk Salvaggio
+&lt;/span&gt;
+                    &lt;span class=&quot;date&quot;&gt;- 10-13-25 (added 10-17) &lt;/span&gt;
+                &lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;div class=&quot;quote&quot;&gt;
+&lt;section class=&quot;goodbadbubble&quot;&gt;&lt;p&gt;George Preston Marshall renamed the team [&amp;quot;The Redskins&amp;quot;] in 1933. He chose the replacement in order to keep the team&#39;s red-and-white logo, a profile of a Native American in a headdress. Marshall was an avowed segregationist who went on to football infamy: He was the last NFL owner to sign African American players, in 1962, and then only after President John F. Kennedy threatened to evict the team from its brand-new home, District of Columbia Stadium (later renamed for the slain Robert F. Kennedy), which sat on federal land. [...]&lt;/p&gt;&lt;p&gt;&lt;/p&gt;
+&lt;p&gt;Donald Trump this July threatened to withhold funding for a new stadium in D.C.—on the site of the team&#39;s old one, built back when George Preston Marshall still fielded an all-white team—if the current rich-dude owners didn&#39;t revert to the racist nickname the team sported for almost 90 years.&lt;/p&gt;
+&lt;/section&gt;
+            &lt;div class=&quot;quote attribution&quot;&gt;
+                &lt;small&gt;
+                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://defector.com/the-annotated-history-of-a-slur&quot;&gt;The Annotated History Of A Slur&lt;/a&gt; (Defector) by Stefan Fatsis
+&lt;/span&gt;
+                    &lt;span class=&quot;date&quot;&gt;- 10-13-25 (added 10-16) &lt;/span&gt;
+                &lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/ul&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Big Ficus</title>
+    <link href="https://example.com/blog/misc/ficus/" />
+    <updated>2025-11-02T00:00:00Z</updated>
+    <id>https://example.com/blog/misc/ficus/</id>
+    <content type="html">&lt;h3 id=&quot;check-this-thing-out&quot;&gt;check this thing out&lt;/h3&gt;
+&lt;p&gt;I bought this little ficus from Lowe&#39;s in 2021 and it has since grown to be about three feet taller than the ceiling.&lt;/p&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/misc/ficus/Oe0UK20xRT-765.avif 765w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/misc/ficus/Oe0UK20xRT-765.webp 765w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/misc/ficus/Oe0UK20xRT-765.jpeg&quot; alt=&quot;March 2021, one Louise tall&quot; width=&quot;765&quot; height=&quot;1200&quot;&gt;&lt;/picture&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/misc/ficus/NLC7CUszQ8-759.avif 759w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/misc/ficus/NLC7CUszQ8-759.webp 759w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/misc/ficus/NLC7CUszQ8-759.jpeg&quot; alt=&quot;October 2022, four Louise tall&quot; width=&quot;759&quot; height=&quot;1200&quot;&gt;&lt;/picture&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/misc/ficus/g4l2X77IqP-761.avif 761w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/misc/ficus/g4l2X77IqP-761.webp 761w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/misc/ficus/g4l2X77IqP-761.jpeg&quot; alt=&quot;June 2024, five and nine-tenths Louise tall&quot; width=&quot;761&quot; height=&quot;1200&quot;&gt;&lt;/picture&gt;
+&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/misc/ficus/_gN35VhfFe-1279.avif 1279w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/misc/ficus/_gN35VhfFe-1279.webp 1279w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/misc/ficus/_gN35VhfFe-1279.jpeg&quot; alt=&quot;September 2025, seven Louise tall&quot; width=&quot;1279&quot; height=&quot;2048&quot;&gt;&lt;/picture&gt;
+</content>
+  </entry>
   <entry>
     <title>Free Little Library Haul (10-31-25)</title>
     <link href="https://example.com/blog/FLL_haul/10-31-2025/" />
@@ -31,7 +104,7 @@
 </content>
   </entry>
   <entry>
-    <title>weekly update</title>
+    <title>Weekly Update (October 2025)</title>
     <link href="https://example.com/blog/weekly_post/1/week_1/" />
     <updated>2025-10-30T00:00:00Z</updated>
     <id>https://example.com/blog/weekly_post/1/week_1/</id>
@@ -110,60 +183,6 @@
 &lt;/span&gt; &lt;/li&gt;&lt;/p&gt;
 &lt;/ul&gt;
 &lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/FLL_haul/10-28-2025/CQvLMKO5mE-1536.avif 1536w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/FLL_haul/10-28-2025/CQvLMKO5mE-1536.webp 1536w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/FLL_haul/10-28-2025/CQvLMKO5mE-1536.jpeg&quot; alt=&quot;Three books: Eric Carles The Very Busy Spider by Eric Carle, Exploring North Carolinas Natural Areas edited by Dirk Frankenberg, and Please Kill Me: The Uncensored History of Punk by Legs McNeil and Gillian McCain&quot; width=&quot;1536&quot; height=&quot;2048&quot;&gt;&lt;/picture&gt;
-</content>
-  </entry>
-  <entry>
-    <title>some of the worst things I&#39;ve ever read (lately)</title>
-    <link href="https://example.com/blog/worst_sentences/" />
-    <updated>2025-10-13T00:00:00Z</updated>
-    <id>https://example.com/blog/worst_sentences/</id>
-    <content type="html">&lt;h2 id=&quot;some-stuff-that-sucks&quot;&gt;some stuff that sucks&lt;/h2&gt;
-&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;div class=&quot;quote&quot;&gt;
-&lt;section class=&quot;goodbadbubble&quot;&gt;Most of the spending was on guns and armor, but there have also been significant purchases of chemical weapons and “guided missile warheads and explosive components.&amp;quot;&lt;p&gt;&lt;/p&gt;
-&lt;/section&gt;
-            &lt;div class=&quot;quote attribution&quot;&gt;
-                &lt;small&gt;
-                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://popular.info/p/ice-boosts-weapons-spending-700&quot;&gt;Ice Boosts Weapons Spending 700%&lt;/a&gt; (Popular Information) by Judd Legum
-&lt;/span&gt;
-                    &lt;span class=&quot;date&quot;&gt;- 2025-10-20 &lt;/span&gt;
-                    &lt;span class=&quot;date&quot;&gt;added 10-20 &lt;/span&gt;
-                &lt;/small&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;div class=&quot;quote&quot;&gt;
-&lt;section class=&quot;goodbadbubble&quot;&gt;The rate of productivity growth has been in sharp decline since 2003, and today sits where it stood before the widespread adoption of the personal computer.&lt;p&gt;&lt;/p&gt;
-&lt;/section&gt;
-            &lt;div class=&quot;quote attribution&quot;&gt;
-                &lt;small&gt;
-                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://www.techpolicy.press/generative-ais-productivity-myth/&quot;&gt;Generative AI&#39;s Productivity Myth&lt;/a&gt; (Tech Policy Press) by Eryk Salvaggio
-&lt;/span&gt;
-                    &lt;span class=&quot;date&quot;&gt;- &lt;/span&gt;
-                    &lt;span class=&quot;date&quot;&gt;added 10-17 &lt;/span&gt;
-                &lt;/small&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/ul&gt;
-&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
-&lt;div class=&quot;quote&quot;&gt;
-&lt;section class=&quot;goodbadbubble&quot;&gt;[Owner] George Preston Marshall renamed the team in 1933. He chose [&amp;quot;The Washington Redskins&amp;quot;] in order to keep the team&#39;s red-and-white logo, a profile of a Native American in a headdress. Marshall was an avowed segregationist who went on to football infamy: He was the last NFL owner to sign African American players, in 1962, and then only after President John F. Kennedy threatened to evict the team from its brand-new home, District of Columbia Stadium (later renamed for the slain Robert F. Kennedy), which sat on federal land.
-&lt;br&gt;&lt;br&gt;[...]&lt;br&gt;&lt;br&gt;
-Donald Trump this July threatened to withhold funding for a new stadium in D.C.—on the site of the team&#39;s old one, built back when George Preston Marshall still fielded an all-white team—if the current rich-dude owners didn&#39;t revert to the racist nickname the team sported for almost 90 years.&lt;br&gt;&lt;p&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;&amp;quot;This is Trump&#39;s whole movement in rancid miniature: extolling and bringing back the bad times, one reflexive trip on Beelzebub&#39;s hamster wheel after another&lt;/strong&gt;,&amp;quot; Ray Ratto wrote.&lt;/p&gt;
-&lt;/section&gt;
-            &lt;div class=&quot;quote attribution&quot;&gt;
-                &lt;small&gt;
-                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://defector.com/the-annotated-history-of-a-slur&quot;&gt;The Annotated History Of A Slur&lt;/a&gt; (Defector) by Stefan Fatsis
-&lt;/span&gt;
-                    &lt;span class=&quot;date&quot;&gt;- &lt;/span&gt;
-                    &lt;span class=&quot;date&quot;&gt;added 10-16 &lt;/span&gt;
-                &lt;/small&gt;
-            &lt;/div&gt;
-        &lt;/div&gt;
-    &lt;/ul&gt;
-&lt;h2 id=&quot;some-stuff-that-doesnt&quot;&gt;some stuff that doesn&#39;t&lt;/h2&gt;
 </content>
   </entry>
   <entry>
@@ -262,15 +281,6 @@ Donald Trump this July threatened to withhold funding for a new stadium in D.C.�
     <updated>2025-06-29T10:03:00Z</updated>
     <id>https://example.com/blog/trav.ing/3lsqg5cgi7c2c/</id>
     <content type="html">&lt;p&gt;starting a NG+ run of The Wire&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>June 24, 2025 at 11:06:00 AM EDT</title>
-    <link href="https://example.com/blog/trav.ing/3lseepqv2ak25/" />
-    <updated>2025-06-24T15:06:00Z</updated>
-    <id>https://example.com/blog/trav.ing/3lseepqv2ak25/</id>
-    <content type="html">&lt;p&gt;Dark, Unholy, Nuclear, Piedmont&lt;/p&gt;
-&lt;p&gt;[contains quote post or other embedded content]&lt;/p&gt;
 </content>
   </entry>
 </feed>
