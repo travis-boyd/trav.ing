@@ -1,5 +1,5 @@
 ---
-title: weekly update
+title: Weekly Update (October 2025)
 description: some stuff that I've seen this week
 date: 2025-10-30
 image_galleries:
