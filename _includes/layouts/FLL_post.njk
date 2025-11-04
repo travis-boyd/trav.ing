@@ -1,0 +1,43 @@
+---
+layout: layouts/base.njk
+---
+{# Only include the syntax highlighter CSS on blog posts, included with the CSS per-page bundle #}
+<style>{% include "node_modules/prismjs/themes/prism-okaidia.css" %}</style>
+<style>{% include "css/prism-diff.css" %}</style>
+<h1>{{ title }} {{ date | dateFormat("MM-dd-yy") }}</h1>
+
+<ul class="post-metadata">
+	<li><time datetime="{{ page.date | htmlDateString }}">{{ page.date | readableDate }}</time></li>
+	{%- for tag in tags | filterTagList %}
+	{%- set tagUrl %}/tags/{{ tag | slugify }}/{% endset %}
+	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
+	{%- endfor %}
+</ul>
+<p></p>
+When I go for a run, I check the libraries. Here's what I've found recently.
+
+<ul>
+    {% for b in free_books %}
+        <li> <span class="fll_booktitle"> {{b.title}}</span> by <span class="fll_bookauthor">{{b.author}}</span> </li>
+    {% endfor %}
+</ul>
+
+{% if image %}
+    <figure class="fll-image">
+        <img src="{{ image }}" alt=" " loading="lazy">
+        <figcaption>"books"</figcaption>
+    </figure>
+{% endif %}
+{{ content | safe }}
+
+
+{%- if collections.FLL %}
+{%- set previousPost = collections.FLL | getPreviousCollectionItem %}
+{%- set nextPost = collections.FLL | getNextCollectionItem %}
+{%- if nextPost or previousPost %}
+<ul class="links-nextprev">
+	{%- if previousPost %}<li class="links-nextprev-prev">← Previous<br> <a href="{{ previousPost.url }}">{{ previousPost.data.title }}</a></li>{% endif %}
+	{%- if nextPost %}<li class="links-nextprev-next">Next →<br><a href="{{ nextPost.url }}">{{ nextPost.data.title }}</a></li>{% endif %}
+</ul>
+{%- endif %}
+{%- endif %}
