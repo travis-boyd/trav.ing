@@ -4,6 +4,12 @@ description: some stuff that I've read. it sucks.
 date: 2025-11-04
 badthings:
   - text: |
+        <p>When Zane confided that his pet cat – Holly – once brought him back from the brink of suicide as a teenager, the chatbot responded that Zane would see her on the other side. <p>“she’ll be sittin right there -— tail curled, eyes half-lidded like she never left.” 
+    context: | 
+        [ChatGPT encouraged college graduate to commit suicide, family claims in lawsuit against OpenAI](https://www.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis) by Rob Kuznia, Allison Gordon, Ed Lavandera (CNN)
+    date_published: 2025-11-06
+    date_added: 2025-11-07
+  - text: |
         We had another strong quarter -- with 3.5 billion people using at least one of our apps every day.
     context: |
         Mark Zuckerberg ([Meta Platforms, Inc. Third Quarter 2025 Results Conference Call](https://s21.q4cdn.com/399680738/files/doc_financials/2025/q3/META-Q3-2025-Earnings-Call-Transcript.pdf))
