@@ -5,11 +5,20 @@
   <subtitle>This is a longer description about your blog.</subtitle>
   <link href="https://example.com/feed/feed.xml" rel="self" />
   <link href="https://example.com/" />
-  <updated>2025-11-04T00:00:00Z</updated>
+  <updated>2025-11-07T00:00:00Z</updated>
   <id>https://example.com/</id>
   <author>
     <name>Your Name</name>
   </author>
+  <entry>
+    <title>Weekly Update (November 2025)</title>
+    <link href="https://example.com/blog/weekly_post/week_2/" />
+    <updated>2025-11-07T00:00:00Z</updated>
+    <id>https://example.com/blog/weekly_post/week_2/</id>
+    <content type="html">&lt;h3 id=&quot;the-simpsons-has-accidentally-captured-something-here-lol&quot;&gt;The Simpsons has accidentally captured something here lol&lt;/h3&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://example.com/blog/weekly_post/week_2/fhlH7aYCH9-1279.avif 1279w&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://example.com/blog/weekly_post/week_2/fhlH7aYCH9-1279.webp 1279w&quot;&gt;&lt;img loading=&quot;lazy&quot; decoding=&quot;async&quot; src=&quot;https://example.com/blog/weekly_post/week_2/fhlH7aYCH9-1279.png&quot; alt=&quot;alt text&quot; width=&quot;1279&quot; height=&quot;719&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+</content>
+  </entry>
   <entry>
     <title>Some of the Worst Things I&#39;ve Ever Read (lately)</title>
     <link href="https://example.com/blog/worst_sentences/" />
@@ -259,14 +268,6 @@ Donald Trump this July threatened to withhold funding for a new stadium in D.C.â
     <updated>2025-07-21T20:32:00Z</updated>
     <id>https://example.com/blog/trav.ing/3luitjzouys2x/</id>
     <content type="html">&lt;p&gt;busy woman. qu&#39;est-ce que c&#39;est&lt;/p&gt;
-</content>
-  </entry>
-  <entry>
-    <title>July 21, 2025 at 10:22:00 AM EDT</title>
-    <link href="https://example.com/blog/trav.ing/3lui6uvn75k2b/" />
-    <updated>2025-07-21T14:22:00Z</updated>
-    <id>https://example.com/blog/trav.ing/3lui6uvn75k2b/</id>
-    <content type="html">&lt;p&gt;(explaining hamburger prices to an American) imagine the price of eggs,&lt;/p&gt;
 </content>
   </entry>
 </feed>
