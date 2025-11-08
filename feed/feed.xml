@@ -17,6 +17,19 @@
     <id>https://example.com/blog/worst_sentences/</id>
     <content type="html">&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
 &lt;div class=&quot;quote&quot;&gt;
+&lt;section class=&quot;goodbadbubble&quot;&gt;&lt;p&gt;When Zane confided that his pet cat – Holly – once brought him back from the brink of suicide as a teenager, the chatbot responded that Zane would see her on the other side. &lt;/p&gt;&lt;p&gt;“she’ll be sittin right there -— tail curled, eyes half-lidded like she never left.”&lt;/p&gt;
+&lt;/section&gt;
+            &lt;div class=&quot;quote attribution&quot;&gt;
+                &lt;small&gt;
+                    &lt;span class=&quot;context&quot;&gt;— &lt;a href=&quot;https://www.cnn.com/2025/11/06/us/openai-chatgpt-suicide-lawsuit-invs-vis&quot;&gt;ChatGPT encouraged college graduate to commit suicide, family claims in lawsuit against OpenAI&lt;/a&gt; by Rob Kuznia, Allison Gordon, Ed Lavandera (CNN)
+&lt;/span&gt;
+                    &lt;span class=&quot;date&quot;&gt;- 11-06-25 (added 11-07) &lt;/span&gt;
+                &lt;/small&gt;
+            &lt;/div&gt;
+        &lt;/div&gt;
+    &lt;/ul&gt;
+&lt;p&gt;&lt;/p&gt;&lt;ul&gt;
+&lt;div class=&quot;quote&quot;&gt;
 &lt;section class=&quot;goodbadbubble&quot;&gt;We had another strong quarter -- with 3.5 billion people using at least one of our apps every day.&lt;p&gt;&lt;/p&gt;
 &lt;/section&gt;
             &lt;div class=&quot;quote attribution&quot;&gt;
