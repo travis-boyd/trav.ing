@@ -7,8 +7,21 @@ const eleventyNavigation = {
 const numberOfLatestPostsToShow = 3;
 ---
 
-Welcome to my stupid little website. My name is Travis. I don't really know what I'm doing. This site is being adapted from <a href="https://www.11ty.dev/">Eleventy's</a> <a href="https://github.com/11ty/eleventy-base-blog">blog template</a>. There isn't a lot of stuff on this website, and the stuff that is here isn't very good, but I think it's neat that a website like this exists at all. You should, too. You should delete your social media accounts and make a stupid little website.
+Welcome to my stupid little website. My name is Travis. I don't really know what I'm doing.
+There isn't a lot of stuff on this site, and the stuff that is here isn't very good, but I think it's neat that a website like this exists at all. You should, too. You should delete your social media accounts and make a stupid little <a href="https://github.com/11ty/eleventy-base-blog">website.</a>
 
+<h3>Here's some stuff to get you started</h3>
+<ul>
+	<li>
+			<a href="worst_sentences.md">The worst thing I've ever read (recently)</a>
+	</li>
+	<li>
+			<a href="tags/fll">Some books that I got for free</a>
+	</li>
+	<li>
+			<a href="blog/misc/ficus/">A plant that I'm particularly proud of</a>
+	</li>
+</ul>
 
 {% set postsCount = collections.posts | length %}
 {% set latestPostsCount = postsCount | min(numberOfLatestPostsToShow) %}
