@@ -1,4 +1,4 @@
 export default {
   layout: "layouts/FLL_post.njk",
-  tags: ["posts"],
+  tags: ["posts", "free-books"],
 };
