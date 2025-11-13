@@ -13,8 +13,19 @@ layout: layouts/base.njk
 	<li><a href="{{ tagUrl }}" class="post-tag">{{ tag }}</a>{%- if not loop.last %}, {% endif %}</li>
 	{%- endfor %}
 </ul>
-<p></p>
-When I go for a run, I check the libraries. Here's what I've found recently.
+
+{# prelude for Free little Library posts #}
+{% if tags.includes('FLL') %}
+  <p></p>
+  When I go for a run, I check the libraries. Here's what I've found recently.
+{% endif %}
+
+
+{# prelude for free bin posts #}
+{% if tags.includes('mckays') %}
+  <p></p>
+  My local used book emporium has big bins of free, unwanted books. It always has some good stuff in it.
+{% endif %}
 
 <ul>
     {% for b in free_books %}
@@ -25,9 +36,18 @@ When I go for a run, I check the libraries. Here's what I've found recently.
 {% if image %}
     <figure class="fll-image">
         <img src="{{ image }}" alt=" " loading="lazy">
-        <figcaption>"books"</figcaption>
+        <figcaption></figcaption>
     </figure>
 {% endif %}
+{% if images %}
+  {% for image in images %}
+    <figure class="fll-image">
+        <img src="{{ image.url }}" alt=" " loading="lazy">
+        <figcaption></figcaption>
+    </figure>
+  {% endfor %}
+{% endif %}
+
 {{ content | safe }}
 
 
